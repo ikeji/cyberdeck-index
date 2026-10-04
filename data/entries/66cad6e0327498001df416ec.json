@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad6e0327498001df416ec",
+  "title": "Steampunk Palmtop Phone Case Iteration: III WIP : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1djxphz/steampunk_palmtop_phone_case_iteration_iii_wip/",
+    "site": "reddit",
+    "label": "Steampunk Palmtop [Phone Case] Iteration: III [WIP] : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad6e5bfd4a5001c6170c7.png",
+      "originRaw": "https://scrapbox.io/files/66cad6e5bfd4a5001c6170c7.png",
+      "id": "sha256:9db3957d751f37f7c26e3ed6a9abe64221e0d8e438cc285b52e91c4293341913",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9d/9db3957d751f37f7c26e3ed6a9abe64221e0d8e438cc285b52e91c4293341913.thumb.webp",
+        "full": "img/9d/9db3957d751f37f7c26e3ed6a9abe64221e0d8e438cc285b52e91c4293341913.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:14.274Z"
+    }
+  ],
+  "tags": [],
+  "related": [
+    "WIP"
+  ],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Steampunk%20Palmtop%20Phone%20Case%20Iteration%3A%20III%20WIP%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T07:01:52.000Z",
+    "updated": "2024-08-25T07:02:01.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/66cad6e5bfd4a5001c6170c7.png"
+  }
+}

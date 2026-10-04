@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e17fa1eae51900253806c4",
+  "title": "he is evolving ! : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/zrt4fr/he_is_evolving/",
+    "site": "reddit",
+    "label": "he is evolving ! : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e17fa35827a80024f16346.png",
+      "originRaw": "https://scrapbox.io/files/65e17fa35827a80024f16346.png",
+      "id": "sha256:f589aad5ab0761659bba8950bf76c949ae81e5de6880069dcfd8b186b206527f",
+      "status": "ok",
+      "width": 720,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f5/f589aad5ab0761659bba8950bf76c949ae81e5de6880069dcfd8b186b206527f.thumb.webp",
+        "full": "img/f5/f589aad5ab0761659bba8950bf76c949ae81e5de6880069dcfd8b186b206527f.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:19.907Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/he%20is%20evolving%20!%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:11:30.000Z",
+    "updated": "2024-03-01T07:11:36.000Z",
+    "views": 2,
+    "thumbnail": "https://scrapbox.io/files/65e17fa35827a80024f16346.png"
+  }
+}

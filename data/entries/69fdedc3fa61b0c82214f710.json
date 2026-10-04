@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "69fdedc3fa61b0c82214f710",
+  "title": "No 3D printer gang, where you at?",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1t3wakx/no_3d_printer_gang_where_you_at/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/252c8f675fb8212dbbd90b7b04e27718",
+      "originRaw": "https://gyazo.com/252c8f675fb8212dbbd90b7b04e27718/raw",
+      "id": "sha256:d8de9e415cf035a57f713e6dd70222b2faa898cb101e977cae574a8bd507510a",
+      "status": "ok",
+      "width": 900,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d8/d8de9e415cf035a57f713e6dd70222b2faa898cb101e977cae574a8bd507510a.thumb.webp",
+        "full": "img/d8/d8de9e415cf035a57f713e6dd70222b2faa898cb101e977cae574a8bd507510a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:33.119Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/No%203D%20printer%20gang%2C%20where%20you%20at%3F",
+    "created": "2026-05-08T14:05:56.000Z",
+    "updated": "2026-05-08T14:06:13.000Z",
+    "views": 2,
+    "thumbnail": "https://gyazo.com/252c8f675fb8212dbbd90b7b04e27718/raw"
+  }
+}

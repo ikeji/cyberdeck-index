@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "6a3536af7d823136423e1a08",
+  "title": "The Vintage Mini Lin",
+  "source": {
+    "url": "https://www.reddit.com/user/fanewang/comments/1tytq22/the_vintage_mini_lin/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/b1861488aeebe15903b575080e4352ea",
+      "originRaw": "https://gyazo.com/b1861488aeebe15903b575080e4352ea/raw",
+      "id": "sha256:18f16fe2378fa8d48687e229158bd90ece5d384d8b57177062f0c4c7e0ca005c",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/18/18f16fe2378fa8d48687e229158bd90ece5d384d8b57177062f0c4c7e0ca005c.thumb.webp",
+        "full": "img/18/18f16fe2378fa8d48687e229158bd90ece5d384d8b57177062f0c4c7e0ca005c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:01.905Z"
+    },
+    {
+      "origin": "https://gyazo.com/8aafa4bf84fb8fd91f62f05c681e93b8",
+      "originRaw": "https://gyazo.com/8aafa4bf84fb8fd91f62f05c681e93b8/raw",
+      "id": "sha256:47570372683cdc01cbdc617af8b560250a1901998ac3df57ffae79fcfd27ac78",
+      "status": "ok",
+      "width": 900,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/47/47570372683cdc01cbdc617af8b560250a1901998ac3df57ffae79fcfd27ac78.thumb.webp",
+        "full": "img/47/47570372683cdc01cbdc617af8b560250a1901998ac3df57ffae79fcfd27ac78.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:04.000Z"
+    },
+    {
+      "origin": "https://gyazo.com/89af6f668ac9577bbfc86887fcb56865",
+      "originRaw": "https://gyazo.com/89af6f668ac9577bbfc86887fcb56865/raw",
+      "id": "sha256:423c13126a69d7f598291b21a933371072919ae44aae93acd524711e4c9373ed",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/42/423c13126a69d7f598291b21a933371072919ae44aae93acd524711e4c9373ed.thumb.webp",
+        "full": "img/42/423c13126a69d7f598291b21a933371072919ae44aae93acd524711e4c9373ed.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:05.593Z"
+    },
+    {
+      "origin": "https://gyazo.com/3390a429cb7a1cd1c40f7b4cc644bb2b",
+      "originRaw": "https://gyazo.com/3390a429cb7a1cd1c40f7b4cc644bb2b/raw",
+      "id": "sha256:4b235a07ea89ea785c224e20d86ff9041d2bf14a54548e90a43cad2d0b53a0af",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4b/4b235a07ea89ea785c224e20d86ff9041d2bf14a54548e90a43cad2d0b53a0af.thumb.webp",
+        "full": "img/4b/4b235a07ea89ea785c224e20d86ff9041d2bf14a54548e90a43cad2d0b53a0af.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:06.801Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/The%20Vintage%20Mini%20Lin",
+    "created": "2026-06-19T12:31:45.000Z",
+    "updated": "2026-06-19T12:32:17.000Z",
+    "views": 11,
+    "thumbnail": "https://gyazo.com/b1861488aeebe15903b575080e4352ea/raw"
+  }
+}

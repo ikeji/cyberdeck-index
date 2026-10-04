@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18778e7ad420025f0aab5",
+  "title": "Modern Retro Computer Terminals",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/owtvxy/the_beautiful_ultrawide_88_lcd_terminal_by_oriol/",
+    "site": "reddit",
+    "label": "The beautiful UltraWide 8.8″ LCD Terminal by Oriol Ferrer Mesià : r/cyberDeck"
+  },
+  "links": [
+    {
+      "url": "https://uri.cat/projects/modern-retro-terminal/",
+      "label": null,
+      "site": "web"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1877bf646ad00253b0714.png",
+      "originRaw": "https://scrapbox.io/files/65e1877bf646ad00253b0714.png",
+      "id": "sha256:1f633e65b825996be327603a5c1d554bdbc395980ca8a88fd71b36262948abd1",
+      "status": "ok",
+      "width": 1080,
+      "height": 719,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1f/1f633e65b825996be327603a5c1d554bdbc395980ca8a88fd71b36262948abd1.thumb.webp",
+        "full": "img/1f/1f633e65b825996be327603a5c1d554bdbc395980ca8a88fd71b36262948abd1.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:39.295Z"
+    }
+  ],
+  "tags": [
+    "IKeJIのおすすめ"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Modern%20Retro%20Computer%20Terminals",
+    "created": "2024-03-01T07:44:57.000Z",
+    "updated": "2026-05-08T14:38:36.000Z",
+    "views": 25,
+    "thumbnail": "https://scrapbox.io/files/65e1877bf646ad00253b0714.png"
+  }
+}

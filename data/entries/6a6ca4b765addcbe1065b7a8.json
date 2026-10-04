@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6ca4b765addcbe1065b7a8",
+  "title": "CG Deck Official Announcement Trailer Video | The Modular x86 Handheld PC",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ulo5lf/cg_deck_official_announcement_trailer_video_the/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [
+    {
+      "url": "https://www.reddit.com/r/cyberDeck/comments/1uhfeil/playing_games_natively_on_steam_with_the_cg_deck/",
+      "label": null,
+      "site": "reddit"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://gyazo.com/b5d22fae3f3be45424a097573070f0a4",
+      "originRaw": "https://gyazo.com/b5d22fae3f3be45424a097573070f0a4/raw",
+      "id": "sha256:775ff52d69f9fd7f2e9b82e83d60e9d4c495fd4a8e6aa8496869adeccdc62170",
+      "status": "ok",
+      "width": 640,
+      "height": 480,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/77/775ff52d69f9fd7f2e9b82e83d60e9d4c495fd4a8e6aa8496869adeccdc62170.thumb.webp",
+        "full": "img/77/775ff52d69f9fd7f2e9b82e83d60e9d4c495fd4a8e6aa8496869adeccdc62170.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:42.032Z"
+    },
+    {
+      "origin": "https://gyazo.com/6f9f86438a7de645594d9e0016e0e24c",
+      "originRaw": "https://gyazo.com/6f9f86438a7de645594d9e0016e0e24c/raw",
+      "id": "sha256:00f330b99efed4f1d0b151caed9a382321e4ac564f282ad166b1b6fcffdc0f30",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/00/00f330b99efed4f1d0b151caed9a382321e4ac564f282ad166b1b6fcffdc0f30.thumb.webp",
+        "full": "img/00/00f330b99efed4f1d0b151caed9a382321e4ac564f282ad166b1b6fcffdc0f30.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:42.751Z"
+    },
+    {
+      "origin": "https://gyazo.com/ab64171a689ca75cd552cc0207ec350e",
+      "originRaw": "https://gyazo.com/ab64171a689ca75cd552cc0207ec350e/raw",
+      "id": "sha256:3aa80df6e45ba81b74c37cdbb6f5fa432ed8c0681871e8a8ff74525a692d847e",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3a/3aa80df6e45ba81b74c37cdbb6f5fa432ed8c0681871e8a8ff74525a692d847e.thumb.webp",
+        "full": "img/3a/3aa80df6e45ba81b74c37cdbb6f5fa432ed8c0681871e8a8ff74525a692d847e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:43.465Z"
+    },
+    {
+      "origin": "https://gyazo.com/7bf626336da74398fb7eb2f521fa35b6",
+      "originRaw": "https://gyazo.com/7bf626336da74398fb7eb2f521fa35b6/raw",
+      "id": "sha256:f9aad2aafc7c877905385bdb378f4219510f74da9216b934daeb37eb95f0b801",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f9/f9aad2aafc7c877905385bdb378f4219510f74da9216b934daeb37eb95f0b801.thumb.webp",
+        "full": "img/f9/f9aad2aafc7c877905385bdb378f4219510f74da9216b934daeb37eb95f0b801.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:44.169Z"
+    },
+    {
+      "origin": "https://gyazo.com/6cc19728247248b3bd11b02cf47908d0",
+      "originRaw": "https://gyazo.com/6cc19728247248b3bd11b02cf47908d0/raw",
+      "id": "sha256:9fa6e0887e26a6da95a351ef3d7271fef21f712bc0e4750a308220d813b7c9a3",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9f/9fa6e0887e26a6da95a351ef3d7271fef21f712bc0e4750a308220d813b7c9a3.thumb.webp",
+        "full": "img/9f/9fa6e0887e26a6da95a351ef3d7271fef21f712bc0e4750a308220d813b7c9a3.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:44.892Z"
+    },
+    {
+      "origin": "https://gyazo.com/76ca140507d75c49c8cb5c73b9c2fbe1",
+      "originRaw": "https://gyazo.com/76ca140507d75c49c8cb5c73b9c2fbe1/raw",
+      "id": "sha256:8a8c3fd1b44de0bdfea9fedb18a1cad69fff53cb33640e40e8a893d7c47dc0fa",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/8a/8a8c3fd1b44de0bdfea9fedb18a1cad69fff53cb33640e40e8a893d7c47dc0fa.thumb.webp",
+        "full": "img/8a/8a8c3fd1b44de0bdfea9fedb18a1cad69fff53cb33640e40e8a893d7c47dc0fa.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:46.719Z"
+    },
+    {
+      "origin": "https://gyazo.com/2cb6029b1f8a59f88009be9ab798bc2b",
+      "originRaw": "https://gyazo.com/2cb6029b1f8a59f88009be9ab798bc2b/raw",
+      "id": "sha256:92bd73a16c24fee092e50038244eab8687f40d8a1dbee45baf3e13303712cfaa",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/92/92bd73a16c24fee092e50038244eab8687f40d8a1dbee45baf3e13303712cfaa.thumb.webp",
+        "full": "img/92/92bd73a16c24fee092e50038244eab8687f40d8a1dbee45baf3e13303712cfaa.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:47.433Z"
+    },
+    {
+      "origin": "https://gyazo.com/7fb9fcff8a64d9d63c2c3f96c65d0fc9",
+      "originRaw": "https://gyazo.com/7fb9fcff8a64d9d63c2c3f96c65d0fc9/raw",
+      "id": "sha256:16f3e267b828cadea5c49afe339de1daa85abeaea99ba222eaee18cac87f644b",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/16/16f3e267b828cadea5c49afe339de1daa85abeaea99ba222eaee18cac87f644b.thumb.webp",
+        "full": "img/16/16f3e267b828cadea5c49afe339de1daa85abeaea99ba222eaee18cac87f644b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:48.988Z"
+    },
+    {
+      "origin": "https://gyazo.com/662fa0402ab99a0c5c4ad600434c734c",
+      "originRaw": "https://gyazo.com/662fa0402ab99a0c5c4ad600434c734c/raw",
+      "id": "sha256:0ad2834e18a51f6e4af05a7680b6e85c0096f11ae99638b9cea2346d0fe322ad",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0a/0ad2834e18a51f6e4af05a7680b6e85c0096f11ae99638b9cea2346d0fe322ad.thumb.webp",
+        "full": "img/0a/0ad2834e18a51f6e4af05a7680b6e85c0096f11ae99638b9cea2346d0fe322ad.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:49.775Z"
+    },
+    {
+      "origin": "https://gyazo.com/5da0f77100e80de49b34239d17035729",
+      "originRaw": "https://gyazo.com/5da0f77100e80de49b34239d17035729/raw",
+      "id": "sha256:e46001cc46a2d92f4fb7694cb23d3ea7c31551be5bc4eefef8fe55ccd520de6e",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e4/e46001cc46a2d92f4fb7694cb23d3ea7c31551be5bc4eefef8fe55ccd520de6e.thumb.webp",
+        "full": "img/e4/e46001cc46a2d92f4fb7694cb23d3ea7c31551be5bc4eefef8fe55ccd520de6e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:50.484Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": "Playing games natively on Steam with the CG Deck. An x86 modular handheld PC running Windows 11 & Linux.",
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/CG%20Deck%20Official%20Announcement%20Trailer%20Video%20%7C%20The%20Modular%20x86%20Handheld%20PC",
+    "created": "2026-07-31T13:35:54.000Z",
+    "updated": "2026-07-31T13:40:33.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/b5d22fae3f3be45424a097573070f0a4/raw"
+  }
+}

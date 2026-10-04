@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6ca085a2ad92ad3f212205",
+  "title": "Showing off a few CyberDecks I made, I call it Attaky.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1v41jrd/showing_off_a_few_cyberdecks_i_made_i_call_it/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/82e3c8db35f69e4499d619b36446a6cc",
+      "originRaw": "https://gyazo.com/82e3c8db35f69e4499d619b36446a6cc/raw",
+      "id": "sha256:bf9b05d62875f0d9ad8918bf9ca5894f1e0466f02d89a5a958c66f4e4f7da835",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/bf/bf9b05d62875f0d9ad8918bf9ca5894f1e0466f02d89a5a958c66f4e4f7da835.thumb.webp",
+        "full": "img/bf/bf9b05d62875f0d9ad8918bf9ca5894f1e0466f02d89a5a958c66f4e4f7da835.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:14.222Z"
+    },
+    {
+      "origin": "https://gyazo.com/c7307372f3f7e281df887b7042c52b66",
+      "originRaw": "https://gyazo.com/c7307372f3f7e281df887b7042c52b66/raw",
+      "id": "sha256:1258d89b8f2fa193363a556495f162304a596b7af11598996c0db3dedf00aca7",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/12/1258d89b8f2fa193363a556495f162304a596b7af11598996c0db3dedf00aca7.thumb.webp",
+        "full": "img/12/1258d89b8f2fa193363a556495f162304a596b7af11598996c0db3dedf00aca7.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:15.686Z"
+    },
+    {
+      "origin": "https://gyazo.com/1d3fa1e465037a0fdb6f9010d66c6d30",
+      "originRaw": "https://gyazo.com/1d3fa1e465037a0fdb6f9010d66c6d30/raw",
+      "id": "sha256:9910e9f41121bcfa223064151bbbf8565e8d0c2002f921f5ffdb16c75149a0e0",
+      "status": "ok",
+      "width": 1080,
+      "height": 698,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/99/9910e9f41121bcfa223064151bbbf8565e8d0c2002f921f5ffdb16c75149a0e0.thumb.webp",
+        "full": "img/99/9910e9f41121bcfa223064151bbbf8565e8d0c2002f921f5ffdb16c75149a0e0.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:17.155Z"
+    },
+    {
+      "origin": "https://gyazo.com/613e7f2fca2d996adae13ae994860c34",
+      "originRaw": "https://gyazo.com/613e7f2fca2d996adae13ae994860c34/raw",
+      "id": "sha256:a936ebd0ada1d27281b5c1258791e76a968745419ee7bc3a821fe85984daba8e",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a9/a936ebd0ada1d27281b5c1258791e76a968745419ee7bc3a821fe85984daba8e.thumb.webp",
+        "full": "img/a9/a936ebd0ada1d27281b5c1258791e76a968745419ee7bc3a821fe85984daba8e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:18.816Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Showing%20off%20a%20few%20CyberDecks%20I%20made%2C%20I%20call%20it%20Attaky.",
+    "created": "2026-07-31T13:18:01.000Z",
+    "updated": "2026-07-31T13:18:23.000Z",
+    "views": 2,
+    "thumbnail": "https://gyazo.com/82e3c8db35f69e4499d619b36446a6cc/raw"
+  }
+}

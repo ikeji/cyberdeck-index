@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "692067f8e1be25db64a40d76",
+  "title": "My attempt to make a cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1opatop/my_attempt_to_make_a_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/d3704e136b162aa7c83f5ff47e0b6f4a",
+      "originRaw": "https://gyazo.com/d3704e136b162aa7c83f5ff47e0b6f4a/raw",
+      "id": "sha256:7ff94b2cb357590b70ab7d50e70d58b573afa6ef9b045e3dc53b7385e944cf43",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7f/7ff94b2cb357590b70ab7d50e70d58b573afa6ef9b045e3dc53b7385e944cf43.thumb.webp",
+        "full": "img/7f/7ff94b2cb357590b70ab7d50e70d58b573afa6ef9b045e3dc53b7385e944cf43.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:32.473Z"
+    },
+    {
+      "origin": "https://gyazo.com/da8c579da04427369a416d6caf6779c0",
+      "originRaw": "https://gyazo.com/da8c579da04427369a416d6caf6779c0/raw",
+      "id": "sha256:eb501737cc488b2e06b8ececaa5c49a8f5ed14c37798a32c8f0dc12ffa6dc025",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/eb/eb501737cc488b2e06b8ececaa5c49a8f5ed14c37798a32c8f0dc12ffa6dc025.thumb.webp",
+        "full": "img/eb/eb501737cc488b2e06b8ececaa5c49a8f5ed14c37798a32c8f0dc12ffa6dc025.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:33.956Z"
+    },
+    {
+      "origin": "https://gyazo.com/c724ae72d2eea3252572429781d1c53c",
+      "originRaw": "https://gyazo.com/c724ae72d2eea3252572429781d1c53c/raw",
+      "id": "sha256:29d5f24c8c7ce4b91195fd76ef73cf9dc14b4fda0c882877913f5260680d3b5c",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/29/29d5f24c8c7ce4b91195fd76ef73cf9dc14b4fda0c882877913f5260680d3b5c.thumb.webp",
+        "full": "img/29/29d5f24c8c7ce4b91195fd76ef73cf9dc14b4fda0c882877913f5260680d3b5c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:35.453Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20attempt%20to%20make%20a%20cyberdeck",
+    "created": "2025-11-21T13:24:13.000Z",
+    "updated": "2025-11-21T13:24:44.000Z",
+    "views": 2,
+    "thumbnail": "https://gyazo.com/d3704e136b162aa7c83f5ff47e0b6f4a/raw"
+  }
+}

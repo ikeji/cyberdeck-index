@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "672e0399bb6a5a7129aee0a2",
+  "title": "I've built a self-contained pair of AR goggles running full web apps. Vid in comments",
+  "source": {
+    "url": "https://www.reddit.com/r/raspberry_pi/comments/1gi9b6r/ive_built_a_selfcontained_pair_of_ar_goggles/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/672e039cb804c5c22c06eb17.png",
+      "originRaw": "https://scrapbox.io/files/672e039cb804c5c22c06eb17.png",
+      "id": "sha256:2089a413d753ee994ea566f597af5bb6ff6fb93b27837a65599ac39c7b819fbf",
+      "status": "ok",
+      "width": 1080,
+      "height": 1079,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/20/2089a413d753ee994ea566f597af5bb6ff6fb93b27837a65599ac39c7b819fbf.thumb.webp",
+        "full": "img/20/2089a413d753ee994ea566f597af5bb6ff6fb93b27837a65599ac39c7b819fbf.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:26.106Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I've%20built%20a%20self-contained%20pair%20of%20AR%20goggles%20running%20full%20web%20apps.%20Vid%20in%20comments",
+    "created": "2024-11-08T12:27:13.000Z",
+    "updated": "2024-11-08T12:27:25.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/672e039cb804c5c22c06eb17.png"
+  }
+}

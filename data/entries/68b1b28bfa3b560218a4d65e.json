@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "68b1b28bfa3b560218a4d65e",
+  "title": "Cyberdeck specialized for journaling",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1mjq9j0/cyberdeck_specialized_for_journaling/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/e81488eb86632f8bb8af759d25c3e50a",
+      "originRaw": "https://gyazo.com/e81488eb86632f8bb8af759d25c3e50a/raw",
+      "id": "sha256:3f9996e9cc6380a444a45b27f86fb274b09bd21a2fb3fabf94284206d0909500",
+      "status": "ok",
+      "width": 1080,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3f/3f9996e9cc6380a444a45b27f86fb274b09bd21a2fb3fabf94284206d0909500.thumb.webp",
+        "full": "img/3f/3f9996e9cc6380a444a45b27f86fb274b09bd21a2fb3fabf94284206d0909500.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:38.557Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cyberdeck%20specialized%20for%20journaling",
+    "created": "2025-08-29T14:00:49.000Z",
+    "updated": "2025-08-29T14:01:28.000Z",
+    "views": 8,
+    "thumbnail": "https://gyazo.com/e81488eb86632f8bb8af759d25c3e50a/raw"
+  }
+}

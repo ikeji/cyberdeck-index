@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6606ec1180fd6900249743d0",
+  "title": "Strip Display + RPi zero 2 w : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1bc7dra/strip_display_rpi_zero_2_w/",
+    "site": "reddit",
+    "label": "Strip Display + RPi zero 2 w : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6606ec14247d9b0026ed2816.png",
+      "originRaw": "https://scrapbox.io/files/6606ec14247d9b0026ed2816.png",
+      "id": "sha256:cf436b92423dd2227b1f8d5a421e26633502beeee4f8f9fa7d7d611a5ad8369c",
+      "status": "ok",
+      "width": 1080,
+      "height": 951,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/cf/cf436b92423dd2227b1f8d5a421e26633502beeee4f8f9fa7d7d611a5ad8369c.thumb.webp",
+        "full": "img/cf/cf436b92423dd2227b1f8d5a421e26633502beeee4f8f9fa7d7d611a5ad8369c.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:59.636Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Strip%20Display%20%2B%20RPi%20zero%202%20w%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-29T16:28:01.000Z",
+    "updated": "2024-03-29T16:28:08.000Z",
+    "views": 22,
+    "thumbnail": "https://scrapbox.io/files/6606ec14247d9b0026ed2816.png"
+  }
+}

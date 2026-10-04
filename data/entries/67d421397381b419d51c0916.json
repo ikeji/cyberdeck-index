@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67d421397381b419d51c0916",
+  "title": "Update on my wrist mounted RPi, changed the case to a passive cooling, added another strap, got display. Aluminum case too large for display, so I need to cut it somehow later on",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1j1y1gq/update_on_my_wrist_mounted_rpi_changed_the_case/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67d42158c2ffb6810d463569.png",
+      "originRaw": "https://scrapbox.io/files/67d42158c2ffb6810d463569.png",
+      "id": "sha256:b81eee2cb74e256acf74cfb11489d0ee4572410af45f8be007b19cc125122dde",
+      "status": "ok",
+      "width": 903,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b8/b81eee2cb74e256acf74cfb11489d0ee4572410af45f8be007b19cc125122dde.thumb.webp",
+        "full": "img/b8/b81eee2cb74e256acf74cfb11489d0ee4572410af45f8be007b19cc125122dde.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:48.208Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Update%20on%20my%20wrist%20mounted%20RPi%2C%20changed%20the%20case%20to%20a%20passive%20cooling%2C%20added%20another%20strap%2C%20got%20display.%20Aluminum%20case%20too%20large%20for%20display%2C%20so%20I%20need%20to%20cut%20it%20somehow%20later%20on",
+    "created": "2025-03-14T12:29:59.000Z",
+    "updated": "2025-03-14T12:30:21.000Z",
+    "views": 10,
+    "thumbnail": "https://scrapbox.io/files/67d42158c2ffb6810d463569.png"
+  }
+}

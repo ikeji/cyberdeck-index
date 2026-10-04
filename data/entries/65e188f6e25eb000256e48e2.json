@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e188f6e25eb000256e48e2",
+  "title": "Framework Cyberdeck - DIY Portable PC - YouTube",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=qzEd50uzdF0&ab_channel=BenMakesEverything",
+    "site": "youtube",
+    "label": "Framework Cyberdeck - DIY Portable PC - YouTube"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18933141bc700248046a6.png",
+      "originRaw": "https://scrapbox.io/files/65e18933141bc700248046a6.png",
+      "id": "sha256:9795102599324ea56fa6ab1b46aa4223be900738e5d8f2737bf11039c2ef2455",
+      "status": "ok",
+      "width": 246,
+      "height": 138,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/97/9795102599324ea56fa6ab1b46aa4223be900738e5d8f2737bf11039c2ef2455.thumb.webp",
+        "full": "img/97/9795102599324ea56fa6ab1b46aa4223be900738e5d8f2737bf11039c2ef2455.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:43.128Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Framework%20Cyberdeck%20-%20DIY%20Portable%20PC%20-%20YouTube",
+    "created": "2024-03-01T07:51:19.000Z",
+    "updated": "2024-03-01T07:52:22.000Z",
+    "views": 13,
+    "thumbnail": "https://scrapbox.io/files/65e18933141bc700248046a6.png"
+  }
+}

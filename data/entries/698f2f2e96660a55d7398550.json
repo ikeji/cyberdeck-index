@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "698f2f2e96660a55d7398550",
+  "title": "PROTOTYPE ''LEFTY'' and question about improvement",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1qn4ghl/prototype_lefty_and_question_about_improvement/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/8f28798fe6a157fb07914f68f11e3f9e",
+      "originRaw": "https://gyazo.com/8f28798fe6a157fb07914f68f11e3f9e/raw",
+      "id": "sha256:29c7686240d4361d83efa31f0069e830177108a2a36be8cb90be87e2ec1b8398",
+      "status": "ok",
+      "width": 640,
+      "height": 480,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/29/29c7686240d4361d83efa31f0069e830177108a2a36be8cb90be87e2ec1b8398.thumb.webp",
+        "full": "img/29/29c7686240d4361d83efa31f0069e830177108a2a36be8cb90be87e2ec1b8398.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:33.642Z"
+    },
+    {
+      "origin": "https://gyazo.com/51c7458419e8a79187ad19aab7ec5ed3",
+      "originRaw": "https://gyazo.com/51c7458419e8a79187ad19aab7ec5ed3/raw",
+      "id": "sha256:0fddd1e61b892f0bd4ab894abe583584bcaf91420e0ee35eb32f68c9f5c391b6",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0f/0fddd1e61b892f0bd4ab894abe583584bcaf91420e0ee35eb32f68c9f5c391b6.thumb.webp",
+        "full": "img/0f/0fddd1e61b892f0bd4ab894abe583584bcaf91420e0ee35eb32f68c9f5c391b6.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:35.153Z"
+    },
+    {
+      "origin": "https://gyazo.com/7d723e35af6aeba5c4aed25c727b369d",
+      "originRaw": "https://gyazo.com/7d723e35af6aeba5c4aed25c727b369d/raw",
+      "id": "sha256:0180928f3ff59baa12b92d817ea79f082bed15beb29e2c42ce4cc0416636c8e1",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/01/0180928f3ff59baa12b92d817ea79f082bed15beb29e2c42ce4cc0416636c8e1.thumb.webp",
+        "full": "img/01/0180928f3ff59baa12b92d817ea79f082bed15beb29e2c42ce4cc0416636c8e1.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:37.284Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/PROTOTYPE%20''LEFTY''%20and%20question%20about%20improvement",
+    "created": "2026-02-13T14:03:35.000Z",
+    "updated": "2026-02-13T14:03:46.000Z",
+    "views": 2,
+    "thumbnail": "https://gyazo.com/8f28798fe6a157fb07914f68f11e3f9e/raw"
+  }
+}

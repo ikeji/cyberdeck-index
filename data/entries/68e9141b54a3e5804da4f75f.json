@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "68e9141b54a3e5804da4f75f",
+  "title": "Prototype first cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1nyrp8o/prototype_first_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/6b264d8641793635591daf859a7b3c4f",
+      "originRaw": "https://gyazo.com/6b264d8641793635591daf859a7b3c4f/raw",
+      "id": "sha256:06e7d9cb61a4292c8425c5f687dd6a8a95d64de2658d950db2efa6da8c43936b",
+      "status": "ok",
+      "width": 1080,
+      "height": 843,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/06/06e7d9cb61a4292c8425c5f687dd6a8a95d64de2658d950db2efa6da8c43936b.thumb.webp",
+        "full": "img/06/06e7d9cb61a4292c8425c5f687dd6a8a95d64de2658d950db2efa6da8c43936b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:54.529Z"
+    },
+    {
+      "origin": "https://gyazo.com/609392bd62ecce2803686937ea906d30",
+      "originRaw": "https://gyazo.com/609392bd62ecce2803686937ea906d30/raw",
+      "id": "sha256:0fa3b6eeeb2799d8832487e0ae1de287bfadb6354a3e1f3502170b77a4c6a898",
+      "status": "ok",
+      "width": 1014,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0f/0fa3b6eeeb2799d8832487e0ae1de287bfadb6354a3e1f3502170b77a4c6a898.thumb.webp",
+        "full": "img/0f/0fa3b6eeeb2799d8832487e0ae1de287bfadb6354a3e1f3502170b77a4c6a898.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:56.793Z"
+    },
+    {
+      "origin": "https://gyazo.com/54fcf1efd563ebc8f70cc55aae4aa6b5",
+      "originRaw": "https://gyazo.com/54fcf1efd563ebc8f70cc55aae4aa6b5/raw",
+      "id": "sha256:8f4cfb9e6c21a87ca7afb131abd3a62b3fdd01047ed8c8a2f5b1749dd7ba5221",
+      "status": "ok",
+      "width": 1080,
+      "height": 1148,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/8f/8f4cfb9e6c21a87ca7afb131abd3a62b3fdd01047ed8c8a2f5b1749dd7ba5221.thumb.webp",
+        "full": "img/8f/8f4cfb9e6c21a87ca7afb131abd3a62b3fdd01047ed8c8a2f5b1749dd7ba5221.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:58.705Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Prototype%20first%20cyberdeck",
+    "created": "2025-10-10T14:11:44.000Z",
+    "updated": "2025-10-10T14:12:07.000Z",
+    "views": 7,
+    "thumbnail": "https://gyazo.com/6b264d8641793635591daf859a7b3c4f/raw"
+  }
+}

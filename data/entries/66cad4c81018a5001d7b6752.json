@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad4c81018a5001d7b6752",
+  "title": "Finished (almost) : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ceimi3/finished_almost/",
+    "site": "reddit",
+    "label": "Finished (almost) : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad4cba07435001df73f1e.png",
+      "originRaw": "https://scrapbox.io/files/66cad4cba07435001df73f1e.png",
+      "id": "sha256:ddb24b077c10bf11c1073fa552c03a4dccd705e0c74e61207252fc7a235b1c5a",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/dd/ddb24b077c10bf11c1073fa552c03a4dccd705e0c74e61207252fc7a235b1c5a.thumb.webp",
+        "full": "img/dd/ddb24b077c10bf11c1073fa552c03a4dccd705e0c74e61207252fc7a235b1c5a.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:08.505Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Finished%20(almost)%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:52:57.000Z",
+    "updated": "2024-08-25T06:53:02.000Z",
+    "views": 2,
+    "thumbnail": "https://scrapbox.io/files/66cad4cba07435001df73f1e.png"
+  }
+}

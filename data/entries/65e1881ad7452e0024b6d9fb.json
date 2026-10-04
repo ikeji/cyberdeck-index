@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e1881ad7452e0024b6d9fb",
+  "title": "eink typewriter deck : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/16812v7/eink_typewriter_deck/",
+    "site": "reddit",
+    "label": "eink typewriter deck : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1881da891c70024ec5970.png",
+      "originRaw": "https://scrapbox.io/files/65e1881da891c70024ec5970.png",
+      "id": "sha256:04215bc134ac6cd0863c998e4ee830b5097d8fbb6783fe5d2562f167e3c78dae",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/04/04215bc134ac6cd0863c998e4ee830b5097d8fbb6783fe5d2562f167e3c78dae.thumb.webp",
+        "full": "img/04/04215bc134ac6cd0863c998e4ee830b5097d8fbb6783fe5d2562f167e3c78dae.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:42.000Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/eink%20typewriter%20deck%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:47:38.000Z",
+    "updated": "2024-03-01T07:47:45.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/65e1881da891c70024ec5970.png"
+  }
+}

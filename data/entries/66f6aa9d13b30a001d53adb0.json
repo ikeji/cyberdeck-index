@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66f6aa9d13b30a001d53adb0",
+  "title": "Internet/hotspot anywhere (30,000mAh battery). When WiFi is not available, it uses LTE or 4G.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1f99z7m/internethotspot_anywhere_30000mah_battery_when/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66f6aa9e2ffe81001cb53777.png",
+      "originRaw": "https://scrapbox.io/files/66f6aa9e2ffe81001cb53777.png",
+      "id": "sha256:ca1cc7c415146207939639dc266ba59ed64bba9ce7550ad1059f05a322f3d84d",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ca/ca1cc7c415146207939639dc266ba59ed64bba9ce7550ad1059f05a322f3d84d.thumb.webp",
+        "full": "img/ca/ca1cc7c415146207939639dc266ba59ed64bba9ce7550ad1059f05a322f3d84d.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:18.302Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Internet%2Fhotspot%20anywhere%20(30%2C000mAh%20battery).%20When%20WiFi%20is%20not%20available%2C%20it%20uses%20LTE%20or%204G.",
+    "created": "2024-09-27T12:52:50.000Z",
+    "updated": "2024-09-27T12:52:56.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/66f6aa9e2ffe81001cb53777.png"
+  }
+}

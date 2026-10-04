@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad230c75173001c7bfac1",
+  "title": "ComPi-Tron - Talking Computron with RPi Zero W - My first cyberdeck! : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1bx083r/compitron_talking_computron_with_rpi_zero_w_my/",
+    "site": "reddit",
+    "label": "ComPi-Tron - Talking Computron with RPi Zero W - My first cyberdeck! : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad2340d3fd3001ddfa1b4.png",
+      "originRaw": "https://scrapbox.io/files/66cad2340d3fd3001ddfa1b4.png",
+      "id": "sha256:c0bba70fc4079591f57a8ca6b98dc3f5a914c74c5116b53a745548a78f7683d9",
+      "status": "ok",
+      "width": 1080,
+      "height": 939,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c0/c0bba70fc4079591f57a8ca6b98dc3f5a914c74c5116b53a745548a78f7683d9.thumb.webp",
+        "full": "img/c0/c0bba70fc4079591f57a8ca6b98dc3f5a914c74c5116b53a745548a78f7683d9.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:02.146Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/ComPi-Tron%20-%20Talking%20Computron%20with%20RPi%20Zero%20W%20-%20My%20first%20cyberdeck!%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:41:53.000Z",
+    "updated": "2024-08-25T06:42:01.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/66cad2340d3fd3001ddfa1b4.png"
+  }
+}

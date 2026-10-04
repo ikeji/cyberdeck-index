@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": "6957dffcbd86ba891d581420",
+  "title": "Preview: Palmtop INDUSTRIAL Kommunicator v0.9",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1pxvdhk/preview_palmtop_industrial_kommunicator_v09/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/48d447ec15ba7dc0544a03a2d9c47031",
+      "originRaw": "https://gyazo.com/48d447ec15ba7dc0544a03a2d9c47031/raw",
+      "id": "sha256:29473937c6c80813fa80aaf261b869abe7b289da42bfb925191745f5c3540234",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/29/29473937c6c80813fa80aaf261b869abe7b289da42bfb925191745f5c3540234.thumb.webp",
+        "full": "img/29/29473937c6c80813fa80aaf261b869abe7b289da42bfb925191745f5c3540234.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:40.505Z"
+    },
+    {
+      "origin": "https://gyazo.com/369b61c6df0e33e414bec200ad648756",
+      "originRaw": "https://gyazo.com/369b61c6df0e33e414bec200ad648756/raw",
+      "id": "sha256:405ff693281ebe3dcdbafea0ae141ace42caf28c992e52d11c802039216e36c5",
+      "status": "ok",
+      "width": 1080,
+      "height": 830,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/40/405ff693281ebe3dcdbafea0ae141ace42caf28c992e52d11c802039216e36c5.thumb.webp",
+        "full": "img/40/405ff693281ebe3dcdbafea0ae141ace42caf28c992e52d11c802039216e36c5.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:42.239Z"
+    },
+    {
+      "origin": "https://gyazo.com/ceb704146e2bbf7002dd4b5513c95fe0",
+      "originRaw": "https://gyazo.com/ceb704146e2bbf7002dd4b5513c95fe0/raw",
+      "id": "sha256:71cb6211a24f33d9d050917103c7ddb4bc30f1579f716291bb93338da1dbbb61",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/71/71cb6211a24f33d9d050917103c7ddb4bc30f1579f716291bb93338da1dbbb61.thumb.webp",
+        "full": "img/71/71cb6211a24f33d9d050917103c7ddb4bc30f1579f716291bb93338da1dbbb61.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:43.703Z"
+    },
+    {
+      "origin": "https://gyazo.com/269c81867407e521d4f2f970eab397d5",
+      "originRaw": "https://gyazo.com/269c81867407e521d4f2f970eab397d5/raw",
+      "id": "sha256:d723cfe5e5d81c232e41adac5b443705069a646cf413139bdc964babe4c89768",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d7/d723cfe5e5d81c232e41adac5b443705069a646cf413139bdc964babe4c89768.thumb.webp",
+        "full": "img/d7/d723cfe5e5d81c232e41adac5b443705069a646cf413139bdc964babe4c89768.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:45.398Z"
+    },
+    {
+      "origin": "https://gyazo.com/2264be489e6152276fd8f873780a3f56",
+      "originRaw": "https://gyazo.com/2264be489e6152276fd8f873780a3f56/raw",
+      "id": "sha256:47149495598dd75c879079b1b396a03eef8ba8be12a44e9aeab4c9a2d5c1f262",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/47/47149495598dd75c879079b1b396a03eef8ba8be12a44e9aeab4c9a2d5c1f262.thumb.webp",
+        "full": "img/47/47149495598dd75c879079b1b396a03eef8ba8be12a44e9aeab4c9a2d5c1f262.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:47.406Z"
+    },
+    {
+      "origin": "https://gyazo.com/1ff3369f0b3936076eb249bfeb8cd72c",
+      "originRaw": "https://gyazo.com/1ff3369f0b3936076eb249bfeb8cd72c/raw",
+      "id": "sha256:65b4c64d40a725392880bac976675f8fd5693fa29f78461a20ee3e6265e18774",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/65/65b4c64d40a725392880bac976675f8fd5693fa29f78461a20ee3e6265e18774.thumb.webp",
+        "full": "img/65/65b4c64d40a725392880bac976675f8fd5693fa29f78461a20ee3e6265e18774.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:49.451Z"
+    },
+    {
+      "origin": "https://gyazo.com/9741e74121b3f07443aeec0d4e3f6a84",
+      "originRaw": "https://gyazo.com/9741e74121b3f07443aeec0d4e3f6a84/raw",
+      "id": "sha256:fc67d7f3ab3a23ec0eeca3f41606ec2742677b0572e3a204aaae2ae3b504296e",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/fc/fc67d7f3ab3a23ec0eeca3f41606ec2742677b0572e3a204aaae2ae3b504296e.thumb.webp",
+        "full": "img/fc/fc67d7f3ab3a23ec0eeca3f41606ec2742677b0572e3a204aaae2ae3b504296e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:51.210Z"
+    },
+    {
+      "origin": "https://gyazo.com/d5d48a07edc4e1b411969f790b2b63bb",
+      "originRaw": "https://gyazo.com/d5d48a07edc4e1b411969f790b2b63bb/raw",
+      "id": "sha256:7a53e353adaa00f9e547636d9a1cf3787e2e3646fa0a4d93a493a726b764988e",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7a/7a53e353adaa00f9e547636d9a1cf3787e2e3646fa0a4d93a493a726b764988e.thumb.webp",
+        "full": "img/7a/7a53e353adaa00f9e547636d9a1cf3787e2e3646fa0a4d93a493a726b764988e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:53.125Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Preview%3A%20Palmtop%20INDUSTRIAL%20Kommunicator%20v0.9",
+    "created": "2026-01-02T15:11:03.000Z",
+    "updated": "2026-01-02T15:11:54.000Z",
+    "views": 38,
+    "thumbnail": "https://gyazo.com/48d447ec15ba7dc0544a03a2d9c47031/raw"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e186bed22de50024d6905e",
+  "title": "My 'Sardautari', a 3D printed Raspberry Pi laptop fit for any Burseg in the field! : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/jurk4d/my_sardautari_a_3d_printed_raspberry_pi_laptop/",
+    "site": "reddit",
+    "label": "My 'Sardautari', a 3D printed Raspberry Pi laptop fit for any Burseg in the field! : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e186c183075b0024b10056.png",
+      "originRaw": "https://scrapbox.io/files/65e186c183075b0024b10056.png",
+      "id": "sha256:c7297d5eaded66b7130d1b5303dccae2ed199b519647545f8c8c1d145ef8cb5b",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c7/c7297d5eaded66b7130d1b5303dccae2ed199b519647545f8c8c1d145ef8cb5b.thumb.webp",
+        "full": "img/c7/c7297d5eaded66b7130d1b5303dccae2ed199b519647545f8c8c1d145ef8cb5b.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:34.873Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20'Sardautari'%2C%20a%203D%20printed%20Raspberry%20Pi%20laptop%20fit%20for%20any%20Burseg%20in%20the%20field!%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:41:50.000Z",
+    "updated": "2024-03-01T07:41:57.000Z",
+    "views": 9,
+    "thumbnail": "https://scrapbox.io/files/65e186c183075b0024b10056.png"
+  }
+}

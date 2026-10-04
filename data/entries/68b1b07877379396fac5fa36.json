@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "68b1b07877379396fac5fa36",
+  "title": "It has an impact.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1muypux/it_has_an_impact/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/33cd257b4d96a0fa89eb72e86c6985cc",
+      "originRaw": "https://gyazo.com/33cd257b4d96a0fa89eb72e86c6985cc/raw",
+      "id": "sha256:1724877f561b6da9d16fbd74c97355292639042874b46ba6f195ce4c980e5dc9",
+      "status": "ok",
+      "width": 1080,
+      "height": 863,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/17/1724877f561b6da9d16fbd74c97355292639042874b46ba6f195ce4c980e5dc9.thumb.webp",
+        "full": "img/17/1724877f561b6da9d16fbd74c97355292639042874b46ba6f195ce4c980e5dc9.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:32.892Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/It%20has%20an%20impact.",
+    "created": "2025-08-29T13:51:56.000Z",
+    "updated": "2025-08-29T13:52:09.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/33cd257b4d96a0fa89eb72e86c6985cc/raw"
+  }
+}

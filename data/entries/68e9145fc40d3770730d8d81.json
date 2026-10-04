@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "68e9145fc40d3770730d8d81",
+  "title": "ARM64 based SBC (Khadas Edge2) in modified Psion Series 5 body",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1nslmb2/arm64_based_sbc_khadas_edge2_in_modified_psion/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/5d40be38e73b71da176ca39f9dcf1611",
+      "originRaw": "https://gyazo.com/5d40be38e73b71da176ca39f9dcf1611/raw",
+      "id": "sha256:e58c52febb8587e7414a2e25f7222e099bcf9e2ef3c62d7ff6d690ac22fa5b16",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e5/e58c52febb8587e7414a2e25f7222e099bcf9e2ef3c62d7ff6d690ac22fa5b16.thumb.webp",
+        "full": "img/e5/e58c52febb8587e7414a2e25f7222e099bcf9e2ef3c62d7ff6d690ac22fa5b16.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:58.989Z"
+    },
+    {
+      "origin": "https://gyazo.com/b6147ed359bf7abbc0d34c9b3244c802",
+      "originRaw": "https://gyazo.com/b6147ed359bf7abbc0d34c9b3244c802/raw",
+      "id": "sha256:0eb530a202baa4640c5218af812b8bc7047e0c9350a03b8dac7b1a7335fec507",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0e/0eb530a202baa4640c5218af812b8bc7047e0c9350a03b8dac7b1a7335fec507.thumb.webp",
+        "full": "img/0e/0eb530a202baa4640c5218af812b8bc7047e0c9350a03b8dac7b1a7335fec507.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:01.160Z"
+    },
+    {
+      "origin": "https://gyazo.com/12a5dbe99d51b8505f28bb91544b999b",
+      "originRaw": "https://gyazo.com/12a5dbe99d51b8505f28bb91544b999b/raw",
+      "id": "sha256:327c106187c01fb77220c69a2660f2436a7984964db8f50d457b290c09209946",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/32/327c106187c01fb77220c69a2660f2436a7984964db8f50d457b290c09209946.thumb.webp",
+        "full": "img/32/327c106187c01fb77220c69a2660f2436a7984964db8f50d457b290c09209946.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:03.297Z"
+    },
+    {
+      "origin": "https://gyazo.com/1192293f45166bbdcd191ff52f2b4f27",
+      "originRaw": "https://gyazo.com/1192293f45166bbdcd191ff52f2b4f27/raw",
+      "id": "sha256:3ddd261da52d1b4499495ed87a286744b592ff945cca72b3e383552374f6ff6e",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3d/3ddd261da52d1b4499495ed87a286744b592ff945cca72b3e383552374f6ff6e.thumb.webp",
+        "full": "img/3d/3ddd261da52d1b4499495ed87a286744b592ff945cca72b3e383552374f6ff6e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:05.525Z"
+    },
+    {
+      "origin": "https://gyazo.com/7e89b30e28ba8e174358d1a36a39626c",
+      "originRaw": "https://gyazo.com/7e89b30e28ba8e174358d1a36a39626c/raw",
+      "id": "sha256:9b1aebd5467c2d39898ec9d0bad10d66e580e8bfa5813b0c85a357d2c3a27b06",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9b/9b1aebd5467c2d39898ec9d0bad10d66e580e8bfa5813b0c85a357d2c3a27b06.thumb.webp",
+        "full": "img/9b/9b1aebd5467c2d39898ec9d0bad10d66e580e8bfa5813b0c85a357d2c3a27b06.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:06.845Z"
+    },
+    {
+      "origin": "https://gyazo.com/b7b0403f1ec411ed49ed26bb668bd0c3",
+      "originRaw": "https://gyazo.com/b7b0403f1ec411ed49ed26bb668bd0c3/raw",
+      "id": "sha256:d2383730bae336a483235dbbbbec182e00c335a2a4df54101187a67e1613efd7",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d2/d2383730bae336a483235dbbbbec182e00c335a2a4df54101187a67e1613efd7.thumb.webp",
+        "full": "img/d2/d2383730bae336a483235dbbbbec182e00c335a2a4df54101187a67e1613efd7.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:09.151Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/ARM64%20based%20SBC%20(Khadas%20Edge2)%20in%20modified%20Psion%20Series%205%20body",
+    "created": "2025-10-10T14:12:57.000Z",
+    "updated": "2025-10-10T14:13:52.000Z",
+    "views": 15,
+    "thumbnail": "https://gyazo.com/5d40be38e73b71da176ca39f9dcf1611/raw"
+  }
+}

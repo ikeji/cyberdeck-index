@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18353f0e939002576a269",
+  "title": "It's the HandiPi - Handheld Hacking Deck with expansion capabilities : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/wvdw4w/its_the_handipi_handheld_hacking_deck_with/",
+    "site": "reddit",
+    "label": "It's the HandiPi - Handheld Hacking Deck with expansion capabilities : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18356fd754600243ad47c.png",
+      "originRaw": "https://scrapbox.io/files/65e18356fd754600243ad47c.png",
+      "id": "sha256:f77fd2e8c10743eed6c0c6d5b2887837cd7a5a2e4e6357dbffd1514a31ccf159",
+      "status": "ok",
+      "width": 1080,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f7/f77fd2e8c10743eed6c0c6d5b2887837cd7a5a2e4e6357dbffd1514a31ccf159.thumb.webp",
+        "full": "img/f7/f77fd2e8c10743eed6c0c6d5b2887837cd7a5a2e4e6357dbffd1514a31ccf159.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:24.488Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/It's%20the%20HandiPi%20-%20Handheld%20Hacking%20Deck%20with%20expansion%20capabilities%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:27:15.000Z",
+    "updated": "2024-03-01T07:27:22.000Z",
+    "views": 13,
+    "thumbnail": "https://scrapbox.io/files/65e18356fd754600243ad47c.png"
+  }
+}

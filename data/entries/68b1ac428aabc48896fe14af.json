@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "68b1ac428aabc48896fe14af",
+  "title": "Lignin Folio is Live!",
+  "source": {
+    "url": "https://www.reddit.com/r/writerDeck/comments/1n2rfkz/lignin_folio_is_live/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/4433708753975d83a4a9dc26c077f01b",
+      "originRaw": "https://gyazo.com/4433708753975d83a4a9dc26c077f01b/raw",
+      "id": "sha256:ff9bb0e0159bb28b719ae78dbbd2f3daa093918a023df1afcd914c8d1cc43226",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ff/ff9bb0e0159bb28b719ae78dbbd2f3daa093918a023df1afcd914c8d1cc43226.thumb.webp",
+        "full": "img/ff/ff9bb0e0159bb28b719ae78dbbd2f3daa093918a023df1afcd914c8d1cc43226.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:27.434Z"
+    },
+    {
+      "origin": "https://gyazo.com/87041c1840cdd44fe60013b69005cadb",
+      "originRaw": "https://gyazo.com/87041c1840cdd44fe60013b69005cadb/raw",
+      "id": "sha256:3d677319b82b0c7932223b123cd415d279c93c1378ec7c18bede7139c4179bed",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3d/3d677319b82b0c7932223b123cd415d279c93c1378ec7c18bede7139c4179bed.thumb.webp",
+        "full": "img/3d/3d677319b82b0c7932223b123cd415d279c93c1378ec7c18bede7139c4179bed.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:29.358Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Lignin%20Folio%20is%20Live!",
+    "created": "2025-08-29T13:33:59.000Z",
+    "updated": "2025-08-29T13:34:22.000Z",
+    "views": 3,
+    "thumbnail": "https://gyazo.com/4433708753975d83a4a9dc26c077f01b/raw"
+  }
+}

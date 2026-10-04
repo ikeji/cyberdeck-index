@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "68b1b2cee5bec25d4cc12e87",
+  "title": "My take on cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1mhbbsf/my_take_on_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/e10eb220ebb0a9ab89e0e52c696a2d06",
+      "originRaw": "https://gyazo.com/e10eb220ebb0a9ab89e0e52c696a2d06/raw",
+      "id": "sha256:092c40d9399317b06702129a37a92ee17465127e9b49949bd94f0f6eb9056559",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/09/092c40d9399317b06702129a37a92ee17465127e9b49949bd94f0f6eb9056559.thumb.webp",
+        "full": "img/09/092c40d9399317b06702129a37a92ee17465127e9b49949bd94f0f6eb9056559.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:39.237Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20take%20on%20cyberdeck",
+    "created": "2025-08-29T14:01:55.000Z",
+    "updated": "2025-08-29T14:02:00.000Z",
+    "views": 13,
+    "thumbnail": "https://gyazo.com/e10eb220ebb0a9ab89e0e52c696a2d06/raw"
+  }
+}

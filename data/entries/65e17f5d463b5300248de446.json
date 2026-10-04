@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e17f5d463b5300248de446",
+  "title": "Finally finished this cyberdeck from a design on Thingiverse! : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/vh3xw7/finally_finished_this_cyberdeck_from_a_design_on/",
+    "site": "reddit",
+    "label": "Finally finished this cyberdeck from a design on Thingiverse! : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e17f619f585400237ebc1e.png",
+      "originRaw": "https://scrapbox.io/files/65e17f619f585400237ebc1e.png",
+      "id": "sha256:63e9aa1b2d4175b39ef822543d6427e22137904d0ac35dbea0ae4a5d2bf624f0",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/63/63e9aa1b2d4175b39ef822543d6427e22137904d0ac35dbea0ae4a5d2bf624f0.thumb.webp",
+        "full": "img/63/63e9aa1b2d4175b39ef822543d6427e22137904d0ac35dbea0ae4a5d2bf624f0.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:18.771Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Finally%20finished%20this%20cyberdeck%20from%20a%20design%20on%20Thingiverse!%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:10:22.000Z",
+    "updated": "2024-03-01T07:10:29.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/65e17f619f585400237ebc1e.png"
+  }
+}

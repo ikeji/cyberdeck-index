@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "69e24857ccbf3cb74f6ab7a6",
+  "title": "Afternoon journaling session",
+  "source": {
+    "url": "https://www.reddit.com/r/writerDeck/comments/1sjwymv/afternoon_journaling_session/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/02530d4d2599db522de24fa52f3c900e",
+      "originRaw": "https://gyazo.com/02530d4d2599db522de24fa52f3c900e/raw",
+      "id": "sha256:4c1dcb6cf703b5a1339fbb23d38b5b01fc67cc39cac6ae1991eef2e6de94cb6c",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4c/4c1dcb6cf703b5a1339fbb23d38b5b01fc67cc39cac6ae1991eef2e6de94cb6c.thumb.webp",
+        "full": "img/4c/4c1dcb6cf703b5a1339fbb23d38b5b01fc67cc39cac6ae1991eef2e6de94cb6c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:15.560Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Afternoon%20journaling%20session",
+    "created": "2026-04-17T14:49:01.000Z",
+    "updated": "2026-04-17T14:49:07.000Z",
+    "views": 6,
+    "thumbnail": "https://gyazo.com/02530d4d2599db522de24fa52f3c900e/raw"
+  }
+}

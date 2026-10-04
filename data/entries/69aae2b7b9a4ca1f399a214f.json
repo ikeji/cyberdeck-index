@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "69aae2b7b9a4ca1f399a214f",
+  "title": "CyberBrick",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1rgwyjo/cyberbrick/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/3c9687a912cf59e073626abcfd801ccb",
+      "originRaw": "https://gyazo.com/3c9687a912cf59e073626abcfd801ccb/raw",
+      "id": "sha256:a124a97386812ef53090a97de977e65464c50abc3b92111c15e06f54d74faade",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a1/a124a97386812ef53090a97de977e65464c50abc3b92111c15e06f54d74faade.thumb.webp",
+        "full": "img/a1/a124a97386812ef53090a97de977e65464c50abc3b92111c15e06f54d74faade.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:44.606Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/CyberBrick",
+    "created": "2026-03-06T14:20:42.000Z",
+    "updated": "2026-03-06T14:20:52.000Z",
+    "views": 8,
+    "thumbnail": "https://gyazo.com/3c9687a912cf59e073626abcfd801ccb/raw"
+  }
+}

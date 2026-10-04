@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "698f2d0feeb112401bfb301d",
+  "title": "Work in progress Cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1qupicq/work_in_progress_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/7254ac155f1cac3dfb04f781a087ca9a",
+      "originRaw": "https://gyazo.com/7254ac155f1cac3dfb04f781a087ca9a/raw",
+      "id": "sha256:05a4b7cd47c7f23dedbae809c6e4df703d4bddcc28731a89e970f31547bdacb8",
+      "status": "ok",
+      "width": 640,
+      "height": 481,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/05/05a4b7cd47c7f23dedbae809c6e4df703d4bddcc28731a89e970f31547bdacb8.thumb.webp",
+        "full": "img/05/05a4b7cd47c7f23dedbae809c6e4df703d4bddcc28731a89e970f31547bdacb8.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:44.767Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Work%20in%20progress%20Cyberdeck",
+    "created": "2026-02-13T13:54:28.000Z",
+    "updated": "2026-02-13T13:54:33.000Z",
+    "views": 9,
+    "thumbnail": "https://gyazo.com/7254ac155f1cac3dfb04f781a087ca9a/raw"
+  }
+}

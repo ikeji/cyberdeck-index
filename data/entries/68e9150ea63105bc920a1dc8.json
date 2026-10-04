@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "68e9150ea63105bc920a1dc8",
+  "title": "I’m Designing a New Cyberdeck Every Week",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1nmhbxs/im_designing_a_new_cyberdeck_every_week/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/147de48546e0ad4d91e854ac99ca8317",
+      "originRaw": "https://gyazo.com/147de48546e0ad4d91e854ac99ca8317/raw",
+      "id": "sha256:c0428380d8fd17785745b328e7b5f30bd64e29b9585b0192fe0bdc44a928aa14",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c0/c0428380d8fd17785745b328e7b5f30bd64e29b9585b0192fe0bdc44a928aa14.thumb.webp",
+        "full": "img/c0/c0428380d8fd17785745b328e7b5f30bd64e29b9585b0192fe0bdc44a928aa14.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:01.893Z"
+    },
+    {
+      "origin": "https://gyazo.com/8e397866f5694981bd7c677bbfdc3488",
+      "originRaw": "https://gyazo.com/8e397866f5694981bd7c677bbfdc3488/raw",
+      "id": "sha256:5c22c42afbba362a3a68e1f63dc3deb2415401022946d364db43feeb8b432576",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5c/5c22c42afbba362a3a68e1f63dc3deb2415401022946d364db43feeb8b432576.thumb.webp",
+        "full": "img/5c/5c22c42afbba362a3a68e1f63dc3deb2415401022946d364db43feeb8b432576.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:03.442Z"
+    },
+    {
+      "origin": "https://gyazo.com/0c6ec476e409cbe1d437aa782c095824",
+      "originRaw": "https://gyazo.com/0c6ec476e409cbe1d437aa782c095824/raw",
+      "id": "sha256:8382906b763b5e5ea48b71ffc72fe2157ea477a2d9b8f1cd71e000e621f556c0",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/83/8382906b763b5e5ea48b71ffc72fe2157ea477a2d9b8f1cd71e000e621f556c0.thumb.webp",
+        "full": "img/83/8382906b763b5e5ea48b71ffc72fe2157ea477a2d9b8f1cd71e000e621f556c0.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:05.562Z"
+    },
+    {
+      "origin": "https://gyazo.com/83a8c6dde8f82dded0117c914cf95aa1",
+      "originRaw": "https://gyazo.com/83a8c6dde8f82dded0117c914cf95aa1/raw",
+      "id": "sha256:1caefd772c3af05a99e14ccae4eef0d45e558a7fbd06c258d5d38172dc6e62ed",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1c/1caefd772c3af05a99e14ccae4eef0d45e558a7fbd06c258d5d38172dc6e62ed.thumb.webp",
+        "full": "img/1c/1caefd772c3af05a99e14ccae4eef0d45e558a7fbd06c258d5d38172dc6e62ed.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:07.871Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%E2%80%99m%20Designing%20a%20New%20Cyberdeck%20Every%20Week",
+    "created": "2025-10-10T14:15:50.000Z",
+    "updated": "2025-10-10T14:17:09.000Z",
+    "views": 6,
+    "thumbnail": "https://gyazo.com/147de48546e0ad4d91e854ac99ca8317/raw"
+  }
+}

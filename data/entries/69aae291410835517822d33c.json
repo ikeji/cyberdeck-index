@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "69aae291410835517822d33c",
+  "title": "Proxmox manager + Remote Vibe coding",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1rhuxdx/proxmox_manager_remote_vibe_coding/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/3404e9be023c36968cd58d6d207a2cc2",
+      "originRaw": "https://gyazo.com/3404e9be023c36968cd58d6d207a2cc2/raw",
+      "id": "sha256:7c55386f0a9c1e2a75c5d80b0d2668a410141be16a1f7f749b5fb8ca330ad665",
+      "status": "ok",
+      "width": 900,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7c/7c55386f0a9c1e2a75c5d80b0d2668a410141be16a1f7f749b5fb8ca330ad665.thumb.webp",
+        "full": "img/7c/7c55386f0a9c1e2a75c5d80b0d2668a410141be16a1f7f749b5fb8ca330ad665.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:42.310Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Proxmox%20manager%20%2B%20Remote%20Vibe%20coding",
+    "created": "2026-03-06T14:20:05.000Z",
+    "updated": "2026-03-06T14:20:21.000Z",
+    "views": 7,
+    "thumbnail": "https://gyazo.com/3404e9be023c36968cd58d6d207a2cc2/raw"
+  }
+}

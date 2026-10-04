@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e1589d83075b0024ade366",
+  "title": "MSG Cyberdeck v2",
+  "source": {
+    "url": "https://www.msglab.co/project/msg-cyberdeck-v2",
+    "site": "web",
+    "label": "MSG Cyberdeck v2"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e158a1d8d350002578f09e.png",
+      "originRaw": "https://scrapbox.io/files/65e158a1d8d350002578f09e.png",
+      "id": "sha256:d3b2759aa8d574764ce2c9287e6b2ad208c91bd2a93f15ca73c87fb30da490dd",
+      "status": "ok",
+      "width": 1141,
+      "height": 642,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d3/d3b2759aa8d574764ce2c9287e6b2ad208c91bd2a93f15ca73c87fb30da490dd.thumb.webp",
+        "full": "img/d3/d3b2759aa8d574764ce2c9287e6b2ad208c91bd2a93f15ca73c87fb30da490dd.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:13.631Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/MSG%20Cyberdeck%20v2",
+    "created": "2024-03-01T04:25:03.000Z",
+    "updated": "2024-03-01T04:25:32.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/65e158a1d8d350002578f09e.png"
+  }
+}

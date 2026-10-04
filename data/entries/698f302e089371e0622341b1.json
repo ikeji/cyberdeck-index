@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "698f302e089371e0622341b1",
+  "title": "Brain Scanning...",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=kqXIMVjhTUk",
+    "site": "youtube",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/a18ab337f9a7fe73c5b34c77dba4315c",
+      "originRaw": "https://gyazo.com/a18ab337f9a7fe73c5b34c77dba4315c/raw",
+      "id": "sha256:fe35da160ae467ead301ab390e53f9e4fbb24cb723918004984bac7f604212ef",
+      "status": "ok",
+      "width": 1280,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/fe/fe35da160ae467ead301ab390e53f9e4fbb24cb723918004984bac7f604212ef.thumb.webp",
+        "full": "img/fe/fe35da160ae467ead301ab390e53f9e4fbb24cb723918004984bac7f604212ef.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:39.293Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Brain%20Scanning...",
+    "created": "2026-02-13T14:07:47.000Z",
+    "updated": "2026-02-13T14:13:38.000Z",
+    "views": 17,
+    "thumbnail": "https://i.ytimg.com/vi/kqXIMVjhTUk/mqdefault.jpg"
+  }
+}

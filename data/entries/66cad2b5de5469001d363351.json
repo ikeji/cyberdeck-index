@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad2b5de5469001d363351",
+  "title": "Cynershark 3000 : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1daslnr/cynershark_3000/",
+    "site": "reddit",
+    "label": "Cynershark 3000 : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad2b8151e83001ce3d75e.png",
+      "originRaw": "https://scrapbox.io/files/66cad2b8151e83001ce3d75e.png",
+      "id": "sha256:44fee2efd4f4f0c761521d86433cd661796fa1946a085afb48b902b057d86d08",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/44/44fee2efd4f4f0c761521d86433cd661796fa1946a085afb48b902b057d86d08.thumb.webp",
+        "full": "img/44/44fee2efd4f4f0c761521d86433cd661796fa1946a085afb48b902b057d86d08.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:03.889Z"
+    },
+    {
+      "origin": "https://scrapbox.io/files/66cad2ca5a00a6001c59256f.png",
+      "originRaw": "https://scrapbox.io/files/66cad2ca5a00a6001c59256f.png",
+      "id": "sha256:424c0cbf4811bb595e4ec400b6f675aaa7e5e042a746a220f0faa018b8b063f3",
+      "status": "ok",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/42/424c0cbf4811bb595e4ec400b6f675aaa7e5e042a746a220f0faa018b8b063f3.thumb.webp",
+        "full": "img/42/424c0cbf4811bb595e4ec400b6f675aaa7e5e042a746a220f0faa018b8b063f3.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:06.373Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cynershark%203000%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:44:06.000Z",
+    "updated": "2024-08-25T06:44:40.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/66cad2b8151e83001ce3d75e.png"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "698f2e7ddd99e1240bc8a46e",
+  "title": "My Griz Sextant V2 Build",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1qpxr6p/my_griz_sextant_v2_build/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/12f331f77e59281e6be877715319c2c3",
+      "originRaw": "https://gyazo.com/12f331f77e59281e6be877715319c2c3/raw",
+      "id": "sha256:1b3e7dfb2dca848f668662e2c413113b7190c1198c9d85453c6f706bdb8fb580",
+      "status": "ok",
+      "width": 640,
+      "height": 360,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1b/1b3e7dfb2dca848f668662e2c413113b7190c1198c9d85453c6f706bdb8fb580.thumb.webp",
+        "full": "img/1b/1b3e7dfb2dca848f668662e2c413113b7190c1198c9d85453c6f706bdb8fb580.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:13.757Z"
+    },
+    {
+      "origin": "https://gyazo.com/7748ccf6ad0cf0a3bf959ae0986193bd",
+      "originRaw": "https://gyazo.com/7748ccf6ad0cf0a3bf959ae0986193bd/raw",
+      "id": "sha256:d0566188c26f4d75a12a613c1dd677ef7370a5826b4137f92784ec7493891568",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d0/d0566188c26f4d75a12a613c1dd677ef7370a5826b4137f92784ec7493891568.thumb.webp",
+        "full": "img/d0/d0566188c26f4d75a12a613c1dd677ef7370a5826b4137f92784ec7493891568.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:16.017Z"
+    },
+    {
+      "origin": "https://gyazo.com/da5f8bc839b6a453c1af6d48ebc05fb3",
+      "originRaw": "https://gyazo.com/da5f8bc839b6a453c1af6d48ebc05fb3/raw",
+      "id": "sha256:a8d12e4802c4f6c679f3226d1bcb5b8baf56c1e8e235985ba4141b1ee3046a3c",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a8/a8d12e4802c4f6c679f3226d1bcb5b8baf56c1e8e235985ba4141b1ee3046a3c.thumb.webp",
+        "full": "img/a8/a8d12e4802c4f6c679f3226d1bcb5b8baf56c1e8e235985ba4141b1ee3046a3c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:17.703Z"
+    },
+    {
+      "origin": "https://gyazo.com/37f51465157382784238b39ab8941792",
+      "originRaw": "https://gyazo.com/37f51465157382784238b39ab8941792/raw",
+      "id": "sha256:7a3317f02c6f04b63ab4401fc372d90a7eabc8c1976096ecd7ca0286a00336d9",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7a/7a3317f02c6f04b63ab4401fc372d90a7eabc8c1976096ecd7ca0286a00336d9.thumb.webp",
+        "full": "img/7a/7a3317f02c6f04b63ab4401fc372d90a7eabc8c1976096ecd7ca0286a00336d9.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:19.781Z"
+    },
+    {
+      "origin": "https://gyazo.com/02d9cef991bbd6ef91ec4e90ad64787d",
+      "originRaw": "https://gyazo.com/02d9cef991bbd6ef91ec4e90ad64787d/raw",
+      "id": "sha256:adc478acf4b4f02fe80fabe139d8ae4b31b6cf14069219e533ea3444c4147fb9",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ad/adc478acf4b4f02fe80fabe139d8ae4b31b6cf14069219e533ea3444c4147fb9.thumb.webp",
+        "full": "img/ad/adc478acf4b4f02fe80fabe139d8ae4b31b6cf14069219e533ea3444c4147fb9.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:21.845Z"
+    },
+    {
+      "origin": "https://gyazo.com/2621b909c54d92edfa01c331b3ae0605",
+      "originRaw": "https://gyazo.com/2621b909c54d92edfa01c331b3ae0605/raw",
+      "id": "sha256:a8949645586aa727f0f772d55553c481960079da519555e530f1b15ef6f56190",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a8/a8949645586aa727f0f772d55553c481960079da519555e530f1b15ef6f56190.thumb.webp",
+        "full": "img/a8/a8949645586aa727f0f772d55553c481960079da519555e530f1b15ef6f56190.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:23.848Z"
+    },
+    {
+      "origin": "https://gyazo.com/a9f4a15aaffd11bcb7680caf24b8701c",
+      "originRaw": "https://gyazo.com/a9f4a15aaffd11bcb7680caf24b8701c/raw",
+      "id": "sha256:56ca9f3a3e1b5ac9bebfb6a54261a3cb3fc0edff620baea85220da5eb5db6e2b",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/56/56ca9f3a3e1b5ac9bebfb6a54261a3cb3fc0edff620baea85220da5eb5db6e2b.thumb.webp",
+        "full": "img/56/56ca9f3a3e1b5ac9bebfb6a54261a3cb3fc0edff620baea85220da5eb5db6e2b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:25.729Z"
+    },
+    {
+      "origin": "https://gyazo.com/9b06a828cbd8aaf3fe1509221a13f958",
+      "originRaw": "https://gyazo.com/9b06a828cbd8aaf3fe1509221a13f958/raw",
+      "id": "sha256:7e5e0e39dc9e41e691cd88cc321d61a96ea542ce0cce9dd059420659713bb389",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7e/7e5e0e39dc9e41e691cd88cc321d61a96ea542ce0cce9dd059420659713bb389.thumb.webp",
+        "full": "img/7e/7e5e0e39dc9e41e691cd88cc321d61a96ea542ce0cce9dd059420659713bb389.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:27.517Z"
+    },
+    {
+      "origin": "https://gyazo.com/d3b5861f5f6c84bd506f504f176bea17",
+      "originRaw": "https://gyazo.com/d3b5861f5f6c84bd506f504f176bea17/raw",
+      "id": "sha256:130cd1fcf651f4d45cb62015437dce6dc22f9849a17ea081e704b2f1d295292f",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/13/130cd1fcf651f4d45cb62015437dce6dc22f9849a17ea081e704b2f1d295292f.thumb.webp",
+        "full": "img/13/130cd1fcf651f4d45cb62015437dce6dc22f9849a17ea081e704b2f1d295292f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:29.787Z"
+    },
+    {
+      "origin": "https://gyazo.com/1e80d316ac37e827e5d4c21c1fd86399",
+      "originRaw": "https://gyazo.com/1e80d316ac37e827e5d4c21c1fd86399/raw",
+      "id": "sha256:1978fb95360ff622f2dd95c16fdbcd963f6893818fde1e049e96b6552ae4b06e",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/19/1978fb95360ff622f2dd95c16fdbcd963f6893818fde1e049e96b6552ae4b06e.thumb.webp",
+        "full": "img/19/1978fb95360ff622f2dd95c16fdbcd963f6893818fde1e049e96b6552ae4b06e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:31.988Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20Griz%20Sextant%20V2%20Build",
+    "created": "2026-02-13T14:00:32.000Z",
+    "updated": "2026-02-13T14:01:24.000Z",
+    "views": 16,
+    "thumbnail": "https://gyazo.com/12f331f77e59281e6be877715319c2c3/raw"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6749b4ff4c092619fe74a4b0",
+  "title": "My Lil Cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1gv0jw9/my_lil_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6749b72a7a62f691b07baf96.png",
+      "originRaw": "https://scrapbox.io/files/6749b72a7a62f691b07baf96.png",
+      "id": "sha256:edfc6b5c7f16a366f2ff5b0adefa21e98cf1e72c1d10a651a0aaa3e9eddc374a",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ed/edfc6b5c7f16a366f2ff5b0adefa21e98cf1e72c1d10a651a0aaa3e9eddc374a.thumb.webp",
+        "full": "img/ed/edfc6b5c7f16a366f2ff5b0adefa21e98cf1e72c1d10a651a0aaa3e9eddc374a.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:29.333Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20Lil%20Cyberdeck",
+    "created": "2024-11-29T12:44:30.000Z",
+    "updated": "2024-11-29T12:44:39.000Z",
+    "views": 2,
+    "thumbnail": "https://scrapbox.io/files/6749b72a7a62f691b07baf96.png"
+  }
+}

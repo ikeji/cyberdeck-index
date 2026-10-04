@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "69fdf30f8a96dd3c9e83610d",
+  "title": "Places I bring my Cyberdeck to:",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1synhcm/places_i_bring_my_cyberdeck_to/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/0c460bda203035cf4d621c2d3630fbee",
+      "originRaw": "https://gyazo.com/0c460bda203035cf4d621c2d3630fbee/raw",
+      "id": "sha256:f28ea117f8c57e5555a4303253ad91707394913000885730ddd358989052e1c7",
+      "status": "ok",
+      "width": 1080,
+      "height": 608,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f2/f28ea117f8c57e5555a4303253ad91707394913000885730ddd358989052e1c7.thumb.webp",
+        "full": "img/f2/f28ea117f8c57e5555a4303253ad91707394913000885730ddd358989052e1c7.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:56.293Z"
+    },
+    {
+      "origin": "https://gyazo.com/5d81bc413bea7072cdb66460a44d57ff",
+      "originRaw": "https://gyazo.com/5d81bc413bea7072cdb66460a44d57ff/raw",
+      "id": "sha256:154e72471387fa66fef7a53e9e0f8fa4092ac878de62fbd185d89e1683f178bf",
+      "status": "ok",
+      "width": 1080,
+      "height": 608,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/15/154e72471387fa66fef7a53e9e0f8fa4092ac878de62fbd185d89e1683f178bf.thumb.webp",
+        "full": "img/15/154e72471387fa66fef7a53e9e0f8fa4092ac878de62fbd185d89e1683f178bf.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:58.105Z"
+    },
+    {
+      "origin": "https://gyazo.com/3064156c86f7e1a6d42e4f2efbebdf5a",
+      "originRaw": "https://gyazo.com/3064156c86f7e1a6d42e4f2efbebdf5a/raw",
+      "id": "sha256:a89929423b4ebec7189ea0218635d8f6cecb2887b70cca4d50e46690b00e1973",
+      "status": "ok",
+      "width": 1080,
+      "height": 608,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a8/a89929423b4ebec7189ea0218635d8f6cecb2887b70cca4d50e46690b00e1973.thumb.webp",
+        "full": "img/a8/a89929423b4ebec7189ea0218635d8f6cecb2887b70cca4d50e46690b00e1973.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:59.876Z"
+    },
+    {
+      "origin": "https://gyazo.com/dc49f932fd0273f6fe6b582f4e8b13b5",
+      "originRaw": "https://gyazo.com/dc49f932fd0273f6fe6b582f4e8b13b5/raw",
+      "id": "sha256:ee937746aad7a9b9d8e1fc8fb4c8c697aa41eb17ec9d2649a3d3e890e2923a27",
+      "status": "ok",
+      "width": 1080,
+      "height": 608,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ee/ee937746aad7a9b9d8e1fc8fb4c8c697aa41eb17ec9d2649a3d3e890e2923a27.thumb.webp",
+        "full": "img/ee/ee937746aad7a9b9d8e1fc8fb4c8c697aa41eb17ec9d2649a3d3e890e2923a27.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:01.459Z"
+    },
+    {
+      "origin": "https://gyazo.com/dfca1752c189c491eddb8e8082088826",
+      "originRaw": "https://gyazo.com/dfca1752c189c491eddb8e8082088826/raw",
+      "id": "sha256:1fe95e3d1799979304092fb41cc185360411119953bcf65b8f9605fa4d70a544",
+      "status": "ok",
+      "width": 1080,
+      "height": 608,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1f/1fe95e3d1799979304092fb41cc185360411119953bcf65b8f9605fa4d70a544.thumb.webp",
+        "full": "img/1f/1fe95e3d1799979304092fb41cc185360411119953bcf65b8f9605fa4d70a544.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:02.965Z"
+    },
+    {
+      "origin": "https://gyazo.com/16ef1f330e9e5a7d4f5d4c27a8f42cf4",
+      "originRaw": "https://gyazo.com/16ef1f330e9e5a7d4f5d4c27a8f42cf4/raw",
+      "id": "sha256:ee58ffe7dca18e90d293444d67cdf52437a5d7abdfc944804adbf89e94b6d828",
+      "status": "ok",
+      "width": 1080,
+      "height": 608,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ee/ee58ffe7dca18e90d293444d67cdf52437a5d7abdfc944804adbf89e94b6d828.thumb.webp",
+        "full": "img/ee/ee58ffe7dca18e90d293444d67cdf52437a5d7abdfc944804adbf89e94b6d828.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:04.766Z"
+    },
+    {
+      "origin": "https://gyazo.com/c34b260397c8cccc18867455727088d1",
+      "originRaw": "https://gyazo.com/c34b260397c8cccc18867455727088d1/raw",
+      "id": "sha256:34c91d4b37046dde2c5be5555cec4972881b8f6ffabf0972a06d0278c6b23473",
+      "status": "ok",
+      "width": 1080,
+      "height": 608,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/34/34c91d4b37046dde2c5be5555cec4972881b8f6ffabf0972a06d0278c6b23473.thumb.webp",
+        "full": "img/34/34c91d4b37046dde2c5be5555cec4972881b8f6ffabf0972a06d0278c6b23473.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:06.527Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Places%20I%20bring%20my%20Cyberdeck%20to%3A",
+    "created": "2026-05-08T14:28:32.000Z",
+    "updated": "2026-05-08T14:29:15.000Z",
+    "views": 1,
+    "thumbnail": "https://gyazo.com/0c460bda203035cf4d621c2d3630fbee/raw"
+  }
+}

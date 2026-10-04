@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "6a19a66e788b21d054e8f2d1",
+  "title": "My current WIP",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1tcn0zj/my_current_wip/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/cbd312504562a5edc410081f5ca8523b",
+      "originRaw": "https://gyazo.com/cbd312504562a5edc410081f5ca8523b/raw",
+      "id": "sha256:693d7de242e9dbd7c3b3794ba846bac2b3cf94186ac0af0fc6b38cb3a28deb42",
+      "status": "ok",
+      "width": 640,
+      "height": 549,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/69/693d7de242e9dbd7c3b3794ba846bac2b3cf94186ac0af0fc6b38cb3a28deb42.thumb.webp",
+        "full": "img/69/693d7de242e9dbd7c3b3794ba846bac2b3cf94186ac0af0fc6b38cb3a28deb42.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:34.242Z"
+    },
+    {
+      "origin": "https://gyazo.com/b63bdccfa2b5a4de6f5d3ffef7cc06de",
+      "originRaw": "https://gyazo.com/b63bdccfa2b5a4de6f5d3ffef7cc06de/raw",
+      "id": "sha256:1ead7afb0051e875e2d6d53953deabc8c85eea2879f0fa2fd0bc9adda2bd2bf8",
+      "status": "ok",
+      "width": 1080,
+      "height": 692,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1e/1ead7afb0051e875e2d6d53953deabc8c85eea2879f0fa2fd0bc9adda2bd2bf8.thumb.webp",
+        "full": "img/1e/1ead7afb0051e875e2d6d53953deabc8c85eea2879f0fa2fd0bc9adda2bd2bf8.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:35.582Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20current%20WIP",
+    "created": "2026-05-29T14:45:06.000Z",
+    "updated": "2026-05-29T14:45:16.000Z",
+    "views": 7,
+    "thumbnail": "https://gyazo.com/cbd312504562a5edc410081f5ca8523b/raw"
+  }
+}

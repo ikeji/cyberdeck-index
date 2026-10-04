@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "687a412b8cc4778b7d219f40",
+  "title": "A ruggedized multi-display cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1lv8bqk/a_ruggedized_multidisplay_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/3787d00dbb74b33f0a1c00ce105663fa",
+      "originRaw": "https://gyazo.com/3787d00dbb74b33f0a1c00ce105663fa/raw",
+      "id": "sha256:1a93a253573eab06c7e6840e098186dd0faab26ed0ac7b3d79ef0bd25a46e8b7",
+      "status": "ok",
+      "width": 1080,
+      "height": 658,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1a/1a93a253573eab06c7e6840e098186dd0faab26ed0ac7b3d79ef0bd25a46e8b7.thumb.webp",
+        "full": "img/1a/1a93a253573eab06c7e6840e098186dd0faab26ed0ac7b3d79ef0bd25a46e8b7.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:45.637Z"
+    },
+    {
+      "origin": "https://gyazo.com/ce42b830c1ab86b50420f75afaac7b1d",
+      "originRaw": "https://gyazo.com/ce42b830c1ab86b50420f75afaac7b1d/raw",
+      "id": "sha256:cebbff6f586333df6462449df0d21888eaeda892baf5671ec632ce33d0242b81",
+      "status": "ok",
+      "width": 1080,
+      "height": 937,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ce/cebbff6f586333df6462449df0d21888eaeda892baf5671ec632ce33d0242b81.thumb.webp",
+        "full": "img/ce/cebbff6f586333df6462449df0d21888eaeda892baf5671ec632ce33d0242b81.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:47.588Z"
+    },
+    {
+      "origin": "https://gyazo.com/8672385c9971cc51d5978ad2def120e3",
+      "originRaw": "https://gyazo.com/8672385c9971cc51d5978ad2def120e3/raw",
+      "id": "sha256:54279f6a3d1f44bc0c96b2959e256e27f871efa95a517682c4b45be5612f901b",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/54/54279f6a3d1f44bc0c96b2959e256e27f871efa95a517682c4b45be5612f901b.thumb.webp",
+        "full": "img/54/54279f6a3d1f44bc0c96b2959e256e27f871efa95a517682c4b45be5612f901b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:49.343Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/A%20ruggedized%20multi-display%20cyberdeck",
+    "created": "2025-07-18T12:42:22.000Z",
+    "updated": "2025-07-18T12:43:16.000Z",
+    "views": 7,
+    "thumbnail": "https://gyazo.com/3787d00dbb74b33f0a1c00ce105663fa/raw"
+  }
+}

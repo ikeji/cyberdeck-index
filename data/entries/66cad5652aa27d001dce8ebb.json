@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad5652aa27d001dce8ebb",
+  "title": "Usb-c power solution. : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1eooetv/usbc_power_solution/",
+    "site": "reddit",
+    "label": "Usb-c power solution. : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad56833c2cc001c5945d9.png",
+      "originRaw": "https://scrapbox.io/files/66cad56833c2cc001c5945d9.png",
+      "id": "sha256:692d98c618dfbb495622cc38fde49d0033841a092695b9698396eb8c6be58d29",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/69/692d98c618dfbb495622cc38fde49d0033841a092695b9698396eb8c6be58d29.thumb.webp",
+        "full": "img/69/692d98c618dfbb495622cc38fde49d0033841a092695b9698396eb8c6be58d29.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:10.098Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Usb-c%20power%20solution.%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:55:33.000Z",
+    "updated": "2024-08-25T06:55:39.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/66cad56833c2cc001c5945d9.png"
+  }
+}

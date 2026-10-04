@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad39e9f1774001c0d305e",
+  "title": "WIP - YARH.IO M4 Handheld with a desk stand : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1cufa0g/wip_yarhio_m4_handheld_with_a_desk_stand/",
+    "site": "reddit",
+    "label": "WIP - YARH.IO M4 Handheld with a desk stand : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad3a19a1a7d001de12cd6.png",
+      "originRaw": "https://scrapbox.io/files/66cad3a19a1a7d001de12cd6.png",
+      "id": "sha256:f4b9d08119d9c4819bbae52592254ed8faadae84031b4a8d8bf9dcc43971ff55",
+      "status": "ok",
+      "width": 1200,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f4/f4b9d08119d9c4819bbae52592254ed8faadae84031b4a8d8bf9dcc43971ff55.thumb.webp",
+        "full": "img/f4/f4b9d08119d9c4819bbae52592254ed8faadae84031b4a8d8bf9dcc43971ff55.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:05.847Z"
+    }
+  ],
+  "tags": [
+    "yarh.io"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/WIP%20-%20YARH.IO%20M4%20Handheld%20with%20a%20desk%20stand%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:47:59.000Z",
+    "updated": "2024-08-25T06:48:13.000Z",
+    "views": 10,
+    "thumbnail": "https://scrapbox.io/files/66cad3a19a1a7d001de12cd6.png"
+  }
+}

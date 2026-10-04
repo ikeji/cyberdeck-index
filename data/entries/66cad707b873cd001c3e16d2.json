@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad707b873cd001c3e16d2",
+  "title": "Cool design I saw on r/196, : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1dfhrfj/cool_design_i_saw_on_r196/",
+    "site": "reddit",
+    "label": "Cool design I saw on r/196, : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad70be73d3b001ca070ad.png",
+      "originRaw": "https://scrapbox.io/files/66cad70be73d3b001ca070ad.png",
+      "id": "sha256:6ff167883a1a1916ca1c1e26b967685b73235f6d0b008fcdefc268a6ebd9f391",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6f/6ff167883a1a1916ca1c1e26b967685b73235f6d0b008fcdefc268a6ebd9f391.thumb.webp",
+        "full": "img/6f/6ff167883a1a1916ca1c1e26b967685b73235f6d0b008fcdefc268a6ebd9f391.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:15.859Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cool%20design%20I%20saw%20on%20r%2F196%2C%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T07:02:32.000Z",
+    "updated": "2024-08-25T07:02:40.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/66cad70be73d3b001ca070ad.png"
+  }
+}

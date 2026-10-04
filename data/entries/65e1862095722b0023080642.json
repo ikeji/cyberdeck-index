@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e1862095722b0023080642",
+  "title": "My Macronitor v2. Dedicated deck for system monitoring and app launching. I’ll leave details in the comments. : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/vbpptn/my_macronitor_v2_dedicated_deck_for_system/",
+    "site": "reddit",
+    "label": "My Macronitor v2. Dedicated deck for system monitoring and app launching. I’ll leave details in the comments. : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18622d602fc0026959342.png",
+      "originRaw": "https://scrapbox.io/files/65e18622d602fc0026959342.png",
+      "id": "sha256:d5f29c2e8d0922c1f975d4a625e36888ab40f5faba042eacca82f685bdc3b7ce",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d5/d5f29c2e8d0922c1f975d4a625e36888ab40f5faba042eacca82f685bdc3b7ce.thumb.webp",
+        "full": "img/d5/d5f29c2e8d0922c1f975d4a625e36888ab40f5faba042eacca82f685bdc3b7ce.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:32.029Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20Macronitor%20v2.%20Dedicated%20deck%20for%20system%20monitoring%20and%20app%20launching.%20I%E2%80%99ll%20leave%20details%20in%20the%20comments.%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:39:13.000Z",
+    "updated": "2024-03-01T07:39:18.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/65e18622d602fc0026959342.png"
+  }
+}

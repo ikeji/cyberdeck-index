@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "6abff06d8a697e7c8f084e8a",
+  "title": "BashfulDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1w7ownk/bashfuldeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/76f4eed936472bca30e10fd285e42e51",
+      "originRaw": "https://gyazo.com/76f4eed936472bca30e10fd285e42e51/raw",
+      "id": "sha256:058bfe0a8417e16e66bbdc6fa264025ba894645f0f4a0ff2ac5a92355da46473",
+      "status": "ok",
+      "width": 1540,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/05/058bfe0a8417e16e66bbdc6fa264025ba894645f0f4a0ff2ac5a92355da46473.thumb.webp",
+        "full": "img/05/058bfe0a8417e16e66bbdc6fa264025ba894645f0f4a0ff2ac5a92355da46473.webp"
+      },
+      "fetchedAt": "2026-10-02T18:19:17.301Z"
+    },
+    {
+      "origin": "https://gyazo.com/d77595f75612b1048e19be45e4d586ff",
+      "originRaw": "https://gyazo.com/d77595f75612b1048e19be45e4d586ff/raw",
+      "id": "sha256:fdda808e419d5b637c36f11cdec7108d444e1ff3975a108719793fa189aaf283",
+      "status": "ok",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/fd/fdda808e419d5b637c36f11cdec7108d444e1ff3975a108719793fa189aaf283.thumb.webp",
+        "full": "img/fd/fdda808e419d5b637c36f11cdec7108d444e1ff3975a108719793fa189aaf283.webp"
+      },
+      "fetchedAt": "2026-10-02T18:19:17.698Z"
+    },
+    {
+      "origin": "https://gyazo.com/869bd7a6d42df0508cb4f20a0d04ecd5",
+      "originRaw": "https://gyazo.com/869bd7a6d42df0508cb4f20a0d04ecd5/raw",
+      "id": "sha256:ff2c6e9b7ff047f21f6ba607c1d50ec940ab360b4afab1a4147d6e1f09ffe8f1",
+      "status": "ok",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ff/ff2c6e9b7ff047f21f6ba607c1d50ec940ab360b4afab1a4147d6e1f09ffe8f1.thumb.webp",
+        "full": "img/ff/ff2c6e9b7ff047f21f6ba607c1d50ec940ab360b4afab1a4147d6e1f09ffe8f1.webp"
+      },
+      "fetchedAt": "2026-10-02T18:19:17.894Z"
+    },
+    {
+      "origin": "https://gyazo.com/da30c883e9f28c4dad46aa044d334df6",
+      "originRaw": "https://gyazo.com/da30c883e9f28c4dad46aa044d334df6/raw",
+      "id": "sha256:6f3cec6c706c9cd830dc3cf6927e6ce29d44aa31b93103b963ba983568f1bb3b",
+      "status": "ok",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6f/6f3cec6c706c9cd830dc3cf6927e6ce29d44aa31b93103b963ba983568f1bb3b.thumb.webp",
+        "full": "img/6f/6f3cec6c706c9cd830dc3cf6927e6ce29d44aa31b93103b963ba983568f1bb3b.webp"
+      },
+      "fetchedAt": "2026-10-02T18:19:18.389Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/BashfulDeck",
+    "created": "2026-10-02T17:57:08.000Z",
+    "updated": "2026-10-02T17:57:36.000Z",
+    "views": 0,
+    "thumbnail": "https://gyazo.com/76f4eed936472bca30e10fd285e42e51/raw"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66f6ad6756c908001c45bc99",
+  "title": "Making some progress",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1f1zl86/making_some_progress/#lightbox",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66f6ad6b03568c001c3c531f.png",
+      "originRaw": "https://scrapbox.io/files/66f6ad6b03568c001c3c531f.png",
+      "id": "sha256:54b12972dda59b7d6cb2e81da58c0ef6e8f4d65c08935a373d748158f8d72c15",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/54/54b12972dda59b7d6cb2e81da58c0ef6e8f4d65c08935a373d748158f8d72c15.thumb.webp",
+        "full": "img/54/54b12972dda59b7d6cb2e81da58c0ef6e8f4d65c08935a373d748158f8d72c15.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:19.743Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Making%20some%20progress",
+    "created": "2024-09-27T13:04:49.000Z",
+    "updated": "2024-09-27T13:04:58.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/66f6ad6b03568c001c3c531f.png"
+  }
+}

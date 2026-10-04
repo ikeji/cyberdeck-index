@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "685ea08d0b3fff2c6a306824",
+  "title": "Printed and assembled prototype number 4 of the chassis for my cyberdeck. Happy with how things fit",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1lhybdy/printed_and_assembled_prototype_number_4_of_the/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/8ed79e5cfba8738a125a80be5dc7dd6a",
+      "originRaw": "https://gyazo.com/8ed79e5cfba8738a125a80be5dc7dd6a/raw",
+      "id": "sha256:a8530f7c4c5242ddb6a198fdfecf77b14d90711023140e5b957bafc77808c42a",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a8/a8530f7c4c5242ddb6a198fdfecf77b14d90711023140e5b957bafc77808c42a.thumb.webp",
+        "full": "img/a8/a8530f7c4c5242ddb6a198fdfecf77b14d90711023140e5b957bafc77808c42a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:27.762Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Printed%20and%20assembled%20prototype%20number%204%20of%20the%20chassis%20for%20my%20cyberdeck.%20Happy%20with%20how%20things%20fit",
+    "created": "2025-06-27T13:45:52.000Z",
+    "updated": "2025-06-27T13:46:35.000Z",
+    "views": 7,
+    "thumbnail": "https://gyazo.com/8ed79e5cfba8738a125a80be5dc7dd6a/raw"
+  }
+}

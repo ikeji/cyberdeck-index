@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "69e247bf8ec748f58a201a2d",
+  "title": "WIP - Using Plans from another user",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1sh2vbs/wip_using_plans_from_another_user/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/ccf84c8879ba2a41d20af3684caa3b0f",
+      "originRaw": "https://gyazo.com/ccf84c8879ba2a41d20af3684caa3b0f/raw",
+      "id": "sha256:842a3bb39e985c00a0eaa8eed9f09e6d47d60bb4b5f89393dd3fdd9b4375c7d7",
+      "status": "ok",
+      "width": 1200,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/84/842a3bb39e985c00a0eaa8eed9f09e6d47d60bb4b5f89393dd3fdd9b4375c7d7.thumb.webp",
+        "full": "img/84/842a3bb39e985c00a0eaa8eed9f09e6d47d60bb4b5f89393dd3fdd9b4375c7d7.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:11.117Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/WIP%20-%20Using%20Plans%20from%20another%20user",
+    "created": "2026-04-17T14:46:28.000Z",
+    "updated": "2026-04-17T14:46:37.000Z",
+    "views": 6,
+    "thumbnail": "https://gyazo.com/ccf84c8879ba2a41d20af3684caa3b0f/raw"
+  }
+}

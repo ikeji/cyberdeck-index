@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "68b1b23455e57ef0c03f4ff4",
+  "title": "Tore down my cyberdeck and redesigned from the ground up",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1mtcr4e/tore_down_my_cyberdeck_and_redesigned_from_the/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/3b42e319b18d22f04ae23e151733a3e0",
+      "originRaw": "https://gyazo.com/3b42e319b18d22f04ae23e151733a3e0/raw",
+      "id": "sha256:2d5cdf2190ac03c285b2e67a540f4b18b68ee3f47877e14ade108d94c7584d51",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/2d/2d5cdf2190ac03c285b2e67a540f4b18b68ee3f47877e14ade108d94c7584d51.thumb.webp",
+        "full": "img/2d/2d5cdf2190ac03c285b2e67a540f4b18b68ee3f47877e14ade108d94c7584d51.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:35.556Z"
+    },
+    {
+      "origin": "https://gyazo.com/23111496315d61253d916be44c58f1c6",
+      "originRaw": "https://gyazo.com/23111496315d61253d916be44c58f1c6/raw",
+      "id": "sha256:9109826e02b8ffca4f23165dda2068561469514759a2a94302a11c969f0ce722",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/91/9109826e02b8ffca4f23165dda2068561469514759a2a94302a11c969f0ce722.thumb.webp",
+        "full": "img/91/9109826e02b8ffca4f23165dda2068561469514759a2a94302a11c969f0ce722.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:36.861Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Tore%20down%20my%20cyberdeck%20and%20redesigned%20from%20the%20ground%20up",
+    "created": "2025-08-29T13:59:31.000Z",
+    "updated": "2025-08-29T13:59:45.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/3b42e319b18d22f04ae23e151733a3e0/raw"
+  }
+}

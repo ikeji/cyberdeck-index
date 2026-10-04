@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6842ec202ca43728074576d3",
+  "title": "Eink Android with slide out physical keyboard?",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1kvrsrj/eink_android_with_slide_out_physical_keyboard/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/1d73d78f66e8846b209155161a6fc814",
+      "originRaw": "https://gyazo.com/1d73d78f66e8846b209155161a6fc814/raw",
+      "id": "sha256:a8a46bb30da98caace627f33a9ee60b37d616689f4ec57b4254e0599f68936ba",
+      "status": "ok",
+      "width": 640,
+      "height": 474,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a8/a8a46bb30da98caace627f33a9ee60b37d616689f4ec57b4254e0599f68936ba.thumb.webp",
+        "full": "img/a8/a8a46bb30da98caace627f33a9ee60b37d616689f4ec57b4254e0599f68936ba.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:22.998Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Eink%20Android%20with%20slide%20out%20physical%20keyboard%3F",
+    "created": "2025-06-06T13:24:52.000Z",
+    "updated": "2025-06-06T13:25:28.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/1d73d78f66e8846b209155161a6fc814/raw"
+  }
+}

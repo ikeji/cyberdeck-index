@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "685ea63af2cb1d0d7e3810ac",
+  "title": "TheBRICK, My first deck with a fully custom 3d printed enclosure!",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1le5gxy/thebrick_my_first_deck_with_a_fully_custom_3d/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/6da44f7adbb67c8f0eb52557d3945673",
+      "originRaw": "https://gyazo.com/6da44f7adbb67c8f0eb52557d3945673/raw",
+      "id": "sha256:4ae47b4c907ad2fbd30e1779ca6770fd82d8c314851026c5e41246ecd2761ab7",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4a/4ae47b4c907ad2fbd30e1779ca6770fd82d8c314851026c5e41246ecd2761ab7.thumb.webp",
+        "full": "img/4a/4ae47b4c907ad2fbd30e1779ca6770fd82d8c314851026c5e41246ecd2761ab7.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:31.079Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/TheBRICK%2C%20My%20first%20deck%20with%20a%20fully%20custom%203d%20printed%20enclosure!",
+    "created": "2025-06-27T14:10:08.000Z",
+    "updated": "2025-06-27T14:10:13.000Z",
+    "views": 7,
+    "thumbnail": "https://gyazo.com/6da44f7adbb67c8f0eb52557d3945673/raw"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "69fdf1c8c0b5da0d5142e089",
+  "title": "Project my 12 year old and I built over the last couple of weeks",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1szezgm/project_my_12_year_old_and_i_built_over_the_last/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/74f859b3cabaa72c040ac3623b803dfd",
+      "originRaw": "https://gyazo.com/74f859b3cabaa72c040ac3623b803dfd/raw",
+      "id": "sha256:faff6f9df599ba2de1338fef1e347f72cf0fc041894b96ea1ff3f19cc7781760",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/fa/faff6f9df599ba2de1338fef1e347f72cf0fc041894b96ea1ff3f19cc7781760.thumb.webp",
+        "full": "img/fa/faff6f9df599ba2de1338fef1e347f72cf0fc041894b96ea1ff3f19cc7781760.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:52.686Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Project%20my%2012%20year%20old%20and%20I%20built%20over%20the%20last%20couple%20of%20weeks",
+    "created": "2026-05-08T14:23:36.000Z",
+    "updated": "2026-05-08T14:26:24.000Z",
+    "views": 2,
+    "thumbnail": "https://gyazo.com/74f859b3cabaa72c040ac3623b803dfd/raw"
+  }
+}

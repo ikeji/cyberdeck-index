@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "679cdb0dc1f27ee6b1317a5d",
+  "title": "Cyberboy v1.0 : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1i4mcqq/cyberboy_v10/",
+    "site": "reddit",
+    "label": "Cyberboy v1.0 : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/679cdb5089657f6878cc6215.png",
+      "originRaw": "https://scrapbox.io/files/679cdb5089657f6878cc6215.png",
+      "id": "sha256:c9ba1da4d3e3f8eb10871a8003997024938e5e1e57d17381641ec5503b442d89",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c9/c9ba1da4d3e3f8eb10871a8003997024938e5e1e57d17381641ec5503b442d89.thumb.webp",
+        "full": "img/c9/c9ba1da4d3e3f8eb10871a8003997024938e5e1e57d17381641ec5503b442d89.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:36.004Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cyberboy%20v1.0%20%3A%20r%2FcyberDeck",
+    "created": "2025-01-31T14:15:43.000Z",
+    "updated": "2025-01-31T14:16:52.000Z",
+    "views": 10,
+    "thumbnail": "https://scrapbox.io/files/679cdb5089657f6878cc6215.png"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "6920668efbd8089d7f61500b",
+  "title": "Weekly Cyberdeck Challenge #4: Compact Desk Terminal",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1os09za/weekly_cyberdeck_challenge_4_compact_desk_terminal/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/a19f4e51b150b7db15641108a67623b3",
+      "originRaw": "https://gyazo.com/a19f4e51b150b7db15641108a67623b3/raw",
+      "id": "sha256:23caecba28d8df1d14dd50bb55397f09b510a9cee47be6c37d19c270fb5f6331",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/23/23caecba28d8df1d14dd50bb55397f09b510a9cee47be6c37d19c270fb5f6331.thumb.webp",
+        "full": "img/23/23caecba28d8df1d14dd50bb55397f09b510a9cee47be6c37d19c270fb5f6331.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:32.749Z"
+    },
+    {
+      "origin": "https://gyazo.com/e4b02fada78b0ccc0bef4a53d7fb362d",
+      "originRaw": "https://gyazo.com/e4b02fada78b0ccc0bef4a53d7fb362d/raw",
+      "id": "sha256:6b02a6e00d50153eccb909db77b5f478aa17f42002cf443f9cb56738ec54b625",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6b/6b02a6e00d50153eccb909db77b5f478aa17f42002cf443f9cb56738ec54b625.thumb.webp",
+        "full": "img/6b/6b02a6e00d50153eccb909db77b5f478aa17f42002cf443f9cb56738ec54b625.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:34.106Z"
+    },
+    {
+      "origin": "https://gyazo.com/63d6c183de4426fdf33f5025dc84ddb5",
+      "originRaw": "https://gyazo.com/63d6c183de4426fdf33f5025dc84ddb5/raw",
+      "id": "sha256:78eb665bf5253be3acae0606b2698051ee2202cfd94e713db744fa916689bf1a",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/78/78eb665bf5253be3acae0606b2698051ee2202cfd94e713db744fa916689bf1a.thumb.webp",
+        "full": "img/78/78eb665bf5253be3acae0606b2698051ee2202cfd94e713db744fa916689bf1a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:36.086Z"
+    },
+    {
+      "origin": "https://gyazo.com/6f89abdd1fc2aaefec4c64bf74405635",
+      "originRaw": "https://gyazo.com/6f89abdd1fc2aaefec4c64bf74405635/raw",
+      "id": "sha256:9759c9ce17207136df65ae77b5920426260724de79d32f8af0c837f8c288de61",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/97/9759c9ce17207136df65ae77b5920426260724de79d32f8af0c837f8c288de61.thumb.webp",
+        "full": "img/97/9759c9ce17207136df65ae77b5920426260724de79d32f8af0c837f8c288de61.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:38.218Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Weekly%20Cyberdeck%20Challenge%20%234%3A%20Compact%20Desk%20Terminal",
+    "created": "2025-11-21T13:18:40.000Z",
+    "updated": "2025-11-21T13:23:44.000Z",
+    "views": 0,
+    "thumbnail": "https://gyazo.com/a19f4e51b150b7db15641108a67623b3/raw"
+  }
+}

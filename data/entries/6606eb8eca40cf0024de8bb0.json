@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6606eb8eca40cf0024de8bb0",
+  "title": "WriterDeck with Samsung S8, using an old mobile phone to make a journal writing device for my daughter. : r/writerDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/writerDeck/comments/1bfhnfz/writerdeck_with_samsung_s8_using_an_old_mobile/",
+    "site": "reddit",
+    "label": "WriterDeck with Samsung S8, using an old mobile phone to make a journal writing device for my daughter. : r/writerDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6606eb90e6fe8000254bd103.png",
+      "originRaw": "https://scrapbox.io/files/6606eb90e6fe8000254bd103.png",
+      "id": "sha256:4108ef5370bd63b91f5c93aa0e778a13b4af621b26293b8ac45b44cf422660a6",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/41/4108ef5370bd63b91f5c93aa0e778a13b4af621b26293b8ac45b44cf422660a6.thumb.webp",
+        "full": "img/41/4108ef5370bd63b91f5c93aa0e778a13b4af621b26293b8ac45b44cf422660a6.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:58.971Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/WriterDeck%20with%20Samsung%20S8%2C%20using%20an%20old%20mobile%20phone%20to%20make%20a%20journal%20writing%20device%20for%20my%20daughter.%20%3A%20r%2FwriterDeck",
+    "created": "2024-03-29T16:25:51.000Z",
+    "updated": "2024-03-29T16:25:58.000Z",
+    "views": 18,
+    "thumbnail": "https://scrapbox.io/files/6606eb90e6fe8000254bd103.png"
+  }
+}

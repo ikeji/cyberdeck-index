@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "65e15930187bfc0024edc097",
+  "title": "LoRa MSG",
+  "source": {
+    "url": "https://www.msglab.co/project/lo-ra-msg",
+    "site": "web",
+    "label": "LoRa MSG"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e15938fa294c00242ca38b.png",
+      "originRaw": "https://scrapbox.io/files/65e15938fa294c00242ca38b.png",
+      "id": "sha256:2b48733686d1cc3e2d28aa68144c370c60a9449a5150d79febfe36950a5b283d",
+      "status": "ok",
+      "width": 1200,
+      "height": 675,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/2b/2b48733686d1cc3e2d28aa68144c370c60a9449a5150d79febfe36950a5b283d.thumb.webp",
+        "full": "img/2b/2b48733686d1cc3e2d28aa68144c370c60a9449a5150d79febfe36950a5b283d.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:14.253Z"
+    }
+  ],
+  "tags": [],
+  "related": [
+    "PDA用キーボード"
+  ],
+  "comment": "Cortex M4\nLoRa",
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/LoRa%20MSG",
+    "created": "2024-03-01T04:27:29.000Z",
+    "updated": "2024-03-01T04:49:17.000Z",
+    "views": 14,
+    "thumbnail": "https://scrapbox.io/files/65e15938fa294c00242ca38b.png"
+  }
+}

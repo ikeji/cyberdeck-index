@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e17ef7dec25d0025c2d46b",
+  "title": "How about an ergo cyberdeck? : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/ln1ao8/how_about_an_ergo_cyberdeck/",
+    "site": "reddit",
+    "label": "How about an ergo cyberdeck? : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e17efae25eb000256da6b5.png",
+      "originRaw": "https://scrapbox.io/files/65e17efae25eb000256da6b5.png",
+      "id": "sha256:dd103a59df7dc43a8152f667ae6432bd7eb35d57a775b465814ad79e1d8721a9",
+      "status": "ok",
+      "width": 982,
+      "height": 685,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/dd/dd103a59df7dc43a8152f667ae6432bd7eb35d57a775b465814ad79e1d8721a9.thumb.webp",
+        "full": "img/dd/dd103a59df7dc43a8152f667ae6432bd7eb35d57a775b465814ad79e1d8721a9.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:17.022Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/How%20about%20an%20ergo%20cyberdeck%3F%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:08:40.000Z",
+    "updated": "2024-03-01T07:08:46.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/65e17efae25eb000256da6b5.png"
+  }
+}

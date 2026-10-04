@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "6aa4007db7b2c4f22e806265",
+  "title": "Microcifra 26",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1vw4fda/microcifra_26/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/5974b42d5f594b365a1b75fb08ab4882",
+      "originRaw": "https://gyazo.com/5974b42d5f594b365a1b75fb08ab4882/raw",
+      "id": "sha256:8f9707df831ff3424773b687cd755fa37e886787896be74c6992c0819fb55e41",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/8f/8f9707df831ff3424773b687cd755fa37e886787896be74c6992c0819fb55e41.thumb.webp",
+        "full": "img/8f/8f9707df831ff3424773b687cd755fa37e886787896be74c6992c0819fb55e41.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:28.141Z"
+    },
+    {
+      "origin": "https://gyazo.com/bbd5cd834c2ce74b5a3840d0abc7f3b8",
+      "originRaw": "https://gyazo.com/bbd5cd834c2ce74b5a3840d0abc7f3b8/raw",
+      "id": "sha256:806c8796d7f1589b7d37727b5e36aab2b1b0c1d8870b99dbe1f8930aed723f70",
+      "status": "ok",
+      "width": 1080,
+      "height": 742,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/80/806c8796d7f1589b7d37727b5e36aab2b1b0c1d8870b99dbe1f8930aed723f70.thumb.webp",
+        "full": "img/80/806c8796d7f1589b7d37727b5e36aab2b1b0c1d8870b99dbe1f8930aed723f70.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:29.882Z"
+    },
+    {
+      "origin": "https://gyazo.com/beedb796af846205b35b15419450cb31",
+      "originRaw": "https://gyazo.com/beedb796af846205b35b15419450cb31/raw",
+      "id": "sha256:8ffdfa8bcba56619a98984abb7912e0ea46c30ec1269ba08bae8f8f7a7f49eea",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/8f/8ffdfa8bcba56619a98984abb7912e0ea46c30ec1269ba08bae8f8f7a7f49eea.thumb.webp",
+        "full": "img/8f/8ffdfa8bcba56619a98984abb7912e0ea46c30ec1269ba08bae8f8f7a7f49eea.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:31.486Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Microcifra%2026",
+    "created": "2026-09-11T13:22:06.000Z",
+    "updated": "2026-09-11T13:22:23.000Z",
+    "views": 0,
+    "thumbnail": "https://gyazo.com/5974b42d5f594b365a1b75fb08ab4882/raw"
+  }
+}

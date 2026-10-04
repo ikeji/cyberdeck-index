@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "6957df1d73134c68371ce4b4",
+  "title": "This took a while to build, but it has a lot of features",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ptxh6a/this_took_a_while_to_build_but_it_has_a_lot_of/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/da5646b836ddc948df7aea632efe9040",
+      "originRaw": "https://gyazo.com/da5646b836ddc948df7aea632efe9040/raw",
+      "id": "sha256:9550da83943a0994fe3c0da8594f268259444b027d72550010514267bf1d7e63",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/95/9550da83943a0994fe3c0da8594f268259444b027d72550010514267bf1d7e63.thumb.webp",
+        "full": "img/95/9550da83943a0994fe3c0da8594f268259444b027d72550010514267bf1d7e63.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:26.774Z"
+    },
+    {
+      "origin": "https://gyazo.com/7a7f39998c43b0808d257f595342770e",
+      "originRaw": "https://gyazo.com/7a7f39998c43b0808d257f595342770e/raw",
+      "id": "sha256:e4ac6a29dd7c2bb936e380e826d584725af8aeb71467d69ed848b6b6ccc12e02",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e4/e4ac6a29dd7c2bb936e380e826d584725af8aeb71467d69ed848b6b6ccc12e02.thumb.webp",
+        "full": "img/e4/e4ac6a29dd7c2bb936e380e826d584725af8aeb71467d69ed848b6b6ccc12e02.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:28.294Z"
+    },
+    {
+      "origin": "https://gyazo.com/7c8435d8ec373f60353cd8e8b986388c",
+      "originRaw": "https://gyazo.com/7c8435d8ec373f60353cd8e8b986388c/raw",
+      "id": "sha256:f491d15f1fa725027278c7729ec6bcd88b921e1879fc1fa813e26cad37a7e05e",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f4/f491d15f1fa725027278c7729ec6bcd88b921e1879fc1fa813e26cad37a7e05e.thumb.webp",
+        "full": "img/f4/f491d15f1fa725027278c7729ec6bcd88b921e1879fc1fa813e26cad37a7e05e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:30.006Z"
+    },
+    {
+      "origin": "https://gyazo.com/3ee887e43fd82cb21005fc247bcbd4ca",
+      "originRaw": "https://gyazo.com/3ee887e43fd82cb21005fc247bcbd4ca/raw",
+      "id": "sha256:30662a92e27799adac90c177d6dc739eb4a115bd330818b6468e1480c2007d6c",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/30/30662a92e27799adac90c177d6dc739eb4a115bd330818b6468e1480c2007d6c.thumb.webp",
+        "full": "img/30/30662a92e27799adac90c177d6dc739eb4a115bd330818b6468e1480c2007d6c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:32.007Z"
+    },
+    {
+      "origin": "https://gyazo.com/f40611f607bc146e31c821e911aefdfb",
+      "originRaw": "https://gyazo.com/f40611f607bc146e31c821e911aefdfb/raw",
+      "id": "sha256:7375a6ab77c8a394a8ff1fc4f319486b6c0aa298df5cf9994bb14fc8f2ec6156",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/73/7375a6ab77c8a394a8ff1fc4f319486b6c0aa298df5cf9994bb14fc8f2ec6156.thumb.webp",
+        "full": "img/73/7375a6ab77c8a394a8ff1fc4f319486b6c0aa298df5cf9994bb14fc8f2ec6156.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:33.953Z"
+    },
+    {
+      "origin": "https://gyazo.com/aff891beae19fcdc923095656cc3a6b2",
+      "originRaw": "https://gyazo.com/aff891beae19fcdc923095656cc3a6b2/raw",
+      "id": "sha256:1d20f7e0f514be6946bc2d7f9e3857cd514f6762742fe5ce3f1ea4f8f908d91c",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1d/1d20f7e0f514be6946bc2d7f9e3857cd514f6762742fe5ce3f1ea4f8f908d91c.thumb.webp",
+        "full": "img/1d/1d20f7e0f514be6946bc2d7f9e3857cd514f6762742fe5ce3f1ea4f8f908d91c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:35.863Z"
+    },
+    {
+      "origin": "https://gyazo.com/38f6d764fbb99774cd12524708629f89",
+      "originRaw": "https://gyazo.com/38f6d764fbb99774cd12524708629f89/raw",
+      "id": "sha256:1c05343e75527d0b94dac469b4fb9ec54ef05f9d142b02946fe3ab7b826d47f3",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1c/1c05343e75527d0b94dac469b4fb9ec54ef05f9d142b02946fe3ab7b826d47f3.thumb.webp",
+        "full": "img/1c/1c05343e75527d0b94dac469b4fb9ec54ef05f9d142b02946fe3ab7b826d47f3.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:37.942Z"
+    },
+    {
+      "origin": "https://gyazo.com/0e29c39039be08e6194a13e505a87b58",
+      "originRaw": "https://gyazo.com/0e29c39039be08e6194a13e505a87b58/raw",
+      "id": "sha256:c631fbcca331fae7149de53c8f474c9f001a1f63c0401e68811dcc318084313a",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c6/c631fbcca331fae7149de53c8f474c9f001a1f63c0401e68811dcc318084313a.thumb.webp",
+        "full": "img/c6/c631fbcca331fae7149de53c8f474c9f001a1f63c0401e68811dcc318084313a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:39.816Z"
+    },
+    {
+      "origin": "https://gyazo.com/7ab954cbc352c0b4c628b70db81c9524",
+      "originRaw": "https://gyazo.com/7ab954cbc352c0b4c628b70db81c9524/raw",
+      "id": "sha256:a04598cfcc5b3d144562c777fc433210630f0f02240c9f14807613a4aff7c44b",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a0/a04598cfcc5b3d144562c777fc433210630f0f02240c9f14807613a4aff7c44b.thumb.webp",
+        "full": "img/a0/a04598cfcc5b3d144562c777fc433210630f0f02240c9f14807613a4aff7c44b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:41.598Z"
+    },
+    {
+      "origin": "https://gyazo.com/b5e87f6fd395fca142d0b4a3ca85acee",
+      "originRaw": "https://gyazo.com/b5e87f6fd395fca142d0b4a3ca85acee/raw",
+      "id": "sha256:c91de271cdd95356e7ad40066336051d6eba2686dce9bd247f14dd9f8041a12b",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c9/c91de271cdd95356e7ad40066336051d6eba2686dce9bd247f14dd9f8041a12b.thumb.webp",
+        "full": "img/c9/c91de271cdd95356e7ad40066336051d6eba2686dce9bd247f14dd9f8041a12b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:43.377Z"
+    },
+    {
+      "origin": "https://gyazo.com/6f8897ce635a27dc4ef3ae0b5729d6f0",
+      "originRaw": "https://gyazo.com/6f8897ce635a27dc4ef3ae0b5729d6f0/raw",
+      "id": "sha256:6ff2957bfecc65d5d7db8c53d5e3e82b5de495b17b91237d1d31513a3edaca31",
+      "status": "ok",
+      "width": 800,
+      "height": 450,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6f/6ff2957bfecc65d5d7db8c53d5e3e82b5de495b17b91237d1d31513a3edaca31.thumb.webp",
+        "full": "img/6f/6ff2957bfecc65d5d7db8c53d5e3e82b5de495b17b91237d1d31513a3edaca31.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:44.542Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/This%20took%20a%20while%20to%20build%2C%20but%20it%20has%20a%20lot%20of%20features",
+    "created": "2026-01-02T15:07:20.000Z",
+    "updated": "2026-01-02T15:08:34.000Z",
+    "views": 17,
+    "thumbnail": "https://gyazo.com/da5646b836ddc948df7aea632efe9040/raw"
+  }
+}

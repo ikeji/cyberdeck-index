@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "679cdbbbf0d0f279b93b1223",
+  "title": "Couldn't wait for Pilet, so I made my own : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1hzvzyr/couldnt_wait_for_pilet_so_i_made_my_own/",
+    "site": "reddit",
+    "label": "Couldn't wait for Pilet, so I made my own : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/679cdbbe32ce29a715cd9565.png",
+      "originRaw": "https://scrapbox.io/files/679cdbbe32ce29a715cd9565.png",
+      "id": "sha256:0880d1fa0af1460e07eb348bad6505d19f6c703f78f033235ac543453d5563ba",
+      "status": "ok",
+      "width": 1080,
+      "height": 831,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/08/0880d1fa0af1460e07eb348bad6505d19f6c703f78f033235ac543453d5563ba.thumb.webp",
+        "full": "img/08/0880d1fa0af1460e07eb348bad6505d19f6c703f78f033235ac543453d5563ba.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:37.202Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Couldn't%20wait%20for%20Pilet%2C%20so%20I%20made%20my%20own%20%3A%20r%2FcyberDeck",
+    "created": "2025-01-31T14:18:36.000Z",
+    "updated": "2025-01-31T14:18:42.000Z",
+    "views": 3,
+    "thumbnail": "https://scrapbox.io/files/679cdbbe32ce29a715cd9565.png"
+  }
+}

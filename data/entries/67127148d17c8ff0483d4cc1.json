@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67127148d17c8ff0483d4cc1",
+  "title": "Can someone make me this? I'll buy.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1g2j1f1/can_someone_make_me_this_ill_buy/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6712717a8482f6b58adb5f32.png",
+      "originRaw": "https://scrapbox.io/files/6712717a8482f6b58adb5f32.png",
+      "id": "sha256:c273227b37919eb413c7cf050a2ab01792fad583285a9594e7d4bedd88a84ff9",
+      "status": "ok",
+      "width": 500,
+      "height": 1050,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c2/c273227b37919eb413c7cf050a2ab01792fad583285a9594e7d4bedd88a84ff9.thumb.webp",
+        "full": "img/c2/c273227b37919eb413c7cf050a2ab01792fad583285a9594e7d4bedd88a84ff9.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:25.977Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Can%20someone%20make%20me%20this%3F%20I'll%20buy.",
+    "created": "2024-10-18T14:32:26.000Z",
+    "updated": "2024-10-18T14:32:39.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/6712717a8482f6b58adb5f32.png"
+  }
+}

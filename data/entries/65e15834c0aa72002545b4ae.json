@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e15834c0aa72002545b4ae",
+  "title": "Mobile Media Bot",
+  "source": {
+    "url": "https://www.doscher.com/mobile-media-bot/",
+    "site": "web",
+    "label": "Mobile Media Bot"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e15836f0e939002573afcb.png",
+      "originRaw": "https://scrapbox.io/files/65e15836f0e939002573afcb.png",
+      "id": "sha256:1e87892698a7c84e3ac9b8773177d9a8b61d43509c40c60acb4541a66bf03ad4",
+      "status": "ok",
+      "width": 600,
+      "height": 338,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1e/1e87892698a7c84e3ac9b8773177d9a8b61d43509c40c60acb4541a66bf03ad4.thumb.webp",
+        "full": "img/1e/1e87892698a7c84e3ac9b8773177d9a8b61d43509c40c60acb4541a66bf03ad4.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:12.901Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Mobile%20Media%20Bot",
+    "created": "2024-03-01T04:23:16.000Z",
+    "updated": "2024-03-01T04:23:21.000Z",
+    "views": 9,
+    "thumbnail": "https://scrapbox.io/files/65e15836f0e939002573afcb.png"
+  }
+}

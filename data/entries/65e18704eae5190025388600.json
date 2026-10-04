@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18704eae5190025388600",
+  "title": "A terminal powered by Framework Mainboard : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/ulvl19/a_terminal_powered_by_framework_mainboard/",
+    "site": "reddit",
+    "label": "A terminal powered by Framework Mainboard : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18706dec25d0025c35ac3.png",
+      "originRaw": "https://scrapbox.io/files/65e18706dec25d0025c35ac3.png",
+      "id": "sha256:3db3ea661e77f9a1ff99a91c1cd98b8838375fa3d3b37196ac09f35278c862fb",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3d/3db3ea661e77f9a1ff99a91c1cd98b8838375fa3d3b37196ac09f35278c862fb.thumb.webp",
+        "full": "img/3d/3db3ea661e77f9a1ff99a91c1cd98b8838375fa3d3b37196ac09f35278c862fb.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:36.175Z"
+    }
+  ],
+  "tags": [
+    "IKeJIのおすすめ"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/A%20terminal%20powered%20by%20Framework%20Mainboard%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:43:01.000Z",
+    "updated": "2026-05-08T14:38:34.000Z",
+    "views": 16,
+    "thumbnail": "https://scrapbox.io/files/65e18706dec25d0025c35ac3.png"
+  }
+}

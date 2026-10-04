@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e187137fb4770024dfd654",
+  "title": "my “VirtuScope” cyberdeck : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/qehvza/my_virtuscope_cyberdeck/",
+    "site": "reddit",
+    "label": "my “VirtuScope” cyberdeck : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e187152f293e0023631f51.png",
+      "originRaw": "https://scrapbox.io/files/65e187152f293e0023631f51.png",
+      "id": "sha256:a450d8a0833d3781689bf54666bf9bf415d3a416ed46fc776387b1fb4784113c",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a4/a450d8a0833d3781689bf54666bf9bf415d3a416ed46fc776387b1fb4784113c.thumb.webp",
+        "full": "img/a4/a450d8a0833d3781689bf54666bf9bf415d3a416ed46fc776387b1fb4784113c.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:36.616Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/my%20%E2%80%9CVirtuScope%E2%80%9D%20cyberdeck%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:43:16.000Z",
+    "updated": "2024-03-01T07:43:21.000Z",
+    "views": 8,
+    "thumbnail": "https://scrapbox.io/files/65e187152f293e0023631f51.png"
+  }
+}

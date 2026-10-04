@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "68b1afc85f98e6e1465bcb0b",
+  "title": "It has settled down like this.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1mvb429/it_has_settled_down_like_this/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/4fcc798c951c4e30d40de10cee58b570",
+      "originRaw": "https://gyazo.com/4fcc798c951c4e30d40de10cee58b570/raw",
+      "id": "sha256:064ff966fbd555c9d8f9fa90a516aa55993155e264cd0129f673ebe9a654be43",
+      "status": "ok",
+      "width": 1080,
+      "height": 1349,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/06/064ff966fbd555c9d8f9fa90a516aa55993155e264cd0129f673ebe9a654be43.thumb.webp",
+        "full": "img/06/064ff966fbd555c9d8f9fa90a516aa55993155e264cd0129f673ebe9a654be43.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:31.246Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/It%20has%20settled%20down%20like%20this.",
+    "created": "2025-08-29T13:49:00.000Z",
+    "updated": "2025-08-29T13:49:12.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/4fcc798c951c4e30d40de10cee58b570/raw"
+  }
+}

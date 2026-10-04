@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "67b88e5d7388c13d05bb0438",
+  "title": "I gave it a name",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ila6zq/i_gave_it_a_name/",
+    "site": "reddit",
+    "label": "I gave it a name : r/cyberDeck"
+  },
+  "links": [
+    {
+      "url": "https://www.reddit.com/r/cyberDeck/comments/1ildcgi/karasu_build/",
+      "label": "Karasu build : r/cyberDeck",
+      "site": "reddit"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67b88e9bfe12076dc19d2593.png",
+      "originRaw": "https://scrapbox.io/files/67b88e9bfe12076dc19d2593.png",
+      "id": "sha256:a703098278c9e35b56d7f54ff28f1abbc60ade8ef263e20af10b6c7e5444e200",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a7/a703098278c9e35b56d7f54ff28f1abbc60ade8ef263e20af10b6c7e5444e200.thumb.webp",
+        "full": "img/a7/a703098278c9e35b56d7f54ff28f1abbc60ade8ef263e20af10b6c7e5444e200.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:39.504Z"
+    },
+    {
+      "origin": "https://scrapbox.io/files/67b88ebde583a3c02d443634.png",
+      "originRaw": "https://scrapbox.io/files/67b88ebde583a3c02d443634.png",
+      "id": "sha256:5c9f10c661d378618c27419593386bac6850cd32965578b85fb8c2269ad3b015",
+      "status": "ok",
+      "width": 1600,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5c/5c9f10c661d378618c27419593386bac6850cd32965578b85fb8c2269ad3b015.thumb.webp",
+        "full": "img/5c/5c9f10c661d378618c27419593386bac6850cd32965578b85fb8c2269ad3b015.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:40.617Z"
+    },
+    {
+      "origin": "https://scrapbox.io/files/67b88edf494d9a1566f74038.png",
+      "originRaw": "https://scrapbox.io/files/67b88edf494d9a1566f74038.png",
+      "id": "sha256:d38f069e29270400a203132645c65575605416c8d5aa8dd337965ba9a7640f70",
+      "status": "ok",
+      "width": 1600,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d3/d38f069e29270400a203132645c65575605416c8d5aa8dd337965ba9a7640f70.thumb.webp",
+        "full": "img/d3/d38f069e29270400a203132645c65575605416c8d5aa8dd337965ba9a7640f70.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:40.307Z"
+    },
+    {
+      "origin": "https://scrapbox.io/files/67b88f05ecb00e1c6e0a61d8.png",
+      "originRaw": "https://scrapbox.io/files/67b88f05ecb00e1c6e0a61d8.png",
+      "id": "sha256:0dbb894c4f646f03c95684e9695777fcc76b96b23d2bc46d00144b844c13fb61",
+      "status": "ok",
+      "width": 1080,
+      "height": 485,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0d/0dbb894c4f646f03c95684e9695777fcc76b96b23d2bc46d00144b844c13fb61.thumb.webp",
+        "full": "img/0d/0dbb894c4f646f03c95684e9695777fcc76b96b23d2bc46d00144b844c13fb61.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:40.860Z"
+    },
+    {
+      "origin": "https://scrapbox.io/files/67b88f0e34f343570e40ffe8.png",
+      "originRaw": "https://scrapbox.io/files/67b88f0e34f343570e40ffe8.png",
+      "id": "sha256:e67be2bea5480ad4da50a1ea7cbda40fcc2f14b25cb57c46d4b38afb417a9e9f",
+      "status": "ok",
+      "width": 1600,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e6/e67be2bea5480ad4da50a1ea7cbda40fcc2f14b25cb57c46d4b38afb417a9e9f.thumb.webp",
+        "full": "img/e6/e67be2bea5480ad4da50a1ea7cbda40fcc2f14b25cb57c46d4b38afb417a9e9f.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:41.185Z"
+    },
+    {
+      "origin": "https://scrapbox.io/files/67b88f1826cdd90dfb5a55aa.png",
+      "originRaw": "https://scrapbox.io/files/67b88f1826cdd90dfb5a55aa.png",
+      "id": "sha256:ea60d70c1da767cb3402815c8d3ba3b2ff1a25df30a7a184937f459f27b60fe8",
+      "status": "ok",
+      "width": 1600,
+      "height": 867,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ea/ea60d70c1da767cb3402815c8d3ba3b2ff1a25df30a7a184937f459f27b60fe8.thumb.webp",
+        "full": "img/ea/ea60d70c1da767cb3402815c8d3ba3b2ff1a25df30a7a184937f459f27b60fe8.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:41.759Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20gave%20it%20a%20name",
+    "created": "2025-02-21T14:33:00.000Z",
+    "updated": "2025-02-21T14:35:11.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/67b88e9bfe12076dc19d2593.png"
+  }
+}

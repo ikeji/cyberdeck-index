@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6606eb38641698002550b26c",
+  "title": "First prototype : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1bgedm8/first_prototype/",
+    "site": "reddit",
+    "label": "First prototype : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6606eb3a178bc70025ccf503.png",
+      "originRaw": "https://scrapbox.io/files/6606eb3a178bc70025ccf503.png",
+      "id": "sha256:f642e559f37ce86214162bff3afd6d02aefcee49615d56f41eca43209a0a9d7f",
+      "status": "ok",
+      "width": 900,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f6/f642e559f37ce86214162bff3afd6d02aefcee49615d56f41eca43209a0a9d7f.thumb.webp",
+        "full": "img/f6/f642e559f37ce86214162bff3afd6d02aefcee49615d56f41eca43209a0a9d7f.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:58.203Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/First%20prototype%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-29T16:24:25.000Z",
+    "updated": "2024-03-29T16:24:29.000Z",
+    "views": 15,
+    "thumbnail": "https://scrapbox.io/files/6606eb3a178bc70025ccf503.png"
+  }
+}

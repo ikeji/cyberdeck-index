@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e181d334a9d7002c50cac4",
+  "title": "A small, plug-and-play Linux computer — with Raspberry Pi (Project POCKIT) - YouTube",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=L1Ui-y8ajJ0&list=UU49EYw900LZn5VBglLRzxHw&ab_channel=Pockit",
+    "site": "youtube",
+    "label": "(2) A small, plug-and-play Linux computer — with Raspberry Pi (Project POCKIT) - YouTube"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e181d9e55ce70023d47691.png",
+      "originRaw": "https://scrapbox.io/files/65e181d9e55ce70023d47691.png",
+      "id": "sha256:d8f8769b75ddd76f7768d34d4e9071a96db08ce3a01ce60a661c6f1ecc908fe6",
+      "status": "ok",
+      "width": 749,
+      "height": 546,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d8/d8f8769b75ddd76f7768d34d4e9071a96db08ce3a01ce60a661c6f1ecc908fe6.thumb.webp",
+        "full": "img/d8/d8f8769b75ddd76f7768d34d4e9071a96db08ce3a01ce60a661c6f1ecc908fe6.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:24.212Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": "マグネットではりつけるモジュールで組み立てるらしい。",
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/A%20small%2C%20plug-and-play%20Linux%20computer%20%E2%80%94%20with%20Raspberry%20Pi%20(Project%20POCKIT)%20-%20YouTube",
+    "created": "2024-03-01T07:20:52.000Z",
+    "updated": "2024-03-01T07:21:25.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/65e181d9e55ce70023d47691.png"
+  }
+}

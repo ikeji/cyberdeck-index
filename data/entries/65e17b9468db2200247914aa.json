@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "65e17b9468db2200247914aa",
+  "title": "The GRIZ Sextant, my Raspberry Pi Cyberdeck build inspired by the laptops of the 1980s (Especially the IRL GRID Compass) : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/kqabbk/the_griz_sextant_my_raspberry_pi_cyberdeck_build/",
+    "site": "reddit",
+    "label": "The GRIZ Sextant, my Raspberry Pi Cyberdeck build inspired by the laptops of the 1980s (Especially the IRL GRID Compass) : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e17b98697d2f0024445f41.png",
+      "originRaw": "https://scrapbox.io/files/65e17b98697d2f0024445f41.png",
+      "id": "sha256:7bb911cbff6f4dec21995e39d50be3c93891daeffdeb1799dcd056d266950bcc",
+      "status": "ok",
+      "width": 1080,
+      "height": 932,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7b/7bb911cbff6f4dec21995e39d50be3c93891daeffdeb1799dcd056d266950bcc.thumb.webp",
+        "full": "img/7b/7bb911cbff6f4dec21995e39d50be3c93891daeffdeb1799dcd056d266950bcc.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:15.635Z"
+    }
+  ],
+  "tags": [
+    "IKeJIのおすすめ"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/The%20GRIZ%20Sextant%2C%20my%20Raspberry%20Pi%20Cyberdeck%20build%20inspired%20by%20the%20laptops%20of%20the%201980s%20(Especially%20the%20IRL%20GRID%20Compass)%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T06:54:13.000Z",
+    "updated": "2026-05-08T14:34:04.000Z",
+    "views": 17,
+    "thumbnail": "https://scrapbox.io/files/65e17b98697d2f0024445f41.png"
+  }
+}

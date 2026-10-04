@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6749b7a06d46be7ecd211cff",
+  "title": "Progress update: TranQuillity Writer",
+  "source": {
+    "url": "https://www.reddit.com/r/writerDeck/comments/1gtpun0/progress_update_tranquillity_writer/#lightbox",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6749b7b6ed1d96a03e708e9c.png",
+      "originRaw": "https://scrapbox.io/files/6749b7b6ed1d96a03e708e9c.png",
+      "id": "sha256:56ad253e48e92efa7950bf4fe70319b2b4736300aa903b8118dd70f9020facae",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/56/56ad253e48e92efa7950bf4fe70319b2b4736300aa903b8118dd70f9020facae.thumb.webp",
+        "full": "img/56/56ad253e48e92efa7950bf4fe70319b2b4736300aa903b8118dd70f9020facae.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:30.213Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Progress%20update%3A%20TranQuillity%20Writer",
+    "created": "2024-11-29T12:46:46.000Z",
+    "updated": "2024-11-29T12:47:00.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/6749b7b6ed1d96a03e708e9c.png"
+  }
+}

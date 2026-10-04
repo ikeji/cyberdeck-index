@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "672e051e004840468b389cfd",
+  "title": "Working on my very first CyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1gj44z8/working_on_my_very_first_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/672e05262c1c893d1fe61975.png",
+      "originRaw": "https://scrapbox.io/files/672e05262c1c893d1fe61975.png",
+      "id": "sha256:ed865613edf42be5517d4e263f577f6436cb528cc361236fe97db6cd065d9170",
+      "status": "ok",
+      "width": 1600,
+      "height": 900,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ed/ed865613edf42be5517d4e263f577f6436cb528cc361236fe97db6cd065d9170.thumb.webp",
+        "full": "img/ed/ed865613edf42be5517d4e263f577f6436cb528cc361236fe97db6cd065d9170.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:27.608Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Working%20on%20my%20very%20first%20CyberDeck",
+    "created": "2024-11-08T12:33:41.000Z",
+    "updated": "2024-11-08T12:33:56.000Z",
+    "views": 3,
+    "thumbnail": "https://scrapbox.io/files/672e05262c1c893d1fe61975.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad24ca995c8001d8208e8",
+  "title": "AnberDeck - Anbernic RG353V Pocket Terminal Mod (Details in Comments) : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1bvxz36/anberdeck_anbernic_rg353v_pocket_terminal_mod/",
+    "site": "reddit",
+    "label": "AnberDeck - Anbernic RG353V Pocket Terminal Mod (Details in Comments) : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad24fa64344001ca22a39.png",
+      "originRaw": "https://scrapbox.io/files/66cad24fa64344001ca22a39.png",
+      "id": "sha256:f527be16ba59fd759a678197c763f080d7bc8e14f54967635e609dac06cbbfc0",
+      "status": "ok",
+      "width": 1080,
+      "height": 1329,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f5/f527be16ba59fd759a678197c763f080d7bc8e14f54967635e609dac06cbbfc0.thumb.webp",
+        "full": "img/f5/f527be16ba59fd759a678197c763f080d7bc8e14f54967635e609dac06cbbfc0.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:02.727Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/AnberDeck%20-%20Anbernic%20RG353V%20Pocket%20Terminal%20Mod%20(Details%20in%20Comments)%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:42:21.000Z",
+    "updated": "2024-08-25T06:42:27.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/66cad24fa64344001ca22a39.png"
+  }
+}

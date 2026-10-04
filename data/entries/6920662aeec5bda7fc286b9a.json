@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "6920662aeec5bda7fc286b9a",
+  "title": "Chonker Deck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1p0bt4m/chonker_deck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/2882ea10c94656f48fece39a2e9690d9",
+      "originRaw": "https://gyazo.com/2882ea10c94656f48fece39a2e9690d9/raw",
+      "id": "sha256:398263d6cc9164ce6d1950be529ce50ae9c59733a5890ec583c30a0ae441ca6c",
+      "status": "ok",
+      "width": 1080,
+      "height": 1500,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/39/398263d6cc9164ce6d1950be529ce50ae9c59733a5890ec583c30a0ae441ca6c.thumb.webp",
+        "full": "img/39/398263d6cc9164ce6d1950be529ce50ae9c59733a5890ec583c30a0ae441ca6c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:22.962Z"
+    },
+    {
+      "origin": "https://gyazo.com/867ed9005311cd615f1f124222a45a08",
+      "originRaw": "https://gyazo.com/867ed9005311cd615f1f124222a45a08/raw",
+      "id": "sha256:26f49b5b381f31694abab7e4eb369f169ac07b2a4ad5100ac56822a5bc2f5b72",
+      "status": "ok",
+      "width": 1080,
+      "height": 1565,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/26/26f49b5b381f31694abab7e4eb369f169ac07b2a4ad5100ac56822a5bc2f5b72.thumb.webp",
+        "full": "img/26/26f49b5b381f31694abab7e4eb369f169ac07b2a4ad5100ac56822a5bc2f5b72.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:25.485Z"
+    },
+    {
+      "origin": "https://gyazo.com/b6d1995396875b8cb2511a046c313cb8",
+      "originRaw": "https://gyazo.com/b6d1995396875b8cb2511a046c313cb8/raw",
+      "id": "sha256:3661510e7512d7efb030be6c400061589b3a69c9eed942eabff176671b41f349",
+      "status": "ok",
+      "width": 1068,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/36/3661510e7512d7efb030be6c400061589b3a69c9eed942eabff176671b41f349.thumb.webp",
+        "full": "img/36/3661510e7512d7efb030be6c400061589b3a69c9eed942eabff176671b41f349.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:28.026Z"
+    },
+    {
+      "origin": "https://gyazo.com/b786a35fa1a879b7c5535cbf4074d716",
+      "originRaw": "https://gyazo.com/b786a35fa1a879b7c5535cbf4074d716/raw",
+      "id": "sha256:c243110a6dfd8c5325db1e5fd9d1c1a5d4e721dd514afd7ece1073ddae970b2e",
+      "status": "ok",
+      "width": 968,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c2/c243110a6dfd8c5325db1e5fd9d1c1a5d4e721dd514afd7ece1073ddae970b2e.thumb.webp",
+        "full": "img/c2/c243110a6dfd8c5325db1e5fd9d1c1a5d4e721dd514afd7ece1073ddae970b2e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:30.170Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Chonker%20Deck",
+    "created": "2025-11-21T13:16:33.000Z",
+    "updated": "2025-11-21T13:16:59.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/2882ea10c94656f48fece39a2e9690d9/raw"
+  }
+}

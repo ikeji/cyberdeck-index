@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e187b3c78d0c002370b340",
+  "title": "Hosaka Mark I “Sprawl Edition” : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/ll595g/hosaka_mark_i_sprawl_edition/",
+    "site": "reddit",
+    "label": "Hosaka Mark I “Sprawl Edition” : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e187b55827a80024f1daf0.png",
+      "originRaw": "https://scrapbox.io/files/65e187b55827a80024f1daf0.png",
+      "id": "sha256:bea815d8fb4ac3a01dc7301beefb13712d07bd29bb4421426f57a16b296d7a51",
+      "status": "ok",
+      "width": 535,
+      "height": 356,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/be/bea815d8fb4ac3a01dc7301beefb13712d07bd29bb4421426f57a16b296d7a51.thumb.webp",
+        "full": "img/be/bea815d8fb4ac3a01dc7301beefb13712d07bd29bb4421426f57a16b296d7a51.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:40.507Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Hosaka%20Mark%20I%20%E2%80%9CSprawl%20Edition%E2%80%9D%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:45:55.000Z",
+    "updated": "2024-03-01T07:46:01.000Z",
+    "views": 10,
+    "thumbnail": "https://scrapbox.io/files/65e187b55827a80024f1daf0.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67efe0b18c226f61433d777a",
+  "title": "P9 Keyboard Deck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1jhamn0/p9_keyboard_deck/",
+    "site": "reddit",
+    "label": "P9 Keyboard Deck : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67efe0bcb6be62a7e8564492.png",
+      "originRaw": "https://scrapbox.io/files/67efe0bcb6be62a7e8564492.png",
+      "id": "sha256:a4d5b82dfa18942775fde6caeda08dd2c5ce7640fb2369c0e8e1db56bf9ce27d",
+      "status": "ok",
+      "width": 1002,
+      "height": 781,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a4/a4d5b82dfa18942775fde6caeda08dd2c5ce7640fb2369c0e8e1db56bf9ce27d.thumb.webp",
+        "full": "img/a4/a4d5b82dfa18942775fde6caeda08dd2c5ce7640fb2369c0e8e1db56bf9ce27d.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:51.347Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/P9%20Keyboard%20Deck",
+    "created": "2025-04-04T13:37:56.000Z",
+    "updated": "2025-04-04T13:38:07.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/67efe0bcb6be62a7e8564492.png"
+  }
+}

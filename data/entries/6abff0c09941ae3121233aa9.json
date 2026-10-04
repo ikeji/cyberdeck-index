@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "6abff0c09941ae3121233aa9",
+  "title": "Cyberdeck or CyberRACK?",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1w3gwtm/cyberdeck_or_cyberrack/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [
+    {
+      "url": "https://www.youtube.com/watch?v=YpkXUiyko0k",
+      "label": null,
+      "site": "youtube"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://gyazo.com/fc69ddab6423f97645433f7098ab281c",
+      "originRaw": "https://gyazo.com/fc69ddab6423f97645433f7098ab281c/raw",
+      "id": "sha256:7f757a5663f4889f43eed50ef4fb250c3f9893193855096a2784bda55680646e",
+      "status": "ok",
+      "width": 480,
+      "height": 360,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7f/7f757a5663f4889f43eed50ef4fb250c3f9893193855096a2784bda55680646e.thumb.webp",
+        "full": "img/7f/7f757a5663f4889f43eed50ef4fb250c3f9893193855096a2784bda55680646e.webp"
+      },
+      "fetchedAt": "2026-10-02T18:19:17.528Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cyberdeck%20or%20CyberRACK%3F",
+    "created": "2026-10-02T17:58:26.000Z",
+    "updated": "2026-10-02T17:59:18.000Z",
+    "views": 1,
+    "thumbnail": "https://gyazo.com/fc69ddab6423f97645433f7098ab281c/raw"
+  }
+}

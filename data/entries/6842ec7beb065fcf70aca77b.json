@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6842ec7beb065fcf70aca77b",
+  "title": "My HamMessenger looks a lot like your cyberdecks",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1kqtqmb/my_hammessenger_looks_a_lot_like_your_cyberdecks/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/22d2b06e7be400faa5c59ce0567df155",
+      "originRaw": "https://gyazo.com/22d2b06e7be400faa5c59ce0567df155/raw",
+      "id": "sha256:a496997c8013cd40a3d3638c5c55632054d61b8362167dc30ecd643429bae7c9",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a4/a496997c8013cd40a3d3638c5c55632054d61b8362167dc30ecd643429bae7c9.thumb.webp",
+        "full": "img/a4/a496997c8013cd40a3d3638c5c55632054d61b8362167dc30ecd643429bae7c9.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:24.368Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20HamMessenger%20looks%20a%20lot%20like%20your%20cyberdecks",
+    "created": "2025-06-06T13:26:21.000Z",
+    "updated": "2025-06-06T13:26:30.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/22d2b06e7be400faa5c59ce0567df155/raw"
+  }
+}

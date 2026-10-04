@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18793141bc70024802ee9",
+  "title": "Chonky Palmtop : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/t6wtl3/chonky_palmtop/",
+    "site": "reddit",
+    "label": "Chonky Palmtop : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1879601b0550023e994d4.png",
+      "originRaw": "https://scrapbox.io/files/65e1879601b0550023e994d4.png",
+      "id": "sha256:f29eb2a8d935dd51e70b3acf3399407e1a653c369d2dfd533b468a6582dc55db",
+      "status": "ok",
+      "width": 719,
+      "height": 539,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f2/f29eb2a8d935dd51e70b3acf3399407e1a653c369d2dfd533b468a6582dc55db.thumb.webp",
+        "full": "img/f2/f29eb2a8d935dd51e70b3acf3399407e1a653c369d2dfd533b468a6582dc55db.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:39.427Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Chonky%20Palmtop%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:45:24.000Z",
+    "updated": "2024-03-01T07:45:30.000Z",
+    "views": 6,
+    "thumbnail": "https://scrapbox.io/files/65e1879601b0550023e994d4.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6606eb2535e8ec00242ca880",
+  "title": "Found this build on PCMR : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1bh6emy/found_this_build_on_pcmr/",
+    "site": "reddit",
+    "label": "Found this build on PCMR : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6606eb27ab7cd70024199ad6.png",
+      "originRaw": "https://scrapbox.io/files/6606eb27ab7cd70024199ad6.png",
+      "id": "sha256:6cfcfd9f595eab8b6511ddd19b1c148e832ec9c044252690066970a157d365e8",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6c/6cfcfd9f595eab8b6511ddd19b1c148e832ec9c044252690066970a157d365e8.thumb.webp",
+        "full": "img/6c/6cfcfd9f595eab8b6511ddd19b1c148e832ec9c044252690066970a157d365e8.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:58.174Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Found%20this%20build%20on%20PCMR%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-29T16:24:05.000Z",
+    "updated": "2024-03-29T16:24:11.000Z",
+    "views": 23,
+    "thumbnail": "https://scrapbox.io/files/6606eb27ab7cd70024199ad6.png"
+  }
+}

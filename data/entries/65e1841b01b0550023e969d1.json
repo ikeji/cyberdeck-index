@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e1841b01b0550023e969d1",
+  "title": "Raspberry Pi Real-Time Encryption/Decryption Glasses : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/129kiwp/raspberry_pi_realtime_encryptiondecryption_glasses/",
+    "site": "reddit",
+    "label": "Raspberry Pi Real-Time Encryption/Decryption Glasses : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18427d31369002529e281.png",
+      "originRaw": "https://scrapbox.io/files/65e18427d31369002529e281.png",
+      "id": "sha256:e8928b5969e905754414c564fad5eb8a4a2d614ee6598d6887c788ccd704a1a9",
+      "status": "ok",
+      "width": 346,
+      "height": 243,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e8/e8928b5969e905754414c564fad5eb8a4a2d614ee6598d6887c788ccd704a1a9.thumb.webp",
+        "full": "img/e8/e8928b5969e905754414c564fad5eb8a4a2d614ee6598d6887c788ccd704a1a9.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:24.579Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Raspberry%20Pi%20Real-Time%20Encryption%2FDecryption%20Glasses%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:30:36.000Z",
+    "updated": "2024-03-01T07:30:50.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/65e18427d31369002529e281.png"
+  }
+}

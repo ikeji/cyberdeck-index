@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "685ea6d09c63da05c52a8a7b",
+  "title": "Raspberry pi zero wearable deck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1lcep5b/raspberry_pi_zero_wearable_deck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/6182b4937146f9e951454b5ff16a882f",
+      "originRaw": "https://gyazo.com/6182b4937146f9e951454b5ff16a882f/raw",
+      "id": "sha256:5f6847983e6458f38b200edf470eb9c4f8f8ca905959d25592e2d820d42a1aa0",
+      "status": "ok",
+      "width": 640,
+      "height": 853,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5f/5f6847983e6458f38b200edf470eb9c4f8f8ca905959d25592e2d820d42a1aa0.thumb.webp",
+        "full": "img/5f/5f6847983e6458f38b200edf470eb9c4f8f8ca905959d25592e2d820d42a1aa0.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:33.077Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Raspberry%20pi%20zero%20wearable%20deck",
+    "created": "2025-06-27T14:12:39.000Z",
+    "updated": "2025-06-27T14:13:30.000Z",
+    "views": 12,
+    "thumbnail": "https://gyazo.com/6182b4937146f9e951454b5ff16a882f/raw"
+  }
+}

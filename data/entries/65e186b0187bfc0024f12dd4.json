@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e186b0187bfc0024f12dd4",
+  "title": "OLKB-Terminal : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/pshhpa/olkbterminal/",
+    "site": "reddit",
+    "label": "OLKB-Terminal : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e186b350224000267eea50.png",
+      "originRaw": "https://scrapbox.io/files/65e186b350224000267eea50.png",
+      "id": "sha256:b37f5608af2b5b666b64f177687df792477e9e1099169dab626cc68e35702a8a",
+      "status": "ok",
+      "width": 1080,
+      "height": 540,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b3/b37f5608af2b5b666b64f177687df792477e9e1099169dab626cc68e35702a8a.thumb.webp",
+        "full": "img/b3/b37f5608af2b5b666b64f177687df792477e9e1099169dab626cc68e35702a8a.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:34.294Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/OLKB-Terminal%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:41:38.000Z",
+    "updated": "2024-03-01T07:41:43.000Z",
+    "views": 11,
+    "thumbnail": "https://scrapbox.io/files/65e186b350224000267eea50.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67b88c2cd928adf85a4b56f1",
+  "title": "Wow, nice and clean build. Nicholas LaBonte on youtube www.youtube.com/watch?v=u8kYHgKKhjY",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1iuicro/wow_nice_and_clean_build_nicholas_labonte_on/",
+    "site": "reddit",
+    "label": "Wow, nice and clean build. Nicholas LaBonte on youtube https://www.youtube.com/watch?v=u8kYHgKKhjY : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67b88c391182b3aa614607d6.png",
+      "originRaw": "https://scrapbox.io/files/67b88c391182b3aa614607d6.png",
+      "id": "sha256:941ebab3cbe1d516968523f6a368fa2c9b98f70c0202cf8d8b233d13a3c3e320",
+      "status": "ok",
+      "width": 726,
+      "height": 670,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/94/941ebab3cbe1d516968523f6a368fa2c9b98f70c0202cf8d8b233d13a3c3e320.thumb.webp",
+        "full": "img/94/941ebab3cbe1d516968523f6a368fa2c9b98f70c0202cf8d8b233d13a3c3e320.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:38.229Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Wow%2C%20nice%20and%20clean%20build.%20Nicholas%20LaBonte%20on%20youtube%20www.youtube.com%2Fwatch%3Fv%3Du8kYHgKKhjY",
+    "created": "2025-02-21T14:22:48.000Z",
+    "updated": "2025-03-14T12:32:23.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/67b88c391182b3aa614607d6.png"
+  }
+}

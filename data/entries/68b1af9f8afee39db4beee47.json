@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "68b1af9f8afee39db4beee47",
+  "title": "Converting a Legion into a laptop?",
+  "source": {
+    "url": "https://www.reddit.com/r/LegionGo/comments/1mvnv84/converting_a_legion_into_a_laptop/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/b197e482a40ae348a9d642d3a45759e4",
+      "originRaw": "https://gyazo.com/b197e482a40ae348a9d642d3a45759e4/raw",
+      "id": "sha256:458f260db5a763ca57e81f9b85160a6a3eeb0e8f2946fc4cb06b92fc265f1a14",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/45/458f260db5a763ca57e81f9b85160a6a3eeb0e8f2946fc4cb06b92fc265f1a14.thumb.webp",
+        "full": "img/45/458f260db5a763ca57e81f9b85160a6a3eeb0e8f2946fc4cb06b92fc265f1a14.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:31.432Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Converting%20a%20Legion%20into%20a%20laptop%3F",
+    "created": "2025-08-29T13:48:18.000Z",
+    "updated": "2025-08-29T13:48:28.000Z",
+    "views": 12,
+    "thumbnail": "https://gyazo.com/b197e482a40ae348a9d642d3a45759e4/raw"
+  }
+}

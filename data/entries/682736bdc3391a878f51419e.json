@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "682736bdc3391a878f51419e",
+  "title": "RPI DEV- Raspberry Pi Development Platform (In Progress)",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1kcgt5p/rpi_dev_raspberry_pi_development_platform_in/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/a92cade60a990e01adede35cf5a08b03",
+      "originRaw": "https://gyazo.com/a92cade60a990e01adede35cf5a08b03/raw",
+      "id": "sha256:141021bf78fc54df2949d3183698821d55cae73ef1ee0cdc54624944d55f6315",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/14/141021bf78fc54df2949d3183698821d55cae73ef1ee0cdc54624944d55f6315.thumb.webp",
+        "full": "img/14/141021bf78fc54df2949d3183698821d55cae73ef1ee0cdc54624944d55f6315.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:20.565Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/RPI%20DEV-%20Raspberry%20Pi%20Development%20Platform%20(In%20Progress)",
+    "created": "2025-05-16T13:00:34.000Z",
+    "updated": "2025-05-16T14:10:36.000Z",
+    "views": 9,
+    "thumbnail": "https://gyazo.com/a92cade60a990e01adede35cf5a08b03/raw"
+  }
+}

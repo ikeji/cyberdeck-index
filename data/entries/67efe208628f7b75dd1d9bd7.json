@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67efe208628f7b75dd1d9bd7",
+  "title": "made my first qaz keyboard years ago, now made a cyberdeck laptop out of it!",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1josx4r/made_my_first_qaz_keyboard_years_ago_now_made_a/",
+    "site": "reddit",
+    "label": "made my first qaz keyboard years ago, now made a cyberdeck laptop out of it! : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67efe21101c800251889560c.png",
+      "originRaw": "https://scrapbox.io/files/67efe21101c800251889560c.png",
+      "id": "sha256:26be5915ba9360852d00290f9fe04bb1bfc7229ba5f4fd357a4873231c995cbb",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/26/26be5915ba9360852d00290f9fe04bb1bfc7229ba5f4fd357a4873231c995cbb.thumb.webp",
+        "full": "img/26/26be5915ba9360852d00290f9fe04bb1bfc7229ba5f4fd357a4873231c995cbb.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:54.406Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/made%20my%20first%20qaz%20keyboard%20years%20ago%2C%20now%20made%20a%20cyberdeck%20laptop%20out%20of%20it!",
+    "created": "2025-04-04T13:43:38.000Z",
+    "updated": "2025-04-04T13:43:50.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/67efe21101c800251889560c.png"
+  }
+}

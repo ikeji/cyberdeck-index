@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad5b87e2967001c918348",
+  "title": "Tactical Communications Deck - RPi 5 8gig - built in sdr : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ehwb5n/tactical_communications_deck_rpi_5_8gig_built_in/",
+    "site": "reddit",
+    "label": "Tactical Communications Deck - RPi 5 8gig - built in sdr : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad5ba327498001df40ed8.png",
+      "originRaw": "https://scrapbox.io/files/66cad5ba327498001df40ed8.png",
+      "id": "sha256:a2f88e3b56a3896de74a7d86e8e6c902fee5704bf45adaf0e66d212df1d7dd21",
+      "status": "ok",
+      "width": 1080,
+      "height": 809,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a2/a2f88e3b56a3896de74a7d86e8e6c902fee5704bf45adaf0e66d212df1d7dd21.thumb.webp",
+        "full": "img/a2/a2f88e3b56a3896de74a7d86e8e6c902fee5704bf45adaf0e66d212df1d7dd21.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:11.408Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Tactical%20Communications%20Deck%20-%20RPi%205%208gig%20-%20built%20in%20sdr%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:56:57.000Z",
+    "updated": "2024-08-25T06:57:03.000Z",
+    "views": 21,
+    "thumbnail": "https://scrapbox.io/files/66cad5ba327498001df40ed8.png"
+  }
+}

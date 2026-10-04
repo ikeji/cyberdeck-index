@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad74a1c2a22001daaf367",
+  "title": "My Fully 3D Printed Cyberdeck : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1dfg34e/my_fully_3d_printed_cyberdeck/",
+    "site": "reddit",
+    "label": "My Fully 3D Printed Cyberdeck : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad74d8f8fc7001dc90cff.png",
+      "originRaw": "https://scrapbox.io/files/66cad74d8f8fc7001dc90cff.png",
+      "id": "sha256:fcf23a8a3263b4782f55e55b88f4c4f4ee1cbb580595d8f6cebef5e89c4612bb",
+      "status": "ok",
+      "width": 1080,
+      "height": 660,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/fc/fcf23a8a3263b4782f55e55b88f4c4f4ee1cbb580595d8f6cebef5e89c4612bb.thumb.webp",
+        "full": "img/fc/fcf23a8a3263b4782f55e55b88f4c4f4ee1cbb580595d8f6cebef5e89c4612bb.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:15.929Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20Fully%203D%20Printed%20Cyberdeck%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T07:03:39.000Z",
+    "updated": "2024-08-25T07:03:44.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/66cad74d8f8fc7001dc90cff.png"
+  }
+}

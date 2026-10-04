@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e183f43bc99f0023236c46",
+  "title": "I wanted a working LEGO space computer but couldn't find anybody making them, so I 3D printed one (well actually 2) : r/3Dprinting",
+  "source": {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/oufcov/i_wanted_a_working_lego_space_computer_but/",
+    "site": "reddit",
+    "label": "I wanted a working LEGO space computer but couldn't find anybody making them, so I 3D printed one (well actually 2) : r/3Dprinting"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e183f7dec25d0025c32943.png",
+      "originRaw": "https://scrapbox.io/files/65e183f7dec25d0025c32943.png",
+      "id": "sha256:0070896458bb05bdaa8b13472c3d558e8cfdda5b4eea87e93043232a7a1db5f0",
+      "status": "ok",
+      "width": 460,
+      "height": 338,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/00/0070896458bb05bdaa8b13472c3d558e8cfdda5b4eea87e93043232a7a1db5f0.thumb.webp",
+        "full": "img/00/0070896458bb05bdaa8b13472c3d558e8cfdda5b4eea87e93043232a7a1db5f0.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:23.839Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20wanted%20a%20working%20LEGO%20space%20computer%20but%20couldn't%20find%20anybody%20making%20them%2C%20so%20I%203D%20printed%20one%20(well%20actually%202)%20%3A%20r%2F3Dprinting",
+    "created": "2024-03-01T07:29:57.000Z",
+    "updated": "2024-03-01T07:30:02.000Z",
+    "views": 10,
+    "thumbnail": "https://scrapbox.io/files/65e183f7dec25d0025c32943.png"
+  }
+}

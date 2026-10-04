@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "66f6a8fe955bd9001c60152d",
+  "title": "It ain't pretty but it works well",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1fkmhci/it_aint_pretty_but_it_works_well/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66f6a921f480c2001dc41b55.png",
+      "originRaw": "https://scrapbox.io/files/66f6a921f480c2001dc41b55.png",
+      "id": "sha256:3fe8d08d08d7054a569f1281318e543ee6f3064f6c86a37873668291ede80305",
+      "status": "ok",
+      "width": 1600,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3f/3fe8d08d08d7054a569f1281318e543ee6f3064f6c86a37873668291ede80305.thumb.webp",
+        "full": "img/3f/3fe8d08d08d7054a569f1281318e543ee6f3064f6c86a37873668291ede80305.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:17.520Z"
+    },
+    {
+      "origin": "https://scrapbox.io/files/66f6a90e1e961a001df7587b.png",
+      "originRaw": "https://scrapbox.io/files/66f6a90e1e961a001df7587b.png",
+      "id": "sha256:e1125111c12ac8f6276af00bd3f2cc5e5afebde17e92617c89adcedd65311e72",
+      "status": "ok",
+      "width": 1600,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e1/e1125111c12ac8f6276af00bd3f2cc5e5afebde17e92617c89adcedd65311e72.thumb.webp",
+        "full": "img/e1/e1125111c12ac8f6276af00bd3f2cc5e5afebde17e92617c89adcedd65311e72.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:17.721Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/It%20ain't%20pretty%20but%20it%20works%20well",
+    "created": "2024-09-27T12:46:00.000Z",
+    "updated": "2024-09-27T12:46:39.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/66f6a921f480c2001dc41b55.png"
+  }
+}

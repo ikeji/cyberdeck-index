@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18829d7452e0024b6db2c",
+  "title": "My newly finished Cyberdeck for RFID cloning : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/s13uk5/my_newly_finished_cyberdeck_for_rfid_cloning/",
+    "site": "reddit",
+    "label": "My newly finished Cyberdeck for RFID cloning : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1882c26c67e00244f9504.png",
+      "originRaw": "https://scrapbox.io/files/65e1882c26c67e00244f9504.png",
+      "id": "sha256:668aa5428b549d154fede9ecbee12e9bd86e3f9fbaa47407f529c113108553f3",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/66/668aa5428b549d154fede9ecbee12e9bd86e3f9fbaa47407f529c113108553f3.thumb.webp",
+        "full": "img/66/668aa5428b549d154fede9ecbee12e9bd86e3f9fbaa47407f529c113108553f3.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:42.657Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20newly%20finished%20Cyberdeck%20for%20RFID%20cloning%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:47:54.000Z",
+    "updated": "2024-03-01T07:48:01.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/65e1882c26c67e00244f9504.png"
+  }
+}

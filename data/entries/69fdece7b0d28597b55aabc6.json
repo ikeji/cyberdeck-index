@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "69fdece7b0d28597b55aabc6",
+  "title": "Xbox Cyberdeck Wip",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1t5xrkl/xbox_cyberdeck_wip/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/844b08d647ed90c2ed30da8f3ccb9c76",
+      "originRaw": "https://gyazo.com/844b08d647ed90c2ed30da8f3ccb9c76/raw",
+      "id": "sha256:00a77d7957ab0ebe92add2e3e7a6142f742877ea879be86b3e007a0f23433e5c",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/00/00a77d7957ab0ebe92add2e3e7a6142f742877ea879be86b3e007a0f23433e5c.thumb.webp",
+        "full": "img/00/00a77d7957ab0ebe92add2e3e7a6142f742877ea879be86b3e007a0f23433e5c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:17.502Z"
+    },
+    {
+      "origin": "https://gyazo.com/22b8c63037312c21010cafabe6e78ee7",
+      "originRaw": "https://gyazo.com/22b8c63037312c21010cafabe6e78ee7/raw",
+      "id": "sha256:889d23537425c93f9ed03dded1e606f281fb8bb41adcb05781a98b520235f97c",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/88/889d23537425c93f9ed03dded1e606f281fb8bb41adcb05781a98b520235f97c.thumb.webp",
+        "full": "img/88/889d23537425c93f9ed03dded1e606f281fb8bb41adcb05781a98b520235f97c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:19.422Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Xbox%20Cyberdeck%20Wip",
+    "created": "2026-05-08T14:02:19.000Z",
+    "updated": "2026-05-08T14:03:16.000Z",
+    "views": 3,
+    "thumbnail": "https://gyazo.com/844b08d647ed90c2ed30da8f3ccb9c76/raw"
+  }
+}

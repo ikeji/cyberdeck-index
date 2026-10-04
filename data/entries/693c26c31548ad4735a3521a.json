@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "693c26c31548ad4735a3521a",
+  "title": "Form factor test",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1pf88if/form_factor_test/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/52266bff1142aaf490dd4b00c7d13db7",
+      "originRaw": "https://gyazo.com/52266bff1142aaf490dd4b00c7d13db7/raw",
+      "id": "sha256:ddb21219845590d93df064e816823e6475c380f7e6f223320f45379929fc8530",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/dd/ddb21219845590d93df064e816823e6475c380f7e6f223320f45379929fc8530.thumb.webp",
+        "full": "img/dd/ddb21219845590d93df064e816823e6475c380f7e6f223320f45379929fc8530.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:02.296Z"
+    },
+    {
+      "origin": "https://gyazo.com/99ae8f5055897001ce5203692457f40c",
+      "originRaw": "https://gyazo.com/99ae8f5055897001ce5203692457f40c/raw",
+      "id": "sha256:06fe30c4a2e9c33ace4b0d4f935f270f62c3b0d259b1f5cf013393429ebd3c8f",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/06/06fe30c4a2e9c33ace4b0d4f935f270f62c3b0d259b1f5cf013393429ebd3c8f.thumb.webp",
+        "full": "img/06/06fe30c4a2e9c33ace4b0d4f935f270f62c3b0d259b1f5cf013393429ebd3c8f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:04.388Z"
+    },
+    {
+      "origin": "https://gyazo.com/8fa1b6a8ae4e0da533ec3bda3203e7e1",
+      "originRaw": "https://gyazo.com/8fa1b6a8ae4e0da533ec3bda3203e7e1/raw",
+      "id": "sha256:70ab566447f53be146a8ac32ff8ef05dda32d71c99a4bac8b5936dcf090a2ed7",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/70/70ab566447f53be146a8ac32ff8ef05dda32d71c99a4bac8b5936dcf090a2ed7.thumb.webp",
+        "full": "img/70/70ab566447f53be146a8ac32ff8ef05dda32d71c99a4bac8b5936dcf090a2ed7.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:06.837Z"
+    },
+    {
+      "origin": "https://gyazo.com/eb91c827ab595f6514dc07e4a76a05d4",
+      "originRaw": "https://gyazo.com/eb91c827ab595f6514dc07e4a76a05d4/raw",
+      "id": "sha256:1679faaf5318bcd38c97daa30a67459792ef2eb13e3c01fde38f7c6da5bef00f",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/16/1679faaf5318bcd38c97daa30a67459792ef2eb13e3c01fde38f7c6da5bef00f.thumb.webp",
+        "full": "img/16/1679faaf5318bcd38c97daa30a67459792ef2eb13e3c01fde38f7c6da5bef00f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:08.289Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Form%20factor%20test",
+    "created": "2025-12-12T14:29:30.000Z",
+    "updated": "2025-12-12T14:30:49.000Z",
+    "views": 27,
+    "thumbnail": "https://gyazo.com/52266bff1142aaf490dd4b00c7d13db7/raw"
+  }
+}

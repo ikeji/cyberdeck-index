@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "687a41bce8195338502cd773",
+  "title": "Built a New CyberDeck!",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1lu1ozo/built_a_new_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/8201e4ce09daf73c9abcd19375305eb5",
+      "originRaw": "https://gyazo.com/8201e4ce09daf73c9abcd19375305eb5/raw",
+      "id": "sha256:c22ac93024b7af1a59624a52e24b3144c005562bd77b8c0bfcc59c96a16eb915",
+      "status": "ok",
+      "width": 1080,
+      "height": 1026,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c2/c22ac93024b7af1a59624a52e24b3144c005562bd77b8c0bfcc59c96a16eb915.thumb.webp",
+        "full": "img/c2/c22ac93024b7af1a59624a52e24b3144c005562bd77b8c0bfcc59c96a16eb915.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:53.964Z"
+    },
+    {
+      "origin": "https://gyazo.com/3fe3e34639be72d21de94f379cbce04c",
+      "originRaw": "https://gyazo.com/3fe3e34639be72d21de94f379cbce04c/raw",
+      "id": "sha256:a8953b2025a10b47864fed711520c9f1aafefb69d792ad8114455e678a1baab2",
+      "status": "ok",
+      "width": 600,
+      "height": 1067,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a8/a8953b2025a10b47864fed711520c9f1aafefb69d792ad8114455e678a1baab2.thumb.webp",
+        "full": "img/a8/a8953b2025a10b47864fed711520c9f1aafefb69d792ad8114455e678a1baab2.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:55.733Z"
+    },
+    {
+      "origin": "https://gyazo.com/ec2f5ba91a74c70ca4127a0ca5845a97",
+      "originRaw": "https://gyazo.com/ec2f5ba91a74c70ca4127a0ca5845a97/raw",
+      "id": "sha256:8d0540f18521c32207d785d1d9922e3ce32c26dad48d353193d56a11f86c3a94",
+      "status": "ok",
+      "width": 1080,
+      "height": 1582,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/8d/8d0540f18521c32207d785d1d9922e3ce32c26dad48d353193d56a11f86c3a94.thumb.webp",
+        "full": "img/8d/8d0540f18521c32207d785d1d9922e3ce32c26dad48d353193d56a11f86c3a94.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:58.151Z"
+    },
+    {
+      "origin": "https://gyazo.com/e6350b4cdbbffd933ed6f5ca679ea49e",
+      "originRaw": "https://gyazo.com/e6350b4cdbbffd933ed6f5ca679ea49e/raw",
+      "id": "sha256:5c9f3edfd80713dc7fbb96705294b642c73810c62733517b66164f7e369cfc86",
+      "status": "ok",
+      "width": 1080,
+      "height": 1436,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5c/5c9f3edfd80713dc7fbb96705294b642c73810c62733517b66164f7e369cfc86.thumb.webp",
+        "full": "img/5c/5c9f3edfd80713dc7fbb96705294b642c73810c62733517b66164f7e369cfc86.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:00.250Z"
+    },
+    {
+      "origin": "https://gyazo.com/62eb46904c1b20eaab49cbc1ac70ec1e",
+      "originRaw": "https://gyazo.com/62eb46904c1b20eaab49cbc1ac70ec1e/raw",
+      "id": "sha256:156568119298ed8b0c9f71b6b542fbf92e233bb84b2b88ba453f5fd92df9c1c3",
+      "status": "ok",
+      "width": 1080,
+      "height": 1436,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/15/156568119298ed8b0c9f71b6b542fbf92e233bb84b2b88ba453f5fd92df9c1c3.thumb.webp",
+        "full": "img/15/156568119298ed8b0c9f71b6b542fbf92e233bb84b2b88ba453f5fd92df9c1c3.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:02.639Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Built%20a%20New%20CyberDeck!",
+    "created": "2025-07-18T12:45:52.000Z",
+    "updated": "2025-07-18T12:46:48.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/8201e4ce09daf73c9abcd19375305eb5/raw"
+  }
+}

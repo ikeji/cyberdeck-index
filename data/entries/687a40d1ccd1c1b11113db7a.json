@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "687a40d1ccd1c1b11113db7a",
+  "title": "The gemact g1k in working order.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1lz8hj9/the_gemact_g1k_in_working_order/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/967911c9f166ca7425ce1fb43c6353c5",
+      "originRaw": "https://gyazo.com/967911c9f166ca7425ce1fb43c6353c5/raw",
+      "id": "sha256:d36dd6611c1eb3ef3750b3a415bf470cfcbb92c99a1d5d36e3a2da7f2994b1ed",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d3/d36dd6611c1eb3ef3750b3a415bf470cfcbb92c99a1d5d36e3a2da7f2994b1ed.thumb.webp",
+        "full": "img/d3/d36dd6611c1eb3ef3750b3a415bf470cfcbb92c99a1d5d36e3a2da7f2994b1ed.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:46.577Z"
+    },
+    {
+      "origin": "https://gyazo.com/e238e7bfcd6bdcf364a4e32b9a06854e",
+      "originRaw": "https://gyazo.com/e238e7bfcd6bdcf364a4e32b9a06854e/raw",
+      "id": "sha256:b6617b0366d5635bb9f6380c27dc5217fd25b51b8898b931b7ec28508717abd5",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b6/b6617b0366d5635bb9f6380c27dc5217fd25b51b8898b931b7ec28508717abd5.thumb.webp",
+        "full": "img/b6/b6617b0366d5635bb9f6380c27dc5217fd25b51b8898b931b7ec28508717abd5.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:48.440Z"
+    },
+    {
+      "origin": "https://gyazo.com/6f506e8f104e75e61b4171fa1b7d996b",
+      "originRaw": "https://gyazo.com/6f506e8f104e75e61b4171fa1b7d996b/raw",
+      "id": "sha256:fe2c326edd199deb76b154efeae2138ca62f5cbaafca8064464abaf900a4232c",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/fe/fe2c326edd199deb76b154efeae2138ca62f5cbaafca8064464abaf900a4232c.thumb.webp",
+        "full": "img/fe/fe2c326edd199deb76b154efeae2138ca62f5cbaafca8064464abaf900a4232c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:50.193Z"
+    },
+    {
+      "origin": "https://gyazo.com/587bc8c1f3b2cfb4010ede509ef795e0",
+      "originRaw": "https://gyazo.com/587bc8c1f3b2cfb4010ede509ef795e0/raw",
+      "id": "sha256:b4e36293cbeb094e0a9ba3fb6945c265a7dc2179cb81708e2dc3ecd6e13d815d",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b4/b4e36293cbeb094e0a9ba3fb6945c265a7dc2179cb81708e2dc3ecd6e13d815d.thumb.webp",
+        "full": "img/b4/b4e36293cbeb094e0a9ba3fb6945c265a7dc2179cb81708e2dc3ecd6e13d815d.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:52.411Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/The%20gemact%20g1k%20in%20working%20order.",
+    "created": "2025-07-18T12:40:53.000Z",
+    "updated": "2025-07-18T12:41:36.000Z",
+    "views": 1,
+    "thumbnail": "https://gyazo.com/967911c9f166ca7425ce1fb43c6353c5/raw"
+  }
+}

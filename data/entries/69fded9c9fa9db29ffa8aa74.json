@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "69fded9c9fa9db29ffa8aa74",
+  "title": "My own crt raspberry pi 4 deck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1t4p0p0/my_own_crt_raspberry_pi_4_deck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/85bd1e72f5a580e16e87c65aa8d6b136",
+      "originRaw": "https://gyazo.com/85bd1e72f5a580e16e87c65aa8d6b136/raw",
+      "id": "sha256:2ad20b2d5d452b3d1f1bb297dcba6218461bed9eedcd629e310f0f01d7fad3e2",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/2a/2ad20b2d5d452b3d1f1bb297dcba6218461bed9eedcd629e310f0f01d7fad3e2.thumb.webp",
+        "full": "img/2a/2ad20b2d5d452b3d1f1bb297dcba6218461bed9eedcd629e310f0f01d7fad3e2.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:32.589Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20own%20crt%20raspberry%20pi%204%20deck",
+    "created": "2026-05-08T14:05:20.000Z",
+    "updated": "2026-05-08T14:05:42.000Z",
+    "views": 0,
+    "thumbnail": "https://gyazo.com/85bd1e72f5a580e16e87c65aa8d6b136/raw"
+  }
+}

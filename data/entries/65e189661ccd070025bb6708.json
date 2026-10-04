@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "65e189661ccd070025bb6708",
+  "title": "TechNIK's Cyberdeck | Hackaday.io",
+  "source": {
+    "url": "https://hackaday.io/project/192073/gallery#04660658985bc139aefad14f550cedf5",
+    "site": "hackaday",
+    "label": "Gallery | TechNIK's Cyberdeck | Hackaday.io"
+  },
+  "links": [
+    {
+      "url": "https://hackaday.io/project/192073-techniks-cyberdeck",
+      "label": null,
+      "site": "hackaday"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1896a215b48002568a0fc.png",
+      "originRaw": "https://scrapbox.io/files/65e1896a215b48002568a0fc.png",
+      "id": "sha256:7098a786dec7e94be0f22bebf188adbbf3e3549895041c90bfc554db0423c959",
+      "status": "ok",
+      "width": 1600,
+      "height": 1067,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/70/7098a786dec7e94be0f22bebf188adbbf3e3549895041c90bfc554db0423c959.thumb.webp",
+        "full": "img/70/7098a786dec7e94be0f22bebf188adbbf3e3549895041c90bfc554db0423c959.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:45.198Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/TechNIK's%20Cyberdeck%20%7C%20Hackaday.io",
+    "created": "2024-03-01T07:53:11.000Z",
+    "updated": "2024-03-01T07:54:03.000Z",
+    "views": 8,
+    "thumbnail": "https://scrapbox.io/files/65e1896a215b48002568a0fc.png"
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "id": "69e243be497a50dbb9a27a31",
+  "title": "My retro mini laptop style cyberdeck.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1s7pwi0/my_retro_mini_laptop_style_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/40b681cfb06407b1faf0ce7c557a3b6f",
+      "originRaw": "https://gyazo.com/40b681cfb06407b1faf0ce7c557a3b6f/raw",
+      "id": "sha256:a1d6ec7df43b0c7d7e4fe6ada9e2c246dcb89b16ab22d081235040b4ea959c99",
+      "status": "ok",
+      "width": 1080,
+      "height": 1434,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a1/a1d6ec7df43b0c7d7e4fe6ada9e2c246dcb89b16ab22d081235040b4ea959c99.thumb.webp",
+        "full": "img/a1/a1d6ec7df43b0c7d7e4fe6ada9e2c246dcb89b16ab22d081235040b4ea959c99.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:35.775Z"
+    },
+    {
+      "origin": "https://gyazo.com/f8d43f90eaf8715af98ccb5289f2d748",
+      "originRaw": "https://gyazo.com/f8d43f90eaf8715af98ccb5289f2d748/raw",
+      "id": "sha256:70910f2f182d20e51a7f13f7f2e68bada655b108c6129ee0298270ab6bd37f87",
+      "status": "ok",
+      "width": 1080,
+      "height": 1434,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/70/70910f2f182d20e51a7f13f7f2e68bada655b108c6129ee0298270ab6bd37f87.thumb.webp",
+        "full": "img/70/70910f2f182d20e51a7f13f7f2e68bada655b108c6129ee0298270ab6bd37f87.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:37.607Z"
+    },
+    {
+      "origin": "https://gyazo.com/e51bda5f1567739309fc103f3e3fabac",
+      "originRaw": "https://gyazo.com/e51bda5f1567739309fc103f3e3fabac/raw",
+      "id": "sha256:815e1407054b07a3d1793ddd381e1e09544a319b1e3d45d8ebf694388f15ff0b",
+      "status": "ok",
+      "width": 1080,
+      "height": 1434,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/81/815e1407054b07a3d1793ddd381e1e09544a319b1e3d45d8ebf694388f15ff0b.thumb.webp",
+        "full": "img/81/815e1407054b07a3d1793ddd381e1e09544a319b1e3d45d8ebf694388f15ff0b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:38.939Z"
+    },
+    {
+      "origin": "https://gyazo.com/5be1dc3525c2469b333fccf7ea6a4472",
+      "originRaw": "https://gyazo.com/5be1dc3525c2469b333fccf7ea6a4472/raw",
+      "id": "sha256:26e98df03dc12989f006bacbe895aebfe1adbc30f31f699b9ab9749934b0e65d",
+      "status": "ok",
+      "width": 1080,
+      "height": 1434,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/26/26e98df03dc12989f006bacbe895aebfe1adbc30f31f699b9ab9749934b0e65d.thumb.webp",
+        "full": "img/26/26e98df03dc12989f006bacbe895aebfe1adbc30f31f699b9ab9749934b0e65d.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:40.507Z"
+    },
+    {
+      "origin": "https://gyazo.com/bed767acd2a56b774c57d2ba25f0e22c",
+      "originRaw": "https://gyazo.com/bed767acd2a56b774c57d2ba25f0e22c/raw",
+      "id": "sha256:cb322b6dbd9a464c7e3a99703c4f8d7fd2ee5223db3364750b584fd9c854534b",
+      "status": "ok",
+      "width": 1080,
+      "height": 1434,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/cb/cb322b6dbd9a464c7e3a99703c4f8d7fd2ee5223db3364750b584fd9c854534b.thumb.webp",
+        "full": "img/cb/cb322b6dbd9a464c7e3a99703c4f8d7fd2ee5223db3364750b584fd9c854534b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:42.032Z"
+    },
+    {
+      "origin": "https://gyazo.com/6f24f03050833bc1a6e1f9feb3826212",
+      "originRaw": "https://gyazo.com/6f24f03050833bc1a6e1f9feb3826212/raw",
+      "id": "sha256:a2a694f80807a3026357e4f9e96118fbdf9af157e537957144e70508aede693f",
+      "status": "ok",
+      "width": 1080,
+      "height": 1434,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a2/a2a694f80807a3026357e4f9e96118fbdf9af157e537957144e70508aede693f.thumb.webp",
+        "full": "img/a2/a2a694f80807a3026357e4f9e96118fbdf9af157e537957144e70508aede693f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:43.398Z"
+    },
+    {
+      "origin": "https://gyazo.com/397b57e7a43dc7a35f154b0023263eca",
+      "originRaw": "https://gyazo.com/397b57e7a43dc7a35f154b0023263eca/raw",
+      "id": "sha256:cbcb162ec73cb5d2d809bbcd1b77f2896e7cb077d162ec16ad490cd03cda423b",
+      "status": "ok",
+      "width": 1080,
+      "height": 1434,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/cb/cbcb162ec73cb5d2d809bbcd1b77f2896e7cb077d162ec16ad490cd03cda423b.thumb.webp",
+        "full": "img/cb/cbcb162ec73cb5d2d809bbcd1b77f2896e7cb077d162ec16ad490cd03cda423b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:45.458Z"
+    },
+    {
+      "origin": "https://gyazo.com/7d8f8772dc767df993c167f4067b8e2b",
+      "originRaw": "https://gyazo.com/7d8f8772dc767df993c167f4067b8e2b/raw",
+      "id": "sha256:2fd18e80dd87c205a3f8bc8b02f60c563f23b77286a182e0dfc9fa22afc6b43d",
+      "status": "ok",
+      "width": 1080,
+      "height": 1434,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/2f/2fd18e80dd87c205a3f8bc8b02f60c563f23b77286a182e0dfc9fa22afc6b43d.thumb.webp",
+        "full": "img/2f/2fd18e80dd87c205a3f8bc8b02f60c563f23b77286a182e0dfc9fa22afc6b43d.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:47.185Z"
+    },
+    {
+      "origin": "https://gyazo.com/dbb0d16672e9ca835ddb97bc2f8e701b",
+      "originRaw": "https://gyazo.com/dbb0d16672e9ca835ddb97bc2f8e701b/raw",
+      "id": "sha256:e4ba2b1416e8e69d4133e23165085dfab70c10c87f2effe27f7ba16bab74a3ac",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e4/e4ba2b1416e8e69d4133e23165085dfab70c10c87f2effe27f7ba16bab74a3ac.thumb.webp",
+        "full": "img/e4/e4ba2b1416e8e69d4133e23165085dfab70c10c87f2effe27f7ba16bab74a3ac.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:49.097Z"
+    },
+    {
+      "origin": "https://gyazo.com/e813994f2a9088beeb842c1a2b59d7b9",
+      "originRaw": "https://gyazo.com/e813994f2a9088beeb842c1a2b59d7b9/raw",
+      "id": "sha256:0de8ffec83d66446a1ccd30f27b8be096f115b8a2388d3987670635d2b480502",
+      "status": "ok",
+      "width": 1080,
+      "height": 1434,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0d/0de8ffec83d66446a1ccd30f27b8be096f115b8a2388d3987670635d2b480502.thumb.webp",
+        "full": "img/0d/0de8ffec83d66446a1ccd30f27b8be096f115b8a2388d3987670635d2b480502.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:50.398Z"
+    },
+    {
+      "origin": "https://gyazo.com/53e10c5a93c4f69c58deb56221bc9376",
+      "originRaw": "https://gyazo.com/53e10c5a93c4f69c58deb56221bc9376/raw",
+      "id": "sha256:bedd509f308e23fc09cd1aa52136aff35f94b0d5f331a100211d430c76a9043b",
+      "status": "ok",
+      "width": 1080,
+      "height": 1434,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/be/bedd509f308e23fc09cd1aa52136aff35f94b0d5f331a100211d430c76a9043b.thumb.webp",
+        "full": "img/be/bedd509f308e23fc09cd1aa52136aff35f94b0d5f331a100211d430c76a9043b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:52.501Z"
+    },
+    {
+      "origin": "https://gyazo.com/64aee1609d66d6f6cfb3a433c98ead4f",
+      "originRaw": "https://gyazo.com/64aee1609d66d6f6cfb3a433c98ead4f/raw",
+      "id": "sha256:58e72f3ffd3ceb8c0cdeff31d562aa1c43ff82b0b13a03ec94e4a0e4799fac19",
+      "status": "ok",
+      "width": 1080,
+      "height": 1434,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/58/58e72f3ffd3ceb8c0cdeff31d562aa1c43ff82b0b13a03ec94e4a0e4799fac19.thumb.webp",
+        "full": "img/58/58e72f3ffd3ceb8c0cdeff31d562aa1c43ff82b0b13a03ec94e4a0e4799fac19.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:55.031Z"
+    },
+    {
+      "origin": "https://gyazo.com/7474dd0cf74a72c3007fbaa8eabf53c8",
+      "originRaw": "https://gyazo.com/7474dd0cf74a72c3007fbaa8eabf53c8/raw",
+      "id": "sha256:73e86d27f2db22558a3f92c1a198a8c0258929e85bab550011da0fb9e8d6df7b",
+      "status": "ok",
+      "width": 1080,
+      "height": 1434,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/73/73e86d27f2db22558a3f92c1a198a8c0258929e85bab550011da0fb9e8d6df7b.thumb.webp",
+        "full": "img/73/73e86d27f2db22558a3f92c1a198a8c0258929e85bab550011da0fb9e8d6df7b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:57.384Z"
+    },
+    {
+      "origin": "https://gyazo.com/06e93b7b76ba10c3f42032e1ec023290",
+      "originRaw": "https://gyazo.com/06e93b7b76ba10c3f42032e1ec023290/raw",
+      "id": "sha256:f07222a0d2600869c6fa6dfeda5309168b756f158ad844c13708d0009488bbe3",
+      "status": "ok",
+      "width": 1080,
+      "height": 1434,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f0/f07222a0d2600869c6fa6dfeda5309168b756f158ad844c13708d0009488bbe3.thumb.webp",
+        "full": "img/f0/f07222a0d2600869c6fa6dfeda5309168b756f158ad844c13708d0009488bbe3.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:58.674Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20retro%20mini%20laptop%20style%20cyberdeck.",
+    "created": "2026-04-17T14:29:24.000Z",
+    "updated": "2026-04-17T14:30:31.000Z",
+    "views": 7,
+    "thumbnail": "https://gyazo.com/40b681cfb06407b1faf0ce7c557a3b6f/raw"
+  }
+}

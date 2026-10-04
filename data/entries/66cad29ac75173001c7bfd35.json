@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad29ac75173001c7bfd35",
+  "title": "After months of designing, buying parts, and trial & error finally finished it and got it to work! : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1dbwhi7/after_months_of_designing_buying_parts_and_trial/",
+    "site": "reddit",
+    "label": "After months of designing, buying parts, and trial & error finally finished it and got it to work! : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad29d60d30a001c1f5815.png",
+      "originRaw": "https://scrapbox.io/files/66cad29d60d30a001c1f5815.png",
+      "id": "sha256:6320da6ba6da7b6b69f62cce8c19ea722511c65625da44db78aa4cc79312a997",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/63/6320da6ba6da7b6b69f62cce8c19ea722511c65625da44db78aa4cc79312a997.thumb.webp",
+        "full": "img/63/6320da6ba6da7b6b69f62cce8c19ea722511c65625da44db78aa4cc79312a997.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:02.708Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/After%20months%20of%20designing%2C%20buying%20parts%2C%20and%20trial%20%26%20error%20finally%20finished%20it%20and%20got%20it%20to%20work!%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:43:39.000Z",
+    "updated": "2024-08-25T06:43:46.000Z",
+    "views": 6,
+    "thumbnail": "https://scrapbox.io/files/66cad29d60d30a001c1f5815.png"
+  }
+}

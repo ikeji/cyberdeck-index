@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6606ec38681e4f00240277e3",
+  "title": "It ain't much but it's a start : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1b9xh5v/it_aint_much_but_its_a_start/",
+    "site": "reddit",
+    "label": "It ain't much but it's a start : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6606ec3ad216130025773f15.png",
+      "originRaw": "https://scrapbox.io/files/6606ec3ad216130025773f15.png",
+      "id": "sha256:1fe5e30167c413aed90c92c8edcaac0e1b64c438f8e17604c536ab37c88965de",
+      "status": "ok",
+      "width": 1080,
+      "height": 1145,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1f/1fe5e30167c413aed90c92c8edcaac0e1b64c438f8e17604c536ab37c88965de.thumb.webp",
+        "full": "img/1f/1fe5e30167c413aed90c92c8edcaac0e1b64c438f8e17604c536ab37c88965de.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:00.543Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/It%20ain't%20much%20but%20it's%20a%20start%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-29T16:28:41.000Z",
+    "updated": "2024-03-29T16:28:47.000Z",
+    "views": 35,
+    "thumbnail": "https://scrapbox.io/files/6606ec3ad216130025773f15.png"
+  }
+}

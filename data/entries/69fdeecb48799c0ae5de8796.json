@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "69fdeecb48799c0ae5de8796",
+  "title": "The „JayDeck“",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1t2pfgf/the_jaydeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/7870fa6b945c1a93cc27102eb4be1af9",
+      "originRaw": "https://gyazo.com/7870fa6b945c1a93cc27102eb4be1af9/raw",
+      "id": "sha256:a78958f453edc1ce502dc5b23650892f65583ebc63bb2fbaaf8d7cda46d16c12",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a7/a78958f453edc1ce502dc5b23650892f65583ebc63bb2fbaaf8d7cda46d16c12.thumb.webp",
+        "full": "img/a7/a78958f453edc1ce502dc5b23650892f65583ebc63bb2fbaaf8d7cda46d16c12.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:42.405Z"
+    },
+    {
+      "origin": "https://gyazo.com/fe154df157be79250dac616f391aa3f6",
+      "originRaw": "https://gyazo.com/fe154df157be79250dac616f391aa3f6/raw",
+      "id": "sha256:c0377ea1ef03bd14f73027ce4f2076941b9f08a5477f3286be24218e12415e50",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c0/c0377ea1ef03bd14f73027ce4f2076941b9f08a5477f3286be24218e12415e50.thumb.webp",
+        "full": "img/c0/c0377ea1ef03bd14f73027ce4f2076941b9f08a5477f3286be24218e12415e50.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:43.550Z"
+    },
+    {
+      "origin": "https://gyazo.com/d0aceb6412510d519708ae6e9ba7ad60",
+      "originRaw": "https://gyazo.com/d0aceb6412510d519708ae6e9ba7ad60/raw",
+      "id": "sha256:d0cd5b3358e45d57139306f2915469a26192a7102d73b67f0b4da498d0e37fdf",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d0/d0cd5b3358e45d57139306f2915469a26192a7102d73b67f0b4da498d0e37fdf.thumb.webp",
+        "full": "img/d0/d0cd5b3358e45d57139306f2915469a26192a7102d73b67f0b4da498d0e37fdf.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:44.781Z"
+    },
+    {
+      "origin": "https://gyazo.com/40f014b1963e5f76b5ff7564c55913f1",
+      "originRaw": "https://gyazo.com/40f014b1963e5f76b5ff7564c55913f1/raw",
+      "id": "sha256:f8556290de127476a66143660967170a9f537063fd0b18fa1e6390fcaae60acb",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f8/f8556290de127476a66143660967170a9f537063fd0b18fa1e6390fcaae60acb.thumb.webp",
+        "full": "img/f8/f8556290de127476a66143660967170a9f537063fd0b18fa1e6390fcaae60acb.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:46.069Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/The%20%E2%80%9EJayDeck%E2%80%9C",
+    "created": "2026-05-08T14:10:23.000Z",
+    "updated": "2026-05-08T14:10:58.000Z",
+    "views": 1,
+    "thumbnail": "https://gyazo.com/7870fa6b945c1a93cc27102eb4be1af9/raw"
+  }
+}

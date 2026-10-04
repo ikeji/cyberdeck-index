@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6842ecdd7490c4f85b024c0e",
+  "title": "Cyberdeck - Triskel mk1",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1kotreu/cyberdeck_triskel_mk1/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/abb1e4c6eb1f393799cd08ab54cc8ba5",
+      "originRaw": "https://gyazo.com/abb1e4c6eb1f393799cd08ab54cc8ba5/raw",
+      "id": "sha256:9ebb52ac65cf3c632da182c2e0c959ecc76471070e74f846e8ea509cdf3b7768",
+      "status": "ok",
+      "width": 640,
+      "height": 481,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9e/9ebb52ac65cf3c632da182c2e0c959ecc76471070e74f846e8ea509cdf3b7768.thumb.webp",
+        "full": "img/9e/9ebb52ac65cf3c632da182c2e0c959ecc76471070e74f846e8ea509cdf3b7768.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:25.584Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cyberdeck%20-%20Triskel%20mk1",
+    "created": "2025-06-06T13:27:58.000Z",
+    "updated": "2025-06-06T13:28:10.000Z",
+    "views": 19,
+    "thumbnail": "https://gyazo.com/abb1e4c6eb1f393799cd08ab54cc8ba5/raw"
+  }
+}

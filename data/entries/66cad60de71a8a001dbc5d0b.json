@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad60de71a8a001dbc5d0b",
+  "title": "The ZoneWriter : r/writerDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/writerDeck/comments/1ecx7au/the_zonewriter/",
+    "site": "reddit",
+    "label": "The ZoneWriter : r/writerDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad610ec7cde001dca8d05.png",
+      "originRaw": "https://scrapbox.io/files/66cad610ec7cde001dca8d05.png",
+      "id": "sha256:507e9786c9e4ba6724655849f068328adb60bae8a852ffa4477b8b403b461ac3",
+      "status": "ok",
+      "width": 720,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/50/507e9786c9e4ba6724655849f068328adb60bae8a852ffa4477b8b403b461ac3.thumb.webp",
+        "full": "img/50/507e9786c9e4ba6724655849f068328adb60bae8a852ffa4477b8b403b461ac3.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:11.843Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/The%20ZoneWriter%20%3A%20r%2FwriterDeck",
+    "created": "2024-08-25T06:58:22.000Z",
+    "updated": "2024-08-25T06:58:29.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/66cad610ec7cde001dca8d05.png"
+  }
+}

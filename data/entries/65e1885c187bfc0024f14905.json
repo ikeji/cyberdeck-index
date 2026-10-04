@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e1885c187bfc0024f14905",
+  "title": "ClockworkPi | Open Source Hardware",
+  "source": {
+    "url": "https://www.clockworkpi.com/home-devterm",
+    "site": "web",
+    "label": "ClockworkPi | Open Source Hardware"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1885f1e860f002489c998.png",
+      "originRaw": "https://scrapbox.io/files/65e1885f1e860f002489c998.png",
+      "id": "sha256:27e2057e7d82e7c513f50a2e4e607efa0bd96a8b7b24ed82d26ca1b7699e5b5d",
+      "status": "ok",
+      "width": 900,
+      "height": 543,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/27/27e2057e7d82e7c513f50a2e4e607efa0bd96a8b7b24ed82d26ca1b7699e5b5d.thumb.webp",
+        "full": "img/27/27e2057e7d82e7c513f50a2e4e607efa0bd96a8b7b24ed82d26ca1b7699e5b5d.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:43.022Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/ClockworkPi%20%7C%20Open%20Source%20Hardware",
+    "created": "2024-03-01T07:48:45.000Z",
+    "updated": "2024-03-01T07:48:51.000Z",
+    "views": 11,
+    "thumbnail": "https://scrapbox.io/files/65e1885f1e860f002489c998.png"
+  }
+}

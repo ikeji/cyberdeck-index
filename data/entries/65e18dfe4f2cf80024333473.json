@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18dfe4f2cf80024333473",
+  "title": "Xユーザーのよしけいさん: 「腕時計からホログラムが出るアレを作りました。 知らない惑星へ不時着した時に確認しましょう。 ワンフェスで販売します。 #ワンフェス2024w t.co/ue09da3vF4」 / X",
+  "source": {
+    "url": "https://twitter.com/yosikei1210/status/1748516299691683951",
+    "site": "twitter",
+    "label": "Xユーザーのよしけいさん: 「腕時計からホログラムが出るアレを作りました。 知らない惑星へ不時着した時に確認しましょう。 ワンフェスで販売します。 #ワンフェス2024w https://t.co/ue09da3vF4」 / X"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18e01bf5a710025d8441a.png",
+      "originRaw": "https://scrapbox.io/files/65e18e01bf5a710025d8441a.png",
+      "id": "sha256:3405819e9c86f89b3c91bac8f036af96cdd8c0fd56093119c0d4a9dc6b53aca4",
+      "status": "ok",
+      "width": 1560,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/34/3405819e9c86f89b3c91bac8f036af96cdd8c0fd56093119c0d4a9dc6b53aca4.thumb.webp",
+        "full": "img/34/3405819e9c86f89b3c91bac8f036af96cdd8c0fd56093119c0d4a9dc6b53aca4.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:52.648Z"
+    },
+    {
+      "origin": "https://scrapbox.io/files/65e18e0d929d21002542296b.png",
+      "originRaw": "https://scrapbox.io/files/65e18e0d929d21002542296b.png",
+      "id": "sha256:267f59a8329b45cb3dd6b123332bba146554738ecef6ea35279f813ca91852f2",
+      "status": "ok",
+      "width": 1172,
+      "height": 1172,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/26/267f59a8329b45cb3dd6b123332bba146554738ecef6ea35279f813ca91852f2.thumb.webp",
+        "full": "img/26/267f59a8329b45cb3dd6b123332bba146554738ecef6ea35279f813ca91852f2.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:52.645Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/X%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AE%E3%82%88%E3%81%97%E3%81%91%E3%81%84%E3%81%95%E3%82%93%3A%20%E3%80%8C%E8%85%95%E6%99%82%E8%A8%88%E3%81%8B%E3%82%89%E3%83%9B%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%8C%E5%87%BA%E3%82%8B%E3%82%A2%E3%83%AC%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82%20%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E6%83%91%E6%98%9F%E3%81%B8%E4%B8%8D%E6%99%82%E7%9D%80%E3%81%97%E3%81%9F%E6%99%82%E3%81%AB%E7%A2%BA%E8%AA%8D%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%E3%80%82%20%E3%83%AF%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%81%A7%E8%B2%A9%E5%A3%B2%E3%81%97%E3%81%BE%E3%81%99%E3%80%82%20%23%E3%83%AF%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B92024w%20t.co%2Fue09da3vF4%E3%80%8D%20%2F%20X",
+    "created": "2024-03-01T08:12:47.000Z",
+    "updated": "2024-03-01T08:13:06.000Z",
+    "views": 22,
+    "thumbnail": "https://scrapbox.io/files/65e18e01bf5a710025d8441a.png"
+  }
+}

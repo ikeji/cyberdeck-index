@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "6606e88cddfc0a0024b9e835",
+  "title": "XユーザーのKevin Batesさん: 「Hello World! Esp 32, 320x172 IPS LCD SSD7789, 3x neopixel, Qwiic connector, push on hold off power switch, 40 key cap touch matrix. t.co/kOypa3fb1k」 / X",
+  "source": {
+    "url": "https://video.twimg.com/ext_tw_video/1767976294069972992/pu/vid/avc1/1280x720/gm91XU786fAs-R-t.mp4",
+    "site": "web",
+    "label": null
+  },
+  "links": [
+    {
+      "url": "https://twitter.com/bateskecom/status/1767976349971656901",
+      "label": "XユーザーのKevin Batesさん: 「Hello World! Esp 32, 320x172 IPS LCD SSD7789, 3x neopixel, Qwiic connector, push on hold off power switch, 40 key cap touch matrix. https://t.co/kOypa3fb1k」 / X",
+      "site": "twitter"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6606e8c9b212260024072844.png",
+      "originRaw": "https://scrapbox.io/files/6606e8c9b212260024072844.png",
+      "id": "sha256:12291faa91854e5b9d54e0f9a67753de71ae25a17ad795c4b2799a63037ffedc",
+      "status": "ok",
+      "width": 1280,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/12/12291faa91854e5b9d54e0f9a67753de71ae25a17ad795c4b2799a63037ffedc.thumb.webp",
+        "full": "img/12/12291faa91854e5b9d54e0f9a67753de71ae25a17ad795c4b2799a63037ffedc.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:55.441Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": "via [/fab-wiki/20240317週fabnews]",
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/X%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AEKevin%20Bates%E3%81%95%E3%82%93%3A%20%E3%80%8CHello%20World!%20Esp%2032%2C%20320x172%20IPS%20LCD%20SSD7789%2C%203x%20neopixel%2C%20Qwiic%20connector%2C%20push%20on%20hold%20off%20power%20switch%2C%2040%20key%20cap%20touch%20matrix.%20t.co%2FkOypa3fb1k%E3%80%8D%20%2F%20X",
+    "created": "2024-03-29T16:13:01.000Z",
+    "updated": "2024-03-29T16:14:05.000Z",
+    "views": 8,
+    "thumbnail": "https://scrapbox.io/files/6606e8c9b212260024072844.png"
+  }
+}

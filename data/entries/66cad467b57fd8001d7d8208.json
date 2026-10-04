@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad467b57fd8001d7d8208",
+  "title": "Zx81 cyberdeck : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1cpfxqa/zx81_cyberdeck/",
+    "site": "reddit",
+    "label": "Zx81 cyberdeck : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad46a87909a001cce0b2b.png",
+      "originRaw": "https://scrapbox.io/files/66cad46a87909a001cce0b2b.png",
+      "id": "sha256:958bc972f8384463938fbfd7b5d25d9d3cc89ebcb1eaa92c1c9ab110a7f7891c",
+      "status": "ok",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/95/958bc972f8384463938fbfd7b5d25d9d3cc89ebcb1eaa92c1c9ab110a7f7891c.thumb.webp",
+        "full": "img/95/958bc972f8384463938fbfd7b5d25d9d3cc89ebcb1eaa92c1c9ab110a7f7891c.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:08.626Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Zx81%20cyberdeck%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:51:19.000Z",
+    "updated": "2024-08-25T06:51:31.000Z",
+    "views": 2,
+    "thumbnail": "https://scrapbox.io/files/66cad46a87909a001cce0b2b.png"
+  }
+}

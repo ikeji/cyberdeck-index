@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6606eaeaabf3d60024899dd7",
+  "title": "I finished building my first CyberDeck.... Again. : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1bl6wwm/i_finished_building_my_first_cyberdeck_again/",
+    "site": "reddit",
+    "label": "I finished building my first CyberDeck.... Again. : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6606eaf0eae247002525be76.png",
+      "originRaw": "https://scrapbox.io/files/6606eaf0eae247002525be76.png",
+      "id": "sha256:a41d96ee8c2d420ff1d4aee13869523f664610c5c2af4935889e74620c958d83",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a4/a41d96ee8c2d420ff1d4aee13869523f664610c5c2af4935889e74620c958d83.thumb.webp",
+        "full": "img/a4/a41d96ee8c2d420ff1d4aee13869523f664610c5c2af4935889e74620c958d83.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:56.662Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20finished%20building%20my%20first%20CyberDeck....%20Again.%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-29T16:23:07.000Z",
+    "updated": "2024-03-29T16:23:17.000Z",
+    "views": 17,
+    "thumbnail": "https://scrapbox.io/files/6606eaf0eae247002525be76.png"
+  }
+}

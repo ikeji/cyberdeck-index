@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67b88f41fb958be1e962aca6",
+  "title": "I made a 16+512 cyberdeck beast with blackberry keyboards",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1im0x92/i_made_a_16512_cyberdeck_beast_with_blackberry/",
+    "site": "reddit",
+    "label": "I made a 16+512 cyberdeck beast with blackberry keyboards : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67b88f50ecb00e1c6e0a62f1.png",
+      "originRaw": "https://scrapbox.io/files/67b88f50ecb00e1c6e0a62f1.png",
+      "id": "sha256:220fcaf27d6c05dfd1055fffaa2a5321a09dda4f1dacdd609468d6c5018bfe8c",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/22/220fcaf27d6c05dfd1055fffaa2a5321a09dda4f1dacdd609468d6c5018bfe8c.thumb.webp",
+        "full": "img/22/220fcaf27d6c05dfd1055fffaa2a5321a09dda4f1dacdd609468d6c5018bfe8c.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:42.174Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20made%20a%2016%2B512%20cyberdeck%20beast%20with%20blackberry%20keyboards",
+    "created": "2025-02-21T14:35:46.000Z",
+    "updated": "2025-02-21T14:36:05.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/67b88f50ecb00e1c6e0a62f1.png"
+  }
+}

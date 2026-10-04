@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6749b831bdee19e8b50d6088",
+  "title": "Monster++",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1gs7jud/monster/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6749b8439bc11c61bcdd1ff0.png",
+      "originRaw": "https://scrapbox.io/files/6749b8439bc11c61bcdd1ff0.png",
+      "id": "sha256:a2526953837ed418a823d3f23c99822d36e7af957c264fb58b5a12e2d3a5edfe",
+      "status": "ok",
+      "width": 900,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a2/a2526953837ed418a823d3f23c99822d36e7af957c264fb58b5a12e2d3a5edfe.thumb.webp",
+        "full": "img/a2/a2526953837ed418a823d3f23c99822d36e7af957c264fb58b5a12e2d3a5edfe.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:30.418Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Monster%2B%2B",
+    "created": "2024-11-29T12:48:55.000Z",
+    "updated": "2024-11-29T12:49:12.000Z",
+    "views": 8,
+    "thumbnail": "https://scrapbox.io/files/6749b8439bc11c61bcdd1ff0.png"
+  }
+}

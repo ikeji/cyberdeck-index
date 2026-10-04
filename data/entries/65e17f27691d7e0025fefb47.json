@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "65e17f27691d7e0025fefb47",
+  "title": "Boostbox",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/uxfhq6/my_youtube_terminal_not_entirely_sure_if_it/",
+    "site": "reddit",
+    "label": "My YouTube Terminal... not entirely sure if it qualifies as a cyberdeck, but definitely not a DIY laptop... : r/cyberDeck"
+  },
+  "links": [
+    {
+      "url": "https://github.com/veebch/boostbox",
+      "label": null,
+      "site": "github"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e17f2ae3f4830025e3f56a.png",
+      "originRaw": "https://scrapbox.io/files/65e17f2ae3f4830025e3f56a.png",
+      "id": "sha256:b061468aba89a6684b6b436651c16030d7b21359519b6c823eca7774d0b21750",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b0/b061468aba89a6684b6b436651c16030d7b21359519b6c823eca7774d0b21750.thumb.webp",
+        "full": "img/b0/b061468aba89a6684b6b436651c16030d7b21359519b6c823eca7774d0b21750.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:17.294Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Boostbox",
+    "created": "2024-03-01T07:09:28.000Z",
+    "updated": "2024-03-01T07:15:47.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/65e17f2ae3f4830025e3f56a.png"
+  }
+}

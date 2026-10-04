@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "69fdf39e53b840a390ebcd77",
+  "title": "GR3ML1N — A compact, handheld cyberdeck built for chaos",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ssfbup/gr3ml1n_a_compact_handheld_cyberdeck_built_for/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/7ec84d945b9b57036e6564074b793dbe",
+      "originRaw": "https://gyazo.com/7ec84d945b9b57036e6564074b793dbe/raw",
+      "id": "sha256:232fdbcadee80e2665a5b8bc9f19f037340890dfc687fa0418618bf9a09462c6",
+      "status": "ok",
+      "width": 1080,
+      "height": 809,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/23/232fdbcadee80e2665a5b8bc9f19f037340890dfc687fa0418618bf9a09462c6.thumb.webp",
+        "full": "img/23/232fdbcadee80e2665a5b8bc9f19f037340890dfc687fa0418618bf9a09462c6.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:09.542Z"
+    }
+  ],
+  "tags": [
+    "IKeJIのおすすめ"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/GR3ML1N%20%E2%80%94%20A%20compact%2C%20handheld%20cyberdeck%20built%20for%20chaos",
+    "created": "2026-05-08T14:30:55.000Z",
+    "updated": "2026-05-08T14:31:17.000Z",
+    "views": 2,
+    "thumbnail": "https://gyazo.com/7ec84d945b9b57036e6564074b793dbe/raw"
+  }
+}

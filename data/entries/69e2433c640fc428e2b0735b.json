@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "69e2433c640fc428e2b0735b",
+  "title": "My CyberDeck Project - Finally took some good photos",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1s8onsc/my_cyberdeck_project_finally_took_some_good_photos/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/2b1549be343333b0eb9206b31e3ee8e4",
+      "originRaw": "https://gyazo.com/2b1549be343333b0eb9206b31e3ee8e4/raw",
+      "id": "sha256:0a962eb8271ee8226508a1bf3e4207cf7e0e6c043bbd684fc044cc93835119af",
+      "status": "ok",
+      "width": 1080,
+      "height": 1366,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0a/0a962eb8271ee8226508a1bf3e4207cf7e0e6c043bbd684fc044cc93835119af.thumb.webp",
+        "full": "img/0a/0a962eb8271ee8226508a1bf3e4207cf7e0e6c043bbd684fc044cc93835119af.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:30.519Z"
+    },
+    {
+      "origin": "https://gyazo.com/f0b4a4625ccacb28566f9a3d2a3f625d",
+      "originRaw": "https://gyazo.com/f0b4a4625ccacb28566f9a3d2a3f625d/raw",
+      "id": "sha256:0df7250d6eb67bfc3265d538720506cca85dd2db9e9d77f4355e50e9afef450a",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0d/0df7250d6eb67bfc3265d538720506cca85dd2db9e9d77f4355e50e9afef450a.thumb.webp",
+        "full": "img/0d/0df7250d6eb67bfc3265d538720506cca85dd2db9e9d77f4355e50e9afef450a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:36.464Z"
+    },
+    {
+      "origin": "https://gyazo.com/231ba319d3468665274bb77c4bfbf999",
+      "originRaw": "https://gyazo.com/231ba319d3468665274bb77c4bfbf999/raw",
+      "id": "sha256:2b3750591a2fbfa58b20a935f501d70258e9326b368133f952738036ee8cc51f",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/2b/2b3750591a2fbfa58b20a935f501d70258e9326b368133f952738036ee8cc51f.thumb.webp",
+        "full": "img/2b/2b3750591a2fbfa58b20a935f501d70258e9326b368133f952738036ee8cc51f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:37.844Z"
+    },
+    {
+      "origin": "https://gyazo.com/296d3b3dd75c16f350a3f6923feb5c8f",
+      "originRaw": "https://gyazo.com/296d3b3dd75c16f350a3f6923feb5c8f/raw",
+      "id": "sha256:d2a71ddfa59d0e55214b8376a3580b1695b53a3127e59321a2acc6d56fb7d2a5",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d2/d2a71ddfa59d0e55214b8376a3580b1695b53a3127e59321a2acc6d56fb7d2a5.thumb.webp",
+        "full": "img/d2/d2a71ddfa59d0e55214b8376a3580b1695b53a3127e59321a2acc6d56fb7d2a5.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:39.300Z"
+    },
+    {
+      "origin": "https://gyazo.com/fcac37cb2ed7b401bc559e32ff3c3f64",
+      "originRaw": "https://gyazo.com/fcac37cb2ed7b401bc559e32ff3c3f64/raw",
+      "id": "sha256:6cecb49601c6bb26b02f0006f1cd74b86b9422b1669d5f6713bf54efcb581c31",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6c/6cecb49601c6bb26b02f0006f1cd74b86b9422b1669d5f6713bf54efcb581c31.thumb.webp",
+        "full": "img/6c/6cecb49601c6bb26b02f0006f1cd74b86b9422b1669d5f6713bf54efcb581c31.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:40.021Z"
+    },
+    {
+      "origin": "https://gyazo.com/4b7783fdb939246c7e9e827a71609190",
+      "originRaw": "https://gyazo.com/4b7783fdb939246c7e9e827a71609190/raw",
+      "id": "sha256:208bf5a216b498344b829ecc8474f486816112b2c56ce9cb786fc09a94d05f82",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/20/208bf5a216b498344b829ecc8474f486816112b2c56ce9cb786fc09a94d05f82.thumb.webp",
+        "full": "img/20/208bf5a216b498344b829ecc8474f486816112b2c56ce9cb786fc09a94d05f82.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:41.312Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20CyberDeck%20Project%20-%20Finally%20took%20some%20good%20photos",
+    "created": "2026-04-17T14:27:21.000Z",
+    "updated": "2026-04-17T14:27:53.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/2b1549be343333b0eb9206b31e3ee8e4/raw"
+  }
+}

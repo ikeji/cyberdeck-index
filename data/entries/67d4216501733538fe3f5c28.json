@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67d4216501733538fe3f5c28",
+  "title": "Not mine, but this sewage inspector gives me inspo for a crt deck ^^",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1j0o43h/not_mine_but_this_sewage_inspector_gives_me_inspo/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67d4216cab5ef4cf4a907ced.png",
+      "originRaw": "https://scrapbox.io/files/67d4216cab5ef4cf4a907ced.png",
+      "id": "sha256:62855902f410495ec01fc91dce21f246731c16169c7f60e7320fe6dc48f49985",
+      "status": "ok",
+      "width": 700,
+      "height": 525,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/62/62855902f410495ec01fc91dce21f246731c16169c7f60e7320fe6dc48f49985.thumb.webp",
+        "full": "img/62/62855902f410495ec01fc91dce21f246731c16169c7f60e7320fe6dc48f49985.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:47.654Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Not%20mine%2C%20but%20this%20sewage%20inspector%20gives%20me%20inspo%20for%20a%20crt%20deck%20%5E%5E",
+    "created": "2025-03-14T12:30:30.000Z",
+    "updated": "2025-03-14T12:30:40.000Z",
+    "views": 10,
+    "thumbnail": "https://scrapbox.io/files/67d4216cab5ef4cf4a907ced.png"
+  }
+}

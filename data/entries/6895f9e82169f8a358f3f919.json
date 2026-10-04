@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6895f9e82169f8a358f3f919",
+  "title": "RPI DEV: Finally Done! YouTube and Documentation/Files are available.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1m9ufwz/rpi_dev_finally_done_youtube_and/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/f64e07569e21c4f5ab5df0cf9ed81de0",
+      "originRaw": "https://gyazo.com/f64e07569e21c4f5ab5df0cf9ed81de0/raw",
+      "id": "sha256:656671c3d793d6b895c96c4123e9df182e7c6e8ba2f341e7f783f754453d5a03",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/65/656671c3d793d6b895c96c4123e9df182e7c6e8ba2f341e7f783f754453d5a03.thumb.webp",
+        "full": "img/65/656671c3d793d6b895c96c4123e9df182e7c6e8ba2f341e7f783f754453d5a03.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:20.076Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/RPI%20DEV%3A%20Finally%20Done!%20YouTube%20and%20Documentation%2FFiles%20are%20available.",
+    "created": "2025-08-08T13:22:15.000Z",
+    "updated": "2025-08-08T13:22:21.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/f64e07569e21c4f5ab5df0cf9ed81de0/raw"
+  }
+}

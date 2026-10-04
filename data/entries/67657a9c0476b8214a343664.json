@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67657a9c0476b8214a343664",
+  "title": "small dual monitor PC build for simple office tasks on the go",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1hhkckh/small_dual_monitor_pc_build_for_simple_office/#lightbox",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67657aaff7d40098cf5fcf18.png",
+      "originRaw": "https://scrapbox.io/files/67657aaff7d40098cf5fcf18.png",
+      "id": "sha256:21aeb45da99099020b3ddacc34c7911468596920aae1c6c5279f51d173f696e9",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/21/21aeb45da99099020b3ddacc34c7911468596920aae1c6c5279f51d173f696e9.thumb.webp",
+        "full": "img/21/21aeb45da99099020b3ddacc34c7911468596920aae1c6c5279f51d173f696e9.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:34.330Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/small%20dual%20monitor%20PC%20build%20for%20simple%20office%20tasks%20on%20the%20go",
+    "created": "2024-12-20T14:09:39.000Z",
+    "updated": "2024-12-20T14:09:58.000Z",
+    "views": 6,
+    "thumbnail": "https://scrapbox.io/files/67657aaff7d40098cf5fcf18.png"
+  }
+}

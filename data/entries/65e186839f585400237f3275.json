@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "65e186839f585400237f3275",
+  "title": "6802 Serial Terminal | Hackaday.io",
+  "source": {
+    "url": "https://hackaday.io/project/176175-6802-serial-terminal",
+    "site": "hackaday",
+    "label": "6802 Serial Terminal | Hackaday.io"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18685680c80002551ca83.png",
+      "originRaw": "https://scrapbox.io/files/65e18685680c80002551ca83.png",
+      "id": "sha256:3b9ac91692dc32fe961af248bf73c13506910fd9683817cdda2a9ed7d7bfc95f",
+      "status": "ok",
+      "width": 1080,
+      "height": 703,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3b/3b9ac91692dc32fe961af248bf73c13506910fd9683817cdda2a9ed7d7bfc95f.thumb.webp",
+        "full": "img/3b/3b9ac91692dc32fe961af248bf73c13506910fd9683817cdda2a9ed7d7bfc95f.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:33.456Z"
+    }
+  ],
+  "tags": [
+    "日本の作例",
+    "IKeJIのおすすめ"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/6802%20Serial%20Terminal%20%7C%20Hackaday.io",
+    "created": "2024-03-01T07:40:52.000Z",
+    "updated": "2026-05-08T14:35:30.000Z",
+    "views": 25,
+    "thumbnail": "https://scrapbox.io/files/65e18685680c80002551ca83.png"
+  }
+}

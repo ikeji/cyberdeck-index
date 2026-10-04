@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "698f2b0ef99aee35cd04035a",
+  "title": "\"I Built a Cyberdeck with the Compute Module 5 (From Scratch)\" by Salim Benbouziyane",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=U5GZeMm5nhI",
+    "site": "youtube",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/49b8166267b9c1b8e73f4119f05cf958",
+      "originRaw": "https://gyazo.com/49b8166267b9c1b8e73f4119f05cf958/raw",
+      "id": "sha256:aa118a032f1f9295d9188749eba4d7108c222bb2a4417ec8586feafdbe333671",
+      "status": "ok",
+      "width": 910,
+      "height": 515,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/aa/aa118a032f1f9295d9188749eba4d7108c222bb2a4417ec8586feafdbe333671.thumb.webp",
+        "full": "img/aa/aa118a032f1f9295d9188749eba4d7108c222bb2a4417ec8586feafdbe333671.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:25.510Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/%22I%20Built%20a%20Cyberdeck%20with%20the%20Compute%20Module%205%20(From%20Scratch)%22%20by%20Salim%20Benbouziyane",
+    "created": "2026-02-13T13:45:51.000Z",
+    "updated": "2026-02-13T13:46:41.000Z",
+    "views": 12,
+    "thumbnail": "https://i.ytimg.com/vi/U5GZeMm5nhI/mqdefault.jpg"
+  }
+}

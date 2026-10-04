@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67efe1620a5b860a751c655b",
+  "title": "CypherDex Toolbox",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1jk8534/cypherdex_toolbox/",
+    "site": "reddit",
+    "label": "CypherDex Toolbox : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67efe169e0b20565e6c4558c.png",
+      "originRaw": "https://scrapbox.io/files/67efe169e0b20565e6c4558c.png",
+      "id": "sha256:366c3ba911d4b4e51f8ed0016d5679b09b6175ee0ffff7ba1b4caa63ba3c1cb2",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/36/366c3ba911d4b4e51f8ed0016d5679b09b6175ee0ffff7ba1b4caa63ba3c1cb2.thumb.webp",
+        "full": "img/36/366c3ba911d4b4e51f8ed0016d5679b09b6175ee0ffff7ba1b4caa63ba3c1cb2.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:53.108Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/CypherDex%20Toolbox",
+    "created": "2025-04-04T13:40:57.000Z",
+    "updated": "2025-04-04T13:41:04.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/67efe169e0b20565e6c4558c.png"
+  }
+}

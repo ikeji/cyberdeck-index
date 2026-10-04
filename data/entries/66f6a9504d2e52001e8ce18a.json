@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66f6a9504d2e52001e8ce18a",
+  "title": "Finished this. For now ..",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1fhy4iz/finished_this_for_now/#lightbox",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66f6a96d03568c001c3c3306.png",
+      "originRaw": "https://scrapbox.io/files/66f6a96d03568c001c3c3306.png",
+      "id": "sha256:5a33c7ec25915f50b3f7202eff250a4d69553b65966acf4b8ea5079ba90c3b21",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5a/5a33c7ec25915f50b3f7202eff250a4d69553b65966acf4b8ea5079ba90c3b21.thumb.webp",
+        "full": "img/5a/5a33c7ec25915f50b3f7202eff250a4d69553b65966acf4b8ea5079ba90c3b21.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:16.976Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Finished%20this.%20For%20now%20..",
+    "created": "2024-09-27T12:47:21.000Z",
+    "updated": "2024-09-27T12:47:52.000Z",
+    "views": 0,
+    "thumbnail": "https://scrapbox.io/files/66f6a96d03568c001c3c3306.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6606ead6cbc494002e8985ad",
+  "title": "ESP32 writerDeck - Turn on and type immediately. Sync with Google Drive. Simple. Let your draft kept always recorded - DIY build : r/writerDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/writerDeck/comments/1bnbnl1/esp32_writerdeck_turn_on_and_type_immediately/",
+    "site": "reddit",
+    "label": "ESP32 writerDeck - Turn on and type immediately. Sync with Google Drive. Simple. Let your draft kept always recorded - DIY build : r/writerDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6606ead9e83f9a0025e6f34c.png",
+      "originRaw": "https://scrapbox.io/files/6606ead9e83f9a0025e6f34c.png",
+      "id": "sha256:5a3dd1858d55bc8dbf636de0e67090d96172fdf182e41df77fee1eac7677edcb",
+      "status": "ok",
+      "width": 1080,
+      "height": 604,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5a/5a3dd1858d55bc8dbf636de0e67090d96172fdf182e41df77fee1eac7677edcb.thumb.webp",
+        "full": "img/5a/5a3dd1858d55bc8dbf636de0e67090d96172fdf182e41df77fee1eac7677edcb.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:56.707Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/ESP32%20writerDeck%20-%20Turn%20on%20and%20type%20immediately.%20Sync%20with%20Google%20Drive.%20Simple.%20Let%20your%20draft%20kept%20always%20recorded%20-%20DIY%20build%20%3A%20r%2FwriterDeck",
+    "created": "2024-03-29T16:22:47.000Z",
+    "updated": "2024-03-29T16:22:52.000Z",
+    "views": 13,
+    "thumbnail": "https://scrapbox.io/files/6606ead9e83f9a0025e6f34c.png"
+  }
+}

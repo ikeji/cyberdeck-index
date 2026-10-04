@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "65e1872a680c80002551d978",
+  "title": "Framedeck - custom portable with integrated keyboard and trackball : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/uqejkx/framedeck_custom_portable_with_integrated/",
+    "site": "reddit",
+    "label": "Framedeck - custom portable with integrated keyboard and trackball : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1872f5246210024239cba.png",
+      "originRaw": "https://scrapbox.io/files/65e1872f5246210024239cba.png",
+      "id": "sha256:b35943f6a8dc85e8a5b9ea32664e81294aac13f7c30c10b7d7e9af91cd22580f",
+      "status": "ok",
+      "width": 1080,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b3/b35943f6a8dc85e8a5b9ea32664e81294aac13f7c30c10b7d7e9af91cd22580f.thumb.webp",
+        "full": "img/b3/b35943f6a8dc85e8a5b9ea32664e81294aac13f7c30c10b7d7e9af91cd22580f.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:37.653Z"
+    }
+  ],
+  "tags": [
+    "IKeJIのおすすめ"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Framedeck%20-%20custom%20portable%20with%20integrated%20keyboard%20and%20trackball%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:43:39.000Z",
+    "updated": "2026-05-08T14:38:32.000Z",
+    "views": 13,
+    "thumbnail": "https://scrapbox.io/files/65e1872f5246210024239cba.png"
+  }
+}

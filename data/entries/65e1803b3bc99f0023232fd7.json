@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e1803b3bc99f0023232fd7",
+  "title": "A fresh take? : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/ml7o0t/a_fresh_take/",
+    "site": "reddit",
+    "label": "A fresh take? : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1803e680c800025514de4.png",
+      "originRaw": "https://scrapbox.io/files/65e1803e680c800025514de4.png",
+      "id": "sha256:d3c428ea976080a47184577f7d5042e837cabad4b1ec221cd5272c923b5e3ddc",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d3/d3c428ea976080a47184577f7d5042e837cabad4b1ec221cd5272c923b5e3ddc.thumb.webp",
+        "full": "img/d3/d3c428ea976080a47184577f7d5042e837cabad4b1ec221cd5272c923b5e3ddc.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:21.444Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/A%20fresh%20take%3F%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:14:04.000Z",
+    "updated": "2024-03-01T07:14:09.000Z",
+    "views": 3,
+    "thumbnail": "https://scrapbox.io/files/65e1803e680c800025514de4.png"
+  }
+}

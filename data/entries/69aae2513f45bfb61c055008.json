@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "69aae2513f45bfb61c055008",
+  "title": "the M2x2: A 3D-printed 10:1-scale Lego computer brick",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1rjozwu/the_m2x2_a_3dprinted_101scale_lego_computer_brick/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [
+    {
+      "url": "https://makerworld.com/en/models/2469337-the-m2x2-a-mac-mini-m4-case",
+      "label": null,
+      "site": "web"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://gyazo.com/6e10ea64e644226f0c28c685db9e08d9",
+      "originRaw": "https://gyazo.com/6e10ea64e644226f0c28c685db9e08d9/raw",
+      "id": "sha256:6431ebbad5513f3e03b9fddbf75391c9b5ada2687a3ec3bcb88dd3250b83b5e6",
+      "status": "ok",
+      "width": 1080,
+      "height": 608,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/64/6431ebbad5513f3e03b9fddbf75391c9b5ada2687a3ec3bcb88dd3250b83b5e6.thumb.webp",
+        "full": "img/64/6431ebbad5513f3e03b9fddbf75391c9b5ada2687a3ec3bcb88dd3250b83b5e6.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:40.971Z"
+    },
+    {
+      "origin": "https://gyazo.com/20f01e891f29816220613f355a1c3274",
+      "originRaw": "https://gyazo.com/20f01e891f29816220613f355a1c3274/raw",
+      "id": "sha256:ca677e624c29886b65102defc5dfa86efcb0ec7090f945f04097f806b98dc5e1",
+      "status": "ok",
+      "width": 1600,
+      "height": 900,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ca/ca677e624c29886b65102defc5dfa86efcb0ec7090f945f04097f806b98dc5e1.thumb.webp",
+        "full": "img/ca/ca677e624c29886b65102defc5dfa86efcb0ec7090f945f04097f806b98dc5e1.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:43.247Z"
+    },
+    {
+      "origin": "https://gyazo.com/1fae88a18f51b615ae234d7c70249c1b",
+      "originRaw": "https://gyazo.com/1fae88a18f51b615ae234d7c70249c1b/raw",
+      "id": "sha256:873705af2613cc42820663b56d2f4f537265e0f0e526c144455b3f396d5262e7",
+      "status": "ok",
+      "width": 1067,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/87/873705af2613cc42820663b56d2f4f537265e0f0e526c144455b3f396d5262e7.thumb.webp",
+        "full": "img/87/873705af2613cc42820663b56d2f4f537265e0f0e526c144455b3f396d5262e7.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:45.346Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/the%20M2x2%3A%20A%203D-printed%2010%3A1-scale%20Lego%20computer%20brick",
+    "created": "2026-03-06T14:19:01.000Z",
+    "updated": "2026-03-06T15:01:41.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/6e10ea64e644226f0c28c685db9e08d9/raw"
+  }
+}

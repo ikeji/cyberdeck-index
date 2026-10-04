@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6842eb42d894b166a3754af8",
+  "title": "Not sure if this counts as cyberdeck, a wireless phone charger with BT keyboard for bigger phones",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1l1hno0/not_sure_if_this_counts_as_cyberdeck_a_wireless/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/bddb55a83307823710389187f3c588d4",
+      "originRaw": "https://gyazo.com/bddb55a83307823710389187f3c588d4/raw",
+      "id": "sha256:a5fb1eba86658738cf0ae1fb39c1b63cefcf4c64a250583d38a007a18639f8e2",
+      "status": "ok",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a5/a5fb1eba86658738cf0ae1fb39c1b63cefcf4c64a250583d38a007a18639f8e2.thumb.webp",
+        "full": "img/a5/a5fb1eba86658738cf0ae1fb39c1b63cefcf4c64a250583d38a007a18639f8e2.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:19.498Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Not%20sure%20if%20this%20counts%20as%20cyberdeck%2C%20a%20wireless%20phone%20charger%20with%20BT%20keyboard%20for%20bigger%20phones",
+    "created": "2025-06-06T13:21:09.000Z",
+    "updated": "2025-06-06T13:21:21.000Z",
+    "views": 8,
+    "thumbnail": "https://gyazo.com/bddb55a83307823710389187f3c588d4/raw"
+  }
+}

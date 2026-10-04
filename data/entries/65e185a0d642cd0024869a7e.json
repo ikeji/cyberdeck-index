@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e185a0d642cd0024869a7e",
+  "title": "Bamboo case cyber deck : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/qcfvmg/bamboo_case_cyber_deck/",
+    "site": "reddit",
+    "label": "Bamboo case cyber deck : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e185a3bdaf74002587ba4d.png",
+      "originRaw": "https://scrapbox.io/files/65e185a3bdaf74002587ba4d.png",
+      "id": "sha256:b8729ae6cb04fb66fd16ff7f2d3692f1d9e0cdef846bf28a63f74274b1653058",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b8/b8729ae6cb04fb66fd16ff7f2d3692f1d9e0cdef846bf28a63f74274b1653058.thumb.webp",
+        "full": "img/b8/b8729ae6cb04fb66fd16ff7f2d3692f1d9e0cdef846bf28a63f74274b1653058.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:30.216Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Bamboo%20case%20cyber%20deck%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:37:05.000Z",
+    "updated": "2024-03-01T07:37:10.000Z",
+    "views": 9,
+    "thumbnail": "https://scrapbox.io/files/65e185a3bdaf74002587ba4d.png"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "69fdede22f2d4be0f9e33ef7",
+  "title": "Phone deck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1t3v9zp/phone_deck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/bf3a456f47d98f6605c01a89932c6702",
+      "originRaw": "https://gyazo.com/bf3a456f47d98f6605c01a89932c6702/raw",
+      "id": "sha256:450e55fbd88791ff8870e1ecdc3b1350f857fe6117b510b5969c12e77efb1e88",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/45/450e55fbd88791ff8870e1ecdc3b1350f857fe6117b510b5969c12e77efb1e88.thumb.webp",
+        "full": "img/45/450e55fbd88791ff8870e1ecdc3b1350f857fe6117b510b5969c12e77efb1e88.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:34.515Z"
+    },
+    {
+      "origin": "https://gyazo.com/d99d59a27b7d5c3b3a03d91af2db792e",
+      "originRaw": "https://gyazo.com/d99d59a27b7d5c3b3a03d91af2db792e/raw",
+      "id": "sha256:5059e45592acf55fea36884894b5889dec0dd56248fa0ee4cb4e4457a40cd9e9",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/50/5059e45592acf55fea36884894b5889dec0dd56248fa0ee4cb4e4457a40cd9e9.thumb.webp",
+        "full": "img/50/5059e45592acf55fea36884894b5889dec0dd56248fa0ee4cb4e4457a40cd9e9.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:36.158Z"
+    },
+    {
+      "origin": "https://gyazo.com/7ec8c91bf0f52fb599e140afa5bed669",
+      "originRaw": "https://gyazo.com/7ec8c91bf0f52fb599e140afa5bed669/raw",
+      "id": "sha256:b00f48c79dbf0eb64e1a71e9b97304299dd82b72009751455dbc49576aca24b7",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b0/b00f48c79dbf0eb64e1a71e9b97304299dd82b72009751455dbc49576aca24b7.thumb.webp",
+        "full": "img/b0/b00f48c79dbf0eb64e1a71e9b97304299dd82b72009751455dbc49576aca24b7.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:37.914Z"
+    },
+    {
+      "origin": "https://gyazo.com/0ae7600f90510f809aa14003f147b186",
+      "originRaw": "https://gyazo.com/0ae7600f90510f809aa14003f147b186/raw",
+      "id": "sha256:4e664aed3a02bcc19f7ce9f0a4c27f3dd06c8644352b0bc492a8d1d3e1449b47",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4e/4e664aed3a02bcc19f7ce9f0a4c27f3dd06c8644352b0bc492a8d1d3e1449b47.thumb.webp",
+        "full": "img/4e/4e664aed3a02bcc19f7ce9f0a4c27f3dd06c8644352b0bc492a8d1d3e1449b47.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:39.871Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Phone%20deck",
+    "created": "2026-05-08T14:06:28.000Z",
+    "updated": "2026-05-08T14:07:00.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/bf3a456f47d98f6605c01a89932c6702/raw"
+  }
+}

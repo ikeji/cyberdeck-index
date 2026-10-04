@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "69fded7040657ea64acbd40f",
+  "title": "Deck repair bench arm",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1t4ywlj/deck_repair_bench_arm/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/37cfeaf8c11d92a50b5fd495f3567a6a",
+      "originRaw": "https://gyazo.com/37cfeaf8c11d92a50b5fd495f3567a6a/raw",
+      "id": "sha256:f1fbccdd543e73d153c83185c84ef4b39ca3120b9e9abbf51c61eeed5157e7de",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f1/f1fbccdd543e73d153c83185c84ef4b39ca3120b9e9abbf51c61eeed5157e7de.thumb.webp",
+        "full": "img/f1/f1fbccdd543e73d153c83185c84ef4b39ca3120b9e9abbf51c61eeed5157e7de.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:30.606Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Deck%20repair%20bench%20arm",
+    "created": "2026-05-08T14:04:37.000Z",
+    "updated": "2026-05-08T14:04:45.000Z",
+    "views": 1,
+    "thumbnail": "https://gyazo.com/37cfeaf8c11d92a50b5fd495f3567a6a/raw"
+  }
+}

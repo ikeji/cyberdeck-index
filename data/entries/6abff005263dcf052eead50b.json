@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "6abff005263dcf052eead50b",
+  "title": "1980's Boombox Cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1wirgka/1980s_boombox_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/8a58363bd446f22caf82999eab1ac644",
+      "originRaw": "https://gyazo.com/8a58363bd446f22caf82999eab1ac644/raw",
+      "id": "sha256:ee436e48b26f2b08e5fd2b2edd551a0fe78f66252802c59a6ffc20c2b6f45c93",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ee/ee436e48b26f2b08e5fd2b2edd551a0fe78f66252802c59a6ffc20c2b6f45c93.thumb.webp",
+        "full": "img/ee/ee436e48b26f2b08e5fd2b2edd551a0fe78f66252802c59a6ffc20c2b6f45c93.webp"
+      },
+      "fetchedAt": "2026-10-02T18:19:14.923Z"
+    },
+    {
+      "origin": "https://gyazo.com/19f7fa53ba7c2124a77b873c05d9d5cd",
+      "originRaw": "https://gyazo.com/19f7fa53ba7c2124a77b873c05d9d5cd/raw",
+      "id": "sha256:d06bf1a7588c476144551677d0f82869b506f2e6916709e43a5ac1230affd38d",
+      "status": "ok",
+      "width": 1600,
+      "height": 900,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d0/d06bf1a7588c476144551677d0f82869b506f2e6916709e43a5ac1230affd38d.thumb.webp",
+        "full": "img/d0/d06bf1a7588c476144551677d0f82869b506f2e6916709e43a5ac1230affd38d.webp"
+      },
+      "fetchedAt": "2026-10-02T18:19:15.202Z"
+    },
+    {
+      "origin": "https://gyazo.com/53fdd4aa8edb7f28b5a541dbc2c518a6",
+      "originRaw": "https://gyazo.com/53fdd4aa8edb7f28b5a541dbc2c518a6/raw",
+      "id": "sha256:848984c24d4c57497a75a3a5e5f0a7938227bd3e1662fe3395e9425856ae29e8",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/84/848984c24d4c57497a75a3a5e5f0a7938227bd3e1662fe3395e9425856ae29e8.thumb.webp",
+        "full": "img/84/848984c24d4c57497a75a3a5e5f0a7938227bd3e1662fe3395e9425856ae29e8.webp"
+      },
+      "fetchedAt": "2026-10-02T18:19:15.112Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/1980's%20Boombox%20Cyberdeck",
+    "created": "2026-10-02T17:55:23.000Z",
+    "updated": "2026-10-02T17:56:41.000Z",
+    "views": 0,
+    "thumbnail": "https://gyazo.com/8a58363bd446f22caf82999eab1ac644/raw"
+  }
+}

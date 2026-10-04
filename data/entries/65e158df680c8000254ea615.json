@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "65e158df680c8000254ea615",
+  "title": "MSG Cyberdeck",
+  "source": {
+    "url": "https://www.msglab.co/project/msg-cyberdeck",
+    "site": "web",
+    "label": "MSG Cyberdeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e158edbdaf740025840cc2.png",
+      "originRaw": "https://scrapbox.io/files/65e158edbdaf740025840cc2.png",
+      "id": "sha256:cb5f8ae3289aa49be4705d554e460039f870a07e5fc690041105ce14e1d9c60a",
+      "status": "ok",
+      "width": 1200,
+      "height": 675,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/cb/cb5f8ae3289aa49be4705d554e460039f870a07e5fc690041105ce14e1d9c60a.thumb.webp",
+        "full": "img/cb/cb5f8ae3289aa49be4705d554e460039f870a07e5fc690041105ce14e1d9c60a.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:13.892Z"
+    }
+  ],
+  "tags": [
+    "x86",
+    "クラムシェル",
+    "ヒンジ"
+  ],
+  "related": [
+    "NUC",
+    "メカニカルキーボード"
+  ],
+  "comment": "[NUC] i7\n7インチディスプレイ",
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/MSG%20Cyberdeck",
+    "created": "2024-03-01T04:26:08.000Z",
+    "updated": "2024-03-01T06:36:59.000Z",
+    "views": 18,
+    "thumbnail": "https://scrapbox.io/files/65e158edbdaf740025840cc2.png"
+  }
+}

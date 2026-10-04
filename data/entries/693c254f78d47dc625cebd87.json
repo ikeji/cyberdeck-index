@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "693c254f78d47dc625cebd87",
+  "title": "My first Cyberdeck!!",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1pfwugm/my_first_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/0b872b3a06f38b4536187a9c21f70fd0",
+      "originRaw": "https://gyazo.com/0b872b3a06f38b4536187a9c21f70fd0/raw",
+      "id": "sha256:727f0c80a3e68537cd7e123f28455ee8aa213740c40e7162dfeb5993e635d30d",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/72/727f0c80a3e68537cd7e123f28455ee8aa213740c40e7162dfeb5993e635d30d.thumb.webp",
+        "full": "img/72/727f0c80a3e68537cd7e123f28455ee8aa213740c40e7162dfeb5993e635d30d.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:59.828Z"
+    },
+    {
+      "origin": "https://gyazo.com/5984f52c720f2fe538991a4cf1c6f306",
+      "originRaw": "https://gyazo.com/5984f52c720f2fe538991a4cf1c6f306/raw",
+      "id": "sha256:5e9e3f7a643e12ff915973e37941dcf32fa309e92e86244bb1c7f3c798924556",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5e/5e9e3f7a643e12ff915973e37941dcf32fa309e92e86244bb1c7f3c798924556.thumb.webp",
+        "full": "img/5e/5e9e3f7a643e12ff915973e37941dcf32fa309e92e86244bb1c7f3c798924556.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:01.653Z"
+    },
+    {
+      "origin": "https://gyazo.com/1d996510daeea4efaae3ce262e81bb9b",
+      "originRaw": "https://gyazo.com/1d996510daeea4efaae3ce262e81bb9b/raw",
+      "id": "sha256:1ebdc0041e10f7de7528ebc53ce3627835d0507f6fa45c207c6c95ecca3afd34",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1e/1ebdc0041e10f7de7528ebc53ce3627835d0507f6fa45c207c6c95ecca3afd34.thumb.webp",
+        "full": "img/1e/1ebdc0041e10f7de7528ebc53ce3627835d0507f6fa45c207c6c95ecca3afd34.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:03.963Z"
+    },
+    {
+      "origin": "https://gyazo.com/993bc6b831de23e6d5a8b0dca34b7775",
+      "originRaw": "https://gyazo.com/993bc6b831de23e6d5a8b0dca34b7775/raw",
+      "id": "sha256:c24ec17f6e2f3fd7c8291bc8b1f6b3a2668cd0481e9240d92083a051d53a57dc",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c2/c24ec17f6e2f3fd7c8291bc8b1f6b3a2668cd0481e9240d92083a051d53a57dc.thumb.webp",
+        "full": "img/c2/c24ec17f6e2f3fd7c8291bc8b1f6b3a2668cd0481e9240d92083a051d53a57dc.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:06.088Z"
+    },
+    {
+      "origin": "https://gyazo.com/acb1beda6ea2014414773f11f06f4fb1",
+      "originRaw": "https://gyazo.com/acb1beda6ea2014414773f11f06f4fb1/raw",
+      "id": "sha256:5370631f074f8010bd0237384c34fa936e7312082504b86a3ff4f4868e665502",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/53/5370631f074f8010bd0237384c34fa936e7312082504b86a3ff4f4868e665502.thumb.webp",
+        "full": "img/53/5370631f074f8010bd0237384c34fa936e7312082504b86a3ff4f4868e665502.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:08.407Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20first%20Cyberdeck!!",
+    "created": "2025-12-12T14:23:19.000Z",
+    "updated": "2025-12-12T14:26:16.000Z",
+    "views": 7,
+    "thumbnail": "https://gyazo.com/0b872b3a06f38b4536187a9c21f70fd0/raw"
+  }
+}

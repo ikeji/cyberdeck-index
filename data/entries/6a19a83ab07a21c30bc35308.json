@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "6a19a83ab07a21c30bc35308",
+  "title": "My first cyberdeck build",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1tng497/my_first_cyberdeck_build/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/7172b7c02260328aa43d3f4b982fa809",
+      "originRaw": "https://gyazo.com/7172b7c02260328aa43d3f4b982fa809/raw",
+      "id": "sha256:40c1bdab557b23e36621621ff24cf535b16e279d04df44035f8f31d3f9be73e0",
+      "status": "ok",
+      "width": 640,
+      "height": 853,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/40/40c1bdab557b23e36621621ff24cf535b16e279d04df44035f8f31d3f9be73e0.thumb.webp",
+        "full": "img/40/40c1bdab557b23e36621621ff24cf535b16e279d04df44035f8f31d3f9be73e0.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:46.507Z"
+    },
+    {
+      "origin": "https://gyazo.com/b677574e149ff85f825ebe18daeb2921",
+      "originRaw": "https://gyazo.com/b677574e149ff85f825ebe18daeb2921/raw",
+      "id": "sha256:5353e0792c9b9b4bce2027446b47867e771efcffddab8c79f057a23ed0efba36",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/53/5353e0792c9b9b4bce2027446b47867e771efcffddab8c79f057a23ed0efba36.thumb.webp",
+        "full": "img/53/5353e0792c9b9b4bce2027446b47867e771efcffddab8c79f057a23ed0efba36.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:48.872Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20first%20cyberdeck%20build",
+    "created": "2026-05-29T14:52:47.000Z",
+    "updated": "2026-05-29T14:52:58.000Z",
+    "views": 7,
+    "thumbnail": "https://gyazo.com/7172b7c02260328aa43d3f4b982fa809/raw"
+  }
+}

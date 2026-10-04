@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e180e583075b0024b0afb5",
+  "title": "Dual screen devices and a folding keyboard case with stand makes for a nice, pocketable mini PC : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/12vjdqw/dual_screen_devices_and_a_folding_keyboard_case/",
+    "site": "reddit",
+    "label": "Dual screen devices and a folding keyboard case with stand makes for a nice, pocketable mini PC : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e180ea26c67e00244f1cfd.png",
+      "originRaw": "https://scrapbox.io/files/65e180ea26c67e00244f1cfd.png",
+      "id": "sha256:35aaf63e84f83a21c22b5830df97b7451c23b69f50b58a58d4c5fdd75240fe62",
+      "status": "ok",
+      "width": 1080,
+      "height": 1434,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/35/35aaf63e84f83a21c22b5830df97b7451c23b69f50b58a58d4c5fdd75240fe62.thumb.webp",
+        "full": "img/35/35aaf63e84f83a21c22b5830df97b7451c23b69f50b58a58d4c5fdd75240fe62.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:23.224Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Dual%20screen%20devices%20and%20a%20folding%20keyboard%20case%20with%20stand%20makes%20for%20a%20nice%2C%20pocketable%20mini%20PC%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:16:54.000Z",
+    "updated": "2024-03-01T07:17:01.000Z",
+    "views": 8,
+    "thumbnail": "https://scrapbox.io/files/65e180ea26c67e00244f1cfd.png"
+  }
+}

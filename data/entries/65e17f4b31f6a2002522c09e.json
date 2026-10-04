@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e17f4b31f6a2002522c09e",
+  "title": "My shiny new Lisperati1000 Lisp programming workstation : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/lbu4di/my_shiny_new_lisperati1000_lisp_programming/",
+    "site": "reddit",
+    "label": "My shiny new Lisperati1000 Lisp programming workstation : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e17f509f585400237ebb43.png",
+      "originRaw": "https://scrapbox.io/files/65e17f509f585400237ebb43.png",
+      "id": "sha256:b84aebc28203a59aa1f3e4e1a37927b19b055bfd32440092c52d0c7f3fecbe0b",
+      "status": "ok",
+      "width": 1080,
+      "height": 970,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b8/b84aebc28203a59aa1f3e4e1a37927b19b055bfd32440092c52d0c7f3fecbe0b.thumb.webp",
+        "full": "img/b8/b84aebc28203a59aa1f3e4e1a37927b19b055bfd32440092c52d0c7f3fecbe0b.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:18.699Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20shiny%20new%20Lisperati1000%20Lisp%20programming%20workstation%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:10:04.000Z",
+    "updated": "2024-03-01T07:10:12.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/65e17f509f585400237ebb43.png"
+  }
+}

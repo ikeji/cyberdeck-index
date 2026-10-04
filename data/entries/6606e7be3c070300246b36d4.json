@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6606e7be3c070300246b36d4",
+  "title": "Pickle Pi | Hackaday.io",
+  "source": {
+    "url": "https://hackaday.io/project/195282-pickle-pi",
+    "site": "hackaday",
+    "label": "Pickle Pi | Hackaday.io"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6606e7c1e83f9a0025e6d9a7.png",
+      "originRaw": "https://scrapbox.io/files/6606e7c1e83f9a0025e6d9a7.png",
+      "id": "sha256:4259be6f707fb593e2010498700edc0ba15c5aa964100e097f540ff17f75d4af",
+      "status": "ok",
+      "width": 1600,
+      "height": 1453,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/42/4259be6f707fb593e2010498700edc0ba15c5aa964100e097f540ff17f75d4af.thumb.webp",
+        "full": "img/42/4259be6f707fb593e2010498700edc0ba15c5aa964100e097f540ff17f75d4af.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:54.712Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": "via [/fab-wiki/20240317週fabnews]",
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Pickle%20Pi%20%7C%20Hackaday.io",
+    "created": "2024-03-29T16:09:34.000Z",
+    "updated": "2024-03-29T16:12:46.000Z",
+    "views": 23,
+    "thumbnail": "https://scrapbox.io/files/6606e7c1e83f9a0025e6d9a7.png"
+  }
+}

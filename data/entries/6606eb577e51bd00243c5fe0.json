@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6606eb577e51bd00243c5fe0",
+  "title": "She told me to stop sending her my deck pics : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1bgatig/she_told_me_to_stop_sending_her_my_deck_pics/",
+    "site": "reddit",
+    "label": "She told me to stop sending her my deck pics : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6606eb621ec4b80026eb7082.png",
+      "originRaw": "https://scrapbox.io/files/6606eb621ec4b80026eb7082.png",
+      "id": "sha256:22941fda83e8b9fce3efe1ff609183383059deb88dd421ad3532b05b95e0a86c",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/22/22941fda83e8b9fce3efe1ff609183383059deb88dd421ad3532b05b95e0a86c.thumb.webp",
+        "full": "img/22/22941fda83e8b9fce3efe1ff609183383059deb88dd421ad3532b05b95e0a86c.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:58.156Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/She%20told%20me%20to%20stop%20sending%20her%20my%20deck%20pics%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-29T16:24:56.000Z",
+    "updated": "2024-03-29T16:25:12.000Z",
+    "views": 21,
+    "thumbnail": "https://scrapbox.io/files/6606eb621ec4b80026eb7082.png"
+  }
+}

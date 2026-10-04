@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18886c0aa72002548d3c9",
+  "title": "a8ksh4/chonky-pocket: An almost pocket-sized portable computer!",
+  "source": {
+    "url": "https://github.com/a8ksh4/chonky-pocket",
+    "site": "github",
+    "label": "a8ksh4/chonky-pocket: An almost pocket-sized portable computer!"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1888995722b0023083379.png",
+      "originRaw": "https://scrapbox.io/files/65e1888995722b0023083379.png",
+      "id": "sha256:9b1dc2dfc459940b1c6c84b84cb914677634ca9402eddf41945e652671cfea9a",
+      "status": "ok",
+      "width": 1194,
+      "height": 899,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9b/9b1dc2dfc459940b1c6c84b84cb914677634ca9402eddf41945e652671cfea9a.thumb.webp",
+        "full": "img/9b/9b1dc2dfc459940b1c6c84b84cb914677634ca9402eddf41945e652671cfea9a.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:43.498Z"
+    }
+  ],
+  "tags": [
+    "IKeJIのおすすめ"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/a8ksh4%2Fchonky-pocket%3A%20An%20almost%20pocket-sized%20portable%20computer!",
+    "created": "2024-03-01T07:49:27.000Z",
+    "updated": "2026-05-08T14:38:25.000Z",
+    "views": 11,
+    "thumbnail": "https://scrapbox.io/files/65e1888995722b0023083379.png"
+  }
+}

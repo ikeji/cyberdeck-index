@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "6895fa4879618e3bb4c1d8f2",
+  "title": "Made my first cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1m95het/made_my_first_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/541c1e20dc24f9f27b5392aa0aaf074c",
+      "originRaw": "https://gyazo.com/541c1e20dc24f9f27b5392aa0aaf074c/raw",
+      "id": "sha256:e4fd88e26e9c17daf74010bac5b1e3d0c62590e37a21b61eb994be0b5b412042",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e4/e4fd88e26e9c17daf74010bac5b1e3d0c62590e37a21b61eb994be0b5b412042.thumb.webp",
+        "full": "img/e4/e4fd88e26e9c17daf74010bac5b1e3d0c62590e37a21b61eb994be0b5b412042.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:22.425Z"
+    },
+    {
+      "origin": "https://gyazo.com/ebf7e999648c21bcb38f99751b1a3d34",
+      "originRaw": "https://gyazo.com/ebf7e999648c21bcb38f99751b1a3d34/raw",
+      "id": "sha256:f14c8e69a019762ad687808a42175afe33b11d4dc9ba8fde5a743b112ac2fc00",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f1/f14c8e69a019762ad687808a42175afe33b11d4dc9ba8fde5a743b112ac2fc00.thumb.webp",
+        "full": "img/f1/f14c8e69a019762ad687808a42175afe33b11d4dc9ba8fde5a743b112ac2fc00.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:23.705Z"
+    },
+    {
+      "origin": "https://gyazo.com/a154c77200a7d7e449b1a780a84fda6e",
+      "originRaw": "https://gyazo.com/a154c77200a7d7e449b1a780a84fda6e/raw",
+      "id": "sha256:76c8f606b515e90973d9e00ebf57a4d1546239c85f6234ba2cf545c1093f50fc",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/76/76c8f606b515e90973d9e00ebf57a4d1546239c85f6234ba2cf545c1093f50fc.thumb.webp",
+        "full": "img/76/76c8f606b515e90973d9e00ebf57a4d1546239c85f6234ba2cf545c1093f50fc.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:25.709Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Made%20my%20first%20cyberdeck",
+    "created": "2025-08-08T13:23:28.000Z",
+    "updated": "2025-08-08T13:23:51.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/541c1e20dc24f9f27b5392aa0aaf074c/raw"
+  }
+}

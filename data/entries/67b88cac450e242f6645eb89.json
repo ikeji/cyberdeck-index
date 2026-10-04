@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "67b88cac450e242f6645eb89",
+  "title": "Cyberdeck for DJs (released as open source)",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1iumvpy/cyberdeck_for_djs_released_as_open_source/",
+    "site": "reddit",
+    "label": "Cyberdeck for DJs (released as open source) : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67b88cade7e6d3c1c040dcf6.png",
+      "originRaw": "https://scrapbox.io/files/67b88cade7e6d3c1c040dcf6.png",
+      "id": "sha256:4c5c3bcc5d4eebcd351376429aa88b5a8a0d0b4f1676b9b6ac9ab99f98fb6688",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4c/4c5c3bcc5d4eebcd351376429aa88b5a8a0d0b4f1676b9b6ac9ab99f98fb6688.thumb.webp",
+        "full": "img/4c/4c5c3bcc5d4eebcd351376429aa88b5a8a0d0b4f1676b9b6ac9ab99f98fb6688.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:38.595Z"
+    }
+  ],
+  "tags": [
+    "日本の作例"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cyberdeck%20for%20DJs%20(released%20as%20open%20source)",
+    "created": "2025-02-21T14:24:50.000Z",
+    "updated": "2025-10-27T07:32:33.000Z",
+    "views": 18,
+    "thumbnail": "https://scrapbox.io/files/67b88cade7e6d3c1c040dcf6.png"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "69aae932414d5c2a4f006e3a",
+  "title": "Cyberdeck files possibly uploaded to github, can you help me test if it worked?",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1rcgyf5/cyberdeck_files_possibly_uploaded_to_github_can/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [
+    {
+      "url": "https://github.com/ArcticEnnrichentCenter/DFCD-cyberdeck-files",
+      "label": null,
+      "site": "github"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://gyazo.com/0df6ca6fe3bae5fe8bebc37517daf3f9",
+      "originRaw": "https://gyazo.com/0df6ca6fe3bae5fe8bebc37517daf3f9/raw",
+      "id": "sha256:fc8e1c872d815aeb2116f9b0912358eae30b24a6d56fdd5eb504667ded612d79",
+      "status": "ok",
+      "width": 1080,
+      "height": 719,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/fc/fc8e1c872d815aeb2116f9b0912358eae30b24a6d56fdd5eb504667ded612d79.thumb.webp",
+        "full": "img/fc/fc8e1c872d815aeb2116f9b0912358eae30b24a6d56fdd5eb504667ded612d79.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:53.636Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cyberdeck%20files%20possibly%20uploaded%20to%20github%2C%20can%20you%20help%20me%20test%20if%20it%20worked%3F",
+    "created": "2026-03-06T14:48:22.000Z",
+    "updated": "2026-03-06T14:48:41.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/0df6ca6fe3bae5fe8bebc37517daf3f9/raw"
+  }
+}

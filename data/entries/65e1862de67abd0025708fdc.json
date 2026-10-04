@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e1862de67abd0025708fdc",
+  "title": "Dual Screen Cyberdeck : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/gun76r/dual_screen_cyberdeck/",
+    "site": "reddit",
+    "label": "Dual Screen Cyberdeck : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18630bf5a710025d7b4cd.png",
+      "originRaw": "https://scrapbox.io/files/65e18630bf5a710025d7b4cd.png",
+      "id": "sha256:88a43a6dcf58c79b25253551aebabdeb42f6cf88ab398ce696dd8d000771442b",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/88/88a43a6dcf58c79b25253551aebabdeb42f6cf88ab398ce696dd8d000771442b.thumb.webp",
+        "full": "img/88/88a43a6dcf58c79b25253551aebabdeb42f6cf88ab398ce696dd8d000771442b.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:31.719Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Dual%20Screen%20Cyberdeck%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:39:26.000Z",
+    "updated": "2024-03-01T07:39:32.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/65e18630bf5a710025d7b4cd.png"
+  }
+}

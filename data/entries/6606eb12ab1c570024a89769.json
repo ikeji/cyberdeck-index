@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6606eb12ab1c570024a89769",
+  "title": "I don’t know how to solder and don’t have a 3D printer, but I’m still proud of her : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1bhbhvq/i_dont_know_how_to_solder_and_dont_have_a_3d/",
+    "site": "reddit",
+    "label": "I don’t know how to solder and don’t have a 3D printer, but I’m still proud of her : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6606eb15681e4f002402698c.png",
+      "originRaw": "https://scrapbox.io/files/6606eb15681e4f002402698c.png",
+      "id": "sha256:2e25688b7e1b6a5bfa5837e757d888037ad3b74d97f06f22ee889412141843b6",
+      "status": "ok",
+      "width": 900,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/2e/2e25688b7e1b6a5bfa5837e757d888037ad3b74d97f06f22ee889412141843b6.thumb.webp",
+        "full": "img/2e/2e25688b7e1b6a5bfa5837e757d888037ad3b74d97f06f22ee889412141843b6.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:57.599Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20don%E2%80%99t%20know%20how%20to%20solder%20and%20don%E2%80%99t%20have%20a%203D%20printer%2C%20but%20I%E2%80%99m%20still%20proud%20of%20her%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-29T16:23:47.000Z",
+    "updated": "2024-03-29T16:23:54.000Z",
+    "views": 22,
+    "thumbnail": "https://scrapbox.io/files/6606eb15681e4f002402698c.png"
+  }
+}

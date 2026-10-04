@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "69fdee5febaedd8b6066482a",
+  "title": "Desktop CRT Cyber Deck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1t2zxur/desktop_crt_cyber_deck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/af46e69af94b0f16087c05b9693df3a4",
+      "originRaw": "https://gyazo.com/af46e69af94b0f16087c05b9693df3a4/raw",
+      "id": "sha256:0f169f140dc3d910c72211eaf018146dd9f62876b522c7341d6968cf92e6937c",
+      "status": "ok",
+      "width": 1080,
+      "height": 853,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0f/0f169f140dc3d910c72211eaf018146dd9f62876b522c7341d6968cf92e6937c.thumb.webp",
+        "full": "img/0f/0f169f140dc3d910c72211eaf018146dd9f62876b522c7341d6968cf92e6937c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:41.588Z"
+    },
+    {
+      "origin": "https://gyazo.com/e9b6a2992e2c3f80fdf4e2b2ea59007a",
+      "originRaw": "https://gyazo.com/e9b6a2992e2c3f80fdf4e2b2ea59007a/raw",
+      "id": "sha256:409ceac4f8dee69245d4087122456621666b8e95118c82a948cb0564e452180d",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/40/409ceac4f8dee69245d4087122456621666b8e95118c82a948cb0564e452180d.thumb.webp",
+        "full": "img/40/409ceac4f8dee69245d4087122456621666b8e95118c82a948cb0564e452180d.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:43.531Z"
+    },
+    {
+      "origin": "https://gyazo.com/7442bbffcc500cf9cacaf25954ed00b4",
+      "originRaw": "https://gyazo.com/7442bbffcc500cf9cacaf25954ed00b4/raw",
+      "id": "sha256:af179dd847cd18a0c1b987d1efffe8fbfa2cae2edefe70bec45115d7891fb320",
+      "status": "ok",
+      "width": 1080,
+      "height": 1343,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/af/af179dd847cd18a0c1b987d1efffe8fbfa2cae2edefe70bec45115d7891fb320.thumb.webp",
+        "full": "img/af/af179dd847cd18a0c1b987d1efffe8fbfa2cae2edefe70bec45115d7891fb320.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:45.689Z"
+    }
+  ],
+  "tags": [
+    "IKeJIのおすすめ"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Desktop%20CRT%20Cyber%20Deck",
+    "created": "2026-05-08T14:08:42.000Z",
+    "updated": "2026-05-08T14:33:07.000Z",
+    "views": 13,
+    "thumbnail": "https://gyazo.com/af46e69af94b0f16087c05b9693df3a4/raw"
+  }
+}

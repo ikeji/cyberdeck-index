@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "69aaea3c11a94c4a0f546805",
+  "title": "How could I make the design more ergonomic?",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1r3yxyy/how_could_i_make_the_design_more_ergonomic/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/e22b038faf0a2583fcc0ae2a18750885",
+      "originRaw": "https://gyazo.com/e22b038faf0a2583fcc0ae2a18750885/raw",
+      "id": "sha256:1076963ec0c0673731dab06e309b936b4adcf91cd9408b979fff5cfe731cb3fd",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/10/1076963ec0c0673731dab06e309b936b4adcf91cd9408b979fff5cfe731cb3fd.thumb.webp",
+        "full": "img/10/1076963ec0c0673731dab06e309b936b4adcf91cd9408b979fff5cfe731cb3fd.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:57.200Z"
+    },
+    {
+      "origin": "https://gyazo.com/425790643cafb54e251d42f519f5f039",
+      "originRaw": "https://gyazo.com/425790643cafb54e251d42f519f5f039/raw",
+      "id": "sha256:794b3c050044b58a96a705f7cbc1e3561d52c3cb96b93454eface888df32948a",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/79/794b3c050044b58a96a705f7cbc1e3561d52c3cb96b93454eface888df32948a.thumb.webp",
+        "full": "img/79/794b3c050044b58a96a705f7cbc1e3561d52c3cb96b93454eface888df32948a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:58.803Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/How%20could%20I%20make%20the%20design%20more%20ergonomic%3F",
+    "created": "2026-03-06T14:52:48.000Z",
+    "updated": "2026-03-06T14:53:15.000Z",
+    "views": 3,
+    "thumbnail": "https://gyazo.com/e22b038faf0a2583fcc0ae2a18750885/raw"
+  }
+}

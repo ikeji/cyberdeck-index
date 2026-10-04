@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e919dcafb39d0025acc520",
+  "title": "Finally getting back to my Model-100 project. Everything is now functional and operational, just need to add some i/o panels and finalize my designs in CAD.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1b8hova/finally_getting_back_to_my_model100_project/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65ec5dc1cfc8c20025d2d5a7.png",
+      "originRaw": "https://scrapbox.io/files/65ec5dc1cfc8c20025d2d5a7.png",
+      "id": "sha256:4e3eb4dac16ace5b675cd4ebca37768ba17d1cc795666af6463e8e1b575f61fc",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4e/4e3eb4dac16ace5b675cd4ebca37768ba17d1cc795666af6463e8e1b575f61fc.thumb.webp",
+        "full": "img/4e/4e3eb4dac16ace5b675cd4ebca37768ba17d1cc795666af6463e8e1b575f61fc.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:54.226Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Finally%20getting%20back%20to%20my%20Model-100%20project.%20Everything%20is%20now%20functional%20and%20operational%2C%20just%20need%20to%20add%20some%20i%2Fo%20panels%20and%20finalize%20my%20designs%20in%20CAD.",
+    "created": "2024-03-07T01:35:25.000Z",
+    "updated": "2024-03-09T13:02:15.000Z",
+    "views": 8,
+    "thumbnail": "https://scrapbox.io/files/65ec5dc1cfc8c20025d2d5a7.png"
+  }
+}

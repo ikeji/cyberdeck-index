@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad739dfc334001dbd622d",
+  "title": "My Cyberjank deck. : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1delrcz/my_cyberjank_deck/",
+    "site": "reddit",
+    "label": "My Cyberjank deck. : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad73c873da4001dad6f94.png",
+      "originRaw": "https://scrapbox.io/files/66cad73c873da4001dad6f94.png",
+      "id": "sha256:db8343094476ed7097e3de52ea53fbd98b237ed094b44235be1130edcaa6f2d9",
+      "status": "ok",
+      "width": 1080,
+      "height": 1169,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/db/db8343094476ed7097e3de52ea53fbd98b237ed094b44235be1130edcaa6f2d9.thumb.webp",
+        "full": "img/db/db8343094476ed7097e3de52ea53fbd98b237ed094b44235be1130edcaa6f2d9.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:15.579Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20Cyberjank%20deck.%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T07:03:22.000Z",
+    "updated": "2024-08-25T07:03:28.000Z",
+    "views": 6,
+    "thumbnail": "https://scrapbox.io/files/66cad73c873da4001dad6f94.png"
+  }
+}

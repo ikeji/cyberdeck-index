@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "671271069025bdd5a7f2e9ac",
+  "title": "Legion Go Deck @ Work",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1g238ra/legion_go_deck_work/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6712713659a4f322b5346795.png",
+      "originRaw": "https://scrapbox.io/files/6712713659a4f322b5346795.png",
+      "id": "sha256:f9446e2ddcfecfa0be441ff01fa804310a680f2981fa6c252fdad354fd823b31",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f9/f9446e2ddcfecfa0be441ff01fa804310a680f2981fa6c252fdad354fd823b31.thumb.webp",
+        "full": "img/f9/f9446e2ddcfecfa0be441ff01fa804310a680f2981fa6c252fdad354fd823b31.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:24.974Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Legion%20Go%20Deck%20%40%20Work",
+    "created": "2024-10-18T14:31:17.000Z",
+    "updated": "2024-10-18T14:31:32.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/6712713659a4f322b5346795.png"
+  }
+}

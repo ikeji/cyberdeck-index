@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "671270b2160a12b3d3d5d2b4",
+  "title": "My prototype cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1fzmmb4/my_prototype_cyberdeck/#lightbox",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/671270baa8d69544f0c93034.png",
+      "originRaw": "https://scrapbox.io/files/671270baa8d69544f0c93034.png",
+      "id": "sha256:db27b10c2111530520395f75930f64b19c62ecd694235b5d3a5064419b2c9eeb",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/db/db27b10c2111530520395f75930f64b19c62ecd694235b5d3a5064419b2c9eeb.thumb.webp",
+        "full": "img/db/db27b10c2111530520395f75930f64b19c62ecd694235b5d3a5064419b2c9eeb.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:24.727Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20prototype%20cyberdeck",
+    "created": "2024-10-18T14:29:07.000Z",
+    "updated": "2024-10-18T14:29:28.000Z",
+    "views": 13,
+    "thumbnail": "https://scrapbox.io/files/671270baa8d69544f0c93034.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6c9f59c99c0b323b355517",
+  "title": "My cyberdeck build",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1v79tyr/my_cyberdeck_build/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/2713e39f539d5afab3ff71e4f2ba42d8",
+      "originRaw": "https://gyazo.com/2713e39f539d5afab3ff71e4f2ba42d8/raw",
+      "id": "sha256:f665b619d83db0521ce4d17aa94c9665575bf6ebe6a4c652a10be884a5d2d99e",
+      "status": "ok",
+      "width": 1080,
+      "height": 1439,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f6/f665b619d83db0521ce4d17aa94c9665575bf6ebe6a4c652a10be884a5d2d99e.thumb.webp",
+        "full": "img/f6/f665b619d83db0521ce4d17aa94c9665575bf6ebe6a4c652a10be884a5d2d99e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:07.765Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20cyberdeck%20build",
+    "created": "2026-07-31T13:13:06.000Z",
+    "updated": "2026-07-31T13:13:10.000Z",
+    "views": 2,
+    "thumbnail": "https://gyazo.com/2713e39f539d5afab3ff71e4f2ba42d8/raw"
+  }
+}

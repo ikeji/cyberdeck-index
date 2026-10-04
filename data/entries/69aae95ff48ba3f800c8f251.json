@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "69aae95ff48ba3f800c8f251",
+  "title": "Very rough cyber deck made from a phone",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1r8edre/very_rough_cyber_deck_made_from_a_phone/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/46ae73397c39dd1a793bf09d54711a87",
+      "originRaw": "https://gyazo.com/46ae73397c39dd1a793bf09d54711a87/raw",
+      "id": "sha256:7ad240d06a7122595394930933c2abb4d21d4ae079cd5bdca0949e25a419c4b4",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7a/7ad240d06a7122595394930933c2abb4d21d4ae079cd5bdca0949e25a419c4b4.thumb.webp",
+        "full": "img/7a/7ad240d06a7122595394930933c2abb4d21d4ae079cd5bdca0949e25a419c4b4.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:55.361Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Very%20rough%20cyber%20deck%20made%20from%20a%20phone",
+    "created": "2026-03-06T14:50:26.000Z",
+    "updated": "2026-03-06T14:50:30.000Z",
+    "views": 7,
+    "thumbnail": "https://gyazo.com/46ae73397c39dd1a793bf09d54711a87/raw"
+  }
+}

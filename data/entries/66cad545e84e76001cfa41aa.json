@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad545e84e76001cfa41aa",
+  "title": "Just made a Writer Deck and prepare to mass produce it LOL : r/writerDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/writerDeck/comments/1eq058k/just_made_a_writer_deck_and_prepare_to_mass/",
+    "site": "reddit",
+    "label": "Just made a Writer Deck and prepare to mass produce it LOL : r/writerDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad54b5e1719001ccf2b03.png",
+      "originRaw": "https://scrapbox.io/files/66cad54b5e1719001ccf2b03.png",
+      "id": "sha256:fb94053d1f83d7cf793c41119e7f81734ee9c6f128def67089628290dc840e07",
+      "status": "ok",
+      "width": 1600,
+      "height": 900,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/fb/fb94053d1f83d7cf793c41119e7f81734ee9c6f128def67089628290dc840e07.thumb.webp",
+        "full": "img/fb/fb94053d1f83d7cf793c41119e7f81734ee9c6f128def67089628290dc840e07.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:09.876Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Just%20made%20a%20Writer%20Deck%20and%20prepare%20to%20mass%20produce%20it%20LOL%20%3A%20r%2FwriterDeck",
+    "created": "2024-08-25T06:55:01.000Z",
+    "updated": "2024-08-25T06:55:13.000Z",
+    "views": 2,
+    "thumbnail": "https://scrapbox.io/files/66cad54b5e1719001ccf2b03.png"
+  }
+}

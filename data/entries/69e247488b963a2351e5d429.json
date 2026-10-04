@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "69e247488b963a2351e5d429",
+  "title": "Working prototype - remote ai interface",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1sjd1h9/working_prototype_remote_ai_interface/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/9f9a6f7301e38d087f4323763d4aa149",
+      "originRaw": "https://gyazo.com/9f9a6f7301e38d087f4323763d4aa149/raw",
+      "id": "sha256:f19f4410755638e2509f7597d8c5da4b19c617dd361a96e998cf153f3f3ec771",
+      "status": "ok",
+      "width": 1080,
+      "height": 1008,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f1/f19f4410755638e2509f7597d8c5da4b19c617dd361a96e998cf153f3f3ec771.thumb.webp",
+        "full": "img/f1/f19f4410755638e2509f7597d8c5da4b19c617dd361a96e998cf153f3f3ec771.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:00.453Z"
+    },
+    {
+      "origin": "https://gyazo.com/411ee4e14160693245f831f97fa26323",
+      "originRaw": "https://gyazo.com/411ee4e14160693245f831f97fa26323/raw",
+      "id": "sha256:eefa58a7c1e5722abb88aab2f80af6ea73cd473dbb91a17eaa697fe4d734ee9f",
+      "status": "ok",
+      "width": 947,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ee/eefa58a7c1e5722abb88aab2f80af6ea73cd473dbb91a17eaa697fe4d734ee9f.thumb.webp",
+        "full": "img/ee/eefa58a7c1e5722abb88aab2f80af6ea73cd473dbb91a17eaa697fe4d734ee9f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:02.606Z"
+    },
+    {
+      "origin": "https://gyazo.com/bbf8b018f53de3059ff50b0523cf4439",
+      "originRaw": "https://gyazo.com/bbf8b018f53de3059ff50b0523cf4439/raw",
+      "id": "sha256:45915ca89cb4db1a0d3fb30529cea7894cc4af9338b41ae30bf75597bbd073de",
+      "status": "ok",
+      "width": 1080,
+      "height": 988,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/45/45915ca89cb4db1a0d3fb30529cea7894cc4af9338b41ae30bf75597bbd073de.thumb.webp",
+        "full": "img/45/45915ca89cb4db1a0d3fb30529cea7894cc4af9338b41ae30bf75597bbd073de.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:05.044Z"
+    },
+    {
+      "origin": "https://gyazo.com/354f1c29ef97b64ee8dc1af734c9bbe2",
+      "originRaw": "https://gyazo.com/354f1c29ef97b64ee8dc1af734c9bbe2/raw",
+      "id": "sha256:48cc7becf78ae5cabc84a6fe34a032f73f5a02080eaece38f8a4339adda9fc71",
+      "status": "ok",
+      "width": 1080,
+      "height": 996,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/48/48cc7becf78ae5cabc84a6fe34a032f73f5a02080eaece38f8a4339adda9fc71.thumb.webp",
+        "full": "img/48/48cc7becf78ae5cabc84a6fe34a032f73f5a02080eaece38f8a4339adda9fc71.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:07.388Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Working%20prototype%20-%20remote%20ai%20interface",
+    "created": "2026-04-17T14:44:28.000Z",
+    "updated": "2026-04-17T14:44:49.000Z",
+    "views": 9,
+    "thumbnail": "https://gyazo.com/9f9a6f7301e38d087f4323763d4aa149/raw"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "69fded867612ceae61460c6d",
+  "title": "Just discovered cyber decks and want to learn",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1t4p3bz/just_discovered_cyber_decks_and_want_to_learn/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/ae37c68389d8fb5086276553d23a4c46",
+      "originRaw": "https://gyazo.com/ae37c68389d8fb5086276553d23a4c46/raw",
+      "id": "sha256:b25423a47bc88f4c53883e7e6413bb48dcd104ab6f0fd706f95b4b10939aaffc",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b2/b25423a47bc88f4c53883e7e6413bb48dcd104ab6f0fd706f95b4b10939aaffc.thumb.webp",
+        "full": "img/b2/b25423a47bc88f4c53883e7e6413bb48dcd104ab6f0fd706f95b4b10939aaffc.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:31.195Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Just%20discovered%20cyber%20decks%20and%20want%20to%20learn",
+    "created": "2026-05-08T14:04:56.000Z",
+    "updated": "2026-05-08T14:05:04.000Z",
+    "views": 3,
+    "thumbnail": "https://gyazo.com/ae37c68389d8fb5086276553d23a4c46/raw"
+  }
+}

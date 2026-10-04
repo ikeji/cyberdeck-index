@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "65e184fdf646ad00253ae104",
+  "title": "Six Screen Cyberdeck using three Raspberry Pi's running Ubuntu Mate 20.04 with customized i3 wm : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/oieazc/six_screen_cyberdeck_using_three_raspberry_pis/",
+    "site": "reddit",
+    "label": "Six Screen Cyberdeck using three Raspberry Pi's running Ubuntu Mate 20.04 with customized i3 wm : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e184ff141bc70024800604.png",
+      "originRaw": "https://scrapbox.io/files/65e184ff141bc70024800604.png",
+      "id": "sha256:6de4e14170cc6fd2c1367d902c382ac56a17e92774da4626d1cecdac4d3e453c",
+      "status": "ok",
+      "width": 1080,
+      "height": 734,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6d/6de4e14170cc6fd2c1367d902c382ac56a17e92774da4626d1cecdac4d3e453c.thumb.webp",
+        "full": "img/6d/6de4e14170cc6fd2c1367d902c382ac56a17e92774da4626d1cecdac4d3e453c.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:26.775Z"
+    }
+  ],
+  "tags": [
+    "IKeJIのおすすめ"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Six%20Screen%20Cyberdeck%20using%20three%20Raspberry%20Pi's%20running%20Ubuntu%20Mate%2020.04%20with%20customized%20i3%20wm%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:34:21.000Z",
+    "updated": "2026-05-08T14:38:09.000Z",
+    "views": 12,
+    "thumbnail": "https://scrapbox.io/files/65e184ff141bc70024800604.png"
+  }
+}

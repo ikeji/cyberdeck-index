@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "68b1b35a335a3f40e66b51da",
+  "title": "my fourth cyberdeck design",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1n138t6/my_fourth_cyberdeck_design/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/9b67f4d609f7d810fc51d21124e5e673",
+      "originRaw": "https://gyazo.com/9b67f4d609f7d810fc51d21124e5e673/raw",
+      "id": "sha256:dd17ca512464d67187d7becd08430562fb2dea5c4f66e450e9bcd160533e1a0d",
+      "status": "ok",
+      "width": 1080,
+      "height": 1434,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/dd/dd17ca512464d67187d7becd08430562fb2dea5c4f66e450e9bcd160533e1a0d.thumb.webp",
+        "full": "img/dd/dd17ca512464d67187d7becd08430562fb2dea5c4f66e450e9bcd160533e1a0d.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:40.508Z"
+    },
+    {
+      "origin": "https://gyazo.com/4429e5704957fd213a6c6840688f78fa",
+      "originRaw": "https://gyazo.com/4429e5704957fd213a6c6840688f78fa/raw",
+      "id": "sha256:d3a837fd7f2261ead214086d8bed7cc8c95d3b7a105f41758b988528d8df24e4",
+      "status": "ok",
+      "width": 1080,
+      "height": 1434,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d3/d3a837fd7f2261ead214086d8bed7cc8c95d3b7a105f41758b988528d8df24e4.thumb.webp",
+        "full": "img/d3/d3a837fd7f2261ead214086d8bed7cc8c95d3b7a105f41758b988528d8df24e4.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:42.144Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/my%20fourth%20cyberdeck%20design",
+    "created": "2025-08-29T14:04:14.000Z",
+    "updated": "2025-08-29T14:04:32.000Z",
+    "views": 3,
+    "thumbnail": "https://gyazo.com/9b67f4d609f7d810fc51d21124e5e673/raw"
+  }
+}

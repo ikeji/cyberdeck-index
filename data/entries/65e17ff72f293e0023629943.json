@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e17ff72f293e0023629943",
+  "title": "Im building a thing : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/t14za1/im_building_a_thing/",
+    "site": "reddit",
+    "label": "Im building a thing : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e17ffbe5dc7a0024a32c69.png",
+      "originRaw": "https://scrapbox.io/files/65e17ffbe5dc7a0024a32c69.png",
+      "id": "sha256:6568483eaf990759903fd0fbc84a359fee6f97083416747dd28a4de880f39fe2",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/65/6568483eaf990759903fd0fbc84a359fee6f97083416747dd28a4de880f39fe2.thumb.webp",
+        "full": "img/65/6568483eaf990759903fd0fbc84a359fee6f97083416747dd28a4de880f39fe2.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:20.263Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Im%20building%20a%20thing%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:12:56.000Z",
+    "updated": "2024-03-01T07:13:04.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/65e17ffbe5dc7a0024a32c69.png"
+  }
+}

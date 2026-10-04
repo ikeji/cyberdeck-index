@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "68cd4cb9c24dd5e325665cd7",
+  "title": "Cyberdeck-Decor",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1nkdexf/cyberdeckdecor/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/e0a0f600f42f245ec373d0f364306a37",
+      "originRaw": "https://gyazo.com/e0a0f600f42f245ec373d0f364306a37/raw",
+      "id": "sha256:c653754953db541d929046cc4ca9d0cd53221549e443af17f5e9852cd55f5b30",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c6/c653754953db541d929046cc4ca9d0cd53221549e443af17f5e9852cd55f5b30.thumb.webp",
+        "full": "img/c6/c653754953db541d929046cc4ca9d0cd53221549e443af17f5e9852cd55f5b30.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:42.686Z"
+    },
+    {
+      "origin": "https://gyazo.com/aa0ae22b3bb3cc1cb8102ffaf5bade8e",
+      "originRaw": "https://gyazo.com/aa0ae22b3bb3cc1cb8102ffaf5bade8e/raw",
+      "id": "sha256:c5a08d13d77e09ee530faa5e382d8e82e130e9983462335f21c0e867f7bc5d17",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c5/c5a08d13d77e09ee530faa5e382d8e82e130e9983462335f21c0e867f7bc5d17.thumb.webp",
+        "full": "img/c5/c5a08d13d77e09ee530faa5e382d8e82e130e9983462335f21c0e867f7bc5d17.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:45.352Z"
+    },
+    {
+      "origin": "https://gyazo.com/56c63aa5ded8c748243dd1c8b2945660",
+      "originRaw": "https://gyazo.com/56c63aa5ded8c748243dd1c8b2945660/raw",
+      "id": "sha256:9b283a6153c50fd9665f4a354589d91d815faaeace082b5f86e8b38c7415b325",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9b/9b283a6153c50fd9665f4a354589d91d815faaeace082b5f86e8b38c7415b325.thumb.webp",
+        "full": "img/9b/9b283a6153c50fd9665f4a354589d91d815faaeace082b5f86e8b38c7415b325.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:46.976Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cyberdeck-Decor",
+    "created": "2025-09-19T12:29:49.000Z",
+    "updated": "2025-09-19T12:30:18.000Z",
+    "views": 8,
+    "thumbnail": "https://gyazo.com/e0a0f600f42f245ec373d0f364306a37/raw"
+  }
+}

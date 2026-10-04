@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66f6ae20ac9e3b001d99a387",
+  "title": "First working prototype of my digital typewriter. Made using the ZeroWriter project as a basis. Custom hand-wired keyboard and laser cut MDF body. Yes, I know it's fugly and I don't even have the correct keys for space and Enter on the keyb",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ex522j/first_working_prototype_of_my_digital_typewriter/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66f6ae246a8f03001cc99e14.png",
+      "originRaw": "https://scrapbox.io/files/66f6ae246a8f03001cc99e14.png",
+      "id": "sha256:24f525f6427c710d378249c201d3f9184f3ecb1520f11b621af20e66cfb0cdef",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/24/24f525f6427c710d378249c201d3f9184f3ecb1520f11b621af20e66cfb0cdef.thumb.webp",
+        "full": "img/24/24f525f6427c710d378249c201d3f9184f3ecb1520f11b621af20e66cfb0cdef.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:19.665Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/First%20working%20prototype%20of%20my%20digital%20typewriter.%20Made%20using%20the%20ZeroWriter%20project%20as%20a%20basis.%20Custom%20hand-wired%20keyboard%20and%20laser%20cut%20MDF%20body.%20Yes%2C%20I%20know%20it's%20fugly%20and%20I%20don't%20even%20have%20the%20correct%20keys%20for%20space%20and%20Enter%20on%20the%20keyb",
+    "created": "2024-09-27T13:07:51.000Z",
+    "updated": "2024-09-27T13:07:56.000Z",
+    "views": 12,
+    "thumbnail": "https://scrapbox.io/files/66f6ae246a8f03001cc99e14.png"
+  }
+}

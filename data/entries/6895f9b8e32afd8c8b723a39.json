@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6895f9b8e32afd8c8b723a39",
+  "title": "Synthdeck I made with op-1 for primary sound design",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1medo5l/synthdeck_i_made_with_op1_for_primary_sound_design/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/bf6d2a87ea9628c7d4ed463a739d7ef7",
+      "originRaw": "https://gyazo.com/bf6d2a87ea9628c7d4ed463a739d7ef7/raw",
+      "id": "sha256:1e098b0a2221b0cd8ae642c98a548ce8403607ad866b5d6388c15ee27bbf99f8",
+      "status": "ok",
+      "width": 1080,
+      "height": 1350,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1e/1e098b0a2221b0cd8ae642c98a548ce8403607ad866b5d6388c15ee27bbf99f8.thumb.webp",
+        "full": "img/1e/1e098b0a2221b0cd8ae642c98a548ce8403607ad866b5d6388c15ee27bbf99f8.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:18.467Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Synthdeck%20I%20made%20with%20op-1%20for%20primary%20sound%20design",
+    "created": "2025-08-08T13:21:00.000Z",
+    "updated": "2025-08-08T13:21:07.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/bf6d2a87ea9628c7d4ed463a739d7ef7/raw"
+  }
+}

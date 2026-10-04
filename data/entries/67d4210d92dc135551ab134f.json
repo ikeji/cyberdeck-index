@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67d4210d92dc135551ab134f",
+  "title": "A glimpse of the 90s Cyberdeck experience (Psion emulator + foldable keyboard)",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ifdusp/a_glimpse_of_the_90s_cyberdeck_experience_psion/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67d4210e59843707341a10fe.png",
+      "originRaw": "https://scrapbox.io/files/67d4210e59843707341a10fe.png",
+      "id": "sha256:362608c81966701dc3f27373c1a434b04c68298225fba8e3433ffc7d100f3989",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/36/362608c81966701dc3f27373c1a434b04c68298225fba8e3433ffc7d100f3989.thumb.webp",
+        "full": "img/36/362608c81966701dc3f27373c1a434b04c68298225fba8e3433ffc7d100f3989.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:46.888Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/A%20glimpse%20of%20the%2090s%20Cyberdeck%20experience%20(Psion%20emulator%20%2B%20foldable%20keyboard)",
+    "created": "2025-03-14T12:29:05.000Z",
+    "updated": "2025-03-14T12:29:12.000Z",
+    "views": 9,
+    "thumbnail": "https://scrapbox.io/files/67d4210e59843707341a10fe.png"
+  }
+}

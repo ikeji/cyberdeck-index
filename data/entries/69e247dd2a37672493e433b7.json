@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": "69e247dd2a37672493e433b7",
+  "title": "Finally I call it CyberFold",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1sjxo17/finally_i_call_it_cyberfold/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/2199db2cd886ed0a83ad00b624b6253a",
+      "originRaw": "https://gyazo.com/2199db2cd886ed0a83ad00b624b6253a/raw",
+      "id": "sha256:9fd15fe170009cc7bafd6196f530b2675e2b0adb1d4d2e6c7c70e8a7cf4a4385",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9f/9fd15fe170009cc7bafd6196f530b2675e2b0adb1d4d2e6c7c70e8a7cf4a4385.thumb.webp",
+        "full": "img/9f/9fd15fe170009cc7bafd6196f530b2675e2b0adb1d4d2e6c7c70e8a7cf4a4385.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:13.264Z"
+    },
+    {
+      "origin": "https://gyazo.com/d87be20cc5a8aac19f5fd8d4502c0bf0",
+      "originRaw": "https://gyazo.com/d87be20cc5a8aac19f5fd8d4502c0bf0/raw",
+      "id": "sha256:a8310b09712fc10dd97a13799dd7891deafefb0dd98bc76606a38d27348a3d10",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a8/a8310b09712fc10dd97a13799dd7891deafefb0dd98bc76606a38d27348a3d10.thumb.webp",
+        "full": "img/a8/a8310b09712fc10dd97a13799dd7891deafefb0dd98bc76606a38d27348a3d10.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:14.756Z"
+    },
+    {
+      "origin": "https://gyazo.com/813af2e5043201765c644c7f29093143",
+      "originRaw": "https://gyazo.com/813af2e5043201765c644c7f29093143/raw",
+      "id": "sha256:97764beb71ab8682afff37e09beb7b3a73ae421115985113209eccfbfb5a8e42",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/97/97764beb71ab8682afff37e09beb7b3a73ae421115985113209eccfbfb5a8e42.thumb.webp",
+        "full": "img/97/97764beb71ab8682afff37e09beb7b3a73ae421115985113209eccfbfb5a8e42.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:17.047Z"
+    },
+    {
+      "origin": "https://gyazo.com/7959a6f78c9a8aaa9e51720730641907",
+      "originRaw": "https://gyazo.com/7959a6f78c9a8aaa9e51720730641907/raw",
+      "id": "sha256:093d91bb00e7c6d107f26f9e71f2d4f613eb38a1fdf84404a8d23b3b98d42bc8",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/09/093d91bb00e7c6d107f26f9e71f2d4f613eb38a1fdf84404a8d23b3b98d42bc8.thumb.webp",
+        "full": "img/09/093d91bb00e7c6d107f26f9e71f2d4f613eb38a1fdf84404a8d23b3b98d42bc8.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:19.527Z"
+    },
+    {
+      "origin": "https://gyazo.com/763cbf127b86fae8f86a8636b6a84dd1",
+      "originRaw": "https://gyazo.com/763cbf127b86fae8f86a8636b6a84dd1/raw",
+      "id": "sha256:35e0af5530a7eec8fd7a9d227301c72be37b874078a792bc09dcaf3a7dc33b7b",
+      "status": "ok",
+      "width": 1080,
+      "height": 1056,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/35/35e0af5530a7eec8fd7a9d227301c72be37b874078a792bc09dcaf3a7dc33b7b.thumb.webp",
+        "full": "img/35/35e0af5530a7eec8fd7a9d227301c72be37b874078a792bc09dcaf3a7dc33b7b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:22.258Z"
+    },
+    {
+      "origin": "https://gyazo.com/0d95d70f5b1a915c2b1037be17e20632",
+      "originRaw": "https://gyazo.com/0d95d70f5b1a915c2b1037be17e20632/raw",
+      "id": "sha256:77231375974857d85c0c70837bf824827a7c317e86b024b01a7da721b4fba1d3",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/77/77231375974857d85c0c70837bf824827a7c317e86b024b01a7da721b4fba1d3.thumb.webp",
+        "full": "img/77/77231375974857d85c0c70837bf824827a7c317e86b024b01a7da721b4fba1d3.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:24.094Z"
+    },
+    {
+      "origin": "https://gyazo.com/41a316c9bcfe0335661f9c2a95c4028e",
+      "originRaw": "https://gyazo.com/41a316c9bcfe0335661f9c2a95c4028e/raw",
+      "id": "sha256:01767a7de2a62ace987689f43ca8499ce04b1a81eab70d8b59bb348999e3119e",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/01/01767a7de2a62ace987689f43ca8499ce04b1a81eab70d8b59bb348999e3119e.thumb.webp",
+        "full": "img/01/01767a7de2a62ace987689f43ca8499ce04b1a81eab70d8b59bb348999e3119e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:26.217Z"
+    },
+    {
+      "origin": "https://gyazo.com/495fe026b9361feb5d0fc792491cc0a8",
+      "originRaw": "https://gyazo.com/495fe026b9361feb5d0fc792491cc0a8/raw",
+      "id": "sha256:118a8144653d8265b27452d27a00d6d5c84af21f77641531e4555d9c8adf364a",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/11/118a8144653d8265b27452d27a00d6d5c84af21f77641531e4555d9c8adf364a.thumb.webp",
+        "full": "img/11/118a8144653d8265b27452d27a00d6d5c84af21f77641531e4555d9c8adf364a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:28.402Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Finally%20I%20call%20it%20CyberFold",
+    "created": "2026-04-17T14:47:03.000Z",
+    "updated": "2026-04-17T14:48:41.000Z",
+    "views": 7,
+    "thumbnail": "https://gyazo.com/2199db2cd886ed0a83ad00b624b6253a/raw"
+  }
+}

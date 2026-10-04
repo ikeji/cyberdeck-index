@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "69c6917a267ad1f71521bf5a",
+  "title": "Adding a glass panel for my Brick",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1s4zvhx/adding_a_glass_panel_for_my_brick/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/00604c40c32ce33e7a38429ec5a791ae",
+      "originRaw": "https://gyazo.com/00604c40c32ce33e7a38429ec5a791ae/raw",
+      "id": "sha256:8144ea4774d74e4ffdd9ae3712e1f9bba1093f7e83535d87d4999db2576fca9d",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/81/8144ea4774d74e4ffdd9ae3712e1f9bba1093f7e83535d87d4999db2576fca9d.thumb.webp",
+        "full": "img/81/8144ea4774d74e4ffdd9ae3712e1f9bba1093f7e83535d87d4999db2576fca9d.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:12.232Z"
+    },
+    {
+      "origin": "https://gyazo.com/d83b7f9f9cddab031b4c386c5ddcbab3",
+      "originRaw": "https://gyazo.com/d83b7f9f9cddab031b4c386c5ddcbab3/raw",
+      "id": "sha256:8269e41d6a336592500743e5c5715cc94b7918cf7c074920c65f2d0fedca5178",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/82/8269e41d6a336592500743e5c5715cc94b7918cf7c074920c65f2d0fedca5178.thumb.webp",
+        "full": "img/82/8269e41d6a336592500743e5c5715cc94b7918cf7c074920c65f2d0fedca5178.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:14.397Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Adding%20a%20glass%20panel%20for%20my%20Brick",
+    "created": "2026-03-27T14:17:52.000Z",
+    "updated": "2026-03-27T14:18:28.000Z",
+    "views": 6,
+    "thumbnail": "https://gyazo.com/00604c40c32ce33e7a38429ec5a791ae/raw"
+  }
+}

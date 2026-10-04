@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad5231018a5001d7b698b",
+  "title": "ARK-io: the M2 : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1cdpgp3/arkio_the_m2/",
+    "site": "reddit",
+    "label": "ARK-io: the M2 : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad5269f1774001c0d3be6.png",
+      "originRaw": "https://scrapbox.io/files/66cad5269f1774001c0d3be6.png",
+      "id": "sha256:8816d5eec5c96bf58c76e7183fabb69aa95789b253de21e13032421a9bc488b9",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/88/8816d5eec5c96bf58c76e7183fabb69aa95789b253de21e13032421a9bc488b9.thumb.webp",
+        "full": "img/88/8816d5eec5c96bf58c76e7183fabb69aa95789b253de21e13032421a9bc488b9.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:09.891Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/ARK-io%3A%20the%20M2%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:54:28.000Z",
+    "updated": "2024-08-25T06:54:35.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/66cad5269f1774001c0d3be6.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6ca1e11004a32bbbb01a55",
+  "title": "Does my 3d-printed DIY terminal emulator count?",
+  "source": {
+    "url": "https://www.reddit.com/r/cassettefuturism/comments/1v1vig1/does_my_3dprinted_diy_terminal_emulator_count/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/0df90d665eca8540e01a141746fb7601",
+      "originRaw": "https://gyazo.com/0df90d665eca8540e01a141746fb7601/raw",
+      "id": "sha256:2606a816ec5cd05cd65aee629d074a3b4d74f921e2d106f08e8bf85648245ba8",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/26/2606a816ec5cd05cd65aee629d074a3b4d74f921e2d106f08e8bf85648245ba8.thumb.webp",
+        "full": "img/26/2606a816ec5cd05cd65aee629d074a3b4d74f921e2d106f08e8bf85648245ba8.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:25.591Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Does%20my%203d-printed%20DIY%20terminal%20emulator%20count%3F",
+    "created": "2026-07-31T13:23:48.000Z",
+    "updated": "2026-07-31T13:24:04.000Z",
+    "views": 0,
+    "thumbnail": "https://gyazo.com/0df90d665eca8540e01a141746fb7601/raw"
+  }
+}

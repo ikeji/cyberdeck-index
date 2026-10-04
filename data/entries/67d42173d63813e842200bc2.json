@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67d42173d63813e842200bc2",
+  "title": "I Build My Own Pocket: HaPlay GO Zero 1",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1iwr6vv/i_build_my_own_pocket_haplay_go_zero_1/#lightbox",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67d4219071a725b9fde18197.png",
+      "originRaw": "https://scrapbox.io/files/67d4219071a725b9fde18197.png",
+      "id": "sha256:3be572ff569dcb498b072058d1a4695fe269e5d6a8cb61c4d69963121cc13ad2",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3b/3be572ff569dcb498b072058d1a4695fe269e5d6a8cb61c4d69963121cc13ad2.thumb.webp",
+        "full": "img/3b/3be572ff569dcb498b072058d1a4695fe269e5d6a8cb61c4d69963121cc13ad2.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:48.453Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20Build%20My%20Own%20Pocket%3A%20HaPlay%20GO%20Zero%201",
+    "created": "2025-03-14T12:31:12.000Z",
+    "updated": "2025-03-14T12:31:21.000Z",
+    "views": 13,
+    "thumbnail": "https://scrapbox.io/files/67d4219071a725b9fde18197.png"
+  }
+}

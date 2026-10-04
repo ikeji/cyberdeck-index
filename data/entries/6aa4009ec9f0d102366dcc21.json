@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "6aa4009ec9f0d102366dcc21",
+  "title": "Cyberdeck or just a laptop?",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1vrtxlb/cyberdeck_or_just_a_laptop/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/409525d13fa0b5019aab49b582dd23a0",
+      "originRaw": "https://gyazo.com/409525d13fa0b5019aab49b582dd23a0/raw",
+      "id": "sha256:b60749c3d3fe5625d9701b02842cbbae46c875a1449e0166bb3d939a78ca45ed",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b6/b60749c3d3fe5625d9701b02842cbbae46c875a1449e0166bb3d939a78ca45ed.thumb.webp",
+        "full": "img/b6/b60749c3d3fe5625d9701b02842cbbae46c875a1449e0166bb3d939a78ca45ed.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:29.524Z"
+    },
+    {
+      "origin": "https://gyazo.com/2d597d78dff05c5caa3964ff183d578a",
+      "originRaw": "https://gyazo.com/2d597d78dff05c5caa3964ff183d578a/raw",
+      "id": "sha256:e76be79faf7f7cf1a3fdee6ae0231ed6fd900b6c65edfb068ec22c487f8ec66f",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e7/e76be79faf7f7cf1a3fdee6ae0231ed6fd900b6c65edfb068ec22c487f8ec66f.thumb.webp",
+        "full": "img/e7/e76be79faf7f7cf1a3fdee6ae0231ed6fd900b6c65edfb068ec22c487f8ec66f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:31.602Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cyberdeck%20or%20just%20a%20laptop%3F",
+    "created": "2026-09-11T13:22:42.000Z",
+    "updated": "2026-09-11T13:22:55.000Z",
+    "views": 0,
+    "thumbnail": "https://gyazo.com/409525d13fa0b5019aab49b582dd23a0/raw"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e187bf141bc70024803286",
+  "title": "Amd Ryzen 1605b Manjaro Linux Foldable Split Mechanical Cyberdeck by legion ultimedia : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/y04gzi/amd_ryzen_1605b_manjaro_linux_foldable_split/",
+    "site": "reddit",
+    "label": "Amd Ryzen 1605b Manjaro Linux Foldable Split Mechanical Cyberdeck by legion ultimedia : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e187c2d602fc002695b2c9.png",
+      "originRaw": "https://scrapbox.io/files/65e187c2d602fc002695b2c9.png",
+      "id": "sha256:24653c2cba3fc87f17c21809dfb47d2689bdcec6132a0d84547d5eaeee3ec2e5",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/24/24653c2cba3fc87f17c21809dfb47d2689bdcec6132a0d84547d5eaeee3ec2e5.thumb.webp",
+        "full": "img/24/24653c2cba3fc87f17c21809dfb47d2689bdcec6132a0d84547d5eaeee3ec2e5.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:40.709Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Amd%20Ryzen%201605b%20Manjaro%20Linux%20Foldable%20Split%20Mechanical%20Cyberdeck%20by%20legion%20ultimedia%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:46:07.000Z",
+    "updated": "2024-03-01T07:46:14.000Z",
+    "views": 17,
+    "thumbnail": "https://scrapbox.io/files/65e187c2d602fc002695b2c9.png"
+  }
+}

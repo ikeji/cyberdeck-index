@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "679cdab0faad55cfbf523509",
+  "title": "finished my first draft of my cyberdeck this week. thoughts? : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1i8jf7c/finished_my_first_draft_of_my_cyberdeck_this_week/",
+    "site": "reddit",
+    "label": "finished my first draft of my cyberdeck this week. thoughts? : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/679cdac8d1fa720eb41d7e36.png",
+      "originRaw": "https://scrapbox.io/files/679cdac8d1fa720eb41d7e36.png",
+      "id": "sha256:fa8dbab97b44caa0aa3d003596d9ca7d55fbf6e6ba8409557053a4192c8940d5",
+      "status": "ok",
+      "width": 1080,
+      "height": 1108,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/fa/fa8dbab97b44caa0aa3d003596d9ca7d55fbf6e6ba8409557053a4192c8940d5.thumb.webp",
+        "full": "img/fa/fa8dbab97b44caa0aa3d003596d9ca7d55fbf6e6ba8409557053a4192c8940d5.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:35.256Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/finished%20my%20first%20draft%20of%20my%20cyberdeck%20this%20week.%20thoughts%3F%20%3A%20r%2FcyberDeck",
+    "created": "2025-01-31T14:14:09.000Z",
+    "updated": "2025-01-31T14:14:38.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/679cdac8d1fa720eb41d7e36.png"
+  }
+}

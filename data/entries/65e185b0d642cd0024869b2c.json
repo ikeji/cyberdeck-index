@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e185b0d642cd0024869b2c",
+  "title": "My SmallPi! So small, it's hard to take pictures in focus : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/w4lx23/my_smallpi_so_small_its_hard_to_take_pictures_in/",
+    "site": "reddit",
+    "label": "My SmallPi! So small, it's hard to take pictures in focus : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e185b3c5386c00243866df.png",
+      "originRaw": "https://scrapbox.io/files/65e185b3c5386c00243866df.png",
+      "id": "sha256:498c904de440e68ef15b47bcc4da95d6ac2a0cd5400904204096cde3aea19e92",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/49/498c904de440e68ef15b47bcc4da95d6ac2a0cd5400904204096cde3aea19e92.thumb.webp",
+        "full": "img/49/498c904de440e68ef15b47bcc4da95d6ac2a0cd5400904204096cde3aea19e92.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:30.744Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20SmallPi!%20So%20small%2C%20it's%20hard%20to%20take%20pictures%20in%20focus%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:37:21.000Z",
+    "updated": "2024-03-01T07:37:28.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/65e185b3c5386c00243866df.png"
+  }
+}

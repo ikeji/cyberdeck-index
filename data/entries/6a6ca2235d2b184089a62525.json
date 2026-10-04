@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6ca2235d2b184089a62525",
+  "title": "Project My custom STM32F413RG Cyberdeck with E-Ink screen. Live demo switching between uLisp and MicroPython!",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1uzzey9/project_my_custom_stm32f413rg_cyberdeck_with_eink/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/ab5231f7c5c6b2594cb828a900cef1d5",
+      "originRaw": "https://gyazo.com/ab5231f7c5c6b2594cb828a900cef1d5/raw",
+      "id": "sha256:eccc26f8ebd80599d341489abf295646a0b7ad76e3c2a15e877ed70e344386b2",
+      "status": "ok",
+      "width": 480,
+      "height": 360,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ec/eccc26f8ebd80599d341489abf295646a0b7ad76e3c2a15e877ed70e344386b2.thumb.webp",
+        "full": "img/ec/eccc26f8ebd80599d341489abf295646a0b7ad76e3c2a15e877ed70e344386b2.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:27.092Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Project%20My%20custom%20STM32F413RG%20Cyberdeck%20with%20E-Ink%20screen.%20Live%20demo%20switching%20between%20uLisp%20and%20MicroPython!",
+    "created": "2026-07-31T13:24:56.000Z",
+    "updated": "2026-07-31T13:25:25.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/ab5231f7c5c6b2594cb828a900cef1d5/raw"
+  }
+}

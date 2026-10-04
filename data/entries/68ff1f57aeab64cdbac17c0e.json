@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "68ff1f57aeab64cdbac17c0e",
+  "title": "CyberDeck作った",
+  "source": {
+    "url": "https://x.com/hekilance/status/1982704670662598678",
+    "site": "twitter",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/ba537e0d9d405dd3daa5235e63803899",
+      "originRaw": "https://gyazo.com/ba537e0d9d405dd3daa5235e63803899/raw",
+      "id": "sha256:613e0b99a84b60b9efc95f16c5ad54982297c4edaad65b69e05b41ee2aa35bd2",
+      "status": "ok",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/61/613e0b99a84b60b9efc95f16c5ad54982297c4edaad65b69e05b41ee2aa35bd2.thumb.webp",
+        "full": "img/61/613e0b99a84b60b9efc95f16c5ad54982297c4edaad65b69e05b41ee2aa35bd2.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:12.966Z"
+    },
+    {
+      "origin": "https://gyazo.com/a22d578be43e92af052de4618acf9777",
+      "originRaw": "https://gyazo.com/a22d578be43e92af052de4618acf9777/raw",
+      "id": "sha256:56419c056d83da775475ed05663e017040b26249b1540aa8a811632a8d8c533e",
+      "status": "ok",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/56/56419c056d83da775475ed05663e017040b26249b1540aa8a811632a8d8c533e.thumb.webp",
+        "full": "img/56/56419c056d83da775475ed05663e017040b26249b1540aa8a811632a8d8c533e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:16.855Z"
+    }
+  ],
+  "tags": [
+    "日本の作例"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/CyberDeck%E4%BD%9C%E3%81%A3%E3%81%9F",
+    "created": "2025-10-27T07:29:30.000Z",
+    "updated": "2025-10-27T07:29:57.000Z",
+    "views": 31,
+    "thumbnail": "https://gyazo.com/ba537e0d9d405dd3daa5235e63803899/raw"
+  }
+}

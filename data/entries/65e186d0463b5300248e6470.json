@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "65e186d0463b5300248e6470",
+  "title": "I want to make something like what's in the pic, but I don't know what word to look for to learn about how to do it. : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/12czf5w/i_want_to_make_something_like_whats_in_the_pic/",
+    "site": "reddit",
+    "label": "I want to make something like what's in the pic, but I don't know what word to look for to learn about how to do it. : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e186d33b74740023e6a165.png",
+      "originRaw": "https://scrapbox.io/files/65e186d33b74740023e6a165.png",
+      "id": "sha256:9952d200598ac31872fafbbbf221176f78921feee16bf4a0f63cff1f2eefcb32",
+      "status": "ok",
+      "width": 707,
+      "height": 703,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/99/9952d200598ac31872fafbbbf221176f78921feee16bf4a0f63cff1f2eefcb32.thumb.webp",
+        "full": "img/99/9952d200598ac31872fafbbbf221176f78921feee16bf4a0f63cff1f2eefcb32.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:34.966Z"
+    }
+  ],
+  "tags": [
+    "PiPico"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20want%20to%20make%20something%20like%20what's%20in%20the%20pic%2C%20but%20I%20don't%20know%20what%20word%20to%20look%20for%20to%20learn%20about%20how%20to%20do%20it.%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:42:09.000Z",
+    "updated": "2024-03-01T07:42:19.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/65e186d33b74740023e6a165.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "698f2bc252cc7329fe38cf2c",
+  "title": "Working on a Handheld Cyberdeck...",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1qzd5zi/working_on_a_handheld_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/33da53e66e5516f01b41c8165ceaeac0",
+      "originRaw": "https://gyazo.com/33da53e66e5516f01b41c8165ceaeac0/raw",
+      "id": "sha256:90b961b001f5e452488f5d1aa1c96dfe4cfdd67bb2deb292ae7cedc060c8a981",
+      "status": "ok",
+      "width": 1600,
+      "height": 900,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/90/90b961b001f5e452488f5d1aa1c96dfe4cfdd67bb2deb292ae7cedc060c8a981.thumb.webp",
+        "full": "img/90/90b961b001f5e452488f5d1aa1c96dfe4cfdd67bb2deb292ae7cedc060c8a981.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:30.276Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Working%20on%20a%20Handheld%20Cyberdeck...",
+    "created": "2026-02-13T13:48:54.000Z",
+    "updated": "2026-02-13T13:49:03.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/33da53e66e5516f01b41c8165ceaeac0/raw"
+  }
+}

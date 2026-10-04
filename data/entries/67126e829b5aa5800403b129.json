@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67126e829b5aa5800403b129",
+  "title": "All I need is a way to house it all in one unit!",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1fxudoq/all_i_need_is_a_way_to_house_it_all_in_one_unit/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67126e9487b829b49f61711a.png",
+      "originRaw": "https://scrapbox.io/files/67126e9487b829b49f61711a.png",
+      "id": "sha256:dee75f2de04653725a6a53b7df5dcbf9701be351a3f9b83dee222df552fd501e",
+      "status": "ok",
+      "width": 1207,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/de/dee75f2de04653725a6a53b7df5dcbf9701be351a3f9b83dee222df552fd501e.thumb.webp",
+        "full": "img/de/dee75f2de04653725a6a53b7df5dcbf9701be351a3f9b83dee222df552fd501e.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:22.774Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/All%20I%20need%20is%20a%20way%20to%20house%20it%20all%20in%20one%20unit!",
+    "created": "2024-10-18T14:20:04.000Z",
+    "updated": "2024-10-18T14:20:18.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/67126e9487b829b49f61711a.png"
+  }
+}

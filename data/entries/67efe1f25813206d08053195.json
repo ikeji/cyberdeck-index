@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67efe1f25813206d08053195",
+  "title": "Box deck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1joc6gc/box_deck/",
+    "site": "reddit",
+    "label": "Box deck : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67efe1f4892c57d575047d1a.png",
+      "originRaw": "https://scrapbox.io/files/67efe1f4892c57d575047d1a.png",
+      "id": "sha256:b38793ac05e842f5de02289da02e69ba3ccf02f5625a8102078c1a0dee6eb82e",
+      "status": "ok",
+      "width": 1080,
+      "height": 719,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b3/b38793ac05e842f5de02289da02e69ba3ccf02f5625a8102078c1a0dee6eb82e.thumb.webp",
+        "full": "img/b3/b38793ac05e842f5de02289da02e69ba3ccf02f5625a8102078c1a0dee6eb82e.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:54.172Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Box%20deck",
+    "created": "2025-04-04T13:43:16.000Z",
+    "updated": "2025-04-04T13:43:22.000Z",
+    "views": 3,
+    "thumbnail": "https://scrapbox.io/files/67efe1f4892c57d575047d1a.png"
+  }
+}

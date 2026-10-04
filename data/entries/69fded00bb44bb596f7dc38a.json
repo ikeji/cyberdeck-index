@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "69fded00bb44bb596f7dc38a",
+  "title": "built a cyberdeck inside a seashell clutch purse. custom os w local ai assistant, tamagotchi, e-reader, text editor, terminal, server monitor (all on 512mb ram!)",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1t5wyxi/built_a_cyberdeck_inside_a_seashell_clutch_purse/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/d6a38b4c9c0193aa1ef9b04fa6d5e829",
+      "originRaw": "https://gyazo.com/d6a38b4c9c0193aa1ef9b04fa6d5e829/raw",
+      "id": "sha256:3c1184dd60f8a804c68cd95773d36943b3ff91b3cb9fb6beb263fdeb6bf318e3",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3c/3c1184dd60f8a804c68cd95773d36943b3ff91b3cb9fb6beb263fdeb6bf318e3.thumb.webp",
+        "full": "img/3c/3c1184dd60f8a804c68cd95773d36943b3ff91b3cb9fb6beb263fdeb6bf318e3.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:21.264Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/built%20a%20cyberdeck%20inside%20a%20seashell%20clutch%20purse.%20custom%20os%20w%20local%20ai%20assistant%2C%20tamagotchi%2C%20e-reader%2C%20text%20editor%2C%20terminal%2C%20server%20monitor%20(all%20on%20512mb%20ram!)",
+    "created": "2026-05-08T14:02:43.000Z",
+    "updated": "2026-05-29T14:50:39.000Z",
+    "views": 11,
+    "thumbnail": "https://gyazo.com/d6a38b4c9c0193aa1ef9b04fa6d5e829/raw"
+  }
+}

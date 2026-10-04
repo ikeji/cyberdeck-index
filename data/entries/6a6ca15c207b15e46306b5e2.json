@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6ca15c207b15e46306b5e2",
+  "title": "Currently working on building a Modular x86 Handheld PC running dual boot Linux & Windows - The CG Deck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1v2tlrl/currently_working_on_building_a_modular_x86/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/b9bd5b4862c76c6d73210e5d903b7950",
+      "originRaw": "https://gyazo.com/b9bd5b4862c76c6d73210e5d903b7950/raw",
+      "id": "sha256:4defeb28cf41a558847e66def01a915a4b36e236515bea9e00c1ee11d8566c22",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4d/4defeb28cf41a558847e66def01a915a4b36e236515bea9e00c1ee11d8566c22.thumb.webp",
+        "full": "img/4d/4defeb28cf41a558847e66def01a915a4b36e236515bea9e00c1ee11d8566c22.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:17.540Z"
+    },
+    {
+      "origin": "https://gyazo.com/ab64171a689ca75cd552cc0207ec350e",
+      "originRaw": "https://gyazo.com/ab64171a689ca75cd552cc0207ec350e/raw",
+      "id": "sha256:3aa80df6e45ba81b74c37cdbb6f5fa432ed8c0681871e8a8ff74525a692d847e",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3a/3aa80df6e45ba81b74c37cdbb6f5fa432ed8c0681871e8a8ff74525a692d847e.thumb.webp",
+        "full": "img/3a/3aa80df6e45ba81b74c37cdbb6f5fa432ed8c0681871e8a8ff74525a692d847e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:20.084Z"
+    },
+    {
+      "origin": "https://gyazo.com/7bf626336da74398fb7eb2f521fa35b6",
+      "originRaw": "https://gyazo.com/7bf626336da74398fb7eb2f521fa35b6/raw",
+      "id": "sha256:f9aad2aafc7c877905385bdb378f4219510f74da9216b934daeb37eb95f0b801",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f9/f9aad2aafc7c877905385bdb378f4219510f74da9216b934daeb37eb95f0b801.thumb.webp",
+        "full": "img/f9/f9aad2aafc7c877905385bdb378f4219510f74da9216b934daeb37eb95f0b801.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:20.790Z"
+    },
+    {
+      "origin": "https://gyazo.com/6f9f86438a7de645594d9e0016e0e24c",
+      "originRaw": "https://gyazo.com/6f9f86438a7de645594d9e0016e0e24c/raw",
+      "id": "sha256:00f330b99efed4f1d0b151caed9a382321e4ac564f282ad166b1b6fcffdc0f30",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/00/00f330b99efed4f1d0b151caed9a382321e4ac564f282ad166b1b6fcffdc0f30.thumb.webp",
+        "full": "img/00/00f330b99efed4f1d0b151caed9a382321e4ac564f282ad166b1b6fcffdc0f30.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:22.856Z"
+    },
+    {
+      "origin": "https://gyazo.com/662fa0402ab99a0c5c4ad600434c734c",
+      "originRaw": "https://gyazo.com/662fa0402ab99a0c5c4ad600434c734c/raw",
+      "id": "sha256:0ad2834e18a51f6e4af05a7680b6e85c0096f11ae99638b9cea2346d0fe322ad",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0a/0ad2834e18a51f6e4af05a7680b6e85c0096f11ae99638b9cea2346d0fe322ad.thumb.webp",
+        "full": "img/0a/0ad2834e18a51f6e4af05a7680b6e85c0096f11ae99638b9cea2346d0fe322ad.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:23.637Z"
+    },
+    {
+      "origin": "https://gyazo.com/6cc19728247248b3bd11b02cf47908d0",
+      "originRaw": "https://gyazo.com/6cc19728247248b3bd11b02cf47908d0/raw",
+      "id": "sha256:9fa6e0887e26a6da95a351ef3d7271fef21f712bc0e4750a308220d813b7c9a3",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9f/9fa6e0887e26a6da95a351ef3d7271fef21f712bc0e4750a308220d813b7c9a3.thumb.webp",
+        "full": "img/9f/9fa6e0887e26a6da95a351ef3d7271fef21f712bc0e4750a308220d813b7c9a3.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:25.628Z"
+    },
+    {
+      "origin": "https://gyazo.com/2cb6029b1f8a59f88009be9ab798bc2b",
+      "originRaw": "https://gyazo.com/2cb6029b1f8a59f88009be9ab798bc2b/raw",
+      "id": "sha256:92bd73a16c24fee092e50038244eab8687f40d8a1dbee45baf3e13303712cfaa",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/92/92bd73a16c24fee092e50038244eab8687f40d8a1dbee45baf3e13303712cfaa.thumb.webp",
+        "full": "img/92/92bd73a16c24fee092e50038244eab8687f40d8a1dbee45baf3e13303712cfaa.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:27.965Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Currently%20working%20on%20building%20a%20Modular%20x86%20Handheld%20PC%20running%20dual%20boot%20Linux%20%26%20Windows%20-%20The%20CG%20Deck",
+    "created": "2026-07-31T13:21:36.000Z",
+    "updated": "2026-07-31T13:22:35.000Z",
+    "views": 3,
+    "thumbnail": "https://gyazo.com/b9bd5b4862c76c6d73210e5d903b7950/raw"
+  }
+}

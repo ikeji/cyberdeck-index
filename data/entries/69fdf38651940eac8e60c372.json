@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "69fdf38651940eac8e60c372",
+  "title": "Looks familiar",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1sticwj/looks_familiar/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/d17d9b64629259b64340ca27f3a6f4fe",
+      "originRaw": "https://gyazo.com/d17d9b64629259b64340ca27f3a6f4fe/raw",
+      "id": "sha256:2f76d6e810ffe7d3fa757ca891a19a61706512ba311955bc9796793fad631142",
+      "status": "ok",
+      "width": 323,
+      "height": 354,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/2f/2f76d6e810ffe7d3fa757ca891a19a61706512ba311955bc9796793fad631142.thumb.webp",
+        "full": "img/2f/2f76d6e810ffe7d3fa757ca891a19a61706512ba311955bc9796793fad631142.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:07.914Z"
+    }
+  ],
+  "tags": [
+    "IKeJIのおすすめ"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Looks%20familiar",
+    "created": "2026-05-08T14:30:32.000Z",
+    "updated": "2026-05-08T14:31:37.000Z",
+    "views": 3,
+    "thumbnail": "https://gyazo.com/d17d9b64629259b64340ca27f3a6f4fe/raw"
+  }
+}

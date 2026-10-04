@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e15818f9e1c80025f905b5",
+  "title": "the A.R.M. Terminal",
+  "source": {
+    "url": "https://www.doscher.com/the-a-r-m-terminal/",
+    "site": "web",
+    "label": "the A.R.M. Terminal"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1581a141bc700247cb7cd.png",
+      "originRaw": "https://scrapbox.io/files/65e1581a141bc700247cb7cd.png",
+      "id": "sha256:e47db84b369e915ac9c513b2e34f9ab015c8adc4b8b90705ba6351fbe2074c88",
+      "status": "ok",
+      "width": 1200,
+      "height": 801,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e4/e47db84b369e915ac9c513b2e34f9ab015c8adc4b8b90705ba6351fbe2074c88.thumb.webp",
+        "full": "img/e4/e47db84b369e915ac9c513b2e34f9ab015c8adc4b8b90705ba6351fbe2074c88.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:12.590Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/the%20A.R.M.%20Terminal",
+    "created": "2024-03-01T04:22:48.000Z",
+    "updated": "2024-03-01T04:22:54.000Z",
+    "views": 10,
+    "thumbnail": "https://scrapbox.io/files/65e1581a141bc700247cb7cd.png"
+  }
+}

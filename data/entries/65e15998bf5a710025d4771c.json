@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "65e15998bf5a710025d4771c",
+  "title": "YARH.IO MKI Raspberry Pi 3B+ Hackable Linux Handheld",
+  "source": {
+    "url": "https://yarh.io/yarh-io-mki.html",
+    "site": "web",
+    "label": "YARH.IO MKI Raspberry Pi 3B+ Hackable Linux Handheld"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1599ae3abd80025dadaff.png",
+      "originRaw": "https://scrapbox.io/files/65e1599ae3abd80025dadaff.png",
+      "id": "sha256:d10554c4f56e68622c218e3cbb1d2bc04006eb53bd449b2da79c290c60a441a2",
+      "status": "ok",
+      "width": 1200,
+      "height": 1073,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d1/d10554c4f56e68622c218e3cbb1d2bc04006eb53bd449b2da79c290c60a441a2.thumb.webp",
+        "full": "img/d1/d10554c4f56e68622c218e3cbb1d2bc04006eb53bd449b2da79c290c60a441a2.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:14.505Z"
+    }
+  ],
+  "tags": [
+    "yarh.io"
+  ],
+  "related": [
+    "Raspberry Pi",
+    "5インチディスプレイ",
+    "トラックパッド"
+  ],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/YARH.IO%20MKI%20Raspberry%20Pi%203B%2B%20Hackable%20Linux%20Handheld",
+    "created": "2024-03-01T04:29:13.000Z",
+    "updated": "2024-08-25T06:48:40.000Z",
+    "views": 30,
+    "thumbnail": "https://scrapbox.io/files/65e1599ae3abd80025dadaff.png"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "67126d1fbb83da0350ebbcca",
+  "title": "Mini Cyberdeck | Meshtastic / SDR / Solar Power / RPi 3 & Zero / E-Ink And More",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1fwdiww/mini_cyberdeck_meshtastic_sdr_solar_power_rpi_3/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [
+    {
+      "url": "https://www.youtube.com/watch?v=bT7F_R5f200",
+      "label": null,
+      "site": "youtube"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67126dbd003b270a662b9b16.png",
+      "originRaw": "https://scrapbox.io/files/67126dbd003b270a662b9b16.png",
+      "id": "sha256:31e073bdf2bcb857210daa0b332e6874a972a5e1859d839ca1f715996d040203",
+      "status": "ok",
+      "width": 1600,
+      "height": 830,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/31/31e073bdf2bcb857210daa0b332e6874a972a5e1859d839ca1f715996d040203.thumb.webp",
+        "full": "img/31/31e073bdf2bcb857210daa0b332e6874a972a5e1859d839ca1f715996d040203.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:22.159Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Mini%20Cyberdeck%20%7C%20Meshtastic%20%2F%20SDR%20%2F%20Solar%20Power%20%2F%20RPi%203%20%26%20Zero%20%2F%20E-Ink%20And%20More",
+    "created": "2024-10-18T14:15:57.000Z",
+    "updated": "2024-10-18T14:16:44.000Z",
+    "views": 4,
+    "thumbnail": "https://i.ytimg.com/vi/bT7F_R5f200/mqdefault.jpg"
+  }
+}

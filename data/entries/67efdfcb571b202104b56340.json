@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67efdfcb571b202104b56340",
+  "title": "Made a Cyberdeck for GURPS ttrpg",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1jcbaz8/made_a_cyberdeck_for_gurps_ttrpg/",
+    "site": "reddit",
+    "label": "Made a Cyberdeck for GURPS ttrpg : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67efdfe191c20cb4f04e1d64.png",
+      "originRaw": "https://scrapbox.io/files/67efdfe191c20cb4f04e1d64.png",
+      "id": "sha256:c3e76b58d9201c8f999a84bfb85b5817c6ea3b5271fea1c68508f2904ca6008b",
+      "status": "ok",
+      "width": 445,
+      "height": 593,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c3/c3e76b58d9201c8f999a84bfb85b5817c6ea3b5271fea1c68508f2904ca6008b.thumb.webp",
+        "full": "img/c3/c3e76b58d9201c8f999a84bfb85b5817c6ea3b5271fea1c68508f2904ca6008b.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:49.344Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": "このOLEDいいな。",
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Made%20a%20Cyberdeck%20for%20GURPS%20ttrpg",
+    "created": "2025-04-04T13:34:05.000Z",
+    "updated": "2025-04-04T13:34:39.000Z",
+    "views": 2,
+    "thumbnail": "https://scrapbox.io/files/67efdfe191c20cb4f04e1d64.png"
+  }
+}

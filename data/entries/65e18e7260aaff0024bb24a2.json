@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18e7260aaff0024bb24a2",
+  "title": "Building A Mouse That’s Also A Computer | Hackaday",
+  "source": {
+    "url": "https://hackaday.com/2024/01/25/building-a-mouse-thats-also-a-computer/",
+    "site": "hackaday",
+    "label": "Building A Mouse That’s Also A Computer | Hackaday"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18e74d7452e0024b73a27.png",
+      "originRaw": "https://scrapbox.io/files/65e18e74d7452e0024b73a27.png",
+      "id": "sha256:a339e2727b4a677757dc2c7bb0476c662f9de3b896972e2513ccd56867be2171",
+      "status": "ok",
+      "width": 800,
+      "height": 450,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a3/a339e2727b4a677757dc2c7bb0476c662f9de3b896972e2513ccd56867be2171.thumb.webp",
+        "full": "img/a3/a339e2727b4a677757dc2c7bb0476c662f9de3b896972e2513ccd56867be2171.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:52.788Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Building%20A%20Mouse%20That%E2%80%99s%20Also%20A%20Computer%20%7C%20Hackaday",
+    "created": "2024-03-01T08:14:43.000Z",
+    "updated": "2024-03-01T08:14:48.000Z",
+    "views": 14,
+    "thumbnail": "https://scrapbox.io/files/65e18e74d7452e0024b73a27.png"
+  }
+}

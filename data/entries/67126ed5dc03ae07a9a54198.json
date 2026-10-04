@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67126ed5dc03ae07a9a54198",
+  "title": "Off-grid computer, radio, and WiFi network in a box for when the Internet goes dark",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1fy0kj7/offgrid_computer_radio_and_wifi_network_in_a_box/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67126ed7daeae1aa0d3bf07b.png",
+      "originRaw": "https://scrapbox.io/files/67126ed7daeae1aa0d3bf07b.png",
+      "id": "sha256:f78e0092283b80c72a5a13eb891f85853871606f72b802a31089616687fbd2ea",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f7/f78e0092283b80c72a5a13eb891f85853871606f72b802a31089616687fbd2ea.thumb.webp",
+        "full": "img/f7/f78e0092283b80c72a5a13eb891f85853871606f72b802a31089616687fbd2ea.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:23.207Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Off-grid%20computer%2C%20radio%2C%20and%20WiFi%20network%20in%20a%20box%20for%20when%20the%20Internet%20goes%20dark",
+    "created": "2024-10-18T14:21:16.000Z",
+    "updated": "2024-10-18T14:21:20.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/67126ed7daeae1aa0d3bf07b.png"
+  }
+}

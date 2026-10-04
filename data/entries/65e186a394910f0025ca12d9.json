@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e186a394910f0025ca12d9",
+  "title": "Built this recently, cybersynthdeck, LMN 3 : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/18jow3j/built_this_recently_cybersynthdeck_lmn_3/",
+    "site": "reddit",
+    "label": "Built this recently, cybersynthdeck, LMN 3 : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e186a6215b480025685f51.png",
+      "originRaw": "https://scrapbox.io/files/65e186a6215b480025685f51.png",
+      "id": "sha256:817def77cfacfee77302b5260b19ea53a3cd11a13e37e796158d2def250c7d6e",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/81/817def77cfacfee77302b5260b19ea53a3cd11a13e37e796158d2def250c7d6e.thumb.webp",
+        "full": "img/81/817def77cfacfee77302b5260b19ea53a3cd11a13e37e796158d2def250c7d6e.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:34.882Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Built%20this%20recently%2C%20cybersynthdeck%2C%20LMN%203%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:41:24.000Z",
+    "updated": "2024-03-01T07:41:29.000Z",
+    "views": 6,
+    "thumbnail": "https://scrapbox.io/files/65e186a6215b480025685f51.png"
+  }
+}

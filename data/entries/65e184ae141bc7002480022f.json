@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "65e184ae141bc7002480022f",
+  "title": "Beepy",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/16blazq/just_received_my_beepy/",
+    "site": "reddit",
+    "label": "Just received my Beepy : r/cyberDeck"
+  },
+  "links": [
+    {
+      "url": "https://www.reddit.com/r/cyberDeck/comments/118khoo/not_cyberdeck_but_an_interesting_concept_reminds/",
+      "label": null,
+      "site": "reddit"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e185f906997a002478ffdf.png",
+      "originRaw": "https://scrapbox.io/files/65e185f906997a002478ffdf.png",
+      "id": "sha256:360057653ef1d40f3daada91ee73f105c0e7aff387d79301bfa1117b1eba51b9",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/36/360057653ef1d40f3daada91ee73f105c0e7aff387d79301bfa1117b1eba51b9.thumb.webp",
+        "full": "img/36/360057653ef1d40f3daada91ee73f105c0e7aff387d79301bfa1117b1eba51b9.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:25.788Z"
+    },
+    {
+      "origin": "https://scrapbox.io/files/65e184b2e3f4830025e4690d.png",
+      "originRaw": "https://scrapbox.io/files/65e184b2e3f4830025e4690d.png",
+      "id": "sha256:1f2631c047dbb8e12d08ece58d13d492d207ff35227f4ebc9fe0c409c03ca5ea",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1f/1f2631c047dbb8e12d08ece58d13d492d207ff35227f4ebc9fe0c409c03ca5ea.thumb.webp",
+        "full": "img/1f/1f2631c047dbb8e12d08ece58d13d492d207ff35227f4ebc9fe0c409c03ca5ea.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:27.248Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Beepy",
+    "created": "2024-03-01T07:33:02.000Z",
+    "updated": "2024-03-01T07:39:00.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/65e185f906997a002478ffdf.png"
+  }
+}

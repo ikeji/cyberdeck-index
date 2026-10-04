@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "69aaeaaf3b82402a90bcc979",
+  "title": "What you think guys?",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1r3vi6v/what_you_think_guys/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [
+    {
+      "url": "https://github.com/guicmg/cardputer_adv_external_screen",
+      "label": null,
+      "site": "github"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://gyazo.com/5a04465ea8179fd3e22db0a41db7cf90",
+      "originRaw": "https://gyazo.com/5a04465ea8179fd3e22db0a41db7cf90/raw",
+      "id": "sha256:49339e1debf6d643dbb73baeef30c68c15551f0070380a17bd1c9d06009e573d",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/49/49339e1debf6d643dbb73baeef30c68c15551f0070380a17bd1c9d06009e573d.thumb.webp",
+        "full": "img/49/49339e1debf6d643dbb73baeef30c68c15551f0070380a17bd1c9d06009e573d.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:01.067Z"
+    },
+    {
+      "origin": "https://gyazo.com/f2580965b37077ce24ee475795eb8b6d",
+      "originRaw": "https://gyazo.com/f2580965b37077ce24ee475795eb8b6d/raw",
+      "id": "sha256:35ba6a4f54e22d78eb4d22be9da21e73ce330cbd5058c7ba115e95bb5af8756a",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/35/35ba6a4f54e22d78eb4d22be9da21e73ce330cbd5058c7ba115e95bb5af8756a.thumb.webp",
+        "full": "img/35/35ba6a4f54e22d78eb4d22be9da21e73ce330cbd5058c7ba115e95bb5af8756a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:03.416Z"
+    },
+    {
+      "origin": "https://gyazo.com/a88decc73e9234a8c04617a9afa2c0ef",
+      "originRaw": "https://gyazo.com/a88decc73e9234a8c04617a9afa2c0ef/raw",
+      "id": "sha256:1f46f68e58357c52c1645405b9bcd1fbeaf2f1b93a4f5f2975084bf8d9f6dddd",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1f/1f46f68e58357c52c1645405b9bcd1fbeaf2f1b93a4f5f2975084bf8d9f6dddd.thumb.webp",
+        "full": "img/1f/1f46f68e58357c52c1645405b9bcd1fbeaf2f1b93a4f5f2975084bf8d9f6dddd.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:05.189Z"
+    },
+    {
+      "origin": "https://gyazo.com/0720cb964540167343fedfce891b7c79",
+      "originRaw": "https://gyazo.com/0720cb964540167343fedfce891b7c79/raw",
+      "id": "sha256:c9dafca386fe19b1c8db6dcccb59d626e2354d14ef410949cc720189cd304de7",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c9/c9dafca386fe19b1c8db6dcccb59d626e2354d14ef410949cc720189cd304de7.thumb.webp",
+        "full": "img/c9/c9dafca386fe19b1c8db6dcccb59d626e2354d14ef410949cc720189cd304de7.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:07.702Z"
+    },
+    {
+      "origin": "https://gyazo.com/4948368d957be2f195b28be09f066a26",
+      "originRaw": "https://gyazo.com/4948368d957be2f195b28be09f066a26/raw",
+      "id": "sha256:6cb7800d237b584d682fa673df90f6ef74e70c0cf04b762967bf6ae54d1f41a7",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6c/6cb7800d237b584d682fa673df90f6ef74e70c0cf04b762967bf6ae54d1f41a7.thumb.webp",
+        "full": "img/6c/6cb7800d237b584d682fa673df90f6ef74e70c0cf04b762967bf6ae54d1f41a7.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:10.033Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/What%20you%20think%20guys%3F",
+    "created": "2026-03-06T14:54:45.000Z",
+    "updated": "2026-03-06T14:57:37.000Z",
+    "views": 7,
+    "thumbnail": "https://gyazo.com/5a04465ea8179fd3e22db0a41db7cf90/raw"
+  }
+}

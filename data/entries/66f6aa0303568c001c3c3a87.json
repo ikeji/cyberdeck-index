@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66f6aa0303568c001c3c3a87",
+  "title": "Somebody told me I should post this here - functional Fallout PipBoy that my dad made!",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1fe9vb5/somebody_told_me_i_should_post_this_here/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66f6aa0729947a001c50f42a.png",
+      "originRaw": "https://scrapbox.io/files/66f6aa0729947a001c50f42a.png",
+      "id": "sha256:24a0be53324309ec45ba3fd907fd348baf4236dec02ed52edf8416f68cb7d4c7",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/24/24a0be53324309ec45ba3fd907fd348baf4236dec02ed52edf8416f68cb7d4c7.thumb.webp",
+        "full": "img/24/24a0be53324309ec45ba3fd907fd348baf4236dec02ed52edf8416f68cb7d4c7.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:17.991Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Somebody%20told%20me%20I%20should%20post%20this%20here%20-%20functional%20Fallout%20PipBoy%20that%20my%20dad%20made!",
+    "created": "2024-09-27T12:50:20.000Z",
+    "updated": "2024-09-27T12:50:27.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/66f6aa0729947a001c50f42a.png"
+  }
+}

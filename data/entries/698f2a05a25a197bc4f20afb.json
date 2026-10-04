@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "698f2a05a25a197bc4f20afb",
+  "title": "Cybertablet prototype 2",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1r1ytq6/cybertablet_prototype_2/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/18fcf6429e464329d38483b4fa14b3b6",
+      "originRaw": "https://gyazo.com/18fcf6429e464329d38483b4fa14b3b6/raw",
+      "id": "sha256:aae11ced70ad36563b7ccbdab73a74d37bd1e803325647034abe4a41cd81cab4",
+      "status": "ok",
+      "width": 640,
+      "height": 426,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/aa/aae11ced70ad36563b7ccbdab73a74d37bd1e803325647034abe4a41cd81cab4.thumb.webp",
+        "full": "img/aa/aae11ced70ad36563b7ccbdab73a74d37bd1e803325647034abe4a41cd81cab4.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:19.410Z"
+    },
+    {
+      "origin": "https://gyazo.com/f72750eb6799ab5c6007ebc680a9209e",
+      "originRaw": "https://gyazo.com/f72750eb6799ab5c6007ebc680a9209e/raw",
+      "id": "sha256:c00d122dc2fdfb034062d0288b777779c864392a53e845588fae4d14668ac3f9",
+      "status": "ok",
+      "width": 1080,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c0/c00d122dc2fdfb034062d0288b777779c864392a53e845588fae4d14668ac3f9.thumb.webp",
+        "full": "img/c0/c00d122dc2fdfb034062d0288b777779c864392a53e845588fae4d14668ac3f9.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:21.265Z"
+    },
+    {
+      "origin": "https://gyazo.com/cecfb35a0f9a3e74808a88c81d4e12a3",
+      "originRaw": "https://gyazo.com/cecfb35a0f9a3e74808a88c81d4e12a3/raw",
+      "id": "sha256:f00ffdd51a84b903167b9c9cf4db4e022541915af91ae017d9a626cbf62872c2",
+      "status": "ok",
+      "width": 1080,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f0/f00ffdd51a84b903167b9c9cf4db4e022541915af91ae017d9a626cbf62872c2.thumb.webp",
+        "full": "img/f0/f00ffdd51a84b903167b9c9cf4db4e022541915af91ae017d9a626cbf62872c2.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:23.202Z"
+    },
+    {
+      "origin": "https://gyazo.com/339ccc75fab79670ad96a563e5f85d73",
+      "originRaw": "https://gyazo.com/339ccc75fab79670ad96a563e5f85d73/raw",
+      "id": "sha256:81cad773c886132196753a34e8be465e85f41d7686b33293709dcf50ff3506f3",
+      "status": "ok",
+      "width": 1080,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/81/81cad773c886132196753a34e8be465e85f41d7686b33293709dcf50ff3506f3.thumb.webp",
+        "full": "img/81/81cad773c886132196753a34e8be465e85f41d7686b33293709dcf50ff3506f3.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:24.635Z"
+    },
+    {
+      "origin": "https://gyazo.com/563a0c199ce193efc67b4fa18d8f014d",
+      "originRaw": "https://gyazo.com/563a0c199ce193efc67b4fa18d8f014d/raw",
+      "id": "sha256:de1529915be93e9c793757834a8f1c2c749f9d76f9b30e10f79e3eaee736e151",
+      "status": "ok",
+      "width": 1080,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/de/de1529915be93e9c793757834a8f1c2c749f9d76f9b30e10f79e3eaee736e151.thumb.webp",
+        "full": "img/de/de1529915be93e9c793757834a8f1c2c749f9d76f9b30e10f79e3eaee736e151.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:26.065Z"
+    },
+    {
+      "origin": "https://gyazo.com/60a1bc39768ed3c69c729f52c780286f",
+      "originRaw": "https://gyazo.com/60a1bc39768ed3c69c729f52c780286f/raw",
+      "id": "sha256:9530eaa1ebda841bc7f0b3d3d84c4c5dd30701c4d4b591c72ba8686160a7989c",
+      "status": "ok",
+      "width": 1080,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/95/9530eaa1ebda841bc7f0b3d3d84c4c5dd30701c4d4b591c72ba8686160a7989c.thumb.webp",
+        "full": "img/95/9530eaa1ebda841bc7f0b3d3d84c4c5dd30701c4d4b591c72ba8686160a7989c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:28.125Z"
+    },
+    {
+      "origin": "https://gyazo.com/87825c5c9171f6fe3c0f86fb23c1ee11",
+      "originRaw": "https://gyazo.com/87825c5c9171f6fe3c0f86fb23c1ee11/raw",
+      "id": "sha256:ac49211fd8c2f9a6389fc621c9eff848b0101333c7c488c9c41b34ec574bf37b",
+      "status": "ok",
+      "width": 1080,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ac/ac49211fd8c2f9a6389fc621c9eff848b0101333c7c488c9c41b34ec574bf37b.thumb.webp",
+        "full": "img/ac/ac49211fd8c2f9a6389fc621c9eff848b0101333c7c488c9c41b34ec574bf37b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:29.919Z"
+    },
+    {
+      "origin": "https://gyazo.com/7e9f29cb349198f785da205ba38cb797",
+      "originRaw": "https://gyazo.com/7e9f29cb349198f785da205ba38cb797/raw",
+      "id": "sha256:f51bf48a1f9ba501d44e19643c5427d702c48be53dc01f2c33b88db5e167b91a",
+      "status": "ok",
+      "width": 1080,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f5/f51bf48a1f9ba501d44e19643c5427d702c48be53dc01f2c33b88db5e167b91a.thumb.webp",
+        "full": "img/f5/f51bf48a1f9ba501d44e19643c5427d702c48be53dc01f2c33b88db5e167b91a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:31.858Z"
+    },
+    {
+      "origin": "https://gyazo.com/c7ea51a9b72811c2f27f419ca93702a5",
+      "originRaw": "https://gyazo.com/c7ea51a9b72811c2f27f419ca93702a5/raw",
+      "id": "sha256:07a4128f8af2c6f668b1d9cabe3baa21e6ab96ed7e3bbeaaff3bfb6dafca5403",
+      "status": "ok",
+      "width": 1080,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/07/07a4128f8af2c6f668b1d9cabe3baa21e6ab96ed7e3bbeaaff3bfb6dafca5403.thumb.webp",
+        "full": "img/07/07a4128f8af2c6f668b1d9cabe3baa21e6ab96ed7e3bbeaaff3bfb6dafca5403.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:33.335Z"
+    }
+  ],
+  "tags": [],
+  "related": [
+    "Cyberpad?"
+  ],
+  "comment": "Duplicate to [Cyberpad?]",
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cybertablet%20prototype%202",
+    "created": "2026-02-13T13:41:27.000Z",
+    "updated": "2026-02-13T13:58:15.000Z",
+    "views": 6,
+    "thumbnail": "https://gyazo.com/18fcf6429e464329d38483b4fa14b3b6/raw"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e9663fdceb4e0024f6f1d2",
+  "title": "Micro Journal - Rev. 2",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/s/P8zgF9Qixe",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65ec5e0bf2ed5500237f0d34.png",
+      "originRaw": "https://scrapbox.io/files/65ec5e0bf2ed5500237f0d34.png",
+      "id": "sha256:55ffedfba395eb4646f7854fa75135c3c943dfd4edf11bbc4a0e5cbc7f92a737",
+      "status": "ok",
+      "width": 640,
+      "height": 431,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/55/55ffedfba395eb4646f7854fa75135c3c943dfd4edf11bbc4a0e5cbc7f92a737.thumb.webp",
+        "full": "img/55/55ffedfba395eb4646f7854fa75135c3c943dfd4edf11bbc4a0e5cbc7f92a737.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:54.028Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Micro%20Journal%20-%20Rev.%202",
+    "created": "2024-03-07T07:01:21.000Z",
+    "updated": "2024-03-09T13:03:10.000Z",
+    "views": 38,
+    "thumbnail": "https://scrapbox.io/files/65ec5e0bf2ed5500237f0d34.png"
+  }
+}

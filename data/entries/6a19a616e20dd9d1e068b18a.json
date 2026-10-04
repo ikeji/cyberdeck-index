@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6a19a616e20dd9d1e068b18a",
+  "title": "Tiny-bot: A lightweight AI powered device that improves itself",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1td6a9u/tinybot_a_lightweight_ai_powered_device_that/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/386522db736cd4052c54e9ddd5fcc3ed",
+      "originRaw": "https://gyazo.com/386522db736cd4052c54e9ddd5fcc3ed/raw",
+      "id": "sha256:79626645d54107ca5aec24a39d0180a70f382a644b40d207ece824f9d7c9e07e",
+      "status": "ok",
+      "width": 640,
+      "height": 529,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/79/79626645d54107ca5aec24a39d0180a70f382a644b40d207ece824f9d7c9e07e.thumb.webp",
+        "full": "img/79/79626645d54107ca5aec24a39d0180a70f382a644b40d207ece824f9d7c9e07e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:32.158Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Tiny-bot%3A%20A%20lightweight%20AI%20powered%20device%20that%20improves%20itself",
+    "created": "2026-05-29T14:43:40.000Z",
+    "updated": "2026-05-29T14:44:50.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/386522db736cd4052c54e9ddd5fcc3ed/raw"
+  }
+}

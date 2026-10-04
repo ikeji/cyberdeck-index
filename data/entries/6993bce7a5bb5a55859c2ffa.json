@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6993bce7a5bb5a55859c2ffa",
+  "title": "LT6502",
+  "source": {
+    "url": "https://github.com/TechPaula/LT6502",
+    "site": "github",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/68c5e5eaf2c6e10a00d15043da36ca2a",
+      "originRaw": "https://gyazo.com/68c5e5eaf2c6e10a00d15043da36ca2a/raw",
+      "id": "sha256:1bc340a80871f291fadf50ca8ae2ab614a57bcb408d58e511643370a374cde36",
+      "status": "ok",
+      "width": 1469,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1b/1bc340a80871f291fadf50ca8ae2ab614a57bcb408d58e511643370a374cde36.thumb.webp",
+        "full": "img/1b/1bc340a80871f291fadf50ca8ae2ab614a57bcb408d58e511643370a374cde36.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:40.590Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/LT6502",
+    "created": "2026-02-17T00:57:14.000Z",
+    "updated": "2026-03-06T14:18:36.000Z",
+    "views": 6,
+    "thumbnail": "https://gyazo.com/68c5e5eaf2c6e10a00d15043da36ca2a/raw"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66f6ac94835eda001c535519",
+  "title": "Windows 11 Phone Palmtop WIP",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1f2z18k/windows_11_phone_palmtop_wip/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66f6ac9667fa04001c0f5506.png",
+      "originRaw": "https://scrapbox.io/files/66f6ac9667fa04001c0f5506.png",
+      "id": "sha256:01f92e642f596fbe66d400faec19903d5b08fe2995eb80592ebd8c1a19c49b7b",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/01/01f92e642f596fbe66d400faec19903d5b08fe2995eb80592ebd8c1a19c49b7b.thumb.webp",
+        "full": "img/01/01f92e642f596fbe66d400faec19903d5b08fe2995eb80592ebd8c1a19c49b7b.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:19.203Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Windows%2011%20Phone%20Palmtop%20WIP",
+    "created": "2024-09-27T13:01:11.000Z",
+    "updated": "2024-09-27T13:01:29.000Z",
+    "views": 6,
+    "thumbnail": "https://scrapbox.io/files/66f6ac9667fa04001c0f5506.png"
+  }
+}

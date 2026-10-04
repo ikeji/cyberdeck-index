@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "680b94015bc51270146b576b",
+  "title": "Low effort Handheld Pi",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1k19sre/low_effort_handheld_pi/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/680b94196285659987995694.png",
+      "originRaw": "https://scrapbox.io/files/680b94196285659987995694.png",
+      "id": "sha256:83b8f90c1c8357ea9946a81b41b8fe4a78ee2bd23b4bdb14358a98f2bc726861",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/83/83b8f90c1c8357ea9946a81b41b8fe4a78ee2bd23b4bdb14358a98f2bc726861.thumb.webp",
+        "full": "img/83/83b8f90c1c8357ea9946a81b41b8fe4a78ee2bd23b4bdb14358a98f2bc726861.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:58.653Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Low%20effort%20Handheld%20Pi",
+    "created": "2025-04-25T13:54:12.000Z",
+    "updated": "2025-04-25T13:54:38.000Z",
+    "views": 3,
+    "thumbnail": "https://scrapbox.io/files/680b94196285659987995694.png"
+  }
+}

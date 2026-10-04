@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18c7445e9c700258bf665",
+  "title": "Making a tiny Raspberry Pi based Cyberdeck #RaspberryPi @Raspberry Pi « Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+  "source": {
+    "url": "https://blog.adafruit.com/2024/02/05/making-a-tiny-raspberry-pi-based-cyberdeck-raspberrypi-raspberry_pi/",
+    "site": "web",
+    "label": "Making a tiny Raspberry Pi based Cyberdeck #RaspberryPi @Raspberry_Pi « Adafruit Industries – Makers, hackers, artists, designers and engineers!"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18c76bf5a710025d82ce2.png",
+      "originRaw": "https://scrapbox.io/files/65e18c76bf5a710025d82ce2.png",
+      "id": "sha256:039f4e477ce18ae124834b269013a75e0259f94a1a9e09f0c6870b3647d90266",
+      "status": "ok",
+      "width": 537,
+      "height": 281,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/03/039f4e477ce18ae124834b269013a75e0259f94a1a9e09f0c6870b3647d90266.thumb.webp",
+        "full": "img/03/039f4e477ce18ae124834b269013a75e0259f94a1a9e09f0c6870b3647d90266.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:48.270Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Making%20a%20tiny%20Raspberry%20Pi%20based%20Cyberdeck%20%23RaspberryPi%20%40Raspberry%20Pi%20%C2%AB%20Adafruit%20Industries%20%E2%80%93%20Makers%2C%20hackers%2C%20artists%2C%20designers%20and%20engineers!",
+    "created": "2024-03-01T08:06:13.000Z",
+    "updated": "2024-03-01T08:06:18.000Z",
+    "views": 9,
+    "thumbnail": "https://scrapbox.io/files/65e18c76bf5a710025d82ce2.png"
+  }
+}

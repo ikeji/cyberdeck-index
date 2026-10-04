@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "67b88f6cfe38465d5aafa601",
+  "title": "Pentesting and SDR machine",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1inqd0j/pentesting_and_sdr_machine/",
+    "site": "reddit",
+    "label": "Pentesting and SDR machine : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67b88f8039671cf72e5b2786.png",
+      "originRaw": "https://scrapbox.io/files/67b88f8039671cf72e5b2786.png",
+      "id": "sha256:1499c9ab146650cceee2cf4055282ccc98d362c72ca2541a5db27a5027d05c67",
+      "status": "ok",
+      "width": 1080,
+      "height": 684,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/14/1499c9ab146650cceee2cf4055282ccc98d362c72ca2541a5db27a5027d05c67.thumb.webp",
+        "full": "img/14/1499c9ab146650cceee2cf4055282ccc98d362c72ca2541a5db27a5027d05c67.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:42.534Z"
+    },
+    {
+      "origin": "https://scrapbox.io/files/67b88f8a26cdd90dfb5a57d2.png",
+      "originRaw": "https://scrapbox.io/files/67b88f8a26cdd90dfb5a57d2.png",
+      "id": "sha256:5bbaaa04dae8f81d64a150f7128fb31fa2f5c9c84b4d29b2d072d316a5557871",
+      "status": "ok",
+      "width": 1600,
+      "height": 957,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5b/5bbaaa04dae8f81d64a150f7128fb31fa2f5c9c84b4d29b2d072d316a5557871.thumb.webp",
+        "full": "img/5b/5bbaaa04dae8f81d64a150f7128fb31fa2f5c9c84b4d29b2d072d316a5557871.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:44.953Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Pentesting%20and%20SDR%20machine",
+    "created": "2025-02-21T14:36:41.000Z",
+    "updated": "2025-02-21T14:37:09.000Z",
+    "views": 8,
+    "thumbnail": "https://scrapbox.io/files/67b88f8039671cf72e5b2786.png"
+  }
+}

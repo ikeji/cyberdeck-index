@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67d420ba8ede1671c55ca9b7",
+  "title": "Note10+ Slider Terminal",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1j4w616/note10_slider_terminal/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67d420c110ac49f74f0d5bf0.png",
+      "originRaw": "https://scrapbox.io/files/67d420c110ac49f74f0d5bf0.png",
+      "id": "sha256:dbdd9e79073e7c41a557511ed1d50725fa31d917d477a9c81d01767ccaaca63f",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/db/dbdd9e79073e7c41a557511ed1d50725fa31d917d477a9c81d01767ccaaca63f.thumb.webp",
+        "full": "img/db/dbdd9e79073e7c41a557511ed1d50725fa31d917d477a9c81d01767ccaaca63f.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:46.530Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Note10%2B%20Slider%20Terminal",
+    "created": "2025-03-14T12:27:46.000Z",
+    "updated": "2025-03-14T12:28:15.000Z",
+    "views": 10,
+    "thumbnail": "https://scrapbox.io/files/67d420c110ac49f74f0d5bf0.png"
+  }
+}

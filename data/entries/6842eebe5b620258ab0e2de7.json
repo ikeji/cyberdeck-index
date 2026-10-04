@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6842eebe5b620258ab0e2de7",
+  "title": "Progress on the Cyber Desk",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1knowd9/progress_on_the_cyber_desk/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/f5ec6949b210d48b6601dd0e08efd232",
+      "originRaw": "https://gyazo.com/f5ec6949b210d48b6601dd0e08efd232/raw",
+      "id": "sha256:84bba7c5b7067a4b1302a34913f1d32ddfa9f0ca01cd5173b8476849be00a1d3",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/84/84bba7c5b7067a4b1302a34913f1d32ddfa9f0ca01cd5173b8476849be00a1d3.thumb.webp",
+        "full": "img/84/84bba7c5b7067a4b1302a34913f1d32ddfa9f0ca01cd5173b8476849be00a1d3.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:27.362Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Progress%20on%20the%20Cyber%20Desk",
+    "created": "2025-06-06T13:36:00.000Z",
+    "updated": "2025-06-06T13:36:58.000Z",
+    "views": 3,
+    "thumbnail": "https://gyazo.com/f5ec6949b210d48b6601dd0e08efd232/raw"
+  }
+}

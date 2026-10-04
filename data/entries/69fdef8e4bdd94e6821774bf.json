@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "69fdef8e4bdd94e6821774bf",
+  "title": "Altoids Cyberdeck Update",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1t0x7ts/altoids_cyberdeck_update/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/746fb3bc06baf47a551fbc60d3c0108b",
+      "originRaw": "https://gyazo.com/746fb3bc06baf47a551fbc60d3c0108b/raw",
+      "id": "sha256:75876d100e792bae03f7c14e33251d36d12313f54faf7edfc90c444fc8e1e638",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/75/75876d100e792bae03f7c14e33251d36d12313f54faf7edfc90c444fc8e1e638.thumb.webp",
+        "full": "img/75/75876d100e792bae03f7c14e33251d36d12313f54faf7edfc90c444fc8e1e638.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:47.595Z"
+    },
+    {
+      "origin": "https://gyazo.com/4b8e3213c9ecbf5df658d909a96de95f",
+      "originRaw": "https://gyazo.com/4b8e3213c9ecbf5df658d909a96de95f/raw",
+      "id": "sha256:09a1d73f7a02b07fdc0fa94ef7b22cf26a4ae871cf07f4543e0d40402aa41a06",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/09/09a1d73f7a02b07fdc0fa94ef7b22cf26a4ae871cf07f4543e0d40402aa41a06.thumb.webp",
+        "full": "img/09/09a1d73f7a02b07fdc0fa94ef7b22cf26a4ae871cf07f4543e0d40402aa41a06.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:49.072Z"
+    },
+    {
+      "origin": "https://gyazo.com/d3740761c73c8417e573862274f0eac3",
+      "originRaw": "https://gyazo.com/d3740761c73c8417e573862274f0eac3/raw",
+      "id": "sha256:1f9648272f5d9785da3d856eb59f7f54883d729d909e4cb675b94e66c89b5779",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1f/1f9648272f5d9785da3d856eb59f7f54883d729d909e4cb675b94e66c89b5779.thumb.webp",
+        "full": "img/1f/1f9648272f5d9785da3d856eb59f7f54883d729d909e4cb675b94e66c89b5779.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:51.192Z"
+    },
+    {
+      "origin": "https://gyazo.com/c35cfa32489c164bbeabf4837f7c645e",
+      "originRaw": "https://gyazo.com/c35cfa32489c164bbeabf4837f7c645e/raw",
+      "id": "sha256:9cf783b9285708b283fad37bba0b3fd972db30e6caef2fe1a4314b3ab4a70de3",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9c/9cf783b9285708b283fad37bba0b3fd972db30e6caef2fe1a4314b3ab4a70de3.thumb.webp",
+        "full": "img/9c/9cf783b9285708b283fad37bba0b3fd972db30e6caef2fe1a4314b3ab4a70de3.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:53.647Z"
+    },
+    {
+      "origin": "https://gyazo.com/32d3f532df2555380fd6abc337518a1a",
+      "originRaw": "https://gyazo.com/32d3f532df2555380fd6abc337518a1a/raw",
+      "id": "sha256:e84d40c9dcfaa0593dee39fd5b6a46f7dedea016d585e3664c470cc8183e5fe9",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e8/e84d40c9dcfaa0593dee39fd5b6a46f7dedea016d585e3664c470cc8183e5fe9.thumb.webp",
+        "full": "img/e8/e84d40c9dcfaa0593dee39fd5b6a46f7dedea016d585e3664c470cc8183e5fe9.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:55.983Z"
+    },
+    {
+      "origin": "https://gyazo.com/b836a8ccf1db63290062cb6645cfa8e5",
+      "originRaw": "https://gyazo.com/b836a8ccf1db63290062cb6645cfa8e5/raw",
+      "id": "sha256:d6042f2f7327bf6e07367865e9f8cf77645c68db1c79457e79ca0b3c3a903090",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d6/d6042f2f7327bf6e07367865e9f8cf77645c68db1c79457e79ca0b3c3a903090.thumb.webp",
+        "full": "img/d6/d6042f2f7327bf6e07367865e9f8cf77645c68db1c79457e79ca0b3c3a903090.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:57.831Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Altoids%20Cyberdeck%20Update",
+    "created": "2026-05-08T14:13:43.000Z",
+    "updated": "2026-05-08T14:14:46.000Z",
+    "views": 2,
+    "thumbnail": "https://gyazo.com/746fb3bc06baf47a551fbc60d3c0108b/raw"
+  }
+}

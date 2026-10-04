@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad66a2aa27d001dce93bc",
+  "title": "Cyberdeck HDD Enclosure : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1e551oc/cyberdeck_hdd_enclosure/",
+    "site": "reddit",
+    "label": "Cyberdeck HDD Enclosure : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad66e83ed68001c4bc8f5.png",
+      "originRaw": "https://scrapbox.io/files/66cad66e83ed68001c4bc8f5.png",
+      "id": "sha256:6bd4ef83b6bef16700ddab6375d4072b5a6b7336e14e169cdd1e37c85fe862ad",
+      "status": "ok",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6b/6bd4ef83b6bef16700ddab6375d4072b5a6b7336e14e169cdd1e37c85fe862ad.thumb.webp",
+        "full": "img/6b/6bd4ef83b6bef16700ddab6375d4072b5a6b7336e14e169cdd1e37c85fe862ad.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:14.611Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cyberdeck%20HDD%20Enclosure%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:59:55.000Z",
+    "updated": "2024-08-25T07:00:08.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/66cad66e83ed68001c4bc8f5.png"
+  }
+}

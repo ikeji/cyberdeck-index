@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "687a4371aac1736f48ba20b8",
+  "title": "made this cyberdeck for a recent printables contest!",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1lcc4bh/made_this_cyberdeck_for_a_recent_printables/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/fe53dc956ef5778d05edaa03a1dba3dd",
+      "originRaw": "https://gyazo.com/fe53dc956ef5778d05edaa03a1dba3dd/raw",
+      "id": "sha256:c48c905d4016871ebf6320d7d1e2ad0dd4aefa81b11d03613d23764573c3808f",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c4/c48c905d4016871ebf6320d7d1e2ad0dd4aefa81b11d03613d23764573c3808f.thumb.webp",
+        "full": "img/c4/c48c905d4016871ebf6320d7d1e2ad0dd4aefa81b11d03613d23764573c3808f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:16.794Z"
+    },
+    {
+      "origin": "https://gyazo.com/913939ff4dc6306fb1d128edcd9dc9ec",
+      "originRaw": "https://gyazo.com/913939ff4dc6306fb1d128edcd9dc9ec/raw",
+      "id": "sha256:4d538df77ae561937f75ab9770694cabf87c00f16abd27def187d2dcc132b186",
+      "status": "ok",
+      "width": 732,
+      "height": 412,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4d/4d538df77ae561937f75ab9770694cabf87c00f16abd27def187d2dcc132b186.thumb.webp",
+        "full": "img/4d/4d538df77ae561937f75ab9770694cabf87c00f16abd27def187d2dcc132b186.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:18.437Z"
+    },
+    {
+      "origin": "https://gyazo.com/a6d88de16a0d7a1d58d6326a350a3b42",
+      "originRaw": "https://gyazo.com/a6d88de16a0d7a1d58d6326a350a3b42/raw",
+      "id": "sha256:5c35c59cbb8a67d7fb0ce23252808a640584a002cc26ad9d6301815244a4d4f8",
+      "status": "ok",
+      "width": 1080,
+      "height": 820,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5c/5c35c59cbb8a67d7fb0ce23252808a640584a002cc26ad9d6301815244a4d4f8.thumb.webp",
+        "full": "img/5c/5c35c59cbb8a67d7fb0ce23252808a640584a002cc26ad9d6301815244a4d4f8.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:20.252Z"
+    },
+    {
+      "origin": "https://gyazo.com/72dabf6376985ee971da9e9e888e06bb",
+      "originRaw": "https://gyazo.com/72dabf6376985ee971da9e9e888e06bb/raw",
+      "id": "sha256:942d03d1a47334c08f410bd57a245a5a14946218e9461e2ea6bb2f48d0fea51c",
+      "status": "ok",
+      "width": 1080,
+      "height": 820,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/94/942d03d1a47334c08f410bd57a245a5a14946218e9461e2ea6bb2f48d0fea51c.thumb.webp",
+        "full": "img/94/942d03d1a47334c08f410bd57a245a5a14946218e9461e2ea6bb2f48d0fea51c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:21.759Z"
+    },
+    {
+      "origin": "https://gyazo.com/bd7e2a3a66ce47db598cd602e826e610",
+      "originRaw": "https://gyazo.com/bd7e2a3a66ce47db598cd602e826e610/raw",
+      "id": "sha256:ff0909ed3c5b66ddc5ce2727d4f4be4d428e84b57af3fc38b085daa887712834",
+      "status": "ok",
+      "width": 1080,
+      "height": 820,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ff/ff0909ed3c5b66ddc5ce2727d4f4be4d428e84b57af3fc38b085daa887712834.thumb.webp",
+        "full": "img/ff/ff0909ed3c5b66ddc5ce2727d4f4be4d428e84b57af3fc38b085daa887712834.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:23.603Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/made%20this%20cyberdeck%20for%20a%20recent%20printables%20contest!",
+    "created": "2025-07-18T12:52:10.000Z",
+    "updated": "2025-07-18T12:52:36.000Z",
+    "views": 6,
+    "thumbnail": "https://gyazo.com/fe53dc956ef5778d05edaa03a1dba3dd/raw"
+  }
+}

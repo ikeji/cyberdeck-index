@@ -1,0 +1,215 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/cyberdeck/entry.schema.json",
+  "title": "Entry",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "id",
+    "title",
+    "source",
+    "images",
+    "tags"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{24}$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "url",
+        "site"
+      ],
+      "properties": {
+        "url": {
+          "type": "string",
+          "pattern": "^https?://"
+        },
+        "site": {
+          "type": "string",
+          "minLength": 1
+        },
+        "label": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "url",
+          "site"
+        ],
+        "properties": {
+          "url": {
+            "type": "string",
+            "pattern": "^https?://"
+          },
+          "site": {
+            "type": "string"
+          },
+          "label": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "images": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/image"
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "related": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "comment": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "scrapbox": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "url",
+        "created",
+        "updated"
+      ],
+      "properties": {
+        "url": {
+          "type": "string",
+          "pattern": "^https://scrapbox\\.io/"
+        },
+        "created": {
+          "type": "string"
+        },
+        "updated": {
+          "type": "string"
+        },
+        "views": {
+          "type": "integer"
+        },
+        "thumbnail": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "addedAt": {
+      "type": "string"
+    }
+  },
+  "$defs": {
+    "image": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "origin",
+        "originRaw",
+        "status"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^sha256:[0-9a-f]{64}$"
+        },
+        "origin": {
+          "type": "string",
+          "pattern": "^(https?://|local:)"
+        },
+        "originRaw": {
+          "type": "string",
+          "pattern": "^(https?://|local:)"
+        },
+        "status": {
+          "enum": [
+            "pending",
+            "ok",
+            "missing",
+            "error"
+          ]
+        },
+        "width": {
+          "type": "integer"
+        },
+        "height": {
+          "type": "integer"
+        },
+        "mime": {
+          "type": "string"
+        },
+        "files": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "thumb",
+            "full"
+          ],
+          "properties": {
+            "thumb": {
+              "type": "string"
+            },
+            "full": {
+              "type": "string"
+            }
+          }
+        },
+        "fetchedAt": {
+          "type": "string"
+        }
+      },
+      "if": {
+        "properties": {
+          "status": {
+            "const": "ok"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "id",
+          "files",
+          "width",
+          "height"
+        ]
+      }
+    }
+  }
+}

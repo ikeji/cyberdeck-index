@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "6a199ecdd53ecadc4575a90e",
+  "title": "Pi Zero 2W Cyberdeck (pi flux inspired)",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1tl6l7s/pi_zero_2w_cyberdeck_pi_flux_inspired/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/1cb841b32a6989940bcb682f0bf69a20",
+      "originRaw": "https://gyazo.com/1cb841b32a6989940bcb682f0bf69a20/raw",
+      "id": "sha256:93342dfd40db676dd8856498763ecb31ee6e234b70f824d74d0ce941f87965dd",
+      "status": "ok",
+      "width": 640,
+      "height": 853,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/93/93342dfd40db676dd8856498763ecb31ee6e234b70f824d74d0ce941f87965dd.thumb.webp",
+        "full": "img/93/93342dfd40db676dd8856498763ecb31ee6e234b70f824d74d0ce941f87965dd.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:27.397Z"
+    },
+    {
+      "origin": "https://gyazo.com/9957899e32e87efec4dff091cab9b179",
+      "originRaw": "https://gyazo.com/9957899e32e87efec4dff091cab9b179/raw",
+      "id": "sha256:801c058ba824d3c8b8af6b0fc5e67e8f08ca82009b8316fde51e0a1b6f71c53f",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/80/801c058ba824d3c8b8af6b0fc5e67e8f08ca82009b8316fde51e0a1b6f71c53f.thumb.webp",
+        "full": "img/80/801c058ba824d3c8b8af6b0fc5e67e8f08ca82009b8316fde51e0a1b6f71c53f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:29.210Z"
+    },
+    {
+      "origin": "https://gyazo.com/9f991bb0e927495e73805c1f550eb8d0",
+      "originRaw": "https://gyazo.com/9f991bb0e927495e73805c1f550eb8d0/raw",
+      "id": "sha256:0adbe08750a9117678fae66ebc34d3275b74dc4f9494f31060f97c08cbfa32c4",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0a/0adbe08750a9117678fae66ebc34d3275b74dc4f9494f31060f97c08cbfa32c4.thumb.webp",
+        "full": "img/0a/0adbe08750a9117678fae66ebc34d3275b74dc4f9494f31060f97c08cbfa32c4.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:31.438Z"
+    },
+    {
+      "origin": "https://gyazo.com/d8b02b1c176c8cc877503a4541c61566",
+      "originRaw": "https://gyazo.com/d8b02b1c176c8cc877503a4541c61566/raw",
+      "id": "sha256:a36f65d5739d560d1cb8d8bcee238fa0093bdd591001738ecaa55f3e84b1c0cc",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a3/a36f65d5739d560d1cb8d8bcee238fa0093bdd591001738ecaa55f3e84b1c0cc.thumb.webp",
+        "full": "img/a3/a36f65d5739d560d1cb8d8bcee238fa0093bdd591001738ecaa55f3e84b1c0cc.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:33.114Z"
+    },
+    {
+      "origin": "https://gyazo.com/c5688848b23e314440a7745825283128",
+      "originRaw": "https://gyazo.com/c5688848b23e314440a7745825283128/raw",
+      "id": "sha256:3a8cc44720676169978539e9c26997287755df26ae0238ef1be572b5cde8777f",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3a/3a8cc44720676169978539e9c26997287755df26ae0238ef1be572b5cde8777f.thumb.webp",
+        "full": "img/3a/3a8cc44720676169978539e9c26997287755df26ae0238ef1be572b5cde8777f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:35.106Z"
+    },
+    {
+      "origin": "https://gyazo.com/58fbbeedf08d4cec70a5750e90063eb9",
+      "originRaw": "https://gyazo.com/58fbbeedf08d4cec70a5750e90063eb9/raw",
+      "id": "sha256:ba1621b0121b247a8466a7d3568ced6994b3070e6001229d006ad90e8c0b463c",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ba/ba1621b0121b247a8466a7d3568ced6994b3070e6001229d006ad90e8c0b463c.thumb.webp",
+        "full": "img/ba/ba1621b0121b247a8466a7d3568ced6994b3070e6001229d006ad90e8c0b463c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:37.282Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Pi%20Zero%202W%20Cyberdeck%20(pi%20flux%20inspired)",
+    "created": "2026-05-29T14:12:31.000Z",
+    "updated": "2026-05-29T14:36:08.000Z",
+    "views": 8,
+    "thumbnail": "https://gyazo.com/1cb841b32a6989940bcb682f0bf69a20/raw"
+  }
+}

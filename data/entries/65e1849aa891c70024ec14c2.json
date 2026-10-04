@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "65e1849aa891c70024ec14c2",
+  "title": "I designed a 3D printable computer! The Callisto 2 : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/n3z814/i_designed_a_3d_printable_computer_the_callisto_2/",
+    "site": "reddit",
+    "label": "I designed a 3D printable computer! The Callisto 2 : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1849d929d21002541a313.png",
+      "originRaw": "https://scrapbox.io/files/65e1849d929d21002541a313.png",
+      "id": "sha256:410510c680c75dc92e37ce0417358744d47e72b7c93b2016271c6cebcde49a02",
+      "status": "ok",
+      "width": 1354,
+      "height": 702,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/41/410510c680c75dc92e37ce0417358744d47e72b7c93b2016271c6cebcde49a02.thumb.webp",
+        "full": "img/41/410510c680c75dc92e37ce0417358744d47e72b7c93b2016271c6cebcde49a02.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:25.834Z"
+    }
+  ],
+  "tags": [
+    "IKeJIのおすすめ"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20designed%20a%203D%20printable%20computer!%20The%20Callisto%202%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:32:43.000Z",
+    "updated": "2026-05-08T14:38:06.000Z",
+    "views": 10,
+    "thumbnail": "https://scrapbox.io/files/65e1849d929d21002541a313.png"
+  }
+}

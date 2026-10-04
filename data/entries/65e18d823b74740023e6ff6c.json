@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18d823b74740023e6ff6c",
+  "title": "Pelican R40 Radio Cyberdeck - Imgur",
+  "source": {
+    "url": "https://imgur.com/a/o7Y5Rxc",
+    "site": "web",
+    "label": "Pelican R40 Radio Cyberdeck - Imgur"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18d854b1ae800243a76a9.png",
+      "originRaw": "https://scrapbox.io/files/65e18d854b1ae800243a76a9.png",
+      "id": "sha256:3917a67db37fef1ee919e7b36163291efe75025d44f04d645e754a11d5c58ecf",
+      "status": "ok",
+      "width": 760,
+      "height": 572,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/39/3917a67db37fef1ee919e7b36163291efe75025d44f04d645e754a11d5c58ecf.thumb.webp",
+        "full": "img/39/3917a67db37fef1ee919e7b36163291efe75025d44f04d645e754a11d5c58ecf.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:51.129Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Pelican%20R40%20Radio%20Cyberdeck%20-%20Imgur",
+    "created": "2024-03-01T08:10:43.000Z",
+    "updated": "2024-03-01T08:10:48.000Z",
+    "views": 23,
+    "thumbnail": "https://scrapbox.io/files/65e18d854b1ae800243a76a9.png"
+  }
+}

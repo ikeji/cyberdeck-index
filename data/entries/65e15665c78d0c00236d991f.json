@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "65e15665c78d0c00236d991f",
+  "title": "YARH.IO THEBRICK Cyberdeck",
+  "source": {
+    "url": "https://yarh.io/thebrick.html",
+    "site": "web",
+    "label": "YARH.IO THEBRICK Cyberdeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e15685463b5300248b2285.png",
+      "originRaw": "https://scrapbox.io/files/65e15685463b5300248b2285.png",
+      "id": "sha256:7362d0d5a96a61759ec42478e4ec275e56aa7404a18bd8a8238f24a492e80155",
+      "status": "ok",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/73/7362d0d5a96a61759ec42478e4ec275e56aa7404a18bd8a8238f24a492e80155.thumb.webp",
+        "full": "img/73/7362d0d5a96a61759ec42478e4ec275e56aa7404a18bd8a8238f24a492e80155.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:11.077Z"
+    },
+    {
+      "origin": "https://scrapbox.io/files/65e1569f697d2f002441b9ae.png",
+      "originRaw": "https://scrapbox.io/files/65e1569f697d2f002441b9ae.png",
+      "id": "sha256:574cc97b53a18d64f4e44acc1ed7a0e59ae689ab61fdd713736d462394db695e",
+      "status": "ok",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/57/574cc97b53a18d64f4e44acc1ed7a0e59ae689ab61fdd713736d462394db695e.thumb.webp",
+        "full": "img/57/574cc97b53a18d64f4e44acc1ed7a0e59ae689ab61fdd713736d462394db695e.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:11.317Z"
+    },
+    {
+      "origin": "https://scrapbox.io/files/65e156aa68db220024767efe.png",
+      "originRaw": "https://scrapbox.io/files/65e156aa68db220024767efe.png",
+      "id": "sha256:3ac50e174109d658c909be4ff0f1a8a68b366aa8c7295ec4e660441d9f061f82",
+      "status": "ok",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3a/3ac50e174109d658c909be4ff0f1a8a68b366aa8c7295ec4e660441d9f061f82.thumb.webp",
+        "full": "img/3a/3ac50e174109d658c909be4ff0f1a8a68b366aa8c7295ec4e660441d9f061f82.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:10.851Z"
+    }
+  ],
+  "tags": [
+    "yarh.io"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/YARH.IO%20THEBRICK%20Cyberdeck",
+    "created": "2024-03-01T04:15:34.000Z",
+    "updated": "2024-08-25T06:48:29.000Z",
+    "views": 30,
+    "thumbnail": "https://scrapbox.io/files/65e15685463b5300248b2285.png"
+  }
+}

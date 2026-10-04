@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad1b72fdffc001d7cccd3",
+  "title": "Im tired of the pelican setup so making this : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1c8v8os/im_tired_of_the_pelican_setup_so_making_this/",
+    "site": "reddit",
+    "label": "Im tired of the pelican setup so making this : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad1bbec7cde001dca6f1d.png",
+      "originRaw": "https://scrapbox.io/files/66cad1bbec7cde001dca6f1d.png",
+      "id": "sha256:d5d3de2c9784c3e4529842546bfecc29e542eafc94674c42ebdceff91868612d",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d5/d5d3de2c9784c3e4529842546bfecc29e542eafc94674c42ebdceff91868612d.thumb.webp",
+        "full": "img/d5/d5d3de2c9784c3e4529842546bfecc29e542eafc94674c42ebdceff91868612d.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:01.135Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Im%20tired%20of%20the%20pelican%20setup%20so%20making%20this%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:39:52.000Z",
+    "updated": "2024-08-25T06:39:59.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/66cad1bbec7cde001dca6f1d.png"
+  }
+}

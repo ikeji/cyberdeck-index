@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67efe0f5e0b84552d72c4bca",
+  "title": "WIP obsidian machine",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1jirnl1/wip_obsidian_machine/",
+    "site": "reddit",
+    "label": "WIP obsidian machine : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67efe0fa746e55a2cb0662c0.png",
+      "originRaw": "https://scrapbox.io/files/67efe0fa746e55a2cb0662c0.png",
+      "id": "sha256:6a7d67cec6f286d94863445b2e6f932db82734610c8f2a7997932a046f9737f7",
+      "status": "ok",
+      "width": 901,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6a/6a7d67cec6f286d94863445b2e6f932db82734610c8f2a7997932a046f9737f7.thumb.webp",
+        "full": "img/6a/6a7d67cec6f286d94863445b2e6f932db82734610c8f2a7997932a046f9737f7.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:51.929Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/WIP%20obsidian%20machine",
+    "created": "2025-04-04T13:39:03.000Z",
+    "updated": "2025-04-04T13:39:12.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/67efe0fa746e55a2cb0662c0.png"
+  }
+}

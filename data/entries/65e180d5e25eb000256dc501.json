@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e180d5e25eb000256dc501",
+  "title": "Final build photos of my build. Technically a laptop I guess, but I figured this was a good place for unique portable computers. I'll be posting blog details soon!! The original laptop was completely dead, and very corroded. It was also mis",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/zoiloq/final_build_photos_of_my_build_technically_a/",
+    "site": "reddit",
+    "label": "Final build photos of my build. Technically a laptop I guess, but I figured this was a good place for unique portable computers. I'll be posting blog details soon!! The original laptop was completely dead, and very corroded. It was also missing parts. Running a core i5 with 8gb ddr4 ram/500gb ssd. : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e180d89faca900246db4f4.png",
+      "originRaw": "https://scrapbox.io/files/65e180d89faca900246db4f4.png",
+      "id": "sha256:96b5c5bbb2188fb5eed53d68b2d65d19f9be4e1a78e01ac65ab90305262aad94",
+      "status": "ok",
+      "width": 1080,
+      "height": 811,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/96/96b5c5bbb2188fb5eed53d68b2d65d19f9be4e1a78e01ac65ab90305262aad94.thumb.webp",
+        "full": "img/96/96b5c5bbb2188fb5eed53d68b2d65d19f9be4e1a78e01ac65ab90305262aad94.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:23.240Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Final%20build%20photos%20of%20my%20build.%20Technically%20a%20laptop%20I%20guess%2C%20but%20I%20figured%20this%20was%20a%20good%20place%20for%20unique%20portable%20computers.%20I'll%20be%20posting%20blog%20details%20soon!!%20The%20original%20laptop%20was%20completely%20dead%2C%20and%20very%20corroded.%20It%20was%20also%20mis",
+    "created": "2024-03-01T07:16:38.000Z",
+    "updated": "2024-03-01T07:16:44.000Z",
+    "views": 26,
+    "thumbnail": "https://scrapbox.io/files/65e180d89faca900246db4f4.png"
+  }
+}

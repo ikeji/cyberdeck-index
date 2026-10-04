@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "69e243889cd55a433aa10287",
+  "title": "My PiCinderBlock (PiBrick but bigger)",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1s8bdg8/my_picinderblock_pibrick_but_bigger/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/6190ab1dbd87c2b6bff24ceefb9cc755",
+      "originRaw": "https://gyazo.com/6190ab1dbd87c2b6bff24ceefb9cc755/raw",
+      "id": "sha256:cb11c277473e8479781bf228795a60ad378bb2e9eebead3c276f8eac6511c604",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/cb/cb11c277473e8479781bf228795a60ad378bb2e9eebead3c276f8eac6511c604.thumb.webp",
+        "full": "img/cb/cb11c277473e8479781bf228795a60ad378bb2e9eebead3c276f8eac6511c604.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:32.313Z"
+    },
+    {
+      "origin": "https://gyazo.com/5b488e3cde2411023fba2a3583c03ad4",
+      "originRaw": "https://gyazo.com/5b488e3cde2411023fba2a3583c03ad4/raw",
+      "id": "sha256:b6e7228e0c6ee00b03b1ec2662a4672b225518d9725540f382c63455df1af684",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b6/b6e7228e0c6ee00b03b1ec2662a4672b225518d9725540f382c63455df1af684.thumb.webp",
+        "full": "img/b6/b6e7228e0c6ee00b03b1ec2662a4672b225518d9725540f382c63455df1af684.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:34.222Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20PiCinderBlock%20(PiBrick%20but%20bigger)",
+    "created": "2026-04-17T14:28:28.000Z",
+    "updated": "2026-04-17T14:28:44.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/6190ab1dbd87c2b6bff24ceefb9cc755/raw"
+  }
+}

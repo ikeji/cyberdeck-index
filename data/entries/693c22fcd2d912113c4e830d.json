@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "693c22fcd2d912113c4e830d",
+  "title": "Long-battery Raspberry Pi + E-Ink Cyberdeck (prototype)",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1p5ohn6/longbattery_raspberry_pi_eink_cyberdeck_prototype/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/c505659e9d5e83256a4400fa6f8fe551",
+      "originRaw": "https://gyazo.com/c505659e9d5e83256a4400fa6f8fe551/raw",
+      "id": "sha256:6e559617334f7340eebc11374df94608a965790dc98a26af1d37630c1de78cb4",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6e/6e559617334f7340eebc11374df94608a965790dc98a26af1d37630c1de78cb4.thumb.webp",
+        "full": "img/6e/6e559617334f7340eebc11374df94608a965790dc98a26af1d37630c1de78cb4.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:46.883Z"
+    },
+    {
+      "origin": "https://gyazo.com/dd276292c8fdb0955526c8608c0c1dbe",
+      "originRaw": "https://gyazo.com/dd276292c8fdb0955526c8608c0c1dbe/raw",
+      "id": "sha256:dff86eaa4f55be9f8ab5132323dfc1d74e5d8449f56b90e60b1e6dae7692a080",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/df/dff86eaa4f55be9f8ab5132323dfc1d74e5d8449f56b90e60b1e6dae7692a080.thumb.webp",
+        "full": "img/df/dff86eaa4f55be9f8ab5132323dfc1d74e5d8449f56b90e60b1e6dae7692a080.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:48.547Z"
+    },
+    {
+      "origin": "https://gyazo.com/893a7380567be08365ec45d61bfa1fc2",
+      "originRaw": "https://gyazo.com/893a7380567be08365ec45d61bfa1fc2/raw",
+      "id": "sha256:323b3d91d53ab4f2781f8e00aaa8b0d996b3abb993ee723823ab5dc3259a8cb2",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/32/323b3d91d53ab4f2781f8e00aaa8b0d996b3abb993ee723823ab5dc3259a8cb2.thumb.webp",
+        "full": "img/32/323b3d91d53ab4f2781f8e00aaa8b0d996b3abb993ee723823ab5dc3259a8cb2.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:49.702Z"
+    },
+    {
+      "origin": "https://gyazo.com/755a54a030d9492e3146dbde70298c89",
+      "originRaw": "https://gyazo.com/755a54a030d9492e3146dbde70298c89/raw",
+      "id": "sha256:15274d0a8a5f44d5a11bc8e57e07e2e8fa314afcc702c478b2f8cbbf3630cc78",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/15/15274d0a8a5f44d5a11bc8e57e07e2e8fa314afcc702c478b2f8cbbf3630cc78.thumb.webp",
+        "full": "img/15/15274d0a8a5f44d5a11bc8e57e07e2e8fa314afcc702c478b2f8cbbf3630cc78.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:52.265Z"
+    },
+    {
+      "origin": "https://gyazo.com/772c909a06b5cccfbba523f72df4ad02",
+      "originRaw": "https://gyazo.com/772c909a06b5cccfbba523f72df4ad02/raw",
+      "id": "sha256:5c32e9e160f3573cd13da77a77bbfbf6cdfd8a7a4147acb07f7399c1fd448a54",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5c/5c32e9e160f3573cd13da77a77bbfbf6cdfd8a7a4147acb07f7399c1fd448a54.thumb.webp",
+        "full": "img/5c/5c32e9e160f3573cd13da77a77bbfbf6cdfd8a7a4147acb07f7399c1fd448a54.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:53.522Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Long-battery%20Raspberry%20Pi%20%2B%20E-Ink%20Cyberdeck%20(prototype)",
+    "created": "2025-12-12T14:13:20.000Z",
+    "updated": "2025-12-12T14:13:56.000Z",
+    "views": 11,
+    "thumbnail": "https://gyazo.com/c505659e9d5e83256a4400fa6f8fe551/raw"
+  }
+}

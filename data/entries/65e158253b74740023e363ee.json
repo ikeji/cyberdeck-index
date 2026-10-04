@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e158253b74740023e363ee",
+  "title": "the Raspberry Pi Recovery Kit",
+  "source": {
+    "url": "https://www.doscher.com/work-recovery-kit/",
+    "site": "web",
+    "label": "the Raspberry Pi Recovery Kit"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1582731f6a200251ff9bc.png",
+      "originRaw": "https://scrapbox.io/files/65e1582731f6a200251ff9bc.png",
+      "id": "sha256:20aa6577b5312588359d1f35a629f070b6188a7e7d00a2cd86e3f6e1bf564675",
+      "status": "ok",
+      "width": 1200,
+      "height": 801,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/20/20aa6577b5312588359d1f35a629f070b6188a7e7d00a2cd86e3f6e1bf564675.thumb.webp",
+        "full": "img/20/20aa6577b5312588359d1f35a629f070b6188a7e7d00a2cd86e3f6e1bf564675.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:12.744Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/the%20Raspberry%20Pi%20Recovery%20Kit",
+    "created": "2024-03-01T04:23:01.000Z",
+    "updated": "2024-03-01T04:23:07.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/65e1582731f6a200251ff9bc.png"
+  }
+}

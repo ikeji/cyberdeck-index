@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "680b9554a0b575992ff75589",
+  "title": "Pi-500ish",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1jya90e/pi500ish/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/680b95597e7b8916893b5d26.png",
+      "originRaw": "https://scrapbox.io/files/680b95597e7b8916893b5d26.png",
+      "id": "sha256:9e1f2419e008bba1c2d1db92083539d3feaf657bd4d5442758e25eceb6a6c3ea",
+      "status": "ok",
+      "width": 1080,
+      "height": 1232,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9e/9e1f2419e008bba1c2d1db92083539d3feaf657bd4d5442758e25eceb6a6c3ea.thumb.webp",
+        "full": "img/9e/9e1f2419e008bba1c2d1db92083539d3feaf657bd4d5442758e25eceb6a6c3ea.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:59.998Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Pi-500ish",
+    "created": "2025-04-25T13:59:50.000Z",
+    "updated": "2025-04-25T14:00:04.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/680b95597e7b8916893b5d26.png"
+  }
+}

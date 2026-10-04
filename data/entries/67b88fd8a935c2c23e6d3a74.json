@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67b88fd8a935c2c23e6d3a74",
+  "title": "Schist01- A wrist mounted keyboard project",
+  "source": {
+    "url": "https://www.reddit.com/r/ErgoMechKeyboards/comments/1iqctqe/schist01_a_wrist_mounted_keyboard_project/",
+    "site": "reddit",
+    "label": "Schist01- A wrist mounted keyboard project : r/ErgoMechKeyboards"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67b88fd94152b15f48b7967d.png",
+      "originRaw": "https://scrapbox.io/files/67b88fd94152b15f48b7967d.png",
+      "id": "sha256:49d8d2b1acf6393c29d82d64b879e548fd718b65a43255c87826df3d77d7a968",
+      "status": "ok",
+      "width": 1024,
+      "height": 605,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/49/49d8d2b1acf6393c29d82d64b879e548fd718b65a43255c87826df3d77d7a968.thumb.webp",
+        "full": "img/49/49d8d2b1acf6393c29d82d64b879e548fd718b65a43255c87826df3d77d7a968.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:43.555Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Schist01-%20A%20wrist%20mounted%20keyboard%20project",
+    "created": "2025-02-21T14:38:18.000Z",
+    "updated": "2025-02-21T14:38:27.000Z",
+    "views": 6,
+    "thumbnail": "https://scrapbox.io/files/67b88fd94152b15f48b7967d.png"
+  }
+}

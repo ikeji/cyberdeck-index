@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e15808639a8f0026f33c27",
+  "title": "the OPEN frame computer",
+  "source": {
+    "url": "https://www.doscher.com/work-open-frame-computer/",
+    "site": "web",
+    "label": "the OPEN frame computer"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1580c4f2cf800242f8f4a.png",
+      "originRaw": "https://scrapbox.io/files/65e1580c4f2cf800242f8f4a.png",
+      "id": "sha256:ff20b78a986195b7899a914d9a5bad0e4c8bfb94b0aa85c0edfee88c81cf8362",
+      "status": "ok",
+      "width": 1200,
+      "height": 801,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ff/ff20b78a986195b7899a914d9a5bad0e4c8bfb94b0aa85c0edfee88c81cf8362.thumb.webp",
+        "full": "img/ff/ff20b78a986195b7899a914d9a5bad0e4c8bfb94b0aa85c0edfee88c81cf8362.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:12.028Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/the%20OPEN%20frame%20computer",
+    "created": "2024-03-01T04:22:33.000Z",
+    "updated": "2024-03-01T04:22:39.000Z",
+    "views": 9,
+    "thumbnail": "https://scrapbox.io/files/65e1580c4f2cf800242f8f4a.png"
+  }
+}

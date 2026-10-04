@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "693c29831ef7600801f55121",
+  "title": "Field Terminal V2 - Custom Rugged Cyberdeck with 14Ah battery & Active Cooling",
+  "source": {
+    "url": "https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/1pb7fge/field_terminal_v2_custom_rugged_cyberdeck_with/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/8d96e0d7613ea33fd5878aab1ffe6969",
+      "originRaw": "https://gyazo.com/8d96e0d7613ea33fd5878aab1ffe6969/raw",
+      "id": "sha256:6f8214e3ce2794631d83105b94668fab2a578c2926fcf1031ec4c21839e47e70",
+      "status": "ok",
+      "width": 1080,
+      "height": 1161,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6f/6f8214e3ce2794631d83105b94668fab2a578c2926fcf1031ec4c21839e47e70.thumb.webp",
+        "full": "img/6f/6f8214e3ce2794631d83105b94668fab2a578c2926fcf1031ec4c21839e47e70.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:10.093Z"
+    },
+    {
+      "origin": "https://gyazo.com/5fa6f5e9c2a1c569992d159a27888576",
+      "originRaw": "https://gyazo.com/5fa6f5e9c2a1c569992d159a27888576/raw",
+      "id": "sha256:c746620088489a942289b2d63694b23733009b77c067f462c0fe2c696a3227bd",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c7/c746620088489a942289b2d63694b23733009b77c067f462c0fe2c696a3227bd.thumb.webp",
+        "full": "img/c7/c746620088489a942289b2d63694b23733009b77c067f462c0fe2c696a3227bd.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:12.010Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Field%20Terminal%20V2%20-%20Custom%20Rugged%20Cyberdeck%20with%2014Ah%20battery%20%26%20Active%20Cooling",
+    "created": "2025-12-12T14:41:09.000Z",
+    "updated": "2025-12-12T14:41:35.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/8d96e0d7613ea33fd5878aab1ffe6969/raw"
+  }
+}

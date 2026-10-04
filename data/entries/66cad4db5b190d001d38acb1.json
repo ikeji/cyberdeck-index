@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad4db5b190d001d38acb1",
+  "title": "My \"Tom Clancy's The Division\" themed Cyberdeck v2 : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1cdrdhb/my_tom_clancys_the_division_themed_cyberdeck_v2/",
+    "site": "reddit",
+    "label": "My \"Tom Clancy's The Division\" themed Cyberdeck v2 : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad4e5a3090d001c9e72fe.png",
+      "originRaw": "https://scrapbox.io/files/66cad4e5a3090d001c9e72fe.png",
+      "id": "sha256:06dc8cbc2328ccf8fae4f0043e84737656ac5a644b8df2095b7e829f48ee23fb",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/06/06dc8cbc2328ccf8fae4f0043e84737656ac5a644b8df2095b7e829f48ee23fb.thumb.webp",
+        "full": "img/06/06dc8cbc2328ccf8fae4f0043e84737656ac5a644b8df2095b7e829f48ee23fb.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:08.712Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20%22Tom%20Clancy's%20The%20Division%22%20themed%20Cyberdeck%20v2%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:53:16.000Z",
+    "updated": "2024-08-25T06:53:30.000Z",
+    "views": 13,
+    "thumbnail": "https://scrapbox.io/files/66cad4e5a3090d001c9e72fe.png"
+  }
+}

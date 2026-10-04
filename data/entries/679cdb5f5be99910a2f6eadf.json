@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "679cdb5f5be99910a2f6eadf",
+  "title": "My newest deck, running Android on a Pi 4 and BB Q10 keyboard for input! : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1i3szat/my_newest_deck_running_android_on_a_pi_4_and_bb/",
+    "site": "reddit",
+    "label": "My newest deck, running Android on a Pi 4 and BB Q10 keyboard for input! : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/679cdb80b14559ec10618030.png",
+      "originRaw": "https://scrapbox.io/files/679cdb80b14559ec10618030.png",
+      "id": "sha256:de35fd9aae61bb9f0624f50a4b8bd452b66423547a0b10b9630f7274e8bea090",
+      "status": "ok",
+      "width": 957,
+      "height": 1271,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/de/de35fd9aae61bb9f0624f50a4b8bd452b66423547a0b10b9630f7274e8bea090.thumb.webp",
+        "full": "img/de/de35fd9aae61bb9f0624f50a4b8bd452b66423547a0b10b9630f7274e8bea090.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:36.877Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20newest%20deck%2C%20running%20Android%20on%20a%20Pi%204%20and%20BB%20Q10%20keyboard%20for%20input!%20%3A%20r%2FcyberDeck",
+    "created": "2025-01-31T14:17:04.000Z",
+    "updated": "2025-01-31T14:17:41.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/679cdb80b14559ec10618030.png"
+  }
+}

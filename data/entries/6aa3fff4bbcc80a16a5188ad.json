@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "6aa3fff4bbcc80a16a5188ad",
+  "title": "My Red Raven cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1vwxgzd/my_red_raven_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/a8b6665b9f205230e9ad55c8f6b45791",
+      "originRaw": "https://gyazo.com/a8b6665b9f205230e9ad55c8f6b45791/raw",
+      "id": "sha256:4925dcdf9827c372a08a6574894e98afa79f625a9c578c073ce6209b50e42dc8",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/49/4925dcdf9827c372a08a6574894e98afa79f625a9c578c073ce6209b50e42dc8.thumb.webp",
+        "full": "img/49/4925dcdf9827c372a08a6574894e98afa79f625a9c578c073ce6209b50e42dc8.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:16.362Z"
+    },
+    {
+      "origin": "https://gyazo.com/0837b9ff188ff286fad645e2efcb5593",
+      "originRaw": "https://gyazo.com/0837b9ff188ff286fad645e2efcb5593/raw",
+      "id": "sha256:0949aef0847947ae0f6738d12ae2b592937dc9d19a4f3849efe6d649307f82f3",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/09/0949aef0847947ae0f6738d12ae2b592937dc9d19a4f3849efe6d649307f82f3.thumb.webp",
+        "full": "img/09/0949aef0847947ae0f6738d12ae2b592937dc9d19a4f3849efe6d649307f82f3.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:18.712Z"
+    },
+    {
+      "origin": "https://gyazo.com/27968228f1de7d281bbf156e211da61e",
+      "originRaw": "https://gyazo.com/27968228f1de7d281bbf156e211da61e/raw",
+      "id": "sha256:14f06182ba10cb4a7d585a398acc3c8c5fd4ca92a095c92db34fabcea49dc354",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/14/14f06182ba10cb4a7d585a398acc3c8c5fd4ca92a095c92db34fabcea49dc354.thumb.webp",
+        "full": "img/14/14f06182ba10cb4a7d585a398acc3c8c5fd4ca92a095c92db34fabcea49dc354.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:20.269Z"
+    },
+    {
+      "origin": "https://gyazo.com/a4b96add2ab4521f11ec90346f5c509b",
+      "originRaw": "https://gyazo.com/a4b96add2ab4521f11ec90346f5c509b/raw",
+      "id": "sha256:9378bd5b08dbab6819fcdd2e2f0a2bbc38f0a14b4baab9d19579dc0df145328b",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/93/9378bd5b08dbab6819fcdd2e2f0a2bbc38f0a14b4baab9d19579dc0df145328b.thumb.webp",
+        "full": "img/93/9378bd5b08dbab6819fcdd2e2f0a2bbc38f0a14b4baab9d19579dc0df145328b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:21.956Z"
+    },
+    {
+      "origin": "https://gyazo.com/40869e5271361e4a25cbdd5a8db57468",
+      "originRaw": "https://gyazo.com/40869e5271361e4a25cbdd5a8db57468/raw",
+      "id": "sha256:4d8ba7d382e69e71a9392a7d5b2ccf865ea78ccb41729204cf3e786faa946e4b",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4d/4d8ba7d382e69e71a9392a7d5b2ccf865ea78ccb41729204cf3e786faa946e4b.thumb.webp",
+        "full": "img/4d/4d8ba7d382e69e71a9392a7d5b2ccf865ea78ccb41729204cf3e786faa946e4b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:23.999Z"
+    },
+    {
+      "origin": "https://gyazo.com/7fed7b6508956837e9062c67b0406223",
+      "originRaw": "https://gyazo.com/7fed7b6508956837e9062c67b0406223/raw",
+      "id": "sha256:05751b2d87700af4435783d5b1a2078a17121e198aa46ac8fa3e63b7bb80024d",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/05/05751b2d87700af4435783d5b1a2078a17121e198aa46ac8fa3e63b7bb80024d.thumb.webp",
+        "full": "img/05/05751b2d87700af4435783d5b1a2078a17121e198aa46ac8fa3e63b7bb80024d.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:26.153Z"
+    },
+    {
+      "origin": "https://gyazo.com/9d722ae28ebc7f3fbc16a100558a85a1",
+      "originRaw": "https://gyazo.com/9d722ae28ebc7f3fbc16a100558a85a1/raw",
+      "id": "sha256:52c5174fee003e12a9d6576ad2e40ec3913d8f29224c0c22346b1bca26fcc898",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/52/52c5174fee003e12a9d6576ad2e40ec3913d8f29224c0c22346b1bca26fcc898.thumb.webp",
+        "full": "img/52/52c5174fee003e12a9d6576ad2e40ec3913d8f29224c0c22346b1bca26fcc898.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:28.168Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20Red%20Raven%20cyberdeck",
+    "created": "2026-09-11T13:19:51.000Z",
+    "updated": "2026-09-11T13:20:46.000Z",
+    "views": 0,
+    "thumbnail": "https://gyazo.com/a8b6665b9f205230e9ad55c8f6b45791/raw"
+  }
+}

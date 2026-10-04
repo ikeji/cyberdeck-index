@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "680b923ea0b575992ff744f3",
+  "title": "Shrine for the Omnissiah",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1k5oc0a/shrine_for_the_omnissiah/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/680b92486c50ca9baea481d8.png",
+      "originRaw": "https://scrapbox.io/files/680b92486c50ca9baea481d8.png",
+      "id": "sha256:70dadc1ddd640a266a73b8f156b9c35f1d1bdbbe934556991348fd3dd5f265bb",
+      "status": "ok",
+      "width": 640,
+      "height": 817,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/70/70dadc1ddd640a266a73b8f156b9c35f1d1bdbbe934556991348fd3dd5f265bb.thumb.webp",
+        "full": "img/70/70dadc1ddd640a266a73b8f156b9c35f1d1bdbbe934556991348fd3dd5f265bb.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:55.840Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Shrine%20for%20the%20Omnissiah",
+    "created": "2025-04-25T13:46:40.000Z",
+    "updated": "2025-04-25T13:46:53.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/680b92486c50ca9baea481d8.png"
+  }
+}

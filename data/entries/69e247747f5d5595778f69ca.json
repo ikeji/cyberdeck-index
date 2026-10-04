@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "69e247747f5d5595778f69ca",
+  "title": "Bee Write Back",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1si9acz/bee_write_back/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/d62d72083c5fc09ea486227c6552b3be",
+      "originRaw": "https://gyazo.com/d62d72083c5fc09ea486227c6552b3be/raw",
+      "id": "sha256:4b6e1fb0a55a6f8d2ae39dcc0775366c9ed3a7c6b40155844ac0f56030f232d1",
+      "status": "ok",
+      "width": 1080,
+      "height": 809,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4b/4b6e1fb0a55a6f8d2ae39dcc0775366c9ed3a7c6b40155844ac0f56030f232d1.thumb.webp",
+        "full": "img/4b/4b6e1fb0a55a6f8d2ae39dcc0775366c9ed3a7c6b40155844ac0f56030f232d1.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:09.139Z"
+    },
+    {
+      "origin": "https://gyazo.com/05b4d70f071eeebd3f2c4f005ae245cd",
+      "originRaw": "https://gyazo.com/05b4d70f071eeebd3f2c4f005ae245cd/raw",
+      "id": "sha256:6e5b7df14aacd54a878f6f16ffe5d62c3e8ce93cad4db8119361cf1652d7da04",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6e/6e5b7df14aacd54a878f6f16ffe5d62c3e8ce93cad4db8119361cf1652d7da04.thumb.webp",
+        "full": "img/6e/6e5b7df14aacd54a878f6f16ffe5d62c3e8ce93cad4db8119361cf1652d7da04.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:11.314Z"
+    },
+    {
+      "origin": "https://gyazo.com/c670f7ad47c509077c623f1007d02f23",
+      "originRaw": "https://gyazo.com/c670f7ad47c509077c623f1007d02f23/raw",
+      "id": "sha256:669d34d6793d5316065aa20ebf3d8f07cf9f1ed16511e4a74b90105169ed7d1a",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/66/669d34d6793d5316065aa20ebf3d8f07cf9f1ed16511e4a74b90105169ed7d1a.thumb.webp",
+        "full": "img/66/669d34d6793d5316065aa20ebf3d8f07cf9f1ed16511e4a74b90105169ed7d1a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:13.429Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Bee%20Write%20Back",
+    "created": "2026-04-17T14:45:11.000Z",
+    "updated": "2026-04-17T14:45:30.000Z",
+    "views": 23,
+    "thumbnail": "https://gyazo.com/d62d72083c5fc09ea486227c6552b3be/raw"
+  }
+}

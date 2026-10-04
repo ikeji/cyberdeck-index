@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6606e9a13f33c70024b127c1",
+  "title": "Just finished my first : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1bq7ko2/just_finished_my_first/",
+    "site": "reddit",
+    "label": "Just finished my first : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6606e9a44973360023348591.png",
+      "originRaw": "https://scrapbox.io/files/6606e9a44973360023348591.png",
+      "id": "sha256:18eff33e18a70017394665499acbdf15e69f67e338ad72e1646ac037859238fa",
+      "status": "ok",
+      "width": 1080,
+      "height": 703,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/18/18eff33e18a70017394665499acbdf15e69f67e338ad72e1646ac037859238fa.thumb.webp",
+        "full": "img/18/18eff33e18a70017394665499acbdf15e69f67e338ad72e1646ac037859238fa.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:55.621Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Just%20finished%20my%20first%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-29T16:17:39.000Z",
+    "updated": "2024-03-29T16:17:44.000Z",
+    "views": 24,
+    "thumbnail": "https://scrapbox.io/files/6606e9a44973360023348591.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6ca28408f441b6995afa2f",
+  "title": "Project KillerLime: Directional Wi-Fi Recon in a Cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1uyhxqn/project_killerlime_directional_wifi_recon_in_a/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/9cbd94a573f4dbe6ff4a8fc072dbb61c",
+      "originRaw": "https://gyazo.com/9cbd94a573f4dbe6ff4a8fc072dbb61c/raw",
+      "id": "sha256:56fdfaa3c109c4328982868fc370f3313e8a18190ad3a0681f5051e22762672b",
+      "status": "ok",
+      "width": 1020,
+      "height": 1134,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/56/56fdfaa3c109c4328982868fc370f3313e8a18190ad3a0681f5051e22762672b.thumb.webp",
+        "full": "img/56/56fdfaa3c109c4328982868fc370f3313e8a18190ad3a0681f5051e22762672b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:28.280Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Project%20KillerLime%3A%20Directional%20Wi-Fi%20Recon%20in%20a%20Cyberdeck",
+    "created": "2026-07-31T13:26:35.000Z",
+    "updated": "2026-07-31T13:26:39.000Z",
+    "views": 3,
+    "thumbnail": "https://gyazo.com/9cbd94a573f4dbe6ff4a8fc072dbb61c/raw"
+  }
+}

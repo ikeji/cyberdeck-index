@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "6a19a7f1ddbbad52ea632252",
+  "title": "I have FINALLY finished the engineering prototype for the CG Deck. An x86 handheld PC running Windows 11 & Linux.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1tnm0kv/i_have_finally_finished_the_engineering_prototype/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/f6ff28b8369420dfdce0a965cb8e811d",
+      "originRaw": "https://gyazo.com/f6ff28b8369420dfdce0a965cb8e811d/raw",
+      "id": "sha256:b59dd8abf8bb6861270b2db4f1027b70ce36ffc8c9b4082f9b94910f0f9601ba",
+      "status": "ok",
+      "width": 640,
+      "height": 640,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b5/b59dd8abf8bb6861270b2db4f1027b70ce36ffc8c9b4082f9b94910f0f9601ba.thumb.webp",
+        "full": "img/b5/b59dd8abf8bb6861270b2db4f1027b70ce36ffc8c9b4082f9b94910f0f9601ba.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:42.029Z"
+    },
+    {
+      "origin": "https://gyazo.com/662fa0402ab99a0c5c4ad600434c734c",
+      "originRaw": "https://gyazo.com/662fa0402ab99a0c5c4ad600434c734c/raw",
+      "id": "sha256:0ad2834e18a51f6e4af05a7680b6e85c0096f11ae99638b9cea2346d0fe322ad",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0a/0ad2834e18a51f6e4af05a7680b6e85c0096f11ae99638b9cea2346d0fe322ad.thumb.webp",
+        "full": "img/0a/0ad2834e18a51f6e4af05a7680b6e85c0096f11ae99638b9cea2346d0fe322ad.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:44.633Z"
+    },
+    {
+      "origin": "https://gyazo.com/7bf626336da74398fb7eb2f521fa35b6",
+      "originRaw": "https://gyazo.com/7bf626336da74398fb7eb2f521fa35b6/raw",
+      "id": "sha256:f9aad2aafc7c877905385bdb378f4219510f74da9216b934daeb37eb95f0b801",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f9/f9aad2aafc7c877905385bdb378f4219510f74da9216b934daeb37eb95f0b801.thumb.webp",
+        "full": "img/f9/f9aad2aafc7c877905385bdb378f4219510f74da9216b934daeb37eb95f0b801.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:46.910Z"
+    },
+    {
+      "origin": "https://preview.redd.it/i-have-finally-finished-the-engineering-prototype-for-the-v0-ffo70q50ac3h1.jpg?width=1080&crop=smart&auto=webp&s=25b7dc43a5c843249cae3958357d1a2f3d93bee1",
+      "originRaw": "https://preview.redd.it/i-have-finally-finished-the-engineering-prototype-for-the-v0-ffo70q50ac3h1.jpg?width=1080&crop=smart&auto=webp&s=25b7dc43a5c843249cae3958357d1a2f3d93bee1",
+      "id": "sha256:dd7dbe012e9a8d42aa5bc0df8f3353dd81b2c1503325b2aaa906dd3c19686e2f",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/dd/dd7dbe012e9a8d42aa5bc0df8f3353dd81b2c1503325b2aaa906dd3c19686e2f.thumb.webp",
+        "full": "img/dd/dd7dbe012e9a8d42aa5bc0df8f3353dd81b2c1503325b2aaa906dd3c19686e2f.webp"
+      },
+      "fetchedAt": "2026-10-02T18:16:48.892Z"
+    },
+    {
+      "origin": "https://preview.redd.it/i-have-finally-finished-the-engineering-prototype-for-the-v0-lht7gzraac3h1.jpg?width=1080&crop=smart&auto=webp&s=f055abf9c11cfda3afdcb7176bf33919ad75976b",
+      "originRaw": "https://preview.redd.it/i-have-finally-finished-the-engineering-prototype-for-the-v0-lht7gzraac3h1.jpg?width=1080&crop=smart&auto=webp&s=f055abf9c11cfda3afdcb7176bf33919ad75976b",
+      "id": "sha256:e9db5ac7ede7b2c88fe63307fc9ad7ef6d7e1b517fe27d36be028d761f5a32f6",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e9/e9db5ac7ede7b2c88fe63307fc9ad7ef6d7e1b517fe27d36be028d761f5a32f6.thumb.webp",
+        "full": "img/e9/e9db5ac7ede7b2c88fe63307fc9ad7ef6d7e1b517fe27d36be028d761f5a32f6.webp"
+      },
+      "fetchedAt": "2026-10-02T18:16:49.426Z"
+    },
+    {
+      "origin": "https://gyazo.com/5da0f77100e80de49b34239d17035729",
+      "originRaw": "https://gyazo.com/5da0f77100e80de49b34239d17035729/raw",
+      "id": "sha256:e46001cc46a2d92f4fb7694cb23d3ea7c31551be5bc4eefef8fe55ccd520de6e",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e4/e46001cc46a2d92f4fb7694cb23d3ea7c31551be5bc4eefef8fe55ccd520de6e.thumb.webp",
+        "full": "img/e4/e46001cc46a2d92f4fb7694cb23d3ea7c31551be5bc4eefef8fe55ccd520de6e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:48.760Z"
+    },
+    {
+      "origin": "https://gyazo.com/92b3238b7c06c661c1fc3268466f7f04",
+      "originRaw": "https://gyazo.com/92b3238b7c06c661c1fc3268466f7f04/raw",
+      "id": "sha256:bab527634bfc769fdd87e9b959e66346935d942b91b7372cf18ec7bb6e9f7f4f",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ba/bab527634bfc769fdd87e9b959e66346935d942b91b7372cf18ec7bb6e9f7f4f.thumb.webp",
+        "full": "img/ba/bab527634bfc769fdd87e9b959e66346935d942b91b7372cf18ec7bb6e9f7f4f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:50.429Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20have%20FINALLY%20finished%20the%20engineering%20prototype%20for%20the%20CG%20Deck.%20An%20x86%20handheld%20PC%20running%20Windows%2011%20%26%20Linux.",
+    "created": "2026-05-29T14:51:35.000Z",
+    "updated": "2026-05-29T14:52:28.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/f6ff28b8369420dfdce0a965cb8e811d/raw"
+  }
+}

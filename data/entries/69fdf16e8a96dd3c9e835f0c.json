@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "69fdf16e8a96dd3c9e835f0c",
+  "title": "Nintendo Switch 2 Fight Pad by WULFF DEN",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1t0i3c8/nintendo_switch_2_fight_pad_by_wulff_den/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/c6bd942391faf84117003a4dd8c0f41a",
+      "originRaw": "https://gyazo.com/c6bd942391faf84117003a4dd8c0f41a/raw",
+      "id": "sha256:d0fbffd56fa7832b3f7111fcd7763a63b0eee7c974282a2ff0c5f5c4cfa1275c",
+      "status": "ok",
+      "width": 480,
+      "height": 360,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d0/d0fbffd56fa7832b3f7111fcd7763a63b0eee7c974282a2ff0c5f5c4cfa1275c.thumb.webp",
+        "full": "img/d0/d0fbffd56fa7832b3f7111fcd7763a63b0eee7c974282a2ff0c5f5c4cfa1275c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:51.110Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Nintendo%20Switch%202%20Fight%20Pad%20by%20WULFF%20DEN",
+    "created": "2026-05-08T14:21:36.000Z",
+    "updated": "2026-05-08T14:22:47.000Z",
+    "views": 9,
+    "thumbnail": "https://gyazo.com/c6bd942391faf84117003a4dd8c0f41a/raw"
+  }
+}

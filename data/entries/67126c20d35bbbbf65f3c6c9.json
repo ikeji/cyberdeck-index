@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67126c20d35bbbbf65f3c6c9",
+  "title": "Case test for the Cyberpad, an 7 inch x86 tablet/desktop computer",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1frcgo6/case_test_for_the_cyberpad_an_7_inch_x86/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67126c439e2411c5462188d4.png",
+      "originRaw": "https://scrapbox.io/files/67126c439e2411c5462188d4.png",
+      "id": "sha256:a978669c7e9f1474f3d70a50449069becb13d88286864da0bbc8e294cc3219da",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a9/a978669c7e9f1474f3d70a50449069becb13d88286864da0bbc8e294cc3219da.thumb.webp",
+        "full": "img/a9/a978669c7e9f1474f3d70a50449069becb13d88286864da0bbc8e294cc3219da.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:20.984Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": "N100が載ってる",
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Case%20test%20for%20the%20Cyberpad%2C%20an%207%20inch%20x86%20tablet%2Fdesktop%20computer",
+    "created": "2024-10-18T14:10:17.000Z",
+    "updated": "2024-10-18T14:13:43.000Z",
+    "views": 9,
+    "thumbnail": "https://scrapbox.io/files/67126c439e2411c5462188d4.png"
+  }
+}

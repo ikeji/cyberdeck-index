@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "672e0709a896ed4275df2d19",
+  "title": "Screenless Cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1g752f8/screenless_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/672e073bf2f6a6c62844ddea.png",
+      "originRaw": "https://scrapbox.io/files/672e073bf2f6a6c62844ddea.png",
+      "id": "sha256:4e0f64abce1f379231f317c9c64f8ffd93ef54a012a0766bf5e06fd5062cdb76",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4e/4e0f64abce1f379231f317c9c64f8ffd93ef54a012a0766bf5e06fd5062cdb76.thumb.webp",
+        "full": "img/4e/4e0f64abce1f379231f317c9c64f8ffd93ef54a012a0766bf5e06fd5062cdb76.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:29.021Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Screenless%20Cyberdeck",
+    "created": "2024-11-08T12:42:37.000Z",
+    "updated": "2024-11-08T12:42:47.000Z",
+    "views": 9,
+    "thumbnail": "https://scrapbox.io/files/672e073bf2f6a6c62844ddea.png"
+  }
+}

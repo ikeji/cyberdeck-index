@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "69fdee335d3fc766ffb94682",
+  "title": "I modeled a Lego cyberdeck box",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1t3rv37/i_modeled_a_lego_cyberdeck_box/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/180da51fce870e18dddd53a6fc8eb1ee",
+      "originRaw": "https://gyazo.com/180da51fce870e18dddd53a6fc8eb1ee/raw",
+      "id": "sha256:b97d027605843eac20ca9960b211d6dcfa5964a9ea291dc623f5bdcfcbd51275",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b9/b97d027605843eac20ca9960b211d6dcfa5964a9ea291dc623f5bdcfcbd51275.thumb.webp",
+        "full": "img/b9/b97d027605843eac20ca9960b211d6dcfa5964a9ea291dc623f5bdcfcbd51275.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:34.763Z"
+    },
+    {
+      "origin": "https://gyazo.com/db3444d880a886ecafe6e747f9426151",
+      "originRaw": "https://gyazo.com/db3444d880a886ecafe6e747f9426151/raw",
+      "id": "sha256:1d6a662509b229128286a08937fed17433f73d572f3710dddeba86e8caae54ce",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1d/1d6a662509b229128286a08937fed17433f73d572f3710dddeba86e8caae54ce.thumb.webp",
+        "full": "img/1d/1d6a662509b229128286a08937fed17433f73d572f3710dddeba86e8caae54ce.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:36.794Z"
+    },
+    {
+      "origin": "https://gyazo.com/6f6755458c1638650d44fda138139f1f",
+      "originRaw": "https://gyazo.com/6f6755458c1638650d44fda138139f1f/raw",
+      "id": "sha256:6d1543983aa3b2c14835753117443ac379fac125a9b89a7bde994edab9f83fbf",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6d/6d1543983aa3b2c14835753117443ac379fac125a9b89a7bde994edab9f83fbf.thumb.webp",
+        "full": "img/6d/6d1543983aa3b2c14835753117443ac379fac125a9b89a7bde994edab9f83fbf.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:38.927Z"
+    },
+    {
+      "origin": "https://gyazo.com/2458dafd4d21204fecc22df1230e9bf3",
+      "originRaw": "https://gyazo.com/2458dafd4d21204fecc22df1230e9bf3/raw",
+      "id": "sha256:d9504607035caa9fc5f475430fa6df228778e88b364cff70d16751d0b197b06c",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d9/d9504607035caa9fc5f475430fa6df228778e88b364cff70d16751d0b197b06c.thumb.webp",
+        "full": "img/d9/d9504607035caa9fc5f475430fa6df228778e88b364cff70d16751d0b197b06c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:40.781Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20modeled%20a%20Lego%20cyberdeck%20box",
+    "created": "2026-05-08T14:07:48.000Z",
+    "updated": "2026-05-08T14:08:13.000Z",
+    "views": 3,
+    "thumbnail": "https://gyazo.com/180da51fce870e18dddd53a6fc8eb1ee/raw"
+  }
+}

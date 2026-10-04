@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6842ec5b34cad0e329ff1e7a",
+  "title": "The Renegade is live",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1kut52a/the_renegade_is_live/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/f6872bbfcec5edce5d27de8cc4fa4dfc",
+      "originRaw": "https://gyazo.com/f6872bbfcec5edce5d27de8cc4fa4dfc/raw",
+      "id": "sha256:433cf765a54beade346eae2f359f58b3f090ee595a0fca63099c3b307432cdf8",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/43/433cf765a54beade346eae2f359f58b3f090ee595a0fca63099c3b307432cdf8.thumb.webp",
+        "full": "img/43/433cf765a54beade346eae2f359f58b3f090ee595a0fca63099c3b307432cdf8.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:23.952Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/The%20Renegade%20is%20live",
+    "created": "2025-06-06T13:25:55.000Z",
+    "updated": "2025-06-06T13:26:02.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/f6872bbfcec5edce5d27de8cc4fa4dfc/raw"
+  }
+}

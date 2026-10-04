@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6781203dc5c496f2af809525",
+  "title": "Portable PC/HF Radio : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1huytfn/portable_pchf_radio/#lightbox",
+    "site": "reddit",
+    "label": "Portable PC/HF Radio : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/678120424923a718925793e4.png",
+      "originRaw": "https://scrapbox.io/files/678120424923a718925793e4.png",
+      "id": "sha256:dd03492d2aba1146499552d4ea0f8b595a17535d2c9cf3dff395da5bb1d6208e",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/dd/dd03492d2aba1146499552d4ea0f8b595a17535d2c9cf3dff395da5bb1d6208e.thumb.webp",
+        "full": "img/dd/dd03492d2aba1146499552d4ea0f8b595a17535d2c9cf3dff395da5bb1d6208e.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:34.266Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Portable%20PC%2FHF%20Radio%20%3A%20r%2FcyberDeck",
+    "created": "2025-01-10T13:27:26.000Z",
+    "updated": "2025-01-10T13:27:35.000Z",
+    "views": 3,
+    "thumbnail": "https://scrapbox.io/files/678120424923a718925793e4.png"
+  }
+}

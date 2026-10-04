@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "698f2e0ed3f70969ace56338",
+  "title": "CRT calculator",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1qr4asg/crt_calculator/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/aeb6eca494aed1235d266a82f1687062",
+      "originRaw": "https://gyazo.com/aeb6eca494aed1235d266a82f1687062/raw",
+      "id": "sha256:f6127580ec4d1ddc5c7d0d179cb7c33db1d73f09d86196a5bfb6b4880a7e8990",
+      "status": "ok",
+      "width": 640,
+      "height": 853,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f6/f6127580ec4d1ddc5c7d0d179cb7c33db1d73f09d86196a5bfb6b4880a7e8990.thumb.webp",
+        "full": "img/f6/f6127580ec4d1ddc5c7d0d179cb7c33db1d73f09d86196a5bfb6b4880a7e8990.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:08.337Z"
+    },
+    {
+      "origin": "https://gyazo.com/ebfa2fba27fa51fc13880f184e9c0e4d",
+      "originRaw": "https://gyazo.com/ebfa2fba27fa51fc13880f184e9c0e4d/raw",
+      "id": "sha256:8811465e9d5279f79f42c84017ceaabe4924d8f3863128ced83330696ae48557",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/88/8811465e9d5279f79f42c84017ceaabe4924d8f3863128ced83330696ae48557.thumb.webp",
+        "full": "img/88/8811465e9d5279f79f42c84017ceaabe4924d8f3863128ced83330696ae48557.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:10.495Z"
+    },
+    {
+      "origin": "https://gyazo.com/a014f63e19c5b224dfe25a277347b063",
+      "originRaw": "https://gyazo.com/a014f63e19c5b224dfe25a277347b063/raw",
+      "id": "sha256:94ed3cd820cc5514cb4f36b9088f8e37f080aee5c82e58870944e22973725f35",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/94/94ed3cd820cc5514cb4f36b9088f8e37f080aee5c82e58870944e22973725f35.thumb.webp",
+        "full": "img/94/94ed3cd820cc5514cb4f36b9088f8e37f080aee5c82e58870944e22973725f35.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:11.985Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/CRT%20calculator",
+    "created": "2026-02-13T13:58:47.000Z",
+    "updated": "2026-02-13T13:59:00.000Z",
+    "views": 13,
+    "thumbnail": "https://gyazo.com/aeb6eca494aed1235d266a82f1687062/raw"
+  }
+}

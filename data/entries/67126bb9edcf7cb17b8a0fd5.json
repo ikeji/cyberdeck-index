@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67126bb9edcf7cb17b8a0fd5",
+  "title": "A Woodworkers Cyberdeck",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=-rjCJte3NZ8",
+    "site": "youtube",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67126bd0f758d4fb703f230b.png",
+      "originRaw": "https://scrapbox.io/files/67126bd0f758d4fb703f230b.png",
+      "id": "sha256:ef17020794ab7decfa2d91b272f95a57e07d1b4ad79daecb180b39a72061871f",
+      "status": "ok",
+      "width": 1600,
+      "height": 835,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ef/ef17020794ab7decfa2d91b272f95a57e07d1b4ad79daecb180b39a72061871f.thumb.webp",
+        "full": "img/ef/ef17020794ab7decfa2d91b272f95a57e07d1b4ad79daecb180b39a72061871f.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:20.946Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/A%20Woodworkers%20Cyberdeck",
+    "created": "2024-10-18T14:07:55.000Z",
+    "updated": "2024-10-18T14:08:28.000Z",
+    "views": 2,
+    "thumbnail": "https://scrapbox.io/files/67126bd0f758d4fb703f230b.png"
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "id": "698f2ca8fd5542d5bb970159",
+  "title": "MeshSlide - Modular Meshtastic Case for Heltec V4",
+  "source": {
+    "url": "https://www.reddit.com/r/meshtastic/comments/1qs0jxo/meshslide_modular_meshtastic_case_for_heltec_v4/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/94a5f36cfbf21dfef750ec15c60b177e",
+      "originRaw": "https://gyazo.com/94a5f36cfbf21dfef750ec15c60b177e/raw",
+      "id": "sha256:5ee740c7711f07b9309ce92cfa58bb9ab829fb56dde9286804bec3188a3292ea",
+      "status": "ok",
+      "width": 640,
+      "height": 853,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5e/5ee740c7711f07b9309ce92cfa58bb9ab829fb56dde9286804bec3188a3292ea.thumb.webp",
+        "full": "img/5e/5ee740c7711f07b9309ce92cfa58bb9ab829fb56dde9286804bec3188a3292ea.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:36.220Z"
+    },
+    {
+      "origin": "https://gyazo.com/8203741211d7af61e8f10057f060ad85",
+      "originRaw": "https://gyazo.com/8203741211d7af61e8f10057f060ad85/raw",
+      "id": "sha256:548b06e5c7e71f5a4ba048cf11c1b5606bfe0a4eb961ac8be215ae0d35e18122",
+      "status": "ok",
+      "width": 540,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/54/548b06e5c7e71f5a4ba048cf11c1b5606bfe0a4eb961ac8be215ae0d35e18122.thumb.webp",
+        "full": "img/54/548b06e5c7e71f5a4ba048cf11c1b5606bfe0a4eb961ac8be215ae0d35e18122.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:37.793Z"
+    },
+    {
+      "origin": "https://gyazo.com/d86ae788ad64211e258e20744c067b86",
+      "originRaw": "https://gyazo.com/d86ae788ad64211e258e20744c067b86/raw",
+      "id": "sha256:608a91a2ab503a9c1ee111254adc0abf04e727fd536ce085e79b2a6df7dace2c",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/60/608a91a2ab503a9c1ee111254adc0abf04e727fd536ce085e79b2a6df7dace2c.thumb.webp",
+        "full": "img/60/608a91a2ab503a9c1ee111254adc0abf04e727fd536ce085e79b2a6df7dace2c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:39.899Z"
+    },
+    {
+      "origin": "https://gyazo.com/18a7631b91307b8494209abb599df1d2",
+      "originRaw": "https://gyazo.com/18a7631b91307b8494209abb599df1d2/raw",
+      "id": "sha256:0467fed8bdadb8e716168ae1f0f3cd693ad3014ff099870bbca440788aafa145",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/04/0467fed8bdadb8e716168ae1f0f3cd693ad3014ff099870bbca440788aafa145.thumb.webp",
+        "full": "img/04/0467fed8bdadb8e716168ae1f0f3cd693ad3014ff099870bbca440788aafa145.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:42.101Z"
+    },
+    {
+      "origin": "https://gyazo.com/b8c07475061a10a3f4412a761077a220",
+      "originRaw": "https://gyazo.com/b8c07475061a10a3f4412a761077a220/raw",
+      "id": "sha256:39f71f6d58105d4363d675ab913424a5c15f4225972af464e5de21f0ef1babfe",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/39/39f71f6d58105d4363d675ab913424a5c15f4225972af464e5de21f0ef1babfe.thumb.webp",
+        "full": "img/39/39f71f6d58105d4363d675ab913424a5c15f4225972af464e5de21f0ef1babfe.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:43.941Z"
+    },
+    {
+      "origin": "https://gyazo.com/ab23a3516cb7f52b4c53fd30935422da",
+      "originRaw": "https://gyazo.com/ab23a3516cb7f52b4c53fd30935422da/raw",
+      "id": "sha256:792f78d50d37b79b72b6c315360ea726db14b57622f5eac050a1646cf29ec95c",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/79/792f78d50d37b79b72b6c315360ea726db14b57622f5eac050a1646cf29ec95c.thumb.webp",
+        "full": "img/79/792f78d50d37b79b72b6c315360ea726db14b57622f5eac050a1646cf29ec95c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:45.831Z"
+    },
+    {
+      "origin": "https://gyazo.com/8208a064bf2e8722b570e1d4aabdf15d",
+      "originRaw": "https://gyazo.com/8208a064bf2e8722b570e1d4aabdf15d/raw",
+      "id": "sha256:05907a6401bd1e290377fd110876a52eb472741e806375d5245c447fb2faacb2",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/05/05907a6401bd1e290377fd110876a52eb472741e806375d5245c447fb2faacb2.thumb.webp",
+        "full": "img/05/05907a6401bd1e290377fd110876a52eb472741e806375d5245c447fb2faacb2.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:48.061Z"
+    },
+    {
+      "origin": "https://gyazo.com/b29b3cc1e6a2bef7ed8f133936148382",
+      "originRaw": "https://gyazo.com/b29b3cc1e6a2bef7ed8f133936148382/raw",
+      "id": "sha256:825b5a58e8859fefc8319647104ff9aaced309288a2b2d0c7966c7bcd67d44c4",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/82/825b5a58e8859fefc8319647104ff9aaced309288a2b2d0c7966c7bcd67d44c4.thumb.webp",
+        "full": "img/82/825b5a58e8859fefc8319647104ff9aaced309288a2b2d0c7966c7bcd67d44c4.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:50.138Z"
+    },
+    {
+      "origin": "https://gyazo.com/5b382cf4be1f0c608a1f501537a43d62",
+      "originRaw": "https://gyazo.com/5b382cf4be1f0c608a1f501537a43d62/raw",
+      "id": "sha256:3d71e424efaa3b8d0f9ffd2f637d039a9e60501e8db133b34f2e2e528bbee7b1",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3d/3d71e424efaa3b8d0f9ffd2f637d039a9e60501e8db133b34f2e2e528bbee7b1.thumb.webp",
+        "full": "img/3d/3d71e424efaa3b8d0f9ffd2f637d039a9e60501e8db133b34f2e2e528bbee7b1.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:52.275Z"
+    },
+    {
+      "origin": "https://gyazo.com/c5976eff1d7c9dd860b1acc3d99dcb3e",
+      "originRaw": "https://gyazo.com/c5976eff1d7c9dd860b1acc3d99dcb3e/raw",
+      "id": "sha256:e0ff89876846725ec2289fb7e38cfb9489c23ff8a218ec57ede07363a0bb81a4",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e0/e0ff89876846725ec2289fb7e38cfb9489c23ff8a218ec57ede07363a0bb81a4.thumb.webp",
+        "full": "img/e0/e0ff89876846725ec2289fb7e38cfb9489c23ff8a218ec57ede07363a0bb81a4.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:54.413Z"
+    },
+    {
+      "origin": "https://gyazo.com/bafc9b89e4662041faee7a5c7661ea0b",
+      "originRaw": "https://gyazo.com/bafc9b89e4662041faee7a5c7661ea0b/raw",
+      "id": "sha256:739575c61c6ef307d5eb3eeb89acf4954bc5d3c465094423fcdb8546a8fd244b",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/73/739575c61c6ef307d5eb3eeb89acf4954bc5d3c465094423fcdb8546a8fd244b.thumb.webp",
+        "full": "img/73/739575c61c6ef307d5eb3eeb89acf4954bc5d3c465094423fcdb8546a8fd244b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:56.620Z"
+    },
+    {
+      "origin": "https://gyazo.com/528fdbc9324af4ae95a2a0669d82ee3a",
+      "originRaw": "https://gyazo.com/528fdbc9324af4ae95a2a0669d82ee3a/raw",
+      "id": "sha256:4d40c486d765e98cdf250ca29eba6942b3b3aa5359aaa9eb24d4fceadb438bc7",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4d/4d40c486d765e98cdf250ca29eba6942b3b3aa5359aaa9eb24d4fceadb438bc7.thumb.webp",
+        "full": "img/4d/4d40c486d765e98cdf250ca29eba6942b3b3aa5359aaa9eb24d4fceadb438bc7.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:58.902Z"
+    },
+    {
+      "origin": "https://gyazo.com/7445a6cded58f9e1ec3855f94f46e87a",
+      "originRaw": "https://gyazo.com/7445a6cded58f9e1ec3855f94f46e87a/raw",
+      "id": "sha256:b58ccb718418a2af62c4d695bac4ca1d2e50eb3846a7869907677baf9c8119c2",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b5/b58ccb718418a2af62c4d695bac4ca1d2e50eb3846a7869907677baf9c8119c2.thumb.webp",
+        "full": "img/b5/b58ccb718418a2af62c4d695bac4ca1d2e50eb3846a7869907677baf9c8119c2.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:00.521Z"
+    },
+    {
+      "origin": "https://gyazo.com/9086b2a6ab166f07ef0b2e2fd4e904e8",
+      "originRaw": "https://gyazo.com/9086b2a6ab166f07ef0b2e2fd4e904e8/raw",
+      "id": "sha256:d39dd2e8100c886b680398d5c69865dee8abb8f25250d820589565fbfc2a45a5",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d3/d39dd2e8100c886b680398d5c69865dee8abb8f25250d820589565fbfc2a45a5.thumb.webp",
+        "full": "img/d3/d39dd2e8100c886b680398d5c69865dee8abb8f25250d820589565fbfc2a45a5.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:02.429Z"
+    },
+    {
+      "origin": "https://gyazo.com/56fac559791902e5e726d8cb34c959d6",
+      "originRaw": "https://gyazo.com/56fac559791902e5e726d8cb34c959d6/raw",
+      "id": "sha256:fe17c91edb70c5a3b89befdd68f3ae92eed0f8a363c4e9e7d4e32e74791e5e42",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/fe/fe17c91edb70c5a3b89befdd68f3ae92eed0f8a363c4e9e7d4e32e74791e5e42.thumb.webp",
+        "full": "img/fe/fe17c91edb70c5a3b89befdd68f3ae92eed0f8a363c4e9e7d4e32e74791e5e42.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:04.879Z"
+    },
+    {
+      "origin": "https://gyazo.com/dff2391555c752c2584cf232e50fc072",
+      "originRaw": "https://gyazo.com/dff2391555c752c2584cf232e50fc072/raw",
+      "id": "sha256:268c6c63a06df6b578b02bff5e806d6fb4b81948c3e451683c87c600003e5f74",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/26/268c6c63a06df6b578b02bff5e806d6fb4b81948c3e451683c87c600003e5f74.thumb.webp",
+        "full": "img/26/268c6c63a06df6b578b02bff5e806d6fb4b81948c3e451683c87c600003e5f74.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:06.377Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/MeshSlide%20-%20Modular%20Meshtastic%20Case%20for%20Heltec%20V4",
+    "created": "2026-02-13T13:52:41.000Z",
+    "updated": "2026-02-13T13:53:53.000Z",
+    "views": 1,
+    "thumbnail": "https://gyazo.com/94a5f36cfbf21dfef750ec15c60b177e/raw"
+  }
+}

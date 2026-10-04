@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "693c23415a2888fbd09bd09e",
+  "title": "Tome Reader: An Improvised Ereader Device",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1p5n2xv/tome_reader_an_improvised_ereader_device/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/54af39a8b0be9172fdd6b1dd1d5b73ff",
+      "originRaw": "https://gyazo.com/54af39a8b0be9172fdd6b1dd1d5b73ff/raw",
+      "id": "sha256:e0b731a7d7c0058ad40a3585c32d4fd1ec5e54ddd7b563f25e653f26e8c13ecd",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e0/e0b731a7d7c0058ad40a3585c32d4fd1ec5e54ddd7b563f25e653f26e8c13ecd.thumb.webp",
+        "full": "img/e0/e0b731a7d7c0058ad40a3585c32d4fd1ec5e54ddd7b563f25e653f26e8c13ecd.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:53.185Z"
+    },
+    {
+      "origin": "https://gyazo.com/0e2129f27d59400c2bf6b81b8bb1e2a9",
+      "originRaw": "https://gyazo.com/0e2129f27d59400c2bf6b81b8bb1e2a9/raw",
+      "id": "sha256:ec8f04dc532ef3df9adacef0cf9c0fe50e0b58b05f5c0e6077544ce7e6e8d6d4",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ec/ec8f04dc532ef3df9adacef0cf9c0fe50e0b58b05f5c0e6077544ce7e6e8d6d4.thumb.webp",
+        "full": "img/ec/ec8f04dc532ef3df9adacef0cf9c0fe50e0b58b05f5c0e6077544ce7e6e8d6d4.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:55.596Z"
+    },
+    {
+      "origin": "https://gyazo.com/52c6f4ec52b2ecc99877b2b8a9d4acfb",
+      "originRaw": "https://gyazo.com/52c6f4ec52b2ecc99877b2b8a9d4acfb/raw",
+      "id": "sha256:5e100935b93a1365bc8feaf916f55955d07e94c7042fb2a38c383a2c47fd5fde",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5e/5e100935b93a1365bc8feaf916f55955d07e94c7042fb2a38c383a2c47fd5fde.thumb.webp",
+        "full": "img/5e/5e100935b93a1365bc8feaf916f55955d07e94c7042fb2a38c383a2c47fd5fde.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:57.473Z"
+    },
+    {
+      "origin": "https://gyazo.com/c993f2a484732a324afa7a55dbadf7ef",
+      "originRaw": "https://gyazo.com/c993f2a484732a324afa7a55dbadf7ef/raw",
+      "id": "sha256:615a77ae9ce7a1acb50bad5168c87fe67870c3a4ab533062ba803ef39911a395",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/61/615a77ae9ce7a1acb50bad5168c87fe67870c3a4ab533062ba803ef39911a395.thumb.webp",
+        "full": "img/61/615a77ae9ce7a1acb50bad5168c87fe67870c3a4ab533062ba803ef39911a395.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:00.614Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Tome%20Reader%3A%20An%20Improvised%20Ereader%20Device",
+    "created": "2025-12-12T14:14:31.000Z",
+    "updated": "2025-12-12T14:15:00.000Z",
+    "views": 8,
+    "thumbnail": "https://gyazo.com/54af39a8b0be9172fdd6b1dd1d5b73ff/raw"
+  }
+}

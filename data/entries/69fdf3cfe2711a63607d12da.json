@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "69fdf3cfe2711a63607d12da",
+  "title": "Fallout themed cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1sryywc/fallout_themed_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/75213ad6951a3075b68e34ee00c809ae",
+      "originRaw": "https://gyazo.com/75213ad6951a3075b68e34ee00c809ae/raw",
+      "id": "sha256:9c5418c454c7f13e9bc6fbfcbce3c8cd9918e73684ad117f62799897fa070fb8",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9c/9c5418c454c7f13e9bc6fbfcbce3c8cd9918e73684ad117f62799897fa070fb8.thumb.webp",
+        "full": "img/9c/9c5418c454c7f13e9bc6fbfcbce3c8cd9918e73684ad117f62799897fa070fb8.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:11.807Z"
+    },
+    {
+      "origin": "https://gyazo.com/fa311a72ab729159889bb5121c105057",
+      "originRaw": "https://gyazo.com/fa311a72ab729159889bb5121c105057/raw",
+      "id": "sha256:2501e2ae304e04d0e2cb1fc6815d92ad78cb66b7744fcf0cf8896357b5b28946",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/25/2501e2ae304e04d0e2cb1fc6815d92ad78cb66b7744fcf0cf8896357b5b28946.thumb.webp",
+        "full": "img/25/2501e2ae304e04d0e2cb1fc6815d92ad78cb66b7744fcf0cf8896357b5b28946.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:13.859Z"
+    },
+    {
+      "origin": "https://gyazo.com/1e8b315918ca667f578a1eb0c041066d",
+      "originRaw": "https://gyazo.com/1e8b315918ca667f578a1eb0c041066d/raw",
+      "id": "sha256:8163bd3f0f0b5f0cc097f4fbb011db0d3305b5654abd4cf7394b80ae23927670",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/81/8163bd3f0f0b5f0cc097f4fbb011db0d3305b5654abd4cf7394b80ae23927670.thumb.webp",
+        "full": "img/81/8163bd3f0f0b5f0cc097f4fbb011db0d3305b5654abd4cf7394b80ae23927670.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:16.183Z"
+    },
+    {
+      "origin": "https://gyazo.com/98a95db8f2096d5d33a8005d199703b9",
+      "originRaw": "https://gyazo.com/98a95db8f2096d5d33a8005d199703b9/raw",
+      "id": "sha256:d58cf255bd4dbef4a04f473d4b4b382502d6cfe490e078459b250a7a4a943af5",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d5/d58cf255bd4dbef4a04f473d4b4b382502d6cfe490e078459b250a7a4a943af5.thumb.webp",
+        "full": "img/d5/d58cf255bd4dbef4a04f473d4b4b382502d6cfe490e078459b250a7a4a943af5.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:18.465Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Fallout%20themed%20cyberdeck",
+    "created": "2026-05-08T14:31:44.000Z",
+    "updated": "2026-05-08T14:32:12.000Z",
+    "views": 8,
+    "thumbnail": "https://gyazo.com/75213ad6951a3075b68e34ee00c809ae/raw"
+  }
+}

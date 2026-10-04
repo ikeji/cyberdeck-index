@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6a19a56f3666e14be708b856",
+  "title": "Years ago, I built this tablet cyberdeck before it got disassembled, I should make something awesome eventually.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1tdceyi/years_ago_i_built_this_tablet_cyberdeck_before_it/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/4774eaa718ca70499d6595c2c4386e03",
+      "originRaw": "https://gyazo.com/4774eaa718ca70499d6595c2c4386e03/raw",
+      "id": "sha256:763215bb12a67570bbf5f3c3de96f2e3c140dffd6776df1791f87dd43355e45c",
+      "status": "ok",
+      "width": 640,
+      "height": 480,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/76/763215bb12a67570bbf5f3c3de96f2e3c140dffd6776df1791f87dd43355e45c.thumb.webp",
+        "full": "img/76/763215bb12a67570bbf5f3c3de96f2e3c140dffd6776df1791f87dd43355e45c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:30.348Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Years%20ago%2C%20I%20built%20this%20tablet%20cyberdeck%20before%20it%20got%20disassembled%2C%20I%20should%20make%20something%20awesome%20eventually.",
+    "created": "2026-05-29T14:40:48.000Z",
+    "updated": "2026-05-29T14:41:27.000Z",
+    "views": 3,
+    "thumbnail": "https://gyazo.com/4774eaa718ca70499d6595c2c4386e03/raw"
+  }
+}

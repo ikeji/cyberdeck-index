@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad31674a3ea001ceac4a5",
+  "title": "MechSenger - Wifi-BT-LoRa-GPS - Meshtastic/Armachat : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1d6gbwg/mechsenger_wifibtloragps_meshtasticarmachat/",
+    "site": "reddit",
+    "label": "MechSenger - Wifi-BT-LoRa-GPS - Meshtastic/Armachat : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad3322d2243001db8de76.png",
+      "originRaw": "https://scrapbox.io/files/66cad3322d2243001db8de76.png",
+      "id": "sha256:a60ea2a373e9a4b8b8153d84e6a398d6621d3d34016a891474698ac81d154594",
+      "status": "ok",
+      "width": 1080,
+      "height": 1124,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a6/a60ea2a373e9a4b8b8153d84e6a398d6621d3d34016a891474698ac81d154594.thumb.webp",
+        "full": "img/a6/a60ea2a373e9a4b8b8153d84e6a398d6621d3d34016a891474698ac81d154594.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:04.332Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": "2.4inch oled",
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/MechSenger%20-%20Wifi-BT-LoRa-GPS%20-%20Meshtastic%2FArmachat%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:45:44.000Z",
+    "updated": "2024-08-25T06:46:20.000Z",
+    "views": 8,
+    "thumbnail": "https://scrapbox.io/files/66cad3322d2243001db8de76.png"
+  }
+}

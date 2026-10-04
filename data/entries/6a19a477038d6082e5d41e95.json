@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "6a19a477038d6082e5d41e95",
+  "title": "Sliding keyboard",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1tefx6j/sliding_keyboard/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [
+    {
+      "url": "https://www.printables.com/model/1724826-slidexdeck-sliding-keyboard-cyberdeck-case",
+      "label": null,
+      "site": "web"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://gyazo.com/cac3abdb6235fe56d408af19e2298f05",
+      "originRaw": "https://gyazo.com/cac3abdb6235fe56d408af19e2298f05/raw",
+      "id": "sha256:6730352888be03cf58aa8f2c5d895b1d848b09f0bcb0a86eaf4574b139c591ba",
+      "status": "ok",
+      "width": 270,
+      "height": 480,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/67/6730352888be03cf58aa8f2c5d895b1d848b09f0bcb0a86eaf4574b139c591ba.thumb.webp",
+        "full": "img/67/6730352888be03cf58aa8f2c5d895b1d848b09f0bcb0a86eaf4574b139c591ba.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:29.072Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Sliding%20keyboard",
+    "created": "2026-05-29T14:36:42.000Z",
+    "updated": "2026-05-29T14:37:09.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/cac3abdb6235fe56d408af19e2298f05/raw"
+  }
+}

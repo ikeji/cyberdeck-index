@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18cb14ac60f0024302dc2",
+  "title": "A Penkesu-inspired cyberdeck with 60% keyboard, extra USB port, and HDMI. Build guide available at: github.com/jchitpin/thinkdeck : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1awsi9r/a_penkesuinspired_cyberdeck_with_60_keyboard/?share_id=Kiar8my-yRg_iL3aDwTyz&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1",
+    "site": "reddit",
+    "label": "A Penkesu-inspired cyberdeck with 60% keyboard, extra USB port, and HDMI. Build guide available at: https://github.com/jchitpin/thinkdeck : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18cb434a9d7002c517594.png",
+      "originRaw": "https://scrapbox.io/files/65e18cb434a9d7002c517594.png",
+      "id": "sha256:1b874ec508740054cb76e21b657e2805409652b76e64fb626e8fdff62b1e9089",
+      "status": "ok",
+      "width": 1080,
+      "height": 807,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1b/1b874ec508740054cb76e21b657e2805409652b76e64fb626e8fdff62b1e9089.thumb.webp",
+        "full": "img/1b/1b874ec508740054cb76e21b657e2805409652b76e64fb626e8fdff62b1e9089.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:49.154Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/A%20Penkesu-inspired%20cyberdeck%20with%2060%25%20keyboard%2C%20extra%20USB%20port%2C%20and%20HDMI.%20Build%20guide%20available%20at%3A%20github.com%2Fjchitpin%2Fthinkdeck%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T08:07:14.000Z",
+    "updated": "2024-03-01T08:07:19.000Z",
+    "views": 13,
+    "thumbnail": "https://scrapbox.io/files/65e18cb434a9d7002c517594.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18027e55ce70023d44f2a",
+  "title": "Inspiration from another portable, 1978 Sanyo! : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/hvf0n7/inspiration_from_another_portable_1978_sanyo/",
+    "site": "reddit",
+    "label": "Inspiration from another portable, 1978 Sanyo! : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1802a215b48002567eee8.png",
+      "originRaw": "https://scrapbox.io/files/65e1802a215b48002567eee8.png",
+      "id": "sha256:8699fd32f3ee15ad47214fa7546446e7195955b3c670a1e7878e0db478c0555d",
+      "status": "ok",
+      "width": 1600,
+      "height": 900,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/86/8699fd32f3ee15ad47214fa7546446e7195955b3c670a1e7878e0db478c0555d.thumb.webp",
+        "full": "img/86/8699fd32f3ee15ad47214fa7546446e7195955b3c670a1e7878e0db478c0555d.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:21.809Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Inspiration%20from%20another%20portable%2C%201978%20Sanyo!%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:13:44.000Z",
+    "updated": "2024-03-01T07:13:52.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/65e1802a215b48002567eee8.png"
+  }
+}

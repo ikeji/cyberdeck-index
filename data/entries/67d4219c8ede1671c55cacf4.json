@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67d4219c8ede1671c55cacf4",
+  "title": "ANCD Prototype 1.0 Cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1iwe9hg/ancd_prototype_10_cyberdeck/#lightbox",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67d421a11a0931ad00cf1d25.png",
+      "originRaw": "https://scrapbox.io/files/67d421a11a0931ad00cf1d25.png",
+      "id": "sha256:92bfabb89f75d9216d43d51d4a518a12092107cec6139f80c13866dd27ba7fa3",
+      "status": "ok",
+      "width": 1080,
+      "height": 1439,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/92/92bfabb89f75d9216d43d51d4a518a12092107cec6139f80c13866dd27ba7fa3.thumb.webp",
+        "full": "img/92/92bfabb89f75d9216d43d51d4a518a12092107cec6139f80c13866dd27ba7fa3.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:49.040Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/ANCD%20Prototype%201.0%20Cyberdeck",
+    "created": "2025-03-14T12:31:29.000Z",
+    "updated": "2025-03-14T12:31:43.000Z",
+    "views": 6,
+    "thumbnail": "https://scrapbox.io/files/67d421a11a0931ad00cf1d25.png"
+  }
+}

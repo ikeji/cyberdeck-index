@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "69fdf3f27ab2d494485776e2",
+  "title": "DataCase got a lick of paint",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1t6h1kw/datacase_got_a_lick_of_paint/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/de672005e3735f75b89a1f54804374ed",
+      "originRaw": "https://gyazo.com/de672005e3735f75b89a1f54804374ed/raw",
+      "id": "sha256:1de2b6be8338bc4807f5e6cf8ace7eb70d2d3f253cc437501023fb8ccd066b2c",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1d/1de2b6be8338bc4807f5e6cf8ace7eb70d2d3f253cc437501023fb8ccd066b2c.thumb.webp",
+        "full": "img/1d/1de2b6be8338bc4807f5e6cf8ace7eb70d2d3f253cc437501023fb8ccd066b2c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:11.402Z"
+    },
+    {
+      "origin": "https://gyazo.com/2b7635a1fc10a20ac567ebfde165cdee",
+      "originRaw": "https://gyazo.com/2b7635a1fc10a20ac567ebfde165cdee/raw",
+      "id": "sha256:368463715e781608ed2e22472ed98a62d619ee33d2baea8303695570fb94ab23",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/36/368463715e781608ed2e22472ed98a62d619ee33d2baea8303695570fb94ab23.thumb.webp",
+        "full": "img/36/368463715e781608ed2e22472ed98a62d619ee33d2baea8303695570fb94ab23.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:13.580Z"
+    },
+    {
+      "origin": "https://gyazo.com/aa03e0ea52f0e8dfc79dac76f1d5edb3",
+      "originRaw": "https://gyazo.com/aa03e0ea52f0e8dfc79dac76f1d5edb3/raw",
+      "id": "sha256:8779a6b8cf5dfdb07b14bece4c4d5724e55f023577ad1a3cdb067feaf9c582af",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/87/8779a6b8cf5dfdb07b14bece4c4d5724e55f023577ad1a3cdb067feaf9c582af.thumb.webp",
+        "full": "img/87/8779a6b8cf5dfdb07b14bece4c4d5724e55f023577ad1a3cdb067feaf9c582af.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:15.676Z"
+    },
+    {
+      "origin": "https://gyazo.com/a305865079a186f43874a8376169456b",
+      "originRaw": "https://gyazo.com/a305865079a186f43874a8376169456b/raw",
+      "id": "sha256:ac5871e9ee18857d67ed1d719507b1561fe2529a6b0a32c02fcacea30fffc02d",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ac/ac5871e9ee18857d67ed1d719507b1561fe2529a6b0a32c02fcacea30fffc02d.thumb.webp",
+        "full": "img/ac/ac5871e9ee18857d67ed1d719507b1561fe2529a6b0a32c02fcacea30fffc02d.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:17.780Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/DataCase%20got%20a%20lick%20of%20paint",
+    "created": "2026-05-08T14:32:22.000Z",
+    "updated": "2026-05-08T14:32:53.000Z",
+    "views": 2,
+    "thumbnail": "https://gyazo.com/de672005e3735f75b89a1f54804374ed/raw"
+  }
+}

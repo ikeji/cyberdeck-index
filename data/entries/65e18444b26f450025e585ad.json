@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18444b26f450025e585ad",
+  "title": "Кибердек RA01 : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/ogwtfv/%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B4%D0%B5%D0%BA_ra01/",
+    "site": "reddit",
+    "label": "Кибердек RA01 : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18448f78195002456352c.png",
+      "originRaw": "https://scrapbox.io/files/65e18448f78195002456352c.png",
+      "id": "sha256:7e3388216d8ecfece7de037d13e446bf112680ed4bd12e57110bd106c718bf5c",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7e/7e3388216d8ecfece7de037d13e446bf112680ed4bd12e57110bd106c718bf5c.thumb.webp",
+        "full": "img/7e/7e3388216d8ecfece7de037d13e446bf112680ed4bd12e57110bd106c718bf5c.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:25.699Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D0%B4%D0%B5%D0%BA%20RA01%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:31:17.000Z",
+    "updated": "2024-03-01T07:31:24.000Z",
+    "views": 9,
+    "thumbnail": "https://scrapbox.io/files/65e18448f78195002456352c.png"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "698f2efaea324f7a6b366ddb",
+  "title": "Version 3 of My CyberPlug Cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1qodr2z/version_3_of_my_cyberplug_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/6d527f3ba8b6600b785282958008f6d0",
+      "originRaw": "https://gyazo.com/6d527f3ba8b6600b785282958008f6d0/raw",
+      "id": "sha256:efbc19ce28c3a2b09ac834ad2b84d079f4448ea5d406e8667e9a6ba8c5058b1f",
+      "status": "ok",
+      "width": 640,
+      "height": 851,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ef/efbc19ce28c3a2b09ac834ad2b84d079f4448ea5d406e8667e9a6ba8c5058b1f.thumb.webp",
+        "full": "img/ef/efbc19ce28c3a2b09ac834ad2b84d079f4448ea5d406e8667e9a6ba8c5058b1f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:23.536Z"
+    },
+    {
+      "origin": "https://gyazo.com/4f4d8b5c7c6ac56a8d941eec6ba1deeb",
+      "originRaw": "https://gyazo.com/4f4d8b5c7c6ac56a8d941eec6ba1deeb/raw",
+      "id": "sha256:c87bb50858259fe125b0fdbcc297c3bf4fbe8ec684f4a76a4ace6f44266f1724",
+      "status": "ok",
+      "width": 1080,
+      "height": 812,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c8/c87bb50858259fe125b0fdbcc297c3bf4fbe8ec684f4a76a4ace6f44266f1724.thumb.webp",
+        "full": "img/c8/c87bb50858259fe125b0fdbcc297c3bf4fbe8ec684f4a76a4ace6f44266f1724.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:25.734Z"
+    },
+    {
+      "origin": "https://gyazo.com/84c05756f8e6b5a5391416f8be28fdf4",
+      "originRaw": "https://gyazo.com/84c05756f8e6b5a5391416f8be28fdf4/raw",
+      "id": "sha256:8ab23ebd9ba17ea47e24177af754978a613db36bedd4115cb38f0dc1f0d3e7f3",
+      "status": "ok",
+      "width": 1080,
+      "height": 1436,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/8a/8ab23ebd9ba17ea47e24177af754978a613db36bedd4115cb38f0dc1f0d3e7f3.thumb.webp",
+        "full": "img/8a/8ab23ebd9ba17ea47e24177af754978a613db36bedd4115cb38f0dc1f0d3e7f3.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:27.867Z"
+    },
+    {
+      "origin": "https://gyazo.com/c81239b71c3d478fb62af1dcee25c9ce",
+      "originRaw": "https://gyazo.com/c81239b71c3d478fb62af1dcee25c9ce/raw",
+      "id": "sha256:94fc74245dbe39cd1d11a961b3aaabcf08df204fc4eac7b0f7298f31deb2ef6a",
+      "status": "ok",
+      "width": 1080,
+      "height": 1436,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/94/94fc74245dbe39cd1d11a961b3aaabcf08df204fc4eac7b0f7298f31deb2ef6a.thumb.webp",
+        "full": "img/94/94fc74245dbe39cd1d11a961b3aaabcf08df204fc4eac7b0f7298f31deb2ef6a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:29.769Z"
+    },
+    {
+      "origin": "https://gyazo.com/bc8d98d39d5951f82775c38f74f007a5",
+      "originRaw": "https://gyazo.com/bc8d98d39d5951f82775c38f74f007a5/raw",
+      "id": "sha256:0481580b9efa10db81b7671edb745e66fbe3f61292de8ccc201b80a9991b9b23",
+      "status": "ok",
+      "width": 1280,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/04/0481580b9efa10db81b7671edb745e66fbe3f61292de8ccc201b80a9991b9b23.thumb.webp",
+        "full": "img/04/0481580b9efa10db81b7671edb745e66fbe3f61292de8ccc201b80a9991b9b23.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:31.814Z"
+    },
+    {
+      "origin": "https://gyazo.com/262ea0c73e1cde084ceeceeecc87e10f",
+      "originRaw": "https://gyazo.com/262ea0c73e1cde084ceeceeecc87e10f/raw",
+      "id": "sha256:488b518e0914f37918f597453d70fefd91247608a539f8d295a06822047c7844",
+      "status": "ok",
+      "width": 1080,
+      "height": 685,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/48/488b518e0914f37918f597453d70fefd91247608a539f8d295a06822047c7844.thumb.webp",
+        "full": "img/48/488b518e0914f37918f597453d70fefd91247608a539f8d295a06822047c7844.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:33.802Z"
+    }
+  ],
+  "tags": [
+    "IKeJIのおすすめ"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Version%203%20of%20My%20CyberPlug%20Cyberdeck",
+    "created": "2026-02-13T14:02:46.000Z",
+    "updated": "2026-05-08T14:38:51.000Z",
+    "views": 17,
+    "thumbnail": "https://gyazo.com/6d527f3ba8b6600b785282958008f6d0/raw"
+  }
+}

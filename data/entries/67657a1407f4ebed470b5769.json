@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67657a1407f4ebed470b5769",
+  "title": "All The Bits Finally Arrived!",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1hctw9f/all_the_bits_finally_arrived/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67657a249747a83aaf32f4f9.png",
+      "originRaw": "https://scrapbox.io/files/67657a249747a83aaf32f4f9.png",
+      "id": "sha256:679a0448dfeb7d7167b369777b1d7e76af2956be6b886ff9a250cc6fa771cbf0",
+      "status": "ok",
+      "width": 1069,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/67/679a0448dfeb7d7167b369777b1d7e76af2956be6b886ff9a250cc6fa771cbf0.thumb.webp",
+        "full": "img/67/679a0448dfeb7d7167b369777b1d7e76af2956be6b886ff9a250cc6fa771cbf0.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:34.097Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/All%20The%20Bits%20Finally%20Arrived!",
+    "created": "2024-12-20T14:07:24.000Z",
+    "updated": "2024-12-20T14:07:42.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/67657a249747a83aaf32f4f9.png"
+  }
+}

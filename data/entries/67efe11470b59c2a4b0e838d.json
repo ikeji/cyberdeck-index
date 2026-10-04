@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67efe11470b59c2a4b0e838d",
+  "title": "EPI173 (Eliinc.)",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1jiv3wi/epi173_eliinc/",
+    "site": "reddit",
+    "label": "EPI173 (Eliinc.) : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67efe11c49537bcbc719f822.png",
+      "originRaw": "https://scrapbox.io/files/67efe11c49537bcbc719f822.png",
+      "id": "sha256:756bb37954d18f81857883645cbfc2ec9b0179c25045609c087eb77049da060d",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/75/756bb37954d18f81857883645cbfc2ec9b0179c25045609c087eb77049da060d.thumb.webp",
+        "full": "img/75/756bb37954d18f81857883645cbfc2ec9b0179c25045609c087eb77049da060d.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:52.224Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/EPI173%20(Eliinc.)",
+    "created": "2025-04-04T13:39:37.000Z",
+    "updated": "2025-04-04T13:39:44.000Z",
+    "views": 14,
+    "thumbnail": "https://scrapbox.io/files/67efe11c49537bcbc719f822.png"
+  }
+}

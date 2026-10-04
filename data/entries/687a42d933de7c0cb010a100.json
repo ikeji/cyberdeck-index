@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "687a42d933de7c0cb010a100",
+  "title": "CyberT. - Raspberry Pi CM4 Terminal - Beta",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1lq6p4i/cybert_raspberry_pi_cm4_terminal_beta/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/9d598c179f1e40872889f6a203c04591",
+      "originRaw": "https://gyazo.com/9d598c179f1e40872889f6a203c04591/raw",
+      "id": "sha256:7dc88eb4fe10172008c5c0784be39f1a255197ec174fbf095c72dc47d8f7f655",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7d/7dc88eb4fe10172008c5c0784be39f1a255197ec174fbf095c72dc47d8f7f655.thumb.webp",
+        "full": "img/7d/7dc88eb4fe10172008c5c0784be39f1a255197ec174fbf095c72dc47d8f7f655.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:11.188Z"
+    },
+    {
+      "origin": "https://gyazo.com/19e3235a891c78bc8af54c2a51ad0e14",
+      "originRaw": "https://gyazo.com/19e3235a891c78bc8af54c2a51ad0e14/raw",
+      "id": "sha256:ff0af5506c32a026d7279edeab49bcd1f875f2838cfa3c3a6968d49784fc6891",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ff/ff0af5506c32a026d7279edeab49bcd1f875f2838cfa3c3a6968d49784fc6891.thumb.webp",
+        "full": "img/ff/ff0af5506c32a026d7279edeab49bcd1f875f2838cfa3c3a6968d49784fc6891.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:13.085Z"
+    },
+    {
+      "origin": "https://gyazo.com/bd70902fd5592d32dd571de841a008b2",
+      "originRaw": "https://gyazo.com/bd70902fd5592d32dd571de841a008b2/raw",
+      "id": "sha256:f648782f2753704e34e4be3fb7dd5c289d72e444126cdf90bf2be0ed8700113c",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f6/f648782f2753704e34e4be3fb7dd5c289d72e444126cdf90bf2be0ed8700113c.thumb.webp",
+        "full": "img/f6/f648782f2753704e34e4be3fb7dd5c289d72e444126cdf90bf2be0ed8700113c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:14.831Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/CyberT.%20-%20Raspberry%20Pi%20CM4%20Terminal%20-%20Beta",
+    "created": "2025-07-18T12:49:32.000Z",
+    "updated": "2025-07-18T12:50:03.000Z",
+    "views": 6,
+    "thumbnail": "https://gyazo.com/9d598c179f1e40872889f6a203c04591/raw"
+  }
+}

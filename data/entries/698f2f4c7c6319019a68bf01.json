@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "698f2f4c7c6319019a68bf01",
+  "title": "Depression Ashen Concrete Gray (Palmtop XFCemmunicatior update)",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1qmteru/depression_ashen_concrete_gray_palmtop/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/0e9b2711bbaac049cfd5f81c3fa60f23",
+      "originRaw": "https://gyazo.com/0e9b2711bbaac049cfd5f81c3fa60f23/raw",
+      "id": "sha256:7fbe0e186e8a2c5086afc249dd9738856cf13c07e34580bae408900587c40f88",
+      "status": "ok",
+      "width": 640,
+      "height": 480,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7f/7fbe0e186e8a2c5086afc249dd9738856cf13c07e34580bae408900587c40f88.thumb.webp",
+        "full": "img/7f/7fbe0e186e8a2c5086afc249dd9738856cf13c07e34580bae408900587c40f88.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:35.500Z"
+    },
+    {
+      "origin": "https://gyazo.com/cf023ca4c6f33c00a1c76991b7754f97",
+      "originRaw": "https://gyazo.com/cf023ca4c6f33c00a1c76991b7754f97/raw",
+      "id": "sha256:c3cc241795f6123f6acb28554f757e70d15059ee40718cf32b2267f42ec84b9d",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c3/c3cc241795f6123f6acb28554f757e70d15059ee40718cf32b2267f42ec84b9d.thumb.webp",
+        "full": "img/c3/c3cc241795f6123f6acb28554f757e70d15059ee40718cf32b2267f42ec84b9d.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:37.834Z"
+    }
+  ],
+  "tags": [],
+  "related": [
+    "Preview: Palmtop INDUSTRIAL Kommunicator v0.9"
+  ],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Depression%20Ashen%20Concrete%20Gray%20(Palmtop%20XFCemmunicatior%20update)",
+    "created": "2026-02-13T14:04:03.000Z",
+    "updated": "2026-02-13T14:06:26.000Z",
+    "views": 6,
+    "thumbnail": "https://gyazo.com/0e9b2711bbaac049cfd5f81c3fa60f23/raw"
+  }
+}

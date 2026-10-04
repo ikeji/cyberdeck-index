@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "693c24aac65cb1c9b623f143",
+  "title": "Found this amazing Brazil inspired console on X",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1phc2n4/found_this_amazing_brazil_inspired_console_on_x/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/8294eb6e054aae42cfa20ff1e60f4503",
+      "originRaw": "https://gyazo.com/8294eb6e054aae42cfa20ff1e60f4503/raw",
+      "id": "sha256:de7d8cca3f5d4fb83cd1e8ece3256a9f5e518aba947b15f4f64850a8fcee5b8c",
+      "status": "ok",
+      "width": 640,
+      "height": 1067,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/de/de7d8cca3f5d4fb83cd1e8ece3256a9f5e518aba947b15f4f64850a8fcee5b8c.thumb.webp",
+        "full": "img/de/de7d8cca3f5d4fb83cd1e8ece3256a9f5e518aba947b15f4f64850a8fcee5b8c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:57.668Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Found%20this%20amazing%20Brazil%20inspired%20console%20on%20X",
+    "created": "2025-12-12T14:20:29.000Z",
+    "updated": "2025-12-12T14:20:41.000Z",
+    "views": 6,
+    "thumbnail": "https://gyazo.com/8294eb6e054aae42cfa20ff1e60f4503/raw"
+  }
+}

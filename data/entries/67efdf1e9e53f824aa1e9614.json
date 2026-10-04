@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67efdf1e9e53f824aa1e9614",
+  "title": "My first attempt making one of these. Next step is making it portable.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1jbj53f/my_first_attempt_making_one_of_these_next_step_is/",
+    "site": "reddit",
+    "label": "My first attempt making one of these. Next step is making it portable. : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67efdf33404c680c3c6da327.png",
+      "originRaw": "https://scrapbox.io/files/67efdf33404c680c3c6da327.png",
+      "id": "sha256:a9b00250390f6c14d58b00b70671f9a86ede6221836abec2036b7d87b6b85612",
+      "status": "ok",
+      "width": 1600,
+      "height": 1513,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a9/a9b00250390f6c14d58b00b70671f9a86ede6221836abec2036b7d87b6b85612.thumb.webp",
+        "full": "img/a9/a9b00250390f6c14d58b00b70671f9a86ede6221836abec2036b7d87b6b85612.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:51.120Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20first%20attempt%20making%20one%20of%20these.%20Next%20step%20is%20making%20it%20portable.",
+    "created": "2025-04-04T13:31:17.000Z",
+    "updated": "2025-04-04T13:31:51.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/67efdf33404c680c3c6da327.png"
+  }
+}

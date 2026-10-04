@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad4b12d2243001db8e980",
+  "title": "CybernatorDeck : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1cexm1f/cybernatordeck/",
+    "site": "reddit",
+    "label": "CybernatorDeck : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad4b5c75173001c7c1042.png",
+      "originRaw": "https://scrapbox.io/files/66cad4b5c75173001c7c1042.png",
+      "id": "sha256:201cf34bc9e0f322daaf9d8918f6eea5f78dff35bb82b920c33e5ab4b0272adc",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/20/201cf34bc9e0f322daaf9d8918f6eea5f78dff35bb82b920c33e5ab4b0272adc.thumb.webp",
+        "full": "img/20/201cf34bc9e0f322daaf9d8918f6eea5f78dff35bb82b920c33e5ab4b0272adc.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:07.871Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/CybernatorDeck%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:52:33.000Z",
+    "updated": "2024-08-25T06:52:40.000Z",
+    "views": 6,
+    "thumbnail": "https://scrapbox.io/files/66cad4b5c75173001c7c1042.png"
+  }
+}

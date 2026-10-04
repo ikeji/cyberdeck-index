@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6ca0c920dfd147a905897f",
+  "title": "Modular ESP32-S3 Pocket Computer for Gaming, Music, and PDA Stuff (and maybe SSH)",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1v2ua06/modular_esp32s3_pocket_computer_for_gaming_music/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/30ea9d4f4a7033ef1dcaf0cc4d3be0dd",
+      "originRaw": "https://gyazo.com/30ea9d4f4a7033ef1dcaf0cc4d3be0dd/raw",
+      "id": "sha256:baa53e29d24ab43c7fa812bee10cadd24490c5bc2913bb929bf6b2135ae042bc",
+      "status": "ok",
+      "width": 480,
+      "height": 360,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ba/baa53e29d24ab43c7fa812bee10cadd24490c5bc2913bb929bf6b2135ae042bc.thumb.webp",
+        "full": "img/ba/baa53e29d24ab43c7fa812bee10cadd24490c5bc2913bb929bf6b2135ae042bc.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:15.821Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Modular%20ESP32-S3%20Pocket%20Computer%20for%20Gaming%2C%20Music%2C%20and%20PDA%20Stuff%20(and%20maybe%20SSH)",
+    "created": "2026-07-31T13:19:16.000Z",
+    "updated": "2026-07-31T13:20:15.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/30ea9d4f4a7033ef1dcaf0cc4d3be0dd/raw"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "672e0536685e9fd92bb5085b",
+  "title": "Made a Cyberpunk: Edgerunners themed cyberdeck. Then transformed into the first Cyberdeck in history that doesn't make TSA agents soil themselves. I call it the Britney-deck.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1gheukj/made_a_cyberpunk_edgerunners_themed_cyberdeck/#lightbox",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/672e058d5e6786b63d9a2913.png",
+      "originRaw": "https://scrapbox.io/files/672e058d5e6786b63d9a2913.png",
+      "id": "sha256:166fe229da6e2631cf58892097abe8e2fc1f124451d846c76a616e92e5765f2b",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/16/166fe229da6e2631cf58892097abe8e2fc1f124451d846c76a616e92e5765f2b.thumb.webp",
+        "full": "img/16/166fe229da6e2631cf58892097abe8e2fc1f124451d846c76a616e92e5765f2b.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:27.342Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Made%20a%20Cyberpunk%3A%20Edgerunners%20themed%20cyberdeck.%20Then%20transformed%20into%20the%20first%20Cyberdeck%20in%20history%20that%20doesn't%20make%20TSA%20agents%20soil%20themselves.%20I%20call%20it%20the%20Britney-deck.",
+    "created": "2024-11-08T12:35:27.000Z",
+    "updated": "2024-11-08T12:35:40.000Z",
+    "views": 1,
+    "thumbnail": "https://scrapbox.io/files/672e058d5e6786b63d9a2913.png"
+  }
+}

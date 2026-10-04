@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "6aa3fef23439a95f0448094f",
+  "title": "A small transportable PC, refurbished from an old laptop motherboard / 3D printed case",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1wbnrd4/a_small_transportable_pc_refurbished_from_an_old/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/b6745657d79b2e37b3e0eefcb99a1b66",
+      "originRaw": "https://gyazo.com/b6745657d79b2e37b3e0eefcb99a1b66/raw",
+      "id": "sha256:d944c48cfc1df2162c66ebf16eafa1ce25fffa44c81596abd74859fa8c645541",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d9/d944c48cfc1df2162c66ebf16eafa1ce25fffa44c81596abd74859fa8c645541.thumb.webp",
+        "full": "img/d9/d944c48cfc1df2162c66ebf16eafa1ce25fffa44c81596abd74859fa8c645541.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:09.904Z"
+    },
+    {
+      "origin": "https://gyazo.com/197ede21fb525e816a6c873756067765",
+      "originRaw": "https://gyazo.com/197ede21fb525e816a6c873756067765/raw",
+      "id": "sha256:436acedfe3e926c49d54a1cb7dc6d5be2d3236ba31183482f832ad76149593fb",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/43/436acedfe3e926c49d54a1cb7dc6d5be2d3236ba31183482f832ad76149593fb.thumb.webp",
+        "full": "img/43/436acedfe3e926c49d54a1cb7dc6d5be2d3236ba31183482f832ad76149593fb.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:12.050Z"
+    },
+    {
+      "origin": "https://gyazo.com/43fa5149e1a956967b9b0a4253b10f52",
+      "originRaw": "https://gyazo.com/43fa5149e1a956967b9b0a4253b10f52/raw",
+      "id": "sha256:94d79cb964bcec8bbc0f65c674339495c3536f579da36163b7b0a8fa71842d65",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/94/94d79cb964bcec8bbc0f65c674339495c3536f579da36163b7b0a8fa71842d65.thumb.webp",
+        "full": "img/94/94d79cb964bcec8bbc0f65c674339495c3536f579da36163b7b0a8fa71842d65.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:14.184Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/A%20small%20transportable%20PC%2C%20refurbished%20from%20an%20old%20laptop%20motherboard%20%2F%203D%20printed%20case",
+    "created": "2026-09-11T13:15:33.000Z",
+    "updated": "2026-09-11T13:16:29.000Z",
+    "views": 0,
+    "thumbnail": "https://gyazo.com/b6745657d79b2e37b3e0eefcb99a1b66/raw"
+  }
+}

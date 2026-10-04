@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e185921ba5bf0025deed44",
+  "title": "EdgeProMX keyboard with WiFi/BLE : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/z7yv54/edgepromx_keyboard_with_wifible/",
+    "site": "reddit",
+    "label": "EdgeProMX keyboard with WiFi/BLE : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18595d642cd0024869a06.png",
+      "originRaw": "https://scrapbox.io/files/65e18595d642cd0024869a06.png",
+      "id": "sha256:01af8d31e970f649006b162358c8495cc9d8767ec2c0a52192305967028caac2",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/01/01af8d31e970f649006b162358c8495cc9d8767ec2c0a52192305967028caac2.thumb.webp",
+        "full": "img/01/01af8d31e970f649006b162358c8495cc9d8767ec2c0a52192305967028caac2.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:30.199Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/EdgeProMX%20keyboard%20with%20WiFi%2FBLE%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:36:51.000Z",
+    "updated": "2024-03-01T07:36:57.000Z",
+    "views": 8,
+    "thumbnail": "https://scrapbox.io/files/65e18595d642cd0024869a06.png"
+  }
+}

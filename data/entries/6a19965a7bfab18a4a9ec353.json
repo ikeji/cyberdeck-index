@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6a19965a7bfab18a4a9ec353",
+  "title": "Punch Card Controlled Cyberdeck Lives In 80s Toy",
+  "source": {
+    "url": "https://hackaday.com/2025/07/19/punch-card-controlled-cyberdeck-lives-in-80s-toy/",
+    "site": "hackaday",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/cea175be32733a8f54e0208324d1e31f",
+      "originRaw": "https://gyazo.com/cea175be32733a8f54e0208324d1e31f/raw",
+      "id": "sha256:630683ccaa1e1b266581988aaa6f13b1aaf53b8afb9d2c4f3053ede859340b39",
+      "status": "ok",
+      "width": 800,
+      "height": 450,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/63/630683ccaa1e1b266581988aaa6f13b1aaf53b8afb9d2c4f3053ede859340b39.thumb.webp",
+        "full": "img/63/630683ccaa1e1b266581988aaa6f13b1aaf53b8afb9d2c4f3053ede859340b39.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:22.157Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Punch%20Card%20Controlled%20Cyberdeck%20Lives%20In%2080s%20Toy",
+    "created": "2026-05-29T13:36:35.000Z",
+    "updated": "2026-05-29T13:36:46.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/cea175be32733a8f54e0208324d1e31f/raw"
+  }
+}

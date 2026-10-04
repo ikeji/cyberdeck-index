@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6842eb90f69903cca8ec724a",
+  "title": "VERTICAL RUNNER: Inside my custom cyberdeck build",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1kvu4q7/vertical_runner_inside_my_custom_cyberdeck_build/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/2923e7808d39b1a12c4d4ebe914a4afd",
+      "originRaw": "https://gyazo.com/2923e7808d39b1a12c4d4ebe914a4afd/raw",
+      "id": "sha256:83ee35661f306b51cad3507b091ce4a9f18d5480758d7afc277908a33ca08628",
+      "status": "ok",
+      "width": 480,
+      "height": 360,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/83/83ee35661f306b51cad3507b091ce4a9f18d5480758d7afc277908a33ca08628.thumb.webp",
+        "full": "img/83/83ee35661f306b51cad3507b091ce4a9f18d5480758d7afc277908a33ca08628.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:21.800Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/VERTICAL%20RUNNER%3A%20Inside%20my%20custom%20cyberdeck%20build",
+    "created": "2025-06-06T13:22:27.000Z",
+    "updated": "2025-06-06T13:23:51.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/2923e7808d39b1a12c4d4ebe914a4afd/raw"
+  }
+}

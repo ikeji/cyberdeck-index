@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66f6ac5a49d515001d0e2bad",
+  "title": "RPI 5 Cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1f7mvm4/rpi_5_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66f6ac67f480c2001dc4344f.png",
+      "originRaw": "https://scrapbox.io/files/66f6ac67f480c2001dc4344f.png",
+      "id": "sha256:aedf1e2eff45110730089ffe0134988067b02b85c3b9d1e22b08e7b4aa947f2c",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ae/aedf1e2eff45110730089ffe0134988067b02b85c3b9d1e22b08e7b4aa947f2c.thumb.webp",
+        "full": "img/ae/aedf1e2eff45110730089ffe0134988067b02b85c3b9d1e22b08e7b4aa947f2c.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:18.869Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/RPI%205%20Cyberdeck",
+    "created": "2024-09-27T13:00:14.000Z",
+    "updated": "2024-09-27T13:00:27.000Z",
+    "views": 11,
+    "thumbnail": "https://scrapbox.io/files/66f6ac67f480c2001dc4344f.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67efe180bbdf12cafb0da883",
+  "title": "MeshDeck I made for Meshtastic remote administration, deployment, maintenance, and firmware recovery",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1jkxem0/meshdeck_i_made_for_meshtastic_remote/",
+    "site": "reddit",
+    "label": "MeshDeck I made for Meshtastic remote administration, deployment, maintenance, and firmware recovery. Its also a toolbox. : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67efe186135cb053cbcc9c18.png",
+      "originRaw": "https://scrapbox.io/files/67efe186135cb053cbcc9c18.png",
+      "id": "sha256:5c25b5b00510d585dfcd519843496a0e2c8a7216a515222772df819c39360e70",
+      "status": "ok",
+      "width": 930,
+      "height": 1240,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5c/5c25b5b00510d585dfcd519843496a0e2c8a7216a515222772df819c39360e70.thumb.webp",
+        "full": "img/5c/5c25b5b00510d585dfcd519843496a0e2c8a7216a515222772df819c39360e70.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:53.163Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/MeshDeck%20I%20made%20for%20Meshtastic%20remote%20administration%2C%20deployment%2C%20maintenance%2C%20and%20firmware%20recovery",
+    "created": "2025-04-04T13:41:21.000Z",
+    "updated": "2025-04-04T13:41:31.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/67efe186135cb053cbcc9c18.png"
+  }
+}

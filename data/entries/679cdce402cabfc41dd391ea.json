@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "679cdce402cabfc41dd391ea",
+  "title": "First Cyberdeck (mostly) complete. : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ibtgi2/first_cyberdeck_mostly_complete/",
+    "site": "reddit",
+    "label": "First Cyberdeck (mostly) complete. : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/679cdce7495740b9cea239f0.png",
+      "originRaw": "https://scrapbox.io/files/679cdce7495740b9cea239f0.png",
+      "id": "sha256:a3843e771ea3c946dc1d8f2687805babd5623aee278e7498ecf86eb9125f318e",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a3/a3843e771ea3c946dc1d8f2687805babd5623aee278e7498ecf86eb9125f318e.thumb.webp",
+        "full": "img/a3/a3843e771ea3c946dc1d8f2687805babd5623aee278e7498ecf86eb9125f318e.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:38.255Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/First%20Cyberdeck%20(mostly)%20complete.%20%3A%20r%2FcyberDeck",
+    "created": "2025-01-31T14:23:33.000Z",
+    "updated": "2025-01-31T14:23:40.000Z",
+    "views": 9,
+    "thumbnail": "https://scrapbox.io/files/679cdce7495740b9cea239f0.png"
+  }
+}

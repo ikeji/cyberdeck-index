@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "6abfefae14513add58b97128",
+  "title": "My first CyberDeck 3Meet TERM512 — Turning the CardputerADV into a dual-screen cyberdeck for AREA512",
+  "source": {
+    "url": "https://www.reddit.com/r/CardPuter/comments/1wn6zjf/meet_term512_turning_the_cardputeradv_into_a/[https://gyazo.com/77fdcd214b7202586e25596caf887404]",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/e75cf3abdeab96c1ab23b936ff2859e8",
+      "originRaw": "https://gyazo.com/e75cf3abdeab96c1ab23b936ff2859e8/raw",
+      "id": "sha256:d95080f3d405ad4c6836fa1e141f639b5d023abc3be8b66d53f66160c33a21df",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d9/d95080f3d405ad4c6836fa1e141f639b5d023abc3be8b66d53f66160c33a21df.thumb.webp",
+        "full": "img/d9/d95080f3d405ad4c6836fa1e141f639b5d023abc3be8b66d53f66160c33a21df.webp"
+      },
+      "fetchedAt": "2026-10-02T18:19:11.665Z"
+    },
+    {
+      "origin": "https://gyazo.com/cb67bb6ae372c8ed3bbb7b2d0f35a0ae",
+      "originRaw": "https://gyazo.com/cb67bb6ae372c8ed3bbb7b2d0f35a0ae/raw",
+      "id": "sha256:ab1a1c869304f8aa7e28b40819d51740edb5cd8579036e9dd571d412ac0d61e1",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ab/ab1a1c869304f8aa7e28b40819d51740edb5cd8579036e9dd571d412ac0d61e1.thumb.webp",
+        "full": "img/ab/ab1a1c869304f8aa7e28b40819d51740edb5cd8579036e9dd571d412ac0d61e1.webp"
+      },
+      "fetchedAt": "2026-10-02T18:19:11.940Z"
+    },
+    {
+      "origin": "https://gyazo.com/c9f0de794aad2efe5fbef373c70c4f62",
+      "originRaw": "https://gyazo.com/c9f0de794aad2efe5fbef373c70c4f62/raw",
+      "id": "sha256:e15ae2286d2e967d4470362b10e2bfc2d1c8e6af6b60c2e7fa7bc4532ba43840",
+      "status": "ok",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e1/e15ae2286d2e967d4470362b10e2bfc2d1c8e6af6b60c2e7fa7bc4532ba43840.thumb.webp",
+        "full": "img/e1/e15ae2286d2e967d4470362b10e2bfc2d1c8e6af6b60c2e7fa7bc4532ba43840.webp"
+      },
+      "fetchedAt": "2026-10-02T18:19:15.039Z"
+    },
+    {
+      "origin": "https://gyazo.com/2da40ac2bc53c6f37b80c9dd07761849",
+      "originRaw": "https://gyazo.com/2da40ac2bc53c6f37b80c9dd07761849/raw",
+      "id": "sha256:e509a030b417bc753ee53f4de722b1b752d2d5c6443855cb35322d93150b6031",
+      "status": "ok",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e5/e509a030b417bc753ee53f4de722b1b752d2d5c6443855cb35322d93150b6031.thumb.webp",
+        "full": "img/e5/e509a030b417bc753ee53f4de722b1b752d2d5c6443855cb35322d93150b6031.webp"
+      },
+      "fetchedAt": "2026-10-02T18:19:14.767Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20first%20CyberDeck%203Meet%20TERM512%20%E2%80%94%20Turning%20the%20CardputerADV%20into%20a%20dual-screen%20cyberdeck%20for%20AREA512",
+    "created": "2026-10-02T17:53:53.000Z",
+    "updated": "2026-10-02T17:54:23.000Z",
+    "views": 0,
+    "thumbnail": "https://gyazo.com/e75cf3abdeab96c1ab23b936ff2859e8/raw"
+  }
+}

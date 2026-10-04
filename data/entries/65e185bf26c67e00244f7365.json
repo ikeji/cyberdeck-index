@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e185bf26c67e00244f7365",
+  "title": "DIY eink typewriter deck + build guide : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/18macn7/diy_eink_typewriter_deck_build_guide/",
+    "site": "reddit",
+    "label": "DIY eink typewriter deck + build guide : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e185c3e5dc7a0024a38afd.png",
+      "originRaw": "https://scrapbox.io/files/65e185c3e5dc7a0024a38afd.png",
+      "id": "sha256:05d6c82c656077289fdb91c03bd0ff54b8d2f09f5b14c821bb1e00206e53be72",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/05/05d6c82c656077289fdb91c03bd0ff54b8d2f09f5b14c821bb1e00206e53be72.thumb.webp",
+        "full": "img/05/05d6c82c656077289fdb91c03bd0ff54b8d2f09f5b14c821bb1e00206e53be72.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:31.279Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/DIY%20eink%20typewriter%20deck%20%2B%20build%20guide%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:37:36.000Z",
+    "updated": "2024-03-01T07:37:42.000Z",
+    "views": 28,
+    "thumbnail": "https://scrapbox.io/files/65e185c3e5dc7a0024a38afd.png"
+  }
+}

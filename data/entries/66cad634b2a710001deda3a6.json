@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad634b2a710001deda3a6",
+  "title": "Sharge, or no Sharge? : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1e7lavp/sharge_or_no_sharge/",
+    "site": "reddit",
+    "label": "Sharge, or no Sharge? : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad636c7d954001c1d9d47.png",
+      "originRaw": "https://scrapbox.io/files/66cad636c7d954001c1d9d47.png",
+      "id": "sha256:7c6c2052b85fa79503992daf4f623f94d9aae2e94abb3a1cc3e91195e7369faf",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7c/7c6c2052b85fa79503992daf4f623f94d9aae2e94abb3a1cc3e91195e7369faf.thumb.webp",
+        "full": "img/7c/7c6c2052b85fa79503992daf4f623f94d9aae2e94abb3a1cc3e91195e7369faf.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:12.880Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Sharge%2C%20or%20no%20Sharge%3F%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:59:01.000Z",
+    "updated": "2024-08-25T06:59:05.000Z",
+    "views": 3,
+    "thumbnail": "https://scrapbox.io/files/66cad636c7d954001c1d9d47.png"
+  }
+}

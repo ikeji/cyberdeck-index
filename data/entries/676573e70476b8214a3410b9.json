@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "676573e70476b8214a3410b9",
+  "title": "My first full CyberDeck build!",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1h18wfz/my_first_full_cyberdeck_build/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6765744ea91b86ab0043f1c4.png",
+      "originRaw": "https://scrapbox.io/files/6765744ea91b86ab0043f1c4.png",
+      "id": "sha256:37e8df06420fc3ebcead2f3db944a2594f8c4c8ee8be1e3f9b3368de0cb7a52b",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/37/37e8df06420fc3ebcead2f3db944a2594f8c4c8ee8be1e3f9b3368de0cb7a52b.thumb.webp",
+        "full": "img/37/37e8df06420fc3ebcead2f3db944a2594f8c4c8ee8be1e3f9b3368de0cb7a52b.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:32.988Z"
+    },
+    {
+      "origin": "https://scrapbox.io/files/6765817b5602ae3475be4bae.png",
+      "originRaw": "https://scrapbox.io/files/6765817b5602ae3475be4bae.png",
+      "id": "sha256:f8212fbcee4c1a81f2aa7977686b954cd4d2c64e81fac989c4cf5d15705c5830",
+      "status": "ok",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f8/f8212fbcee4c1a81f2aa7977686b954cd4d2c64e81fac989c4cf5d15705c5830.thumb.webp",
+        "full": "img/f8/f8212fbcee4c1a81f2aa7977686b954cd4d2c64e81fac989c4cf5d15705c5830.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:33.824Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20first%20full%20CyberDeck%20build!",
+    "created": "2024-12-20T13:42:38.000Z",
+    "updated": "2024-12-20T14:39:00.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/6765744ea91b86ab0043f1c4.png"
+  }
+}

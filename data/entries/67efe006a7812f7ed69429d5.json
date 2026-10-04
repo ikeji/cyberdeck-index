@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67efe006a7812f7ed69429d5",
+  "title": "My cyberdeck arm",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1jdkcua/my_cyberdeck_arm/",
+    "site": "reddit",
+    "label": "My cyberdeck arm : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67efe010276a274f97ec0b5c.png",
+      "originRaw": "https://scrapbox.io/files/67efe010276a274f97ec0b5c.png",
+      "id": "sha256:f03f2b943f00196b146f2fb567bffcee4697867f626ae96324b1a6ce8d48f170",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f0/f03f2b943f00196b146f2fb567bffcee4697867f626ae96324b1a6ce8d48f170.thumb.webp",
+        "full": "img/f0/f03f2b943f00196b146f2fb567bffcee4697867f626ae96324b1a6ce8d48f170.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:49.860Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20cyberdeck%20arm",
+    "created": "2025-04-04T13:35:05.000Z",
+    "updated": "2025-04-04T13:35:17.000Z",
+    "views": 8,
+    "thumbnail": "https://scrapbox.io/files/67efe010276a274f97ec0b5c.png"
+  }
+}

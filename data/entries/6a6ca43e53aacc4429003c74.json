@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6ca43e53aacc4429003c74",
+  "title": "ESP32 cyberdeck I just finished",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ums216/esp32_cyberdeck_i_just_finished/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/4ab849134937df931aab11e6ea8df831",
+      "originRaw": "https://gyazo.com/4ab849134937df931aab11e6ea8df831/raw",
+      "id": "sha256:26108e89db4a8331782da87304b9465bb2f1da71540cffa7163a98ddfe5edd4a",
+      "status": "ok",
+      "width": 1080,
+      "height": 1075,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/26/26108e89db4a8331782da87304b9465bb2f1da71540cffa7163a98ddfe5edd4a.thumb.webp",
+        "full": "img/26/26108e89db4a8331782da87304b9465bb2f1da71540cffa7163a98ddfe5edd4a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:42.060Z"
+    },
+    {
+      "origin": "https://gyazo.com/4c3022c46f06bbfc482369ef77172231",
+      "originRaw": "https://gyazo.com/4c3022c46f06bbfc482369ef77172231/raw",
+      "id": "sha256:5f837e4a4b458432f8d5661f1a5502c8c3705f9ef0ce7ee6b738c34ab0ad3cd3",
+      "status": "ok",
+      "width": 1080,
+      "height": 1075,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5f/5f837e4a4b458432f8d5661f1a5502c8c3705f9ef0ce7ee6b738c34ab0ad3cd3.thumb.webp",
+        "full": "img/5f/5f837e4a4b458432f8d5661f1a5502c8c3705f9ef0ce7ee6b738c34ab0ad3cd3.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:44.209Z"
+    },
+    {
+      "origin": "https://gyazo.com/d671a634acea8e5cced3917999b1d17f",
+      "originRaw": "https://gyazo.com/d671a634acea8e5cced3917999b1d17f/raw",
+      "id": "sha256:9b869b90812a646b6b00271aa3635c67d6207a0af3ad9b889a90027a5215e5ed",
+      "status": "ok",
+      "width": 1080,
+      "height": 1075,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9b/9b869b90812a646b6b00271aa3635c67d6207a0af3ad9b889a90027a5215e5ed.thumb.webp",
+        "full": "img/9b/9b869b90812a646b6b00271aa3635c67d6207a0af3ad9b889a90027a5215e5ed.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:46.505Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/ESP32%20cyberdeck%20I%20just%20finished",
+    "created": "2026-07-31T13:33:56.000Z",
+    "updated": "2026-07-31T13:34:11.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/4ab849134937df931aab11e6ea8df831/raw"
+  }
+}

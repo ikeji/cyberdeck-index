@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6606e9c5e8a0ed0024bf1e7d",
+  "title": "Ontos x64 V2, it’s a monster. : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1bnzpr6/ontos_x64_v2_its_a_monster/",
+    "site": "reddit",
+    "label": "Ontos x64 V2, it’s a monster. : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6606e9c8c303cf00253fced5.png",
+      "originRaw": "https://scrapbox.io/files/6606e9c8c303cf00253fced5.png",
+      "id": "sha256:16999a19048c5e57dc13122e26b8886aada5b75457730455cb1998ea395835d3",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/16/16999a19048c5e57dc13122e26b8886aada5b75457730455cb1998ea395835d3.thumb.webp",
+        "full": "img/16/16999a19048c5e57dc13122e26b8886aada5b75457730455cb1998ea395835d3.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:55.897Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Ontos%20x64%20V2%2C%20it%E2%80%99s%20a%20monster.%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-29T16:18:14.000Z",
+    "updated": "2024-03-29T16:18:21.000Z",
+    "views": 18,
+    "thumbnail": "https://scrapbox.io/files/6606e9c8c303cf00253fced5.png"
+  }
+}

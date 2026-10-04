@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "68e913c90587bd43bf2fa760",
+  "title": "Released mutantC v5, release version 5.1",
+  "source": {
+    "url": "https://www.reddit.com/r/mutantC/comments/1ny2ewp/released_mutantc_v5_release_version_51/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/fcd8180e2a447a4c2f02b885f8191f19",
+      "originRaw": "https://gyazo.com/fcd8180e2a447a4c2f02b885f8191f19/raw",
+      "id": "sha256:000b173fd031953879464e5816770d038729cab11faeaaab1f5639d8c1479699",
+      "status": "ok",
+      "width": 1080,
+      "height": 844,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/00/000b173fd031953879464e5816770d038729cab11faeaaab1f5639d8c1479699.thumb.webp",
+        "full": "img/00/000b173fd031953879464e5816770d038729cab11faeaaab1f5639d8c1479699.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:52.648Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Released%20mutantC%20v5%2C%20release%20version%205.1",
+    "created": "2025-10-10T14:10:23.000Z",
+    "updated": "2025-10-10T14:10:33.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/fcd8180e2a447a4c2f02b885f8191f19/raw"
+  }
+}

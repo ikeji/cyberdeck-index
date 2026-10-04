@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "6aa4005cf1371c7066fa7566",
+  "title": "It is (mostly) done.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1vwq3o9/it_is_mostly_done/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/66e82e3dec96cbad6b250b2c68886f2b",
+      "originRaw": "https://gyazo.com/66e82e3dec96cbad6b250b2c68886f2b/raw",
+      "id": "sha256:463286872a027415135ed99712585d9b7360af843cc7ce4fbaa97d99430c0e16",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/46/463286872a027415135ed99712585d9b7360af843cc7ce4fbaa97d99430c0e16.thumb.webp",
+        "full": "img/46/463286872a027415135ed99712585d9b7360af843cc7ce4fbaa97d99430c0e16.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:23.571Z"
+    },
+    {
+      "origin": "https://gyazo.com/b6068af60cc0347b78109e79b9b5a038",
+      "originRaw": "https://gyazo.com/b6068af60cc0347b78109e79b9b5a038/raw",
+      "id": "sha256:5da1fbd251898c4d51de5047ad7a1385baeb7e38016f84348bc43970801bac4e",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5d/5da1fbd251898c4d51de5047ad7a1385baeb7e38016f84348bc43970801bac4e.thumb.webp",
+        "full": "img/5d/5da1fbd251898c4d51de5047ad7a1385baeb7e38016f84348bc43970801bac4e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:25.244Z"
+    },
+    {
+      "origin": "https://gyazo.com/72a361f9c136aa8f7c8f7bfa5ec4048f",
+      "originRaw": "https://gyazo.com/72a361f9c136aa8f7c8f7bfa5ec4048f/raw",
+      "id": "sha256:efd5db1894ceb73ff4f74030855a5e24f0e5a459995e6591817fe50396efbef0",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ef/efd5db1894ceb73ff4f74030855a5e24f0e5a459995e6591817fe50396efbef0.thumb.webp",
+        "full": "img/ef/efd5db1894ceb73ff4f74030855a5e24f0e5a459995e6591817fe50396efbef0.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:26.452Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/It%20is%20(mostly)%20done.",
+    "created": "2026-09-11T13:21:33.000Z",
+    "updated": "2026-09-11T13:21:50.000Z",
+    "views": 0,
+    "thumbnail": "https://gyazo.com/66e82e3dec96cbad6b250b2c68886f2b/raw"
+  }
+}

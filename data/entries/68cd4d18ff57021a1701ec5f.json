@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "68cd4d18ff57021a1701ec5f",
+  "title": "WIP Net MD Cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1n82gyb/wip_net_md_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/39e828b8009d9064e5a9f6269d9c6b65",
+      "originRaw": "https://gyazo.com/39e828b8009d9064e5a9f6269d9c6b65/raw",
+      "id": "sha256:349c969893e064ce5078e9886c1140edaea8d591aecdb7aff13bfa2da68d936c",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/34/349c969893e064ce5078e9886c1140edaea8d591aecdb7aff13bfa2da68d936c.thumb.webp",
+        "full": "img/34/349c969893e064ce5078e9886c1140edaea8d591aecdb7aff13bfa2da68d936c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:46.566Z"
+    },
+    {
+      "origin": "https://gyazo.com/195eee5ac3947617497ac52a08028a81",
+      "originRaw": "https://gyazo.com/195eee5ac3947617497ac52a08028a81/raw",
+      "id": "sha256:c48c0e61927c200417856565e6cb7b0ac1b240842ad0d4aab927734fcdcbdc44",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c4/c48c0e61927c200417856565e6cb7b0ac1b240842ad0d4aab927734fcdcbdc44.thumb.webp",
+        "full": "img/c4/c48c0e61927c200417856565e6cb7b0ac1b240842ad0d4aab927734fcdcbdc44.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:48.247Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/WIP%20Net%20MD%20Cyberdeck",
+    "created": "2025-09-19T12:31:24.000Z",
+    "updated": "2025-09-19T12:31:50.000Z",
+    "views": 10,
+    "thumbnail": "https://gyazo.com/39e828b8009d9064e5a9f6269d9c6b65/raw"
+  }
+}

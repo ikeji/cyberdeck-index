@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad5879f1774001c0d3e3a",
+  "title": "introducing Consolo: a modular tablet/cyberdeck based on pi5 with 7-hour battery life : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1eo2mlh/introducing_consolo_a_modular_tabletcyberdeck/",
+    "site": "reddit",
+    "label": "introducing Consolo: a modular tablet/cyberdeck based on pi5 with 7-hour battery life : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad58ae9ab6c001d541ca7.png",
+      "originRaw": "https://scrapbox.io/files/66cad58ae9ab6c001d541ca7.png",
+      "id": "sha256:60079ad882f798575fe11aebe81ff725418eaa080e4633d8d7426be81cd654f0",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/60/60079ad882f798575fe11aebe81ff725418eaa080e4633d8d7426be81cd654f0.thumb.webp",
+        "full": "img/60/60079ad882f798575fe11aebe81ff725418eaa080e4633d8d7426be81cd654f0.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:11.132Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/introducing%20Consolo%3A%20a%20modular%20tablet%2Fcyberdeck%20based%20on%20pi5%20with%207-hour%20battery%20life%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:56:08.000Z",
+    "updated": "2024-08-25T06:56:13.000Z",
+    "views": 10,
+    "thumbnail": "https://scrapbox.io/files/66cad58ae9ab6c001d541ca7.png"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "6a19955effeb2b6cdf76082c",
+  "title": "The PinkPad v1 2020 Lockdown Edition",
+  "source": {
+    "url": "https://missmolerat.com/posts/pinkpad/",
+    "site": "web",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/65f8be1503676de320977a9efc825ac5",
+      "originRaw": "https://gyazo.com/65f8be1503676de320977a9efc825ac5/raw",
+      "id": "sha256:23709c4ad20ae55d44d0254c79b11068e820d83ae8b501d98266e91e6d1015b0",
+      "status": "ok",
+      "width": 1280,
+      "height": 959,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/23/23709c4ad20ae55d44d0254c79b11068e820d83ae8b501d98266e91e6d1015b0.thumb.webp",
+        "full": "img/23/23709c4ad20ae55d44d0254c79b11068e820d83ae8b501d98266e91e6d1015b0.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:21.806Z"
+    },
+    {
+      "origin": "https://gyazo.com/0debe6372407abce1b4ace93497d3d21",
+      "originRaw": "https://gyazo.com/0debe6372407abce1b4ace93497d3d21/raw",
+      "id": "sha256:d793cffa6055ddb3afbbf0a77fa9b51ba0cb18a4cfcc4fa683382037ccde3c81",
+      "status": "ok",
+      "width": 1280,
+      "height": 854,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d7/d793cffa6055ddb3afbbf0a77fa9b51ba0cb18a4cfcc4fa683382037ccde3c81.thumb.webp",
+        "full": "img/d7/d793cffa6055ddb3afbbf0a77fa9b51ba0cb18a4cfcc4fa683382037ccde3c81.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:23.305Z"
+    },
+    {
+      "origin": "https://gyazo.com/0bbad9ab1d3e9ad35421830308286cb2",
+      "originRaw": "https://gyazo.com/0bbad9ab1d3e9ad35421830308286cb2/raw",
+      "id": "sha256:b08245347e1a9c5d34b3f6977112b58cb32457ca5c435824be0019d44b5139fc",
+      "status": "ok",
+      "width": 1280,
+      "height": 1280,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b0/b08245347e1a9c5d34b3f6977112b58cb32457ca5c435824be0019d44b5139fc.thumb.webp",
+        "full": "img/b0/b08245347e1a9c5d34b3f6977112b58cb32457ca5c435824be0019d44b5139fc.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:25.535Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/The%20PinkPad%20v1%202020%20Lockdown%20Edition",
+    "created": "2026-05-29T13:32:15.000Z",
+    "updated": "2026-05-29T13:33:17.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/65f8be1503676de320977a9efc825ac5/raw"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e1855edec25d0025c33c86",
+  "title": "I recently shared the concept for my deck. This is how it's looking now! : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1602bm9/i_recently_shared_the_concept_for_my_deck_this_is/",
+    "site": "reddit",
+    "label": "I recently shared the concept for my deck. This is how it's looking now! : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18560bf5a710025d7a940.png",
+      "originRaw": "https://scrapbox.io/files/65e18560bf5a710025d7a940.png",
+      "id": "sha256:c4b9eefe18877649912183e747ce8e5ec2341a46bd12b9cef6ad36020660e81c",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c4/c4b9eefe18877649912183e747ce8e5ec2341a46bd12b9cef6ad36020660e81c.thumb.webp",
+        "full": "img/c4/c4b9eefe18877649912183e747ce8e5ec2341a46bd12b9cef6ad36020660e81c.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:29.112Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20recently%20shared%20the%20concept%20for%20my%20deck.%20This%20is%20how%20it's%20looking%20now!%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:35:58.000Z",
+    "updated": "2024-03-01T07:36:06.000Z",
+    "views": 9,
+    "thumbnail": "https://scrapbox.io/files/65e18560bf5a710025d7a940.png"
+  }
+}

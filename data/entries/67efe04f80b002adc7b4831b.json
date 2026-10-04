@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "67efe04f80b002adc7b4831b",
+  "title": "Photos of Triple-Screen Architecture Work Cyberdeck in use",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1jdwxw1/photos_of_triplescreen_architecture_work/",
+    "site": "reddit",
+    "label": "Photos of Triple-Screen Architecture Work Cyberdeck in use : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67efe06001c8002518894c5b.png",
+      "originRaw": "https://scrapbox.io/files/67efe06001c8002518894c5b.png",
+      "id": "sha256:9031038b590361f54ca1304536eb43387e80b786d05ac827bab88b3faa327e52",
+      "status": "ok",
+      "width": 901,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/90/9031038b590361f54ca1304536eb43387e80b786d05ac827bab88b3faa327e52.thumb.webp",
+        "full": "img/90/9031038b590361f54ca1304536eb43387e80b786d05ac827bab88b3faa327e52.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:50.593Z"
+    }
+  ],
+  "tags": [],
+  "related": [
+    "Old Laptop Repurposed Cyberdeck for Architecture Work"
+  ],
+  "comment": "[Old Laptop Repurposed Cyberdeck for Architecture Work] の追加写真だな。",
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Photos%20of%20Triple-Screen%20Architecture%20Work%20Cyberdeck%20in%20use",
+    "created": "2025-04-04T13:36:20.000Z",
+    "updated": "2025-04-04T13:37:09.000Z",
+    "views": 8,
+    "thumbnail": "https://scrapbox.io/files/67efe06001c8002518894c5b.png"
+  }
+}

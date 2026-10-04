@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "6904be246485237070b779a4",
+  "title": "Cyberdeck Build Complete.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1o70otw/cyberdeck_build_complete/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/1bed362fc25e3a2cf6913e159560a877",
+      "originRaw": "https://gyazo.com/1bed362fc25e3a2cf6913e159560a877/raw",
+      "id": "sha256:3e42102c91030562362945bd2878742f4375ae27727de09d091ec39dba803154",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3e/3e42102c91030562362945bd2878742f4375ae27727de09d091ec39dba803154.thumb.webp",
+        "full": "img/3e/3e42102c91030562362945bd2878742f4375ae27727de09d091ec39dba803154.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:18.470Z"
+    },
+    {
+      "origin": "https://gyazo.com/977ce4dec9044f08aff7c19aa322a515",
+      "originRaw": "https://gyazo.com/977ce4dec9044f08aff7c19aa322a515/raw",
+      "id": "sha256:8ac8d350d922200260afc1e7b6bc58dba9e82b272197e9cf18e45dad0b2c0df4",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/8a/8ac8d350d922200260afc1e7b6bc58dba9e82b272197e9cf18e45dad0b2c0df4.thumb.webp",
+        "full": "img/8a/8ac8d350d922200260afc1e7b6bc58dba9e82b272197e9cf18e45dad0b2c0df4.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:20.790Z"
+    },
+    {
+      "origin": "https://gyazo.com/306b057205d150c9eeac2834d337b6b0",
+      "originRaw": "https://gyazo.com/306b057205d150c9eeac2834d337b6b0/raw",
+      "id": "sha256:c22f162799c44284b96d09e920298d049cf3765885bc5ade354bb64d64e1a97f",
+      "status": "ok",
+      "width": 1080,
+      "height": 1439,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c2/c22f162799c44284b96d09e920298d049cf3765885bc5ade354bb64d64e1a97f.thumb.webp",
+        "full": "img/c2/c22f162799c44284b96d09e920298d049cf3765885bc5ade354bb64d64e1a97f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:23.031Z"
+    },
+    {
+      "origin": "https://gyazo.com/9a1729ee48fafc4d2b8721c8c4b46b43",
+      "originRaw": "https://gyazo.com/9a1729ee48fafc4d2b8721c8c4b46b43/raw",
+      "id": "sha256:a3c458321ed0ae7f437117d5a27a7ba2c12b379c9409c8e578047c0ceed846a9",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a3/a3c458321ed0ae7f437117d5a27a7ba2c12b379c9409c8e578047c0ceed846a9.thumb.webp",
+        "full": "img/a3/a3c458321ed0ae7f437117d5a27a7ba2c12b379c9409c8e578047c0ceed846a9.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:24.825Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cyberdeck%20Build%20Complete.",
+    "created": "2025-10-31T13:48:24.000Z",
+    "updated": "2025-10-31T13:49:04.000Z",
+    "views": 3,
+    "thumbnail": "https://gyazo.com/1bed362fc25e3a2cf6913e159560a877/raw"
+  }
+}

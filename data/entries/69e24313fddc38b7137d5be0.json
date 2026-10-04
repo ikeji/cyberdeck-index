@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "69e24313fddc38b7137d5be0",
+  "title": "First Cyberdeck (frame only)",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1s8yskq/first_cyberdeck_frame_only/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/8eeede84dfc78da1d7e4e17e802e9d55",
+      "originRaw": "https://gyazo.com/8eeede84dfc78da1d7e4e17e802e9d55/raw",
+      "id": "sha256:2f4cdf8cdcf9641cd5018ab32da2e78c1af5242656e259a9403f49bb6755af83",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/2f/2f4cdf8cdcf9641cd5018ab32da2e78c1af5242656e259a9403f49bb6755af83.thumb.webp",
+        "full": "img/2f/2f4cdf8cdcf9641cd5018ab32da2e78c1af5242656e259a9403f49bb6755af83.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:26.968Z"
+    },
+    {
+      "origin": "https://gyazo.com/bda45081a357a5051a51dcb6dcf6a25f",
+      "originRaw": "https://gyazo.com/bda45081a357a5051a51dcb6dcf6a25f/raw",
+      "id": "sha256:a057a351bc9b8e871c7b521bdef7c0e2a6f1bc6a4e36fb5c70cacb8e16ebe339",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a0/a057a351bc9b8e871c7b521bdef7c0e2a6f1bc6a4e36fb5c70cacb8e16ebe339.thumb.webp",
+        "full": "img/a0/a057a351bc9b8e871c7b521bdef7c0e2a6f1bc6a4e36fb5c70cacb8e16ebe339.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:28.548Z"
+    },
+    {
+      "origin": "https://gyazo.com/d352fc4ee04fba9d1b3c4076b6ba3b46",
+      "originRaw": "https://gyazo.com/d352fc4ee04fba9d1b3c4076b6ba3b46/raw",
+      "id": "sha256:a4e5229e4837b1d37f6d0dc5d30a44436fada62d1d00d2ac4ca78b03f9641027",
+      "status": "ok",
+      "width": 900,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a4/a4e5229e4837b1d37f6d0dc5d30a44436fada62d1d00d2ac4ca78b03f9641027.thumb.webp",
+        "full": "img/a4/a4e5229e4837b1d37f6d0dc5d30a44436fada62d1d00d2ac4ca78b03f9641027.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:30.639Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/First%20Cyberdeck%20(frame%20only)",
+    "created": "2026-04-17T14:26:33.000Z",
+    "updated": "2026-04-17T14:26:49.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/8eeede84dfc78da1d7e4e17e802e9d55/raw"
+  }
+}

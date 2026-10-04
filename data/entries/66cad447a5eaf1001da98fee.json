@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad447a5eaf1001da98fee",
+  "title": "Talking Whiz kid deck : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1crnrpr/talking_whiz_kid_deck/",
+    "site": "reddit",
+    "label": "Talking Whiz kid deck : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad449ddfac3001d58a120.png",
+      "originRaw": "https://scrapbox.io/files/66cad449ddfac3001d58a120.png",
+      "id": "sha256:8695a009b6639d3b54f7df2fef96041dbbaa86181450ced80a5ccdc7cef3bc8a",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/86/8695a009b6639d3b54f7df2fef96041dbbaa86181450ced80a5ccdc7cef3bc8a.thumb.webp",
+        "full": "img/86/8695a009b6639d3b54f7df2fef96041dbbaa86181450ced80a5ccdc7cef3bc8a.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:07.056Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Talking%20Whiz%20kid%20deck%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:50:47.000Z",
+    "updated": "2024-08-25T06:50:54.000Z",
+    "views": 3,
+    "thumbnail": "https://scrapbox.io/files/66cad449ddfac3001d58a120.png"
+  }
+}

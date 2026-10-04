@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67d420e25ee1e9feab687104",
+  "title": "ApocolypseLater",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1iwpwca/apocolypselater/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67d420ff551babcd94813699.png",
+      "originRaw": "https://scrapbox.io/files/67d420ff551babcd94813699.png",
+      "id": "sha256:2f4d0c61c9e781acccc22bb68f473e523d5ed2828f4efb661340d8ba787acf03",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/2f/2f4d0c61c9e781acccc22bb68f473e523d5ed2828f4efb661340d8ba787acf03.thumb.webp",
+        "full": "img/2f/2f4d0c61c9e781acccc22bb68f473e523d5ed2828f4efb661340d8ba787acf03.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:46.472Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/ApocolypseLater",
+    "created": "2025-03-14T12:28:47.000Z",
+    "updated": "2025-03-14T12:28:54.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/67d420ff551babcd94813699.png"
+  }
+}

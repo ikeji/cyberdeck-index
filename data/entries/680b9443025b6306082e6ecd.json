@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "680b9443025b6306082e6ecd",
+  "title": "Prop “cyberdeck”phone holder (the “hacking computer” 3D print from 3DSage) that I just finished pain",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1jzen75/prop_cyberdeckphone_holder_the_hacking_computer/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/680b94491ad2a6e8edab084d.png",
+      "originRaw": "https://scrapbox.io/files/680b94491ad2a6e8edab084d.png",
+      "id": "sha256:a13ba1bc0b5b3ece62f469e9f973d4ae6352db98a105afdbf451539a0f1e8795",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a1/a13ba1bc0b5b3ece62f469e9f973d4ae6352db98a105afdbf451539a0f1e8795.thumb.webp",
+        "full": "img/a1/a13ba1bc0b5b3ece62f469e9f973d4ae6352db98a105afdbf451539a0f1e8795.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:59.139Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Prop%20%E2%80%9Ccyberdeck%E2%80%9Dphone%20holder%20(the%20%E2%80%9Chacking%20computer%E2%80%9D%203D%20print%20from%203DSage)%20that%20I%20just%20finished%20pain",
+    "created": "2025-04-25T13:55:17.000Z",
+    "updated": "2025-04-25T13:55:26.000Z",
+    "views": 11,
+    "thumbnail": "https://scrapbox.io/files/680b94491ad2a6e8edab084d.png"
+  }
+}

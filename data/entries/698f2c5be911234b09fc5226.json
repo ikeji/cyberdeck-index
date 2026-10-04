@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "698f2c5be911234b09fc5226",
+  "title": "I present the gearmunicator",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1quz906/i_present_the_gearmunicator/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/63f2e9ee6462861828285f4532b88e59",
+      "originRaw": "https://gyazo.com/63f2e9ee6462861828285f4532b88e59/raw",
+      "id": "sha256:cc268822dee4b81e081380eabcd98613e01d22b267d3f795c2db68fbd42de635",
+      "status": "ok",
+      "width": 640,
+      "height": 853,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/cc/cc268822dee4b81e081380eabcd98613e01d22b267d3f795c2db68fbd42de635.thumb.webp",
+        "full": "img/cc/cc268822dee4b81e081380eabcd98613e01d22b267d3f795c2db68fbd42de635.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:35.187Z"
+    },
+    {
+      "origin": "https://gyazo.com/d736d658a09d2ff494f04c7ecf2f5ada",
+      "originRaw": "https://gyazo.com/d736d658a09d2ff494f04c7ecf2f5ada/raw",
+      "id": "sha256:300b15fb876ecfa7ddf85f18126e6684bf424da582aa750855393449f88acc2f",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/30/300b15fb876ecfa7ddf85f18126e6684bf424da582aa750855393449f88acc2f.thumb.webp",
+        "full": "img/30/300b15fb876ecfa7ddf85f18126e6684bf424da582aa750855393449f88acc2f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:37.365Z"
+    },
+    {
+      "origin": "https://gyazo.com/01edf1108153073cf70e379e0a9fe21d",
+      "originRaw": "https://gyazo.com/01edf1108153073cf70e379e0a9fe21d/raw",
+      "id": "sha256:52d016d3ccb63d454d330e57e3e64588251f2ac5cc1de1318826fd3c171ae82f",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/52/52d016d3ccb63d454d330e57e3e64588251f2ac5cc1de1318826fd3c171ae82f.thumb.webp",
+        "full": "img/52/52d016d3ccb63d454d330e57e3e64588251f2ac5cc1de1318826fd3c171ae82f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:39.118Z"
+    },
+    {
+      "origin": "https://gyazo.com/f45eb91d5fc16eeb880b6c0f5b8c84d4",
+      "originRaw": "https://gyazo.com/f45eb91d5fc16eeb880b6c0f5b8c84d4/raw",
+      "id": "sha256:6f37063d5901a0793f9c0ffa2ad8b0c56e2d3f99af1f5799c120a5aaccf217e3",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6f/6f37063d5901a0793f9c0ffa2ad8b0c56e2d3f99af1f5799c120a5aaccf217e3.thumb.webp",
+        "full": "img/6f/6f37063d5901a0793f9c0ffa2ad8b0c56e2d3f99af1f5799c120a5aaccf217e3.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:41.410Z"
+    },
+    {
+      "origin": "https://gyazo.com/d4bbb15c67ce5754d5716ffbdeaab7ea",
+      "originRaw": "https://gyazo.com/d4bbb15c67ce5754d5716ffbdeaab7ea/raw",
+      "id": "sha256:cdf97eb214f1b08f6a4b8e28d682c0e84b4f337bada11447802e98f2b94585a8",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/cd/cdf97eb214f1b08f6a4b8e28d682c0e84b4f337bada11447802e98f2b94585a8.thumb.webp",
+        "full": "img/cd/cdf97eb214f1b08f6a4b8e28d682c0e84b4f337bada11447802e98f2b94585a8.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:43.529Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20present%20the%20gearmunicator",
+    "created": "2026-02-13T13:51:25.000Z",
+    "updated": "2026-02-13T13:52:16.000Z",
+    "views": 8,
+    "thumbnail": "https://gyazo.com/63f2e9ee6462861828285f4532b88e59/raw"
+  }
+}

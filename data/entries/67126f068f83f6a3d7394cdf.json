@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67126f068f83f6a3d7394cdf",
+  "title": "My Pelican 1150 Build",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1fyhsiq/my_pelican_1150_build/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67126f08911700e305c3ae64.png",
+      "originRaw": "https://scrapbox.io/files/67126f08911700e305c3ae64.png",
+      "id": "sha256:df803da240d9c98e30370825432719636d5f7ecdb226e04d8415b890016889ca",
+      "status": "ok",
+      "width": 1080,
+      "height": 1182,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/df/df803da240d9c98e30370825432719636d5f7ecdb226e04d8415b890016889ca.thumb.webp",
+        "full": "img/df/df803da240d9c98e30370825432719636d5f7ecdb226e04d8415b890016889ca.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:23.818Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20Pelican%201150%20Build",
+    "created": "2024-10-18T14:21:59.000Z",
+    "updated": "2024-10-18T14:22:15.000Z",
+    "views": 12,
+    "thumbnail": "https://scrapbox.io/files/67126f08911700e305c3ae64.png"
+  }
+}

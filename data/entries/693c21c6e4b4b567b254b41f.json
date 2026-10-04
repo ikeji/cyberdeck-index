@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "693c21c6e4b4b567b254b41f",
+  "title": "Not technically a deck but a wip",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1p5xh3b/not_technically_a_deck_but_a_wip/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/93cba9bbe8a28773f2371e49a3aafe35",
+      "originRaw": "https://gyazo.com/93cba9bbe8a28773f2371e49a3aafe35/raw",
+      "id": "sha256:c12945bf086b92c56e26412fa74ea549e8daf8be885f7fc497ed6cf7f3250531",
+      "status": "ok",
+      "width": 1080,
+      "height": 608,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c1/c12945bf086b92c56e26412fa74ea549e8daf8be885f7fc497ed6cf7f3250531.thumb.webp",
+        "full": "img/c1/c12945bf086b92c56e26412fa74ea549e8daf8be885f7fc497ed6cf7f3250531.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:45.123Z"
+    },
+    {
+      "origin": "https://gyazo.com/73cf99dc920d54f47cf1515455960632",
+      "originRaw": "https://gyazo.com/73cf99dc920d54f47cf1515455960632/raw",
+      "id": "sha256:c4e10a98da74071f2b5eec697a480bec744054bae8c668fe01f8b530d06a00e1",
+      "status": "ok",
+      "width": 1080,
+      "height": 608,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c4/c4e10a98da74071f2b5eec697a480bec744054bae8c668fe01f8b530d06a00e1.thumb.webp",
+        "full": "img/c4/c4e10a98da74071f2b5eec697a480bec744054bae8c668fe01f8b530d06a00e1.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:46.755Z"
+    },
+    {
+      "origin": "https://gyazo.com/5197912b5cf80e49e4b3dff15867606b",
+      "originRaw": "https://gyazo.com/5197912b5cf80e49e4b3dff15867606b/raw",
+      "id": "sha256:03eb359ace82abb611954aaa390af4bcfc7250867c2f01c7e2c9fef9a19364c9",
+      "status": "ok",
+      "width": 1080,
+      "height": 608,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/03/03eb359ace82abb611954aaa390af4bcfc7250867c2f01c7e2c9fef9a19364c9.thumb.webp",
+        "full": "img/03/03eb359ace82abb611954aaa390af4bcfc7250867c2f01c7e2c9fef9a19364c9.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:49.031Z"
+    },
+    {
+      "origin": "https://gyazo.com/1c9aa7d87b31d799a2fb448f6276a5a5",
+      "originRaw": "https://gyazo.com/1c9aa7d87b31d799a2fb448f6276a5a5/raw",
+      "id": "sha256:506c7f2977e083efd6449eaeec01ba5507c7ff3d4ac57c2d2f290a52b52e2f75",
+      "status": "ok",
+      "width": 1080,
+      "height": 608,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/50/506c7f2977e083efd6449eaeec01ba5507c7ff3d4ac57c2d2f290a52b52e2f75.thumb.webp",
+        "full": "img/50/506c7f2977e083efd6449eaeec01ba5507c7ff3d4ac57c2d2f290a52b52e2f75.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:50.992Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Not%20technically%20a%20deck%20but%20a%20wip",
+    "created": "2025-12-12T14:08:09.000Z",
+    "updated": "2025-12-12T14:10:33.000Z",
+    "views": 7,
+    "thumbnail": "https://gyazo.com/93cba9bbe8a28773f2371e49a3aafe35/raw"
+  }
+}

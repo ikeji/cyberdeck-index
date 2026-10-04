@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "69fdf3460366e2c9b9718d08",
+  "title": "Technically doesn't belong here, is a fashion item, but you'll enjoy it nevertheless.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1sx9u4z/technically_doesnt_belong_here_is_a_fashion_item/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/be90a4bdaef3f8da4aaf1e9e25f5659f",
+      "originRaw": "https://gyazo.com/be90a4bdaef3f8da4aaf1e9e25f5659f/raw",
+      "id": "sha256:d0f1c38ae453d51358fd6a2be56cb305f849705c7e2024504779097fa2329742",
+      "status": "ok",
+      "width": 1080,
+      "height": 1201,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d0/d0f1c38ae453d51358fd6a2be56cb305f849705c7e2024504779097fa2329742.thumb.webp",
+        "full": "img/d0/d0f1c38ae453d51358fd6a2be56cb305f849705c7e2024504779097fa2329742.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:59.660Z"
+    },
+    {
+      "origin": "https://gyazo.com/3290c632d461928ea266157030260cbc",
+      "originRaw": "https://gyazo.com/3290c632d461928ea266157030260cbc/raw",
+      "id": "sha256:fca834d3a3738ed131d13c115db466ff8adaf4ddb3bd24c7e06f9617a2203ee3",
+      "status": "ok",
+      "width": 1080,
+      "height": 792,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/fc/fca834d3a3738ed131d13c115db466ff8adaf4ddb3bd24c7e06f9617a2203ee3.thumb.webp",
+        "full": "img/fc/fca834d3a3738ed131d13c115db466ff8adaf4ddb3bd24c7e06f9617a2203ee3.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:01.475Z"
+    },
+    {
+      "origin": "https://gyazo.com/4ceeccb04f33cff3d060e5634f8caf28",
+      "originRaw": "https://gyazo.com/4ceeccb04f33cff3d060e5634f8caf28/raw",
+      "id": "sha256:bd6677c3729aa0c52dc5bc8707add96c999472344f589957783d75f75201e938",
+      "status": "ok",
+      "width": 1080,
+      "height": 844,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/bd/bd6677c3729aa0c52dc5bc8707add96c999472344f589957783d75f75201e938.thumb.webp",
+        "full": "img/bd/bd6677c3729aa0c52dc5bc8707add96c999472344f589957783d75f75201e938.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:03.392Z"
+    },
+    {
+      "origin": "https://gyazo.com/3c5aa3c199543603a8ac31e986ad5233",
+      "originRaw": "https://gyazo.com/3c5aa3c199543603a8ac31e986ad5233/raw",
+      "id": "sha256:be89f4fe5e1979be242de4be1a12ed4f3d3f39e9a0c50ae5735bc21aec99a57a",
+      "status": "ok",
+      "width": 1080,
+      "height": 710,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/be/be89f4fe5e1979be242de4be1a12ed4f3d3f39e9a0c50ae5735bc21aec99a57a.thumb.webp",
+        "full": "img/be/be89f4fe5e1979be242de4be1a12ed4f3d3f39e9a0c50ae5735bc21aec99a57a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:04.623Z"
+    },
+    {
+      "origin": "https://gyazo.com/11e4cb800e8ace1b4df5ab614072ad09",
+      "originRaw": "https://gyazo.com/11e4cb800e8ace1b4df5ab614072ad09/raw",
+      "id": "sha256:6e87718e6a1749530921a0ac2f8b7de7a905392ea9032b83b4912b3208c52a52",
+      "status": "ok",
+      "width": 1080,
+      "height": 1514,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6e/6e87718e6a1749530921a0ac2f8b7de7a905392ea9032b83b4912b3208c52a52.thumb.webp",
+        "full": "img/6e/6e87718e6a1749530921a0ac2f8b7de7a905392ea9032b83b4912b3208c52a52.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:06.981Z"
+    },
+    {
+      "origin": "https://gyazo.com/21b932bc8a65ebd44b92a39028937626",
+      "originRaw": "https://gyazo.com/21b932bc8a65ebd44b92a39028937626/raw",
+      "id": "sha256:3f0ef7d1a1d7483b349b49283cb4f6ac4cbbcd1c2cead81ea106f62735126dec",
+      "status": "ok",
+      "width": 1080,
+      "height": 1070,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3f/3f0ef7d1a1d7483b349b49283cb4f6ac4cbbcd1c2cead81ea106f62735126dec.thumb.webp",
+        "full": "img/3f/3f0ef7d1a1d7483b349b49283cb4f6ac4cbbcd1c2cead81ea106f62735126dec.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:09.056Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Technically%20doesn't%20belong%20here%2C%20is%20a%20fashion%20item%2C%20but%20you'll%20enjoy%20it%20nevertheless.",
+    "created": "2026-05-08T14:29:42.000Z",
+    "updated": "2026-05-08T14:30:21.000Z",
+    "views": 2,
+    "thumbnail": "https://gyazo.com/be90a4bdaef3f8da4aaf1e9e25f5659f/raw"
+  }
+}

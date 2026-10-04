@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e1851ce3f4830025e472ea",
+  "title": "PUC: A Personal Utility Cyberdeck : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/11c2rn2/puc_a_personal_utility_cyberdeck/",
+    "site": "reddit",
+    "label": "PUC: A Personal Utility Cyberdeck : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1851f77e3a2002491f882.png",
+      "originRaw": "https://scrapbox.io/files/65e1851f77e3a2002491f882.png",
+      "id": "sha256:1c50dca9eb8e2c104669aa8eb25c18391836036373c8ca1ce063b371916c1c6d",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1c/1c50dca9eb8e2c104669aa8eb25c18391836036373c8ca1ce063b371916c1c6d.thumb.webp",
+        "full": "img/1c/1c50dca9eb8e2c104669aa8eb25c18391836036373c8ca1ce063b371916c1c6d.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:27.402Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/PUC%3A%20A%20Personal%20Utility%20Cyberdeck%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:34:53.000Z",
+    "updated": "2024-03-01T07:34:59.000Z",
+    "views": 9,
+    "thumbnail": "https://scrapbox.io/files/65e1851f77e3a2002491f882.png"
+  }
+}

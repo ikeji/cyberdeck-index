@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "698f2ec063a32873aceffe72",
+  "title": "My little piBrick",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1qpu76u/my_little_pibrick/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/b72d65877d0243cd2079c9dc7ce4ed14",
+      "originRaw": "https://gyazo.com/b72d65877d0243cd2079c9dc7ce4ed14/raw",
+      "id": "sha256:e4d834ca4a0c0f2c9dc6abf585a9beb525565e6e559eed96b225faa519de6b0a",
+      "status": "ok",
+      "width": 640,
+      "height": 853,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e4/e4d834ca4a0c0f2c9dc6abf585a9beb525565e6e559eed96b225faa519de6b0a.thumb.webp",
+        "full": "img/e4/e4d834ca4a0c0f2c9dc6abf585a9beb525565e6e559eed96b225faa519de6b0a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:19.887Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20little%20piBrick",
+    "created": "2026-02-13T14:01:39.000Z",
+    "updated": "2026-02-13T14:01:49.000Z",
+    "views": 13,
+    "thumbnail": "https://gyazo.com/b72d65877d0243cd2079c9dc7ce4ed14/raw"
+  }
+}

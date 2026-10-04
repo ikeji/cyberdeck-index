@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67126c5c5df3c5d1890966df",
+  "title": "Lambda Cyberdeck 910",
+  "source": {
+    "url": "https://github.com/CodyTolene/Lambda-Cyberdeck-910",
+    "site": "github",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67126cd9c138251aef0468b9.png",
+      "originRaw": "https://scrapbox.io/files/67126cd9c138251aef0468b9.png",
+      "id": "sha256:511c00046e6d0a2b004751c8e3602346f71506d63640b529f5c56d67b73c1a3f",
+      "status": "ok",
+      "width": 1600,
+      "height": 1204,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/51/511c00046e6d0a2b004751c8e3602346f71506d63640b529f5c56d67b73c1a3f.thumb.webp",
+        "full": "img/51/511c00046e6d0a2b004751c8e3602346f71506d63640b529f5c56d67b73c1a3f.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:21.102Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Lambda%20Cyberdeck%20910",
+    "created": "2024-10-18T14:12:47.000Z",
+    "updated": "2024-10-18T14:13:00.000Z",
+    "views": 9,
+    "thumbnail": "https://scrapbox.io/files/67126cd9c138251aef0468b9.png"
+  }
+}

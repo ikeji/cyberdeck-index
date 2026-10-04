@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "679cdb8f3d712136e3734d18",
+  "title": "Finally built a cyberdeck : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1i3360e/finally_built_a_cyberdeck/",
+    "site": "reddit",
+    "label": "Finally built a cyberdeck : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/679cdb99cf5b79c60659ccd4.png",
+      "originRaw": "https://scrapbox.io/files/679cdb99cf5b79c60659ccd4.png",
+      "id": "sha256:4c0c01dbf2526d136af270ce4386acca5b71083406fb236848a8d1dd91d1b59e",
+      "status": "ok",
+      "width": 1080,
+      "height": 608,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4c/4c0c01dbf2526d136af270ce4386acca5b71083406fb236848a8d1dd91d1b59e.thumb.webp",
+        "full": "img/4c/4c0c01dbf2526d136af270ce4386acca5b71083406fb236848a8d1dd91d1b59e.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:36.842Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Finally%20built%20a%20cyberdeck%20%3A%20r%2FcyberDeck",
+    "created": "2025-01-31T14:17:53.000Z",
+    "updated": "2025-01-31T14:18:04.000Z",
+    "views": 1,
+    "thumbnail": "https://scrapbox.io/files/679cdb99cf5b79c60659ccd4.png"
+  }
+}

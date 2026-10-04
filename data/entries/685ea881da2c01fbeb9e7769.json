@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "685ea881da2c01fbeb9e7769",
+  "title": "My handmade PC setup",
+  "source": {
+    "url": "https://www.reddit.com/r/battlestations/comments/1l88g3v/my_handmade_pc_setup/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/b19c06bf29b5482b95d2053bb34f4e5f",
+      "originRaw": "https://gyazo.com/b19c06bf29b5482b95d2053bb34f4e5f/raw",
+      "id": "sha256:fcfc3b5cc080c68fce836893981b6a06ebb48d5c4293f5bc41d9ee909b5c6aa5",
+      "status": "ok",
+      "width": 1080,
+      "height": 781,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/fc/fcfc3b5cc080c68fce836893981b6a06ebb48d5c4293f5bc41d9ee909b5c6aa5.thumb.webp",
+        "full": "img/fc/fcfc3b5cc080c68fce836893981b6a06ebb48d5c4293f5bc41d9ee909b5c6aa5.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:35.136Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20handmade%20PC%20setup",
+    "created": "2025-06-27T14:21:54.000Z",
+    "updated": "2025-06-27T14:22:28.000Z",
+    "views": 12,
+    "thumbnail": "https://gyazo.com/b19c06bf29b5482b95d2053bb34f4e5f/raw"
+  }
+}

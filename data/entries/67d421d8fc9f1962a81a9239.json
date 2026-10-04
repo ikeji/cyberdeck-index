@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67d421d8fc9f1962a81a9239",
+  "title": "I follow the trend and made this",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1jb0c3r/i_follow_the_trend_and_made_this/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67d421e615827091f0a364d3.png",
+      "originRaw": "https://scrapbox.io/files/67d421e615827091f0a364d3.png",
+      "id": "sha256:567dcee580e073c7b075a85ffffd942931f29b7b73df84e996f7e0266e61fde7",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/56/567dcee580e073c7b075a85ffffd942931f29b7b73df84e996f7e0266e61fde7.thumb.webp",
+        "full": "img/56/567dcee580e073c7b075a85ffffd942931f29b7b73df84e996f7e0266e61fde7.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:48.747Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20follow%20the%20trend%20and%20made%20this",
+    "created": "2025-03-14T12:32:27.000Z",
+    "updated": "2025-03-14T12:32:44.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/67d421e615827091f0a364d3.png"
+  }
+}

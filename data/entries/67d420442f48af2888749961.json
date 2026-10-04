@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67d420442f48af2888749961",
+  "title": "Basic Cy-pi-deck Attempt",
+  "source": {
+    "url": "https://www.reddit.com/r/raspberry_pi/comments/1j89q3b/basic_cypideck_attempt/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67d4204b71a725b9fde17c64.png",
+      "originRaw": "https://scrapbox.io/files/67d4204b71a725b9fde17c64.png",
+      "id": "sha256:b746773b7cf28437b89b35904d2fcc244055900a6e768818f4fa74408aaeeb19",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b7/b746773b7cf28437b89b35904d2fcc244055900a6e768818f4fa74408aaeeb19.thumb.webp",
+        "full": "img/b7/b746773b7cf28437b89b35904d2fcc244055900a6e768818f4fa74408aaeeb19.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:44.936Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Basic%20Cy-pi-deck%20Attempt",
+    "created": "2025-03-14T12:25:43.000Z",
+    "updated": "2025-03-14T12:25:55.000Z",
+    "views": 10,
+    "thumbnail": "https://scrapbox.io/files/67d4204b71a725b9fde17c64.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "672e067f385f5d646de66233",
+  "title": "A Hacking Cyberdeck With Desktop Components And FM Jammer",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1gabu0h/a_hacking_cyberdeck_with_desktop_components_and/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/672e0686164104c6de2155ed.png",
+      "originRaw": "https://scrapbox.io/files/672e0686164104c6de2155ed.png",
+      "id": "sha256:aad04670e12e0bd04c4c1a561038aa67fc3391de8b5f1970d834367f83094fd2",
+      "status": "ok",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/aa/aad04670e12e0bd04c4c1a561038aa67fc3391de8b5f1970d834367f83094fd2.thumb.webp",
+        "full": "img/aa/aad04670e12e0bd04c4c1a561038aa67fc3391de8b5f1970d834367f83094fd2.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:28.771Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/A%20Hacking%20Cyberdeck%20With%20Desktop%20Components%20And%20FM%20Jammer",
+    "created": "2024-11-08T12:39:41.000Z",
+    "updated": "2024-11-08T12:39:55.000Z",
+    "views": 8,
+    "thumbnail": "https://scrapbox.io/files/672e0686164104c6de2155ed.png"
+  }
+}

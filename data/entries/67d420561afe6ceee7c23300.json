@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67d420561afe6ceee7c23300",
+  "title": "Old Laptop Repurposed Cyberdeck for Architecture Work",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1j7t851/old_laptop_repurposed_cyberdeck_for_architecture/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67d42076aad8d0d53cdfce3a.png",
+      "originRaw": "https://scrapbox.io/files/67d42076aad8d0d53cdfce3a.png",
+      "id": "sha256:2aebf30fb48630dde31e30e2a0fc718408f53210f9ec15c70c89f6d06e3a7c10",
+      "status": "ok",
+      "width": 1080,
+      "height": 608,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/2a/2aebf30fb48630dde31e30e2a0fc718408f53210f9ec15c70c89f6d06e3a7c10.thumb.webp",
+        "full": "img/2a/2aebf30fb48630dde31e30e2a0fc718408f53210f9ec15c70c89f6d06e3a7c10.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:44.686Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Old%20Laptop%20Repurposed%20Cyberdeck%20for%20Architecture%20Work",
+    "created": "2025-03-14T12:26:32.000Z",
+    "updated": "2025-03-14T12:26:40.000Z",
+    "views": 9,
+    "thumbnail": "https://scrapbox.io/files/67d42076aad8d0d53cdfce3a.png"
+  }
+}

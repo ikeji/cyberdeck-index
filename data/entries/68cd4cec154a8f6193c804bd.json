@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "68cd4cec154a8f6193c804bd",
+  "title": "Minitel1 I5 project, searching for a good looking computer emulation machine :-)",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1nb1liu/minitel1_i5_project_searching_for_a_good_looking/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/59a77d0fe7c966bac93cf51137f4eae8",
+      "originRaw": "https://gyazo.com/59a77d0fe7c966bac93cf51137f4eae8/raw",
+      "id": "sha256:7b88b7991f9953783785780c13b8aac2420f7885166cc75df771ea45547b83ec",
+      "status": "ok",
+      "width": 901,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7b/7b88b7991f9953783785780c13b8aac2420f7885166cc75df771ea45547b83ec.thumb.webp",
+        "full": "img/7b/7b88b7991f9953783785780c13b8aac2420f7885166cc75df771ea45547b83ec.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:44.696Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Minitel1%20I5%20project%2C%20searching%20for%20a%20good%20looking%20computer%20emulation%20machine%20%3A-)",
+    "created": "2025-09-19T12:30:39.000Z",
+    "updated": "2025-09-19T12:30:59.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/59a77d0fe7c966bac93cf51137f4eae8/raw"
+  }
+}

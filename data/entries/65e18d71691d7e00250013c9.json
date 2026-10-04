@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18d71691d7e00250013c9",
+  "title": "MyNOR - The yet minor computer. No CPU, no ALU, one NOR-gate is enough.",
+  "source": {
+    "url": "http://www.mynor.org/",
+    "site": "web",
+    "label": "MyNOR - The yet minor computer. No CPU, no ALU, one NOR-gate is enough."
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18d75d642cd0024871705.png",
+      "originRaw": "https://scrapbox.io/files/65e18d75d642cd0024871705.png",
+      "id": "sha256:ea8606006697f6bc031ab0172cf22dd8ea3c242f04fae2e6b8faff63b4aa987c",
+      "status": "ok",
+      "width": 1200,
+      "height": 734,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ea/ea8606006697f6bc031ab0172cf22dd8ea3c242f04fae2e6b8faff63b4aa987c.thumb.webp",
+        "full": "img/ea/ea8606006697f6bc031ab0172cf22dd8ea3c242f04fae2e6b8faff63b4aa987c.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:50.722Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/MyNOR%20-%20The%20yet%20minor%20computer.%20No%20CPU%2C%20no%20ALU%2C%20one%20NOR-gate%20is%20enough.",
+    "created": "2024-03-01T08:10:26.000Z",
+    "updated": "2024-03-01T08:10:32.000Z",
+    "views": 11,
+    "thumbnail": "https://scrapbox.io/files/65e18d75d642cd0024871705.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "698f2ee0f23d950d948a2fc4",
+  "title": "Cyberdeck Frames/Cages for Tablets?",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1qp3nkq/cyberdeck_framescages_for_tablets/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/266764cd1b87857b57e0a7d25e8b4ac7",
+      "originRaw": "https://gyazo.com/266764cd1b87857b57e0a7d25e8b4ac7/raw",
+      "id": "sha256:b79edd55f030a6e6476308c8b30a5f2ad426e7f78bae36e5ae53622261e3448f",
+      "status": "ok",
+      "width": 891,
+      "height": 547,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b7/b79edd55f030a6e6476308c8b30a5f2ad426e7f78bae36e5ae53622261e3448f.thumb.webp",
+        "full": "img/b7/b79edd55f030a6e6476308c8b30a5f2ad426e7f78bae36e5ae53622261e3448f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:21.605Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cyberdeck%20Frames%2FCages%20for%20Tablets%3F",
+    "created": "2026-02-13T14:02:13.000Z",
+    "updated": "2026-02-13T14:02:17.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/266764cd1b87857b57e0a7d25e8b4ac7/raw"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "693c2c4220f66802d7be3dbd",
+  "title": "My new handheld Cyberdeck is turning out pretty good!",
+  "source": {
+    "url": "https://www.reddit.com/user/Relevant-Lifeguard-7/comments/1p9xsrt/my_new_handheld_cyberdeck_is_turning_out_pretty/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/e9e294b926e1750e6d3005901859dc22",
+      "originRaw": "https://gyazo.com/e9e294b926e1750e6d3005901859dc22/raw",
+      "id": "sha256:d42033abc02b4454d00286ddcedf6e081416d4519ffa5f103855d5c4f10e1241",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d4/d42033abc02b4454d00286ddcedf6e081416d4519ffa5f103855d5c4f10e1241.thumb.webp",
+        "full": "img/d4/d42033abc02b4454d00286ddcedf6e081416d4519ffa5f103855d5c4f10e1241.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:12.463Z"
+    },
+    {
+      "origin": "https://gyazo.com/fe9a4fd7f037cd92c48840ff7a1d79f5",
+      "originRaw": "https://gyazo.com/fe9a4fd7f037cd92c48840ff7a1d79f5/raw",
+      "id": "sha256:4a47315f8ffc80dcfd3394c15c4100868397656f50e1988302d76e7aeee9747d",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4a/4a47315f8ffc80dcfd3394c15c4100868397656f50e1988302d76e7aeee9747d.thumb.webp",
+        "full": "img/4a/4a47315f8ffc80dcfd3394c15c4100868397656f50e1988302d76e7aeee9747d.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:14.430Z"
+    },
+    {
+      "origin": "https://gyazo.com/26595d2b3a7337d84665bd48cd398500",
+      "originRaw": "https://gyazo.com/26595d2b3a7337d84665bd48cd398500/raw",
+      "id": "sha256:8afe47b279efc877d90fecc763e0cc7791b6944e6758319df265f9f4c6a71ccf",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/8a/8afe47b279efc877d90fecc763e0cc7791b6944e6758319df265f9f4c6a71ccf.thumb.webp",
+        "full": "img/8a/8afe47b279efc877d90fecc763e0cc7791b6944e6758319df265f9f4c6a71ccf.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:16.468Z"
+    },
+    {
+      "origin": "https://gyazo.com/181fbe9c096636263c6e20b660b71f7e",
+      "originRaw": "https://gyazo.com/181fbe9c096636263c6e20b660b71f7e/raw",
+      "id": "sha256:c8eb41b801fd854966702a219d5d63d764c59acfe4ce754eb366c839969fc615",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c8/c8eb41b801fd854966702a219d5d63d764c59acfe4ce754eb366c839969fc615.thumb.webp",
+        "full": "img/c8/c8eb41b801fd854966702a219d5d63d764c59acfe4ce754eb366c839969fc615.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:18.637Z"
+    },
+    {
+      "origin": "https://gyazo.com/969a5c29af32f41ba526e400c3af4a62",
+      "originRaw": "https://gyazo.com/969a5c29af32f41ba526e400c3af4a62/raw",
+      "id": "sha256:fc27186d3f8defc2db8da29f6cf599a6b40ebc87d1670ec92718bd926d75282e",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/fc/fc27186d3f8defc2db8da29f6cf599a6b40ebc87d1670ec92718bd926d75282e.thumb.webp",
+        "full": "img/fc/fc27186d3f8defc2db8da29f6cf599a6b40ebc87d1670ec92718bd926d75282e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:20.661Z"
+    },
+    {
+      "origin": "https://gyazo.com/c18338de09e5497220ae0232c895b0e8",
+      "originRaw": "https://gyazo.com/c18338de09e5497220ae0232c895b0e8/raw",
+      "id": "sha256:b656fd2d64e1f0d2b6b583898996691ad01ae79f62d26af9d3b2a9ebe6b829c9",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b6/b656fd2d64e1f0d2b6b583898996691ad01ae79f62d26af9d3b2a9ebe6b829c9.thumb.webp",
+        "full": "img/b6/b656fd2d64e1f0d2b6b583898996691ad01ae79f62d26af9d3b2a9ebe6b829c9.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:22.992Z"
+    },
+    {
+      "origin": "https://gyazo.com/87f6afdbd89a66fe29c7e7a8a7c6b799",
+      "originRaw": "https://gyazo.com/87f6afdbd89a66fe29c7e7a8a7c6b799/raw",
+      "id": "sha256:7c794349f07ae046d3eda2589b6eebe0d989ff5bc35cfd02185eca0edae837dc",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7c/7c794349f07ae046d3eda2589b6eebe0d989ff5bc35cfd02185eca0edae837dc.thumb.webp",
+        "full": "img/7c/7c794349f07ae046d3eda2589b6eebe0d989ff5bc35cfd02185eca0edae837dc.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:24.675Z"
+    },
+    {
+      "origin": "https://gyazo.com/7a79ea1cb93ae271c8e32a7d96523076",
+      "originRaw": "https://gyazo.com/7a79ea1cb93ae271c8e32a7d96523076/raw",
+      "id": "sha256:7a233c9e7d480ac72cde1983255997fcb5c3f9cc467626b02e4b113929746166",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7a/7a233c9e7d480ac72cde1983255997fcb5c3f9cc467626b02e4b113929746166.thumb.webp",
+        "full": "img/7a/7a233c9e7d480ac72cde1983255997fcb5c3f9cc467626b02e4b113929746166.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:26.880Z"
+    },
+    {
+      "origin": "https://gyazo.com/b70656ced612e59af85d63ec5a96907f",
+      "originRaw": "https://gyazo.com/b70656ced612e59af85d63ec5a96907f/raw",
+      "id": "sha256:cb236e50f85ec8de554419f38bf9d5496ed88a2b2898a21bad50bebd63346fa7",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/cb/cb236e50f85ec8de554419f38bf9d5496ed88a2b2898a21bad50bebd63346fa7.thumb.webp",
+        "full": "img/cb/cb236e50f85ec8de554419f38bf9d5496ed88a2b2898a21bad50bebd63346fa7.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:28.895Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20new%20handheld%20Cyberdeck%20is%20turning%20out%20pretty%20good!",
+    "created": "2025-12-12T14:52:53.000Z",
+    "updated": "2025-12-12T14:54:07.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/e9e294b926e1750e6d3005901859dc22/raw"
+  }
+}

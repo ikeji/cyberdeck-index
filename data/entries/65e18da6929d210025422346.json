@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18da6929d210025422346",
+  "title": "6\" Rack Enclosure, Customizable by KronBjorn - Thingiverse",
+  "source": {
+    "url": "https://www.thingiverse.com/thing:1936196",
+    "site": "web",
+    "label": "6\" Rack Enclosure, Customizable by KronBjorn - Thingiverse"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18daa4f2cf8002433305c.png",
+      "originRaw": "https://scrapbox.io/files/65e18daa4f2cf8002433305c.png",
+      "id": "sha256:7ccf1c4df09885aaa81cedf59863e57e222923f3cbbfc5f00f48c46dd133e4fc",
+      "status": "ok",
+      "width": 1024,
+      "height": 965,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7c/7ccf1c4df09885aaa81cedf59863e57e222923f3cbbfc5f00f48c46dd133e4fc.thumb.webp",
+        "full": "img/7c/7ccf1c4df09885aaa81cedf59863e57e222923f3cbbfc5f00f48c46dd133e4fc.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:51.546Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/6%22%20Rack%20Enclosure%2C%20Customizable%20by%20KronBjorn%20-%20Thingiverse",
+    "created": "2024-03-01T08:11:19.000Z",
+    "updated": "2024-03-01T08:11:27.000Z",
+    "views": 16,
+    "thumbnail": "https://scrapbox.io/files/65e18daa4f2cf8002433305c.png"
+  }
+}

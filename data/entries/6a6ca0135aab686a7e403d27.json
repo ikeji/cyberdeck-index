@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6ca0135aab686a7e403d27",
+  "title": "A Reasonable Pideck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1v4n4z9/a_reasonable_pideck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/e0e76fa1a0701560592c9f28dff9406a",
+      "originRaw": "https://gyazo.com/e0e76fa1a0701560592c9f28dff9406a/raw",
+      "id": "sha256:cd22289f851489e8d9e3add44b26b49915b647e47ee950e8ce326b7770b3e018",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/cd/cd22289f851489e8d9e3add44b26b49915b647e47ee950e8ce326b7770b3e018.thumb.webp",
+        "full": "img/cd/cd22289f851489e8d9e3add44b26b49915b647e47ee950e8ce326b7770b3e018.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:09.719Z"
+    },
+    {
+      "origin": "https://gyazo.com/aaf95fc5a8aceb8289f5d24250bd3316",
+      "originRaw": "https://gyazo.com/aaf95fc5a8aceb8289f5d24250bd3316/raw",
+      "id": "sha256:b93c20f17152320fd5a646b2e9e5dfc904c05937d64b03d6a0fe6136b1a34b10",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b9/b93c20f17152320fd5a646b2e9e5dfc904c05937d64b03d6a0fe6136b1a34b10.thumb.webp",
+        "full": "img/b9/b93c20f17152320fd5a646b2e9e5dfc904c05937d64b03d6a0fe6136b1a34b10.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:12.069Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/A%20Reasonable%20Pideck",
+    "created": "2026-07-31T13:16:13.000Z",
+    "updated": "2026-07-31T13:16:25.000Z",
+    "views": 1,
+    "thumbnail": "https://gyazo.com/e0e76fa1a0701560592c9f28dff9406a/raw"
+  }
+}

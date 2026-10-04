@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e17ee579427300251a12bc",
+  "title": "I wanted a beautiful computer and couldn't find one, so I made my own. : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/125wq8j/i_wanted_a_beautiful_computer_and_couldnt_find/",
+    "site": "reddit",
+    "label": "I wanted a beautiful computer and couldn't find one, so I made my own. : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e17ee71e860f0024892372.png",
+      "originRaw": "https://scrapbox.io/files/65e17ee71e860f0024892372.png",
+      "id": "sha256:fc07bca9dea28d91040c977acb83540907c0cc0c2a23238874cee1bdf885f5c1",
+      "status": "ok",
+      "width": 1080,
+      "height": 801,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/fc/fc07bca9dea28d91040c977acb83540907c0cc0c2a23238874cee1bdf885f5c1.thumb.webp",
+        "full": "img/fc/fc07bca9dea28d91040c977acb83540907c0cc0c2a23238874cee1bdf885f5c1.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:16.918Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20wanted%20a%20beautiful%20computer%20and%20couldn't%20find%20one%2C%20so%20I%20made%20my%20own.%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:08:22.000Z",
+    "updated": "2024-03-01T07:08:29.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/65e17ee71e860f0024892372.png"
+  }
+}

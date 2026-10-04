@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad354213490001d6f9ccc",
+  "title": "My Spin on the \"Pi Recovery Kit\" Cyberdeck : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1d12wbv/my_spin_on_the_pi_recovery_kit_cyberdeck/",
+    "site": "reddit",
+    "label": "My Spin on the \"Pi Recovery Kit\" Cyberdeck : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad35aeca694001cf6b600.png",
+      "originRaw": "https://scrapbox.io/files/66cad35aeca694001cf6b600.png",
+      "id": "sha256:cbfa2ed6a5be91687a9dc6c7e5eca6fabc48776c9821a75e1573af83e82b9ee0",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/cb/cbfa2ed6a5be91687a9dc6c7e5eca6fabc48776c9821a75e1573af83e82b9ee0.thumb.webp",
+        "full": "img/cb/cbfa2ed6a5be91687a9dc6c7e5eca6fabc48776c9821a75e1573af83e82b9ee0.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:05.459Z"
+    },
+    {
+      "origin": "https://scrapbox.io/files/66cad3699fb5bf001d47aec0.png",
+      "originRaw": "https://scrapbox.io/files/66cad3699fb5bf001d47aec0.png",
+      "id": "sha256:6cf54cb8210a0f075c60074523d83a49dcc3cf55c68f45cd517f005f0837dcfc",
+      "status": "ok",
+      "width": 1200,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6c/6cf54cb8210a0f075c60074523d83a49dcc3cf55c68f45cd517f005f0837dcfc.thumb.webp",
+        "full": "img/6c/6cf54cb8210a0f075c60074523d83a49dcc3cf55c68f45cd517f005f0837dcfc.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:07.028Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20Spin%20on%20the%20%22Pi%20Recovery%20Kit%22%20Cyberdeck%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:46:45.000Z",
+    "updated": "2024-08-25T06:47:14.000Z",
+    "views": 3,
+    "thumbnail": "https://scrapbox.io/files/66cad35aeca694001cf6b600.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "68273651c45b17b573bb45f5",
+  "title": "Retro Wood CyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1klruo5/retro_wood_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6827365e4dfe42e73ffceef3.png",
+      "originRaw": "https://scrapbox.io/files/6827365e4dfe42e73ffceef3.png",
+      "id": "sha256:bb360f1e0bf56b60229daf31d1bcd2736fbaf94031cc90313afe2521b56c2bc0",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/bb/bb360f1e0bf56b60229daf31d1bcd2736fbaf94031cc90313afe2521b56c2bc0.thumb.webp",
+        "full": "img/bb/bb360f1e0bf56b60229daf31d1bcd2736fbaf94031cc90313afe2521b56c2bc0.webp"
+      },
+      "fetchedAt": "2026-10-02T18:07:00.382Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Retro%20Wood%20CyberDeck",
+    "created": "2025-05-16T12:57:59.000Z",
+    "updated": "2025-05-16T12:58:10.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/6827365e4dfe42e73ffceef3.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67d4208da7d80653de820aff",
+  "title": "Mini droid handheld",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1j5onhw/mini_droid_handheld/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67d4209415827091f0a35fda.png",
+      "originRaw": "https://scrapbox.io/files/67d4209415827091f0a35fda.png",
+      "id": "sha256:185ad903d9ce910df9067ffc654efb1e3e6d08eaf48955fa6d3bfc99d31ff492",
+      "status": "ok",
+      "width": 1080,
+      "height": 1434,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/18/185ad903d9ce910df9067ffc654efb1e3e6d08eaf48955fa6d3bfc99d31ff492.thumb.webp",
+        "full": "img/18/185ad903d9ce910df9067ffc654efb1e3e6d08eaf48955fa6d3bfc99d31ff492.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:45.622Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Mini%20droid%20handheld",
+    "created": "2025-03-14T12:26:55.000Z",
+    "updated": "2025-03-14T12:27:17.000Z",
+    "views": 1,
+    "thumbnail": "https://scrapbox.io/files/67d4209415827091f0a35fda.png"
+  }
+}

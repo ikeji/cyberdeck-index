@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6ca32e6f832f4e6d772f91",
+  "title": "USB Cart storage",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ur9z2k/usb_cart_storage/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/7bc96f909d3f8d2ed286f8c69ed76cd9",
+      "originRaw": "https://gyazo.com/7bc96f909d3f8d2ed286f8c69ed76cd9/raw",
+      "id": "sha256:507e74c210b08d220670c61ff4bea36710c3b119cc4d71a8210fc14f1dd9277a",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/50/507e74c210b08d220670c61ff4bea36710c3b119cc4d71a8210fc14f1dd9277a.thumb.webp",
+        "full": "img/50/507e74c210b08d220670c61ff4bea36710c3b119cc4d71a8210fc14f1dd9277a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:29.575Z"
+    },
+    {
+      "origin": "https://gyazo.com/3a96a4a021f0302d337216d9855a94f0",
+      "originRaw": "https://gyazo.com/3a96a4a021f0302d337216d9855a94f0/raw",
+      "id": "sha256:d6d15f3a341c50c4f946645fcaac3208dc99a1f65ec37fdc66a9e477acbe7f72",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d6/d6d15f3a341c50c4f946645fcaac3208dc99a1f65ec37fdc66a9e477acbe7f72.thumb.webp",
+        "full": "img/d6/d6d15f3a341c50c4f946645fcaac3208dc99a1f65ec37fdc66a9e477acbe7f72.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:30.998Z"
+    },
+    {
+      "origin": "https://gyazo.com/8e53e36218d42904612934349de02074",
+      "originRaw": "https://gyazo.com/8e53e36218d42904612934349de02074/raw",
+      "id": "sha256:0be30f81b76702343fe01df475cc17b5a6ff11a05a3f76ccefbcabb910f5bbcc",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0b/0be30f81b76702343fe01df475cc17b5a6ff11a05a3f76ccefbcabb910f5bbcc.thumb.webp",
+        "full": "img/0b/0be30f81b76702343fe01df475cc17b5a6ff11a05a3f76ccefbcabb910f5bbcc.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:32.732Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/USB%20Cart%20storage",
+    "created": "2026-07-31T13:29:24.000Z",
+    "updated": "2026-07-31T13:29:38.000Z",
+    "views": 2,
+    "thumbnail": "https://gyazo.com/7bc96f909d3f8d2ed286f8c69ed76cd9/raw"
+  }
+}

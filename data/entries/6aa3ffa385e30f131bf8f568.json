@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "6aa3ffa385e30f131bf8f568",
+  "title": "Update on the cardboard deck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1w51qs3/update_on_the_cardboard_deck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/3a80823483c647195da14ee84ed7570f",
+      "originRaw": "https://gyazo.com/3a80823483c647195da14ee84ed7570f/raw",
+      "id": "sha256:a93125cf5d6525f32d1e272cb0c9acdae821d9fc85c20c6c76d86d2aa89e8159",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a9/a93125cf5d6525f32d1e272cb0c9acdae821d9fc85c20c6c76d86d2aa89e8159.thumb.webp",
+        "full": "img/a9/a93125cf5d6525f32d1e272cb0c9acdae821d9fc85c20c6c76d86d2aa89e8159.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:13.006Z"
+    },
+    {
+      "origin": "https://gyazo.com/553a65183d80c0b1c59cbb2df7651984",
+      "originRaw": "https://gyazo.com/553a65183d80c0b1c59cbb2df7651984/raw",
+      "id": "sha256:41293dbf7420800fe749407572975940b0fa588aff2b7668aaa8c410b7b48332",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/41/41293dbf7420800fe749407572975940b0fa588aff2b7668aaa8c410b7b48332.thumb.webp",
+        "full": "img/41/41293dbf7420800fe749407572975940b0fa588aff2b7668aaa8c410b7b48332.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:14.988Z"
+    },
+    {
+      "origin": "https://gyazo.com/47559200602d75d2afdf42430e822c78",
+      "originRaw": "https://gyazo.com/47559200602d75d2afdf42430e822c78/raw",
+      "id": "sha256:b514af2b152a59584c4543a3fbc91d269a99ee50db56e8d4e80918e6d3681a88",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b5/b514af2b152a59584c4543a3fbc91d269a99ee50db56e8d4e80918e6d3681a88.thumb.webp",
+        "full": "img/b5/b514af2b152a59584c4543a3fbc91d269a99ee50db56e8d4e80918e6d3681a88.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:17.270Z"
+    },
+    {
+      "origin": "https://gyazo.com/2d92b9f6b72b9cb5daad66758ad41a0a",
+      "originRaw": "https://gyazo.com/2d92b9f6b72b9cb5daad66758ad41a0a/raw",
+      "id": "sha256:e13033c30281b3b900e1941b17a0a7026fd5af86dedff65fb1c68a7478515860",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e1/e13033c30281b3b900e1941b17a0a7026fd5af86dedff65fb1c68a7478515860.thumb.webp",
+        "full": "img/e1/e13033c30281b3b900e1941b17a0a7026fd5af86dedff65fb1c68a7478515860.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:19.330Z"
+    },
+    {
+      "origin": "https://gyazo.com/6aee5a318a0afc12a8f5262903fe0ac1",
+      "originRaw": "https://gyazo.com/6aee5a318a0afc12a8f5262903fe0ac1/raw",
+      "id": "sha256:5f452865e4b062b98577bd4e96496bba94dd8b0264b0a09a6a38feeb1ad69fcd",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5f/5f452865e4b062b98577bd4e96496bba94dd8b0264b0a09a6a38feeb1ad69fcd.thumb.webp",
+        "full": "img/5f/5f452865e4b062b98577bd4e96496bba94dd8b0264b0a09a6a38feeb1ad69fcd.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:21.412Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Update%20on%20the%20cardboard%20deck",
+    "created": "2026-09-11T13:18:30.000Z",
+    "updated": "2026-09-11T13:18:53.000Z",
+    "views": 0,
+    "thumbnail": "https://gyazo.com/3a80823483c647195da14ee84ed7570f/raw"
+  }
+}

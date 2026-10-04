@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "id": "697386fc75832d4437d37fce",
+  "title": "(WIP) First Physical Prototype of my Pocket Writer",
+  "source": {
+    "url": "https://www.reddit.com/r/writerDeck/comments/1q2hbxl/wip_first_physical_prototype_of_my_pocket_writer/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/24207b493a6461669435b9dedab8115e",
+      "originRaw": "https://gyazo.com/24207b493a6461669435b9dedab8115e/raw",
+      "id": "sha256:029de28f9358f6903d1108a2f292270e8a06fbe3c1e4e2d0f7278ed829366a5d",
+      "status": "ok",
+      "width": 1080,
+      "height": 727,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/02/029de28f9358f6903d1108a2f292270e8a06fbe3c1e4e2d0f7278ed829366a5d.thumb.webp",
+        "full": "img/02/029de28f9358f6903d1108a2f292270e8a06fbe3c1e4e2d0f7278ed829366a5d.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:59.072Z"
+    },
+    {
+      "origin": "https://gyazo.com/a5d990c5dbb33c8a998dd9556e704862",
+      "originRaw": "https://gyazo.com/a5d990c5dbb33c8a998dd9556e704862/raw",
+      "id": "sha256:d4cfbdec7d754874d3ae2f00a34b947c44c69e2c51aac8d3d19ed6f949f4fa45",
+      "status": "ok",
+      "width": 1080,
+      "height": 758,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d4/d4cfbdec7d754874d3ae2f00a34b947c44c69e2c51aac8d3d19ed6f949f4fa45.thumb.webp",
+        "full": "img/d4/d4cfbdec7d754874d3ae2f00a34b947c44c69e2c51aac8d3d19ed6f949f4fa45.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:01.126Z"
+    },
+    {
+      "origin": "https://gyazo.com/d0ad851005afcf8627298bc76dd32c88",
+      "originRaw": "https://gyazo.com/d0ad851005afcf8627298bc76dd32c88/raw",
+      "id": "sha256:96bc26f665440f3ce1ff5f2a9e76de332dbea341bb5c48eabeb149a2f744da04",
+      "status": "ok",
+      "width": 1080,
+      "height": 1582,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/96/96bc26f665440f3ce1ff5f2a9e76de332dbea341bb5c48eabeb149a2f744da04.thumb.webp",
+        "full": "img/96/96bc26f665440f3ce1ff5f2a9e76de332dbea341bb5c48eabeb149a2f744da04.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:02.620Z"
+    },
+    {
+      "origin": "https://gyazo.com/eaf7b888df500c3b5297d487f87dbc1b",
+      "originRaw": "https://gyazo.com/eaf7b888df500c3b5297d487f87dbc1b/raw",
+      "id": "sha256:58b5a668b079fed69f02c972580341b83e2d88964700a8cf38d66df53c383fa1",
+      "status": "ok",
+      "width": 1080,
+      "height": 1263,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/58/58b5a668b079fed69f02c972580341b83e2d88964700a8cf38d66df53c383fa1.thumb.webp",
+        "full": "img/58/58b5a668b079fed69f02c972580341b83e2d88964700a8cf38d66df53c383fa1.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:04.856Z"
+    },
+    {
+      "origin": "https://gyazo.com/01755ae49d367677c92c47e8a86bd896",
+      "originRaw": "https://gyazo.com/01755ae49d367677c92c47e8a86bd896/raw",
+      "id": "sha256:0812a3da7996a67bf22ab094d622963484bcca4c32c00d29d1e2ecce8d83505d",
+      "status": "ok",
+      "width": 1080,
+      "height": 1447,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/08/0812a3da7996a67bf22ab094d622963484bcca4c32c00d29d1e2ecce8d83505d.thumb.webp",
+        "full": "img/08/0812a3da7996a67bf22ab094d622963484bcca4c32c00d29d1e2ecce8d83505d.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:06.862Z"
+    },
+    {
+      "origin": "https://gyazo.com/fc50d4eb9c4950bcb66f8297382e3d4c",
+      "originRaw": "https://gyazo.com/fc50d4eb9c4950bcb66f8297382e3d4c/raw",
+      "id": "sha256:367b12c1bb19a495a8dc6644c65244064945a1ef8e3d4377ec08a89486eb287e",
+      "status": "ok",
+      "width": 1080,
+      "height": 834,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/36/367b12c1bb19a495a8dc6644c65244064945a1ef8e3d4377ec08a89486eb287e.thumb.webp",
+        "full": "img/36/367b12c1bb19a495a8dc6644c65244064945a1ef8e3d4377ec08a89486eb287e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:08.064Z"
+    },
+    {
+      "origin": "https://gyazo.com/bb3d0bbbde96518f3d9eca0eda3f5e33",
+      "originRaw": "https://gyazo.com/bb3d0bbbde96518f3d9eca0eda3f5e33/raw",
+      "id": "sha256:a7ad6d0dc53e28bef1f3f7df9f34267048af5d4e5b35c09ce60cc6e7d278e03b",
+      "status": "ok",
+      "width": 1080,
+      "height": 834,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a7/a7ad6d0dc53e28bef1f3f7df9f34267048af5d4e5b35c09ce60cc6e7d278e03b.thumb.webp",
+        "full": "img/a7/a7ad6d0dc53e28bef1f3f7df9f34267048af5d4e5b35c09ce60cc6e7d278e03b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:09.368Z"
+    },
+    {
+      "origin": "https://gyazo.com/c51953f244de95d0b22cadf574a4c93e",
+      "originRaw": "https://gyazo.com/c51953f244de95d0b22cadf574a4c93e/raw",
+      "id": "sha256:ed21c8ea928a98c093268749b9ba143ff479b07fe0925ead313b450fa3f36039",
+      "status": "ok",
+      "width": 1080,
+      "height": 834,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ed/ed21c8ea928a98c093268749b9ba143ff479b07fe0925ead313b450fa3f36039.thumb.webp",
+        "full": "img/ed/ed21c8ea928a98c093268749b9ba143ff479b07fe0925ead313b450fa3f36039.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:10.691Z"
+    },
+    {
+      "origin": "https://gyazo.com/42ce8290d8883162e9d1eaa4056867ef",
+      "originRaw": "https://gyazo.com/42ce8290d8883162e9d1eaa4056867ef/raw",
+      "id": "sha256:8968238cb32ae99679b73d8fe70fa5b7ecd9bc8daca070f15d2ba6c9c8f224ca",
+      "status": "ok",
+      "width": 1080,
+      "height": 834,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/89/8968238cb32ae99679b73d8fe70fa5b7ecd9bc8daca070f15d2ba6c9c8f224ca.thumb.webp",
+        "full": "img/89/8968238cb32ae99679b73d8fe70fa5b7ecd9bc8daca070f15d2ba6c9c8f224ca.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:11.893Z"
+    },
+    {
+      "origin": "https://gyazo.com/648b039e0b0743553ee2404d3792a841",
+      "originRaw": "https://gyazo.com/648b039e0b0743553ee2404d3792a841/raw",
+      "id": "sha256:305245fef7f88667f47dd1ba13b01c0a6634d724ffad38e66b8a2a268b81850c",
+      "status": "ok",
+      "width": 1080,
+      "height": 834,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/30/305245fef7f88667f47dd1ba13b01c0a6634d724ffad38e66b8a2a268b81850c.thumb.webp",
+        "full": "img/30/305245fef7f88667f47dd1ba13b01c0a6634d724ffad38e66b8a2a268b81850c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:13.304Z"
+    },
+    {
+      "origin": "https://gyazo.com/d8a14bff4d2a9d919325e190aee68546",
+      "originRaw": "https://gyazo.com/d8a14bff4d2a9d919325e190aee68546/raw",
+      "id": "sha256:9fdee1aca979d5448b685ed4329b02b5357538c2120927b202a79e2f871ce804",
+      "status": "ok",
+      "width": 1080,
+      "height": 834,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9f/9fdee1aca979d5448b685ed4329b02b5357538c2120927b202a79e2f871ce804.thumb.webp",
+        "full": "img/9f/9fdee1aca979d5448b685ed4329b02b5357538c2120927b202a79e2f871ce804.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:15.165Z"
+    },
+    {
+      "origin": "https://gyazo.com/d539430a1a3ffdca3c3d75efa52914bb",
+      "originRaw": "https://gyazo.com/d539430a1a3ffdca3c3d75efa52914bb/raw",
+      "id": "sha256:95144987cdc7192d3c8d460a03e0f5652a8dd78689f340300041c8c7f19ee806",
+      "status": "ok",
+      "width": 1080,
+      "height": 834,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/95/95144987cdc7192d3c8d460a03e0f5652a8dd78689f340300041c8c7f19ee806.thumb.webp",
+        "full": "img/95/95144987cdc7192d3c8d460a03e0f5652a8dd78689f340300041c8c7f19ee806.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:16.605Z"
+    },
+    {
+      "origin": "https://gyazo.com/65543f301af04eb8a2c282766102aac4",
+      "originRaw": "https://gyazo.com/65543f301af04eb8a2c282766102aac4/raw",
+      "id": "sha256:42c37b27fd349e951240ee0aadf62437b2c2ad020ce49f691d42b086935addbb",
+      "status": "ok",
+      "width": 1080,
+      "height": 521,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/42/42c37b27fd349e951240ee0aadf62437b2c2ad020ce49f691d42b086935addbb.thumb.webp",
+        "full": "img/42/42c37b27fd349e951240ee0aadf62437b2c2ad020ce49f691d42b086935addbb.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:17.851Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/(WIP)%20First%20Physical%20Prototype%20of%20my%20Pocket%20Writer",
+    "created": "2026-01-23T14:34:39.000Z",
+    "updated": "2026-01-23T14:36:35.000Z",
+    "views": 1,
+    "thumbnail": "https://gyazo.com/24207b493a6461669435b9dedab8115e/raw"
+  }
+}

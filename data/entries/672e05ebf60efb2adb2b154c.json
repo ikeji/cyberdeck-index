@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "672e05ebf60efb2adb2b154c",
+  "title": "Y2K CyberDeck files and parts list",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ge1mbx/y2k_cyberdeck_files_and_parts_list/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/672e0629dcbb4f8191b9113d.png",
+      "originRaw": "https://scrapbox.io/files/672e0629dcbb4f8191b9113d.png",
+      "id": "sha256:3011d0313a8528d907a2607fb6a48d8c101ffd8430ae501ea19768f80466b926",
+      "status": "ok",
+      "width": 1600,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/30/3011d0313a8528d907a2607fb6a48d8c101ffd8430ae501ea19768f80466b926.thumb.webp",
+        "full": "img/30/3011d0313a8528d907a2607fb6a48d8c101ffd8430ae501ea19768f80466b926.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:28.122Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Y2K%20CyberDeck%20files%20and%20parts%20list",
+    "created": "2024-11-08T12:38:13.000Z",
+    "updated": "2024-11-08T12:38:29.000Z",
+    "views": 18,
+    "thumbnail": "https://scrapbox.io/files/672e0629dcbb4f8191b9113d.png"
+  }
+}

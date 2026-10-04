@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "697389b9a273eabfbd4b4b0b",
+  "title": "CL-32",
+  "source": {
+    "url": "https://cl-32.com/",
+    "site": "web",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/23ca82048a0b7d7c6efd930d6ed2b194",
+      "originRaw": "https://gyazo.com/23ca82048a0b7d7c6efd930d6ed2b194/raw",
+      "id": "sha256:a00737ca510739bc8071000469053ee3b2f9c27d13a1684f7168e17149209044",
+      "status": "ok",
+      "width": 1024,
+      "height": 769,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a0/a00737ca510739bc8071000469053ee3b2f9c27d13a1684f7168e17149209044.thumb.webp",
+        "full": "img/a0/a00737ca510739bc8071000469053ee3b2f9c27d13a1684f7168e17149209044.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:58.802Z"
+    },
+    {
+      "origin": "https://gyazo.com/5510ed5dc1f84c9704c69ae58866ad98",
+      "originRaw": "https://gyazo.com/5510ed5dc1f84c9704c69ae58866ad98/raw",
+      "id": "sha256:41f2a2722840559ae200d1476d9e055e95cbad1843bc7e35cbba6c67b4a80c16",
+      "status": "ok",
+      "width": 300,
+      "height": 225,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/41/41f2a2722840559ae200d1476d9e055e95cbad1843bc7e35cbba6c67b4a80c16.thumb.webp",
+        "full": "img/41/41f2a2722840559ae200d1476d9e055e95cbad1843bc7e35cbba6c67b4a80c16.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:59.972Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/CL-32",
+    "created": "2026-01-23T14:46:18.000Z",
+    "updated": "2026-01-23T14:50:53.000Z",
+    "views": 8,
+    "thumbnail": "https://gyazo.com/23ca82048a0b7d7c6efd930d6ed2b194/raw"
+  }
+}

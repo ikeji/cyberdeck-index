@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "68e9136595e2fc4ab86c100c",
+  "title": "Weekly Cyberdeck Build! AI Camera & Wireless Display",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1o2g9t2/weekly_cyberdeck_build_ai_camera_wireless_display/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/82158508eb685cd3e35191f23ff2ec0c",
+      "originRaw": "https://gyazo.com/82158508eb685cd3e35191f23ff2ec0c/raw",
+      "id": "sha256:278b8031b66d7cb6c559708b0d226468d8eec50c0e1476c24a4e9ccc336c06b2",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/27/278b8031b66d7cb6c559708b0d226468d8eec50c0e1476c24a4e9ccc336c06b2.thumb.webp",
+        "full": "img/27/278b8031b66d7cb6c559708b0d226468d8eec50c0e1476c24a4e9ccc336c06b2.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:51.768Z"
+    },
+    {
+      "origin": "https://gyazo.com/ab3e930142507ddd8a859709ba460e9d",
+      "originRaw": "https://gyazo.com/ab3e930142507ddd8a859709ba460e9d/raw",
+      "id": "sha256:4c38dbefacd2608ba9a559959e4f467473ab09d1086fb3313ff11ec3675fd690",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4c/4c38dbefacd2608ba9a559959e4f467473ab09d1086fb3313ff11ec3675fd690.thumb.webp",
+        "full": "img/4c/4c38dbefacd2608ba9a559959e4f467473ab09d1086fb3313ff11ec3675fd690.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:53.878Z"
+    },
+    {
+      "origin": "https://gyazo.com/294ed9c10c6e9875df8d371e7bbd8770",
+      "originRaw": "https://gyazo.com/294ed9c10c6e9875df8d371e7bbd8770/raw",
+      "id": "sha256:12d4835f33ca3e43772adcce58965f1ea62e58892731c6b4e09c620e85dc9ed1",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/12/12d4835f33ca3e43772adcce58965f1ea62e58892731c6b4e09c620e85dc9ed1.thumb.webp",
+        "full": "img/12/12d4835f33ca3e43772adcce58965f1ea62e58892731c6b4e09c620e85dc9ed1.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:55.674Z"
+    },
+    {
+      "origin": "https://gyazo.com/c3fb2bfc05dfecf32c45f990f234cd20",
+      "originRaw": "https://gyazo.com/c3fb2bfc05dfecf32c45f990f234cd20/raw",
+      "id": "sha256:7f0958df98d3f3c8a004829a3a98bcb9f9f81079c235b49b6ec468f198c5aa18",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7f/7f0958df98d3f3c8a004829a3a98bcb9f9f81079c235b49b6ec468f198c5aa18.thumb.webp",
+        "full": "img/7f/7f0958df98d3f3c8a004829a3a98bcb9f9f81079c235b49b6ec468f198c5aa18.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:57.442Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Weekly%20Cyberdeck%20Build!%20AI%20Camera%20%26%20Wireless%20Display",
+    "created": "2025-10-10T14:08:41.000Z",
+    "updated": "2025-10-10T14:09:26.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/82158508eb685cd3e35191f23ff2ec0c/raw"
+  }
+}

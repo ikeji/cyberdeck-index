@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "6a1994c34a4085df5237e9cd",
+  "title": "A pocket device to take notes and play music.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1te2y41/a_diy_pda/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [
+    {
+      "url": "https://orionpda.org/",
+      "label": null,
+      "site": "web"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://gyazo.com/497cab6e305e3b2bfca9faa2dc2b6bfe",
+      "originRaw": "https://gyazo.com/497cab6e305e3b2bfca9faa2dc2b6bfe/raw",
+      "id": "sha256:b6967ac3693b62220aa56bb9cb9e0e8d1a9d6ef33691b1e59c5e5aa86900e75c",
+      "status": "ok",
+      "width": 1600,
+      "height": 1067,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b6/b6967ac3693b62220aa56bb9cb9e0e8d1a9d6ef33691b1e59c5e5aa86900e75c.thumb.webp",
+        "full": "img/b6/b6967ac3693b62220aa56bb9cb9e0e8d1a9d6ef33691b1e59c5e5aa86900e75c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:20.957Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/A%20pocket%20device%20to%20take%20notes%20and%20play%20music.",
+    "created": "2026-05-29T13:29:43.000Z",
+    "updated": "2026-05-29T14:37:42.000Z",
+    "views": 9,
+    "thumbnail": "https://gyazo.com/497cab6e305e3b2bfca9faa2dc2b6bfe/raw"
+  }
+}

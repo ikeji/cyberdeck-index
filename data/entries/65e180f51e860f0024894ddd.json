@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e180f51e860f0024894ddd",
+  "title": "Maybe not a full-on cyberdeck, but proud of my first self-designed portable setup : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/j07ya4/maybe_not_a_fullon_cyberdeck_but_proud_of_my/",
+    "site": "reddit",
+    "label": "Maybe not a full-on cyberdeck, but proud of my first self-designed portable setup : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e180f83b74740023e64743.png",
+      "originRaw": "https://scrapbox.io/files/65e180f83b74740023e64743.png",
+      "id": "sha256:5f7715f33be8b6cdb044f3d6d1e28264be3ef99f28d7716a8b3c6cbf473494ac",
+      "status": "ok",
+      "width": 600,
+      "height": 315,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5f/5f7715f33be8b6cdb044f3d6d1e28264be3ef99f28d7716a8b3c6cbf473494ac.thumb.webp",
+        "full": "img/5f/5f7715f33be8b6cdb044f3d6d1e28264be3ef99f28d7716a8b3c6cbf473494ac.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:23.138Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Maybe%20not%20a%20full-on%20cyberdeck%2C%20but%20proud%20of%20my%20first%20self-designed%20portable%20setup%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:17:10.000Z",
+    "updated": "2024-03-01T07:17:15.000Z",
+    "views": 14,
+    "thumbnail": "https://scrapbox.io/files/65e180f83b74740023e64743.png"
+  }
+}

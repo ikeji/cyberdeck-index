@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "6957dfa8e2b9cc0e402d881d",
+  "title": "An actual serious build this time",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1pt9u69/an_actual_serious_build_this_time/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/ba51a85629488b068a4aa8b8c2bcc23d",
+      "originRaw": "https://gyazo.com/ba51a85629488b068a4aa8b8c2bcc23d/raw",
+      "id": "sha256:79ee2ae674698ec4e56595130c9001438f2514a33b997db6a8f42be1c7094cb2",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/79/79ee2ae674698ec4e56595130c9001438f2514a33b997db6a8f42be1c7094cb2.thumb.webp",
+        "full": "img/79/79ee2ae674698ec4e56595130c9001438f2514a33b997db6a8f42be1c7094cb2.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:30.776Z"
+    },
+    {
+      "origin": "https://gyazo.com/4964251f4eec4adb0af9946f0e3e3521",
+      "originRaw": "https://gyazo.com/4964251f4eec4adb0af9946f0e3e3521/raw",
+      "id": "sha256:15b95687cd1582409aabc357e80363490dd28383e431455de46c42cf771cd378",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/15/15b95687cd1582409aabc357e80363490dd28383e431455de46c42cf771cd378.thumb.webp",
+        "full": "img/15/15b95687cd1582409aabc357e80363490dd28383e431455de46c42cf771cd378.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:32.454Z"
+    },
+    {
+      "origin": "https://gyazo.com/da62267f8ec4bb4eaf7048f7255c3fa5",
+      "originRaw": "https://gyazo.com/da62267f8ec4bb4eaf7048f7255c3fa5/raw",
+      "id": "sha256:1daf0dd967363de427f258e9d86a2e5044faff6542ac0b1d6a38dc113a703ea9",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1d/1daf0dd967363de427f258e9d86a2e5044faff6542ac0b1d6a38dc113a703ea9.thumb.webp",
+        "full": "img/1d/1daf0dd967363de427f258e9d86a2e5044faff6542ac0b1d6a38dc113a703ea9.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:34.193Z"
+    },
+    {
+      "origin": "https://gyazo.com/3479298797f21acc186f924bc502995c",
+      "originRaw": "https://gyazo.com/3479298797f21acc186f924bc502995c/raw",
+      "id": "sha256:842daca99b4a178f4d1dc7536fcab5fd6ea1dedcf02303759f37f99c7e25dfcb",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/84/842daca99b4a178f4d1dc7536fcab5fd6ea1dedcf02303759f37f99c7e25dfcb.thumb.webp",
+        "full": "img/84/842daca99b4a178f4d1dc7536fcab5fd6ea1dedcf02303759f37f99c7e25dfcb.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:36.525Z"
+    },
+    {
+      "origin": "https://gyazo.com/cd01e2c133f2daf3750cfeea8d37f800",
+      "originRaw": "https://gyazo.com/cd01e2c133f2daf3750cfeea8d37f800/raw",
+      "id": "sha256:091656f6fdbec1cec084e168cd8af2317d50b28809454f581cb8ba1459016f13",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/09/091656f6fdbec1cec084e168cd8af2317d50b28809454f581cb8ba1459016f13.thumb.webp",
+        "full": "img/09/091656f6fdbec1cec084e168cd8af2317d50b28809454f581cb8ba1459016f13.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:38.555Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/An%20actual%20serious%20build%20this%20time",
+    "created": "2026-01-02T15:09:35.000Z",
+    "updated": "2026-01-02T15:10:09.000Z",
+    "views": 11,
+    "thumbnail": "https://gyazo.com/ba51a85629488b068a4aa8b8c2bcc23d/raw"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "698f29698b16883ce86d8138",
+  "title": "Resistor - I've been meaning to post this one for a while...",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1r2cm1v/resistor_ive_been_meaning_to_post_this_one_for_a/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/f2261226cb352d426b4d56a56d668f7e",
+      "originRaw": "https://gyazo.com/f2261226cb352d426b4d56a56d668f7e/raw",
+      "id": "sha256:9460871dc002c6951e5d9f392146d22109c49a57c959b3f56dc2e42e06de543a",
+      "status": "ok",
+      "width": 1080,
+      "height": 903,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/94/9460871dc002c6951e5d9f392146d22109c49a57c959b3f56dc2e42e06de543a.thumb.webp",
+        "full": "img/94/9460871dc002c6951e5d9f392146d22109c49a57c959b3f56dc2e42e06de543a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:02.994Z"
+    },
+    {
+      "origin": "https://gyazo.com/cd52236a6c030a3e19a0c37f7a6a6bc7",
+      "originRaw": "https://gyazo.com/cd52236a6c030a3e19a0c37f7a6a6bc7/raw",
+      "id": "sha256:e2d4d6fc90329c5a6e183247424017a4a72170730a5ec760c90d9dc85d5ff39a",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e2/e2d4d6fc90329c5a6e183247424017a4a72170730a5ec760c90d9dc85d5ff39a.thumb.webp",
+        "full": "img/e2/e2d4d6fc90329c5a6e183247424017a4a72170730a5ec760c90d9dc85d5ff39a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:04.959Z"
+    },
+    {
+      "origin": "https://gyazo.com/ac4780a59d11fc5eee90666293ea550b",
+      "originRaw": "https://gyazo.com/ac4780a59d11fc5eee90666293ea550b/raw",
+      "id": "sha256:089df091a3933e40f8543ab8c8a801a567502dedf7a708b2465a6f3d8364937e",
+      "status": "ok",
+      "width": 1080,
+      "height": 422,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/08/089df091a3933e40f8543ab8c8a801a567502dedf7a708b2465a6f3d8364937e.thumb.webp",
+        "full": "img/08/089df091a3933e40f8543ab8c8a801a567502dedf7a708b2465a6f3d8364937e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:06.676Z"
+    },
+    {
+      "origin": "https://gyazo.com/fa5044b65b45e5578170a8d7d419595b",
+      "originRaw": "https://gyazo.com/fa5044b65b45e5578170a8d7d419595b/raw",
+      "id": "sha256:b4a584fb1e6b20b3e066a9dd57c9a2323735d5957d90a5d075438392995c382c",
+      "status": "ok",
+      "width": 1080,
+      "height": 422,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b4/b4a584fb1e6b20b3e066a9dd57c9a2323735d5957d90a5d075438392995c382c.thumb.webp",
+        "full": "img/b4/b4a584fb1e6b20b3e066a9dd57c9a2323735d5957d90a5d075438392995c382c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:08.343Z"
+    },
+    {
+      "origin": "https://gyazo.com/9de8b1a268bd8c446a8f92bee915e8b8",
+      "originRaw": "https://gyazo.com/9de8b1a268bd8c446a8f92bee915e8b8/raw",
+      "id": "sha256:ec8c380377571736883b374824b5bbb6a470ed9ecc16778cbc6c7ca7c6f139eb",
+      "status": "ok",
+      "width": 1080,
+      "height": 424,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ec/ec8c380377571736883b374824b5bbb6a470ed9ecc16778cbc6c7ca7c6f139eb.thumb.webp",
+        "full": "img/ec/ec8c380377571736883b374824b5bbb6a470ed9ecc16778cbc6c7ca7c6f139eb.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:09.883Z"
+    },
+    {
+      "origin": "https://gyazo.com/8e84b517adf87ad04efc0b3ccf95e84f",
+      "originRaw": "https://gyazo.com/8e84b517adf87ad04efc0b3ccf95e84f/raw",
+      "id": "sha256:e5aa965497f87e19e9b6eb1798ab46094f10dde2588067fa91145ee74485e1c9",
+      "status": "ok",
+      "width": 1080,
+      "height": 492,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e5/e5aa965497f87e19e9b6eb1798ab46094f10dde2588067fa91145ee74485e1c9.thumb.webp",
+        "full": "img/e5/e5aa965497f87e19e9b6eb1798ab46094f10dde2588067fa91145ee74485e1c9.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:11.402Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Resistor%20-%20I've%20been%20meaning%20to%20post%20this%20one%20for%20a%20while...",
+    "created": "2026-02-13T13:38:50.000Z",
+    "updated": "2026-02-13T13:39:29.000Z",
+    "views": 2,
+    "thumbnail": "https://gyazo.com/f2261226cb352d426b4d56a56d668f7e/raw"
+  }
+}

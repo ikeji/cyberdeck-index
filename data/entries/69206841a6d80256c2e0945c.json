@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "69206841a6d80256c2e0945c",
+  "title": "My LattePanda IOTA based cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ommt9a/my_lattepanda_iota_based_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/ba8840beeaeb265c48429452699d062e",
+      "originRaw": "https://gyazo.com/ba8840beeaeb265c48429452699d062e/raw",
+      "id": "sha256:ff6397d2fc20ae228a77ab7b342c60aa2994eeace2efb56e05dfce713bae9521",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ff/ff6397d2fc20ae228a77ab7b342c60aa2994eeace2efb56e05dfce713bae9521.thumb.webp",
+        "full": "img/ff/ff6397d2fc20ae228a77ab7b342c60aa2994eeace2efb56e05dfce713bae9521.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:37.171Z"
+    },
+    {
+      "origin": "https://gyazo.com/3010613bd97c0dbc6a03dc5762b360d5",
+      "originRaw": "https://gyazo.com/3010613bd97c0dbc6a03dc5762b360d5/raw",
+      "id": "sha256:e1b5df774dd8e0b1be1d8570663e9226c3ebcdcc4ae1a653269da696e5a4b3c8",
+      "status": "ok",
+      "width": 1080,
+      "height": 812,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e1/e1b5df774dd8e0b1be1d8570663e9226c3ebcdcc4ae1a653269da696e5a4b3c8.thumb.webp",
+        "full": "img/e1/e1b5df774dd8e0b1be1d8570663e9226c3ebcdcc4ae1a653269da696e5a4b3c8.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:43.515Z"
+    },
+    {
+      "origin": "https://gyazo.com/a56f7c529400a87b7796a17a79aa3170",
+      "originRaw": "https://gyazo.com/a56f7c529400a87b7796a17a79aa3170/raw",
+      "id": "sha256:b67a8b460cfecfcb6bcc1fc9eb4c5927656ccad65b103bd6acfe5dd33f55cb26",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b6/b67a8b460cfecfcb6bcc1fc9eb4c5927656ccad65b103bd6acfe5dd33f55cb26.thumb.webp",
+        "full": "img/b6/b67a8b460cfecfcb6bcc1fc9eb4c5927656ccad65b103bd6acfe5dd33f55cb26.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:45.229Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20LattePanda%20IOTA%20based%20cyberdeck",
+    "created": "2025-11-21T13:25:25.000Z",
+    "updated": "2025-11-21T13:25:55.000Z",
+    "views": 7,
+    "thumbnail": "https://gyazo.com/ba8840beeaeb265c48429452699d062e/raw"
+  }
+}

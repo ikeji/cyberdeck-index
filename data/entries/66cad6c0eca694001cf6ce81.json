@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad6c0eca694001cf6ce81",
+  "title": "My first cyberdeck : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1e2habi/my_first_cyberdeck/",
+    "site": "reddit",
+    "label": "My first cyberdeck : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad6c864ef2f001dd44237.png",
+      "originRaw": "https://scrapbox.io/files/66cad6c864ef2f001dd44237.png",
+      "id": "sha256:ef879653160036c18fbb3f956b9168de1745ffe95c578bc34d60c360eef26411",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ef/ef879653160036c18fbb3f956b9168de1745ffe95c578bc34d60c360eef26411.thumb.webp",
+        "full": "img/ef/ef879653160036c18fbb3f956b9168de1745ffe95c578bc34d60c360eef26411.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:14.307Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20first%20cyberdeck%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T07:01:21.000Z",
+    "updated": "2026-05-08T14:36:38.000Z",
+    "views": 10,
+    "thumbnail": "https://scrapbox.io/files/66cad6c864ef2f001dd44237.png"
+  }
+}

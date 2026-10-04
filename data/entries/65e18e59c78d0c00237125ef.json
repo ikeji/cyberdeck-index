@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18e59c78d0c00237125ef",
+  "title": "PICOZX - Handheld ZX Spectrum 128k + other 8bits from Bobricius on Tindie",
+  "source": {
+    "url": "https://www.tindie.com/products/bobricius/picozx-handheld-zx-spectrum-128k-other-8bits/",
+    "site": "web",
+    "label": "PICOZX - Handheld ZX Spectrum 128k + other 8bits from Bobricius on Tindie"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18e5de55ce70023d54595.png",
+      "originRaw": "https://scrapbox.io/files/65e18e5de55ce70023d54595.png",
+      "id": "sha256:8d08dd55a64647b678411f4b0efb0a87370fd8797bf4984efa3249ec7c0f2ccb",
+      "status": "ok",
+      "width": 1370,
+      "height": 912,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/8d/8d08dd55a64647b678411f4b0efb0a87370fd8797bf4984efa3249ec7c0f2ccb.thumb.webp",
+        "full": "img/8d/8d08dd55a64647b678411f4b0efb0a87370fd8797bf4984efa3249ec7c0f2ccb.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:52.862Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/PICOZX%20-%20Handheld%20ZX%20Spectrum%20128k%20%2B%20other%208bits%20from%20Bobricius%20on%20Tindie",
+    "created": "2024-03-01T08:14:18.000Z",
+    "updated": "2024-03-01T08:14:27.000Z",
+    "views": 19,
+    "thumbnail": "https://scrapbox.io/files/65e18e5de55ce70023d54595.png"
+  }
+}

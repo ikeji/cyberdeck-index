@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67efe225c331f23abf66f46b",
+  "title": "I've finished my phone based c-deck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1jp2e21/ive_finished_my_phone_based_cdeck/",
+    "site": "reddit",
+    "label": "I've finished my phone based c-deck : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67efe2282eca299e0f005f64.png",
+      "originRaw": "https://scrapbox.io/files/67efe2282eca299e0f005f64.png",
+      "id": "sha256:2c1b379f9f3bf8a84f72067cbb974905e4ca4af6837dbbb41b4020ca8210f4e9",
+      "status": "ok",
+      "width": 1600,
+      "height": 1203,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/2c/2c1b379f9f3bf8a84f72067cbb974905e4ca4af6837dbbb41b4020ca8210f4e9.thumb.webp",
+        "full": "img/2c/2c1b379f9f3bf8a84f72067cbb974905e4ca4af6837dbbb41b4020ca8210f4e9.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:55.910Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I've%20finished%20my%20phone%20based%20c-deck",
+    "created": "2025-04-04T13:44:07.000Z",
+    "updated": "2025-04-04T13:44:32.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/67efe2282eca299e0f005f64.png"
+  }
+}

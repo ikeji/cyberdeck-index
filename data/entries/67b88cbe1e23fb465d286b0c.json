@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67b88cbe1e23fb465d286b0c",
+  "title": "Next Slim Cyberdeck - Raspberry Pi Zero & Pico",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ihkj6g/next_slim_cyberdeck_raspberry_pi_zero_pico/",
+    "site": "reddit",
+    "label": "Next Slim Cyberdeck - Raspberry Pi Zero & Pico : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67b88e5037d707551c5227c0.png",
+      "originRaw": "https://scrapbox.io/files/67b88e5037d707551c5227c0.png",
+      "id": "sha256:a8bc4cccfe0c7f43b4292a0a033ce928e729405a4f5585bc37e965c8655d9b8f",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a8/a8bc4cccfe0c7f43b4292a0a033ce928e729405a4f5585bc37e965c8655d9b8f.thumb.webp",
+        "full": "img/a8/a8bc4cccfe0c7f43b4292a0a033ce928e729405a4f5585bc37e965c8655d9b8f.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:39.589Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Next%20Slim%20Cyberdeck%20-%20Raspberry%20Pi%20Zero%20%26%20Pico",
+    "created": "2025-02-21T14:31:43.000Z",
+    "updated": "2025-02-21T14:31:55.000Z",
+    "views": 9,
+    "thumbnail": "https://scrapbox.io/files/67b88e5037d707551c5227c0.png"
+  }
+}

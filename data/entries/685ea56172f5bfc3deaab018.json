@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "685ea56172f5bfc3deaab018",
+  "title": "PPC 640 Cyberdeck Build",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1lhc3z7/ppc_640_cyberdeck_build/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/fc8c677937fb86f86bc9711ffa255860",
+      "originRaw": "https://gyazo.com/fc8c677937fb86f86bc9711ffa255860/raw",
+      "id": "sha256:c27f14c99b6cbb5aab2bd585e5e352a3c15801392e2640a908912d02ae1c3052",
+      "status": "ok",
+      "width": 1080,
+      "height": 608,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c2/c27f14c99b6cbb5aab2bd585e5e352a3c15801392e2640a908912d02ae1c3052.thumb.webp",
+        "full": "img/c2/c27f14c99b6cbb5aab2bd585e5e352a3c15801392e2640a908912d02ae1c3052.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:29.255Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/PPC%20640%20Cyberdeck%20Build",
+    "created": "2025-06-27T14:06:28.000Z",
+    "updated": "2025-06-27T14:08:11.000Z",
+    "views": 6,
+    "thumbnail": "https://gyazo.com/fc8c677937fb86f86bc9711ffa255860/raw"
+  }
+}

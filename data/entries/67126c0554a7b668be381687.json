@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67126c0554a7b668be381687",
+  "title": "Pilet 5: my 5-inch cyberdeck powered by rpi5",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1fqqfc8/pilet_5_my_5inch_cyberdeck_powered_by_rpi5/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67126c06f758d4fb703f2463.png",
+      "originRaw": "https://scrapbox.io/files/67126c06f758d4fb703f2463.png",
+      "id": "sha256:57d9e49f38f1e69d5809299016f167eefaf2c4c097c7ea75bf59cd955d9bf586",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/57/57d9e49f38f1e69d5809299016f167eefaf2c4c097c7ea75bf59cd955d9bf586.thumb.webp",
+        "full": "img/57/57d9e49f38f1e69d5809299016f167eefaf2c4c097c7ea75bf59cd955d9bf586.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:20.764Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Pilet%205%3A%20my%205-inch%20cyberdeck%20powered%20by%20rpi5",
+    "created": "2024-10-18T14:09:15.000Z",
+    "updated": "2024-10-18T14:09:29.000Z",
+    "views": 21,
+    "thumbnail": "https://scrapbox.io/files/67126c06f758d4fb703f2463.png"
+  }
+}

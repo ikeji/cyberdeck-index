@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e156f41ccd070025b82ebc",
+  "title": "Sanyo - M2440Hx — THE CYBERDECK CAFE",
+  "source": {
+    "url": "https://cyberdeck.cafe/mix/sanyo",
+    "site": "web",
+    "label": "Sanyo - M2440Hx — THE CYBERDECK CAFE"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1576160d50900231526df.png",
+      "originRaw": "https://scrapbox.io/files/65e1576160d50900231526df.png",
+      "id": "sha256:754f2e251a6c0830821dc9519f1b5f1c566dee5cecd2f4269956847028279261",
+      "status": "ok",
+      "width": 795,
+      "height": 795,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/75/754f2e251a6c0830821dc9519f1b5f1c566dee5cecd2f4269956847028279261.thumb.webp",
+        "full": "img/75/754f2e251a6c0830821dc9519f1b5f1c566dee5cecd2f4269956847028279261.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:10.351Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Sanyo%20-%20M2440Hx%20%E2%80%94%20THE%20CYBERDECK%20CAFE",
+    "created": "2024-03-01T04:17:57.000Z",
+    "updated": "2024-03-01T04:19:48.000Z",
+    "views": 3,
+    "thumbnail": "https://scrapbox.io/files/65e1576160d50900231526df.png"
+  }
+}

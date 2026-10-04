@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "68e915f08697cdf46c7ef366",
+  "title": "Cyberdeck? Cyberconsole?",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1nm7ro1/cyberdeck_cyberconsole/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/6eccdae8de4ab4a6933393a0dd5ed6d2",
+      "originRaw": "https://gyazo.com/6eccdae8de4ab4a6933393a0dd5ed6d2/raw",
+      "id": "sha256:7e5ac024ccd8e58a2df391fbd7b4bf01de42e1862bd1a21b57c564fa5b19809c",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7e/7e5ac024ccd8e58a2df391fbd7b4bf01de42e1862bd1a21b57c564fa5b19809c.thumb.webp",
+        "full": "img/7e/7e5ac024ccd8e58a2df391fbd7b4bf01de42e1862bd1a21b57c564fa5b19809c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:10.315Z"
+    },
+    {
+      "origin": "https://gyazo.com/db12bf738ed19557f441d221244a62df",
+      "originRaw": "https://gyazo.com/db12bf738ed19557f441d221244a62df/raw",
+      "id": "sha256:9bb746932f1cc6bc9d4d6534dc8a9d6ca2de191ec140ca1fbfa733db29d45e4c",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9b/9bb746932f1cc6bc9d4d6534dc8a9d6ca2de191ec140ca1fbfa733db29d45e4c.thumb.webp",
+        "full": "img/9b/9bb746932f1cc6bc9d4d6534dc8a9d6ca2de191ec140ca1fbfa733db29d45e4c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:12.294Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cyberdeck%3F%20Cyberconsole%3F",
+    "created": "2025-10-10T14:19:33.000Z",
+    "updated": "2025-10-10T14:19:50.000Z",
+    "views": 10,
+    "thumbnail": "https://gyazo.com/6eccdae8de4ab4a6933393a0dd5ed6d2/raw"
+  }
+}

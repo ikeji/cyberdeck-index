@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "69c6922bf8c5751f253ab9e6",
+  "title": "My Custom WriterDeck is Complete!",
+  "source": {
+    "url": "https://www.reddit.com/r/writerDeck/comments/1s4c8rv/my_custom_writerdeck_is_complete/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/77427ab97487ffe1a8abb25706edcc41",
+      "originRaw": "https://gyazo.com/77427ab97487ffe1a8abb25706edcc41/raw",
+      "id": "sha256:8de0a2865e6260304d9c437813bd1c27c7c9756bba2bbe019739e950458e5c36",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/8d/8de0a2865e6260304d9c437813bd1c27c7c9756bba2bbe019739e950458e5c36.thumb.webp",
+        "full": "img/8d/8de0a2865e6260304d9c437813bd1c27c7c9756bba2bbe019739e950458e5c36.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:14.463Z"
+    },
+    {
+      "origin": "https://gyazo.com/fcac37cb2ed7b401bc559e32ff3c3f64",
+      "originRaw": "https://gyazo.com/fcac37cb2ed7b401bc559e32ff3c3f64/raw",
+      "id": "sha256:6cecb49601c6bb26b02f0006f1cd74b86b9422b1669d5f6713bf54efcb581c31",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6c/6cecb49601c6bb26b02f0006f1cd74b86b9422b1669d5f6713bf54efcb581c31.thumb.webp",
+        "full": "img/6c/6cecb49601c6bb26b02f0006f1cd74b86b9422b1669d5f6713bf54efcb581c31.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:16.706Z"
+    },
+    {
+      "origin": "https://gyazo.com/fe8004db4b2c86e354ea922dfe99d580",
+      "originRaw": "https://gyazo.com/fe8004db4b2c86e354ea922dfe99d580/raw",
+      "id": "sha256:12f5d36b1d89c5edebae85a6010e0ef3bf77f22200806b2d994d1c9ac772c00a",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/12/12f5d36b1d89c5edebae85a6010e0ef3bf77f22200806b2d994d1c9ac772c00a.thumb.webp",
+        "full": "img/12/12f5d36b1d89c5edebae85a6010e0ef3bf77f22200806b2d994d1c9ac772c00a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:18.939Z"
+    },
+    {
+      "origin": "https://gyazo.com/9dd1edaed818f6273b2e3101a2f27efd",
+      "originRaw": "https://gyazo.com/9dd1edaed818f6273b2e3101a2f27efd/raw",
+      "id": "sha256:cfc4ae123e2dc0a9965de21b2224c2964dcb6a883032fa7bbc80584c3d2e304e",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/cf/cfc4ae123e2dc0a9965de21b2224c2964dcb6a883032fa7bbc80584c3d2e304e.thumb.webp",
+        "full": "img/cf/cfc4ae123e2dc0a9965de21b2224c2964dcb6a883032fa7bbc80584c3d2e304e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:21.341Z"
+    },
+    {
+      "origin": "https://gyazo.com/0840835f74b343af0849fadf45db33b6",
+      "originRaw": "https://gyazo.com/0840835f74b343af0849fadf45db33b6/raw",
+      "id": "sha256:7a4a3bde68305965ff583ea2a7e9b8affce33f9d217ad5c9da6a3b430390bf6b",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7a/7a4a3bde68305965ff583ea2a7e9b8affce33f9d217ad5c9da6a3b430390bf6b.thumb.webp",
+        "full": "img/7a/7a4a3bde68305965ff583ea2a7e9b8affce33f9d217ad5c9da6a3b430390bf6b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:22.731Z"
+    },
+    {
+      "origin": "https://gyazo.com/d963702b082d67069157850f22816d89",
+      "originRaw": "https://gyazo.com/d963702b082d67069157850f22816d89/raw",
+      "id": "sha256:243e289184b198071cd4a410f6fc0d9e7a7a694d717b7ad464e21cf3d26ce914",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/24/243e289184b198071cd4a410f6fc0d9e7a7a694d717b7ad464e21cf3d26ce914.thumb.webp",
+        "full": "img/24/243e289184b198071cd4a410f6fc0d9e7a7a694d717b7ad464e21cf3d26ce914.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:24.829Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20Custom%20WriterDeck%20is%20Complete!",
+    "created": "2026-03-27T14:20:39.000Z",
+    "updated": "2026-03-27T14:21:15.000Z",
+    "views": 8,
+    "thumbnail": "https://gyazo.com/77427ab97487ffe1a8abb25706edcc41/raw"
+  }
+}

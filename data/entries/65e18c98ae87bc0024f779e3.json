@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18c98ae87bc0024f779e3",
+  "title": "Xユーザーのレトロゲームで遊ぼう！さん: 「ええ、DSにMacOS入るの？ t.co/oCYxhaVsBp t.co/Rd9lUCn4GH」 / X",
+  "source": {
+    "url": "https://twitter.com/Retoro_Gamer/status/1759376781289865300?t=ghi7jLhevosqSLEnGBzC_Q&s=19",
+    "site": "twitter",
+    "label": "Xユーザーのレトロゲームで遊ぼう！さん: 「ええ、DSにMacOS入るの？ https://t.co/oCYxhaVsBp https://t.co/Rd9lUCn4GH」 / X"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18c9be25eb000256e85a0.png",
+      "originRaw": "https://scrapbox.io/files/65e18c9be25eb000256e85a0.png",
+      "id": "sha256:cc47552d3c25af7d79d02bbc4e13f0c40a0fd7407a13fe9b315a40e995b1106a",
+      "status": "ok",
+      "width": 680,
+      "height": 453,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/cc/cc47552d3c25af7d79d02bbc4e13f0c40a0fd7407a13fe9b315a40e995b1106a.thumb.webp",
+        "full": "img/cc/cc47552d3c25af7d79d02bbc4e13f0c40a0fd7407a13fe9b315a40e995b1106a.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:48.504Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/X%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AE%E3%83%AC%E3%83%88%E3%83%AD%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%A7%E9%81%8A%E3%81%BC%E3%81%86%EF%BC%81%E3%81%95%E3%82%93%3A%20%E3%80%8C%E3%81%88%E3%81%88%E3%80%81DS%E3%81%ABMacOS%E5%85%A5%E3%82%8B%E3%81%AE%EF%BC%9F%20t.co%2FoCYxhaVsBp%20t.co%2FRd9lUCn4GH%E3%80%8D%20%2F%20X",
+    "created": "2024-03-01T08:06:49.000Z",
+    "updated": "2024-03-01T08:06:55.000Z",
+    "views": 11,
+    "thumbnail": "https://scrapbox.io/files/65e18c9be25eb000256e85a0.png"
+  }
+}

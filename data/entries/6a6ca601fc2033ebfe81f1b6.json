@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6ca601fc2033ebfe81f1b6",
+  "title": "This is RedShell",
+  "source": {
+    "url": "https://www.reddit.com/user/fanewang/comments/1uh1sgn/this_is_redshell/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/5a2de07880e1ebe025ee18be24c51998",
+      "originRaw": "https://gyazo.com/5a2de07880e1ebe025ee18be24c51998/raw",
+      "id": "sha256:d5ac0ec19b079009e70f46e39d39144a2ec7250e32de8505308c9db826d5fec7",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d5/d5ac0ec19b079009e70f46e39d39144a2ec7250e32de8505308c9db826d5fec7.thumb.webp",
+        "full": "img/d5/d5ac0ec19b079009e70f46e39d39144a2ec7250e32de8505308c9db826d5fec7.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:52.341Z"
+    },
+    {
+      "origin": "https://gyazo.com/60d04ed3324bdb72328aa38d5a1b11c3",
+      "originRaw": "https://gyazo.com/60d04ed3324bdb72328aa38d5a1b11c3/raw",
+      "id": "sha256:ed2e8de005be7276a773a8461f0285a04f2828fa32aec8d7d7815a50830a1247",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ed/ed2e8de005be7276a773a8461f0285a04f2828fa32aec8d7d7815a50830a1247.thumb.webp",
+        "full": "img/ed/ed2e8de005be7276a773a8461f0285a04f2828fa32aec8d7d7815a50830a1247.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:54.528Z"
+    },
+    {
+      "origin": "https://gyazo.com/7d1be0025d06f733ff78750b93411d13",
+      "originRaw": "https://gyazo.com/7d1be0025d06f733ff78750b93411d13/raw",
+      "id": "sha256:408c14ac94f0494557c501a73563fde7135b58d892c2d94863073867de871329",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/40/408c14ac94f0494557c501a73563fde7135b58d892c2d94863073867de871329.thumb.webp",
+        "full": "img/40/408c14ac94f0494557c501a73563fde7135b58d892c2d94863073867de871329.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:56.408Z"
+    },
+    {
+      "origin": "https://gyazo.com/6a67e2a5b4d80a5213afd4baff04d6f5",
+      "originRaw": "https://gyazo.com/6a67e2a5b4d80a5213afd4baff04d6f5/raw",
+      "id": "sha256:d9504d81c29b6ad58c638db6fd4ea5a2e439b590bf1a7214236af12fd87d2521",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d9/d9504d81c29b6ad58c638db6fd4ea5a2e439b590bf1a7214236af12fd87d2521.thumb.webp",
+        "full": "img/d9/d9504d81c29b6ad58c638db6fd4ea5a2e439b590bf1a7214236af12fd87d2521.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:58.319Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/This%20is%20RedShell",
+    "created": "2026-07-31T13:41:24.000Z",
+    "updated": "2026-07-31T13:41:46.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/5a2de07880e1ebe025ee18be24c51998/raw"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad17b7a6dd6001c8394e9",
+  "title": "Does anyone know of a tiny usb trackpoint or optical pointer for handhelds? : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1c9k7sg/does_anyone_know_of_a_tiny_usb_trackpoint_or/",
+    "site": "reddit",
+    "label": "Does anyone know of a tiny usb trackpoint or optical pointer for handhelds? : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad18574a3ea001ceabc83.png",
+      "originRaw": "https://scrapbox.io/files/66cad18574a3ea001ceabc83.png",
+      "id": "sha256:9ea65d137a068a35995c78f837403d9d55963094c20fb1eddd191d3b2ec2483b",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9e/9ea65d137a068a35995c78f837403d9d55963094c20fb1eddd191d3b2ec2483b.thumb.webp",
+        "full": "img/9e/9ea65d137a068a35995c78f837403d9d55963094c20fb1eddd191d3b2ec2483b.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:01.015Z"
+    }
+  ],
+  "tags": [
+    "smartphone",
+    "steampunk"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Does%20anyone%20know%20of%20a%20tiny%20usb%20trackpoint%20or%20optical%20pointer%20for%20handhelds%3F%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:38:52.000Z",
+    "updated": "2024-08-25T06:39:26.000Z",
+    "views": 3,
+    "thumbnail": "https://scrapbox.io/files/66cad18574a3ea001ceabc83.png"
+  }
+}

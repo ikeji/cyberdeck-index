@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "6749bde5aaa7856cd8265d42",
+  "title": "レトモバ",
+  "source": {
+    "url": "https://x.com/retromobilech",
+    "site": "twitter",
+    "label": null
+  },
+  "links": [
+    {
+      "url": "https://x.com/retromobilech/status/1859886502656065556",
+      "label": null,
+      "site": "twitter"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6749bedf8e084d1a255c18bf.png",
+      "originRaw": "https://scrapbox.io/files/6749bedf8e084d1a255c18bf.png",
+      "id": "sha256:618f16225b2a51d67879f5724637fa32c2586ccb3f90cbfc71c969b8e29d8ede",
+      "status": "ok",
+      "width": 1600,
+      "height": 902,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/61/618f16225b2a51d67879f5724637fa32c2586ccb3f90cbfc71c969b8e29d8ede.thumb.webp",
+        "full": "img/61/618f16225b2a51d67879f5724637fa32c2586ccb3f90cbfc71c969b8e29d8ede.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:31.770Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": "@retromobilech\nとりあえず溝はありつつも、青フィラメントで組み立てた。もう溝はデザインにしてしまおうかな。",
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/%E3%83%AC%E3%83%88%E3%83%A2%E3%83%90",
+    "created": "2024-11-29T13:17:12.000Z",
+    "updated": "2024-11-29T13:19:28.000Z",
+    "views": 12,
+    "thumbnail": "https://scrapbox.io/files/6749bedf8e084d1a255c18bf.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67d420a9551babcd94813419",
+  "title": "$6 Keyboard + $25 Broken Pixel 4a - Cheap pocket terminal",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1j4vnl6/6_keyboard_25_broken_pixel_4a_cheap_pocket/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67d420b0c64b215b35a60c1e.png",
+      "originRaw": "https://scrapbox.io/files/67d420b0c64b215b35a60c1e.png",
+      "id": "sha256:abc6af9ea52268c50665dc3c076dd09291ad99a09bd52481f8e5b11f91c278e9",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ab/abc6af9ea52268c50665dc3c076dd09291ad99a09bd52481f8e5b11f91c278e9.thumb.webp",
+        "full": "img/ab/abc6af9ea52268c50665dc3c076dd09291ad99a09bd52481f8e5b11f91c278e9.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:45.812Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/%246%20Keyboard%20%2B%20%2425%20Broken%20Pixel%204a%20-%20Cheap%20pocket%20terminal",
+    "created": "2025-03-14T12:27:28.000Z",
+    "updated": "2025-03-14T12:27:36.000Z",
+    "views": 6,
+    "thumbnail": "https://scrapbox.io/files/67d420b0c64b215b35a60c1e.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "cyberdeck-index",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs",
+    "extract": "node scripts/extract.mjs",
+    "images": "node scripts/images.mjs",
+    "validate": "node scripts/validate.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test scripts/*.test.mjs",
+    "all": "npm run fetch && npm run extract && npm run images && npm run validate && npm run build",
+    "add": "node scripts/add.mjs",
+    "add-server": "node scripts/add-server.mjs"
+  },
+  "dependencies": {
+    "ajv": "^8.20.0",
+    "marked": "^18.0.14",
+    "minisearch": "^7.2.0",
+    "sharp": "^0.35.5"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

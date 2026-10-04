@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e4a92025f6c70026856bf8",
+  "title": "SOMEONE’S MADE THE LAPTOP CLIVE SINCLAIR NEVER BUILT",
+  "source": {
+    "url": "https://hackaday.com/2018/01/21/someones-made-the-laptop-clive-sinclair-never-built/",
+    "site": "hackaday",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e7bd2bb3504e002488d27b.png",
+      "originRaw": "https://scrapbox.io/files/65e7bd2bb3504e002488d27b.png",
+      "id": "sha256:68b67656a1a6b5a86400af5335ce9e611cb8e6030803f657378c59c83e59b1bf",
+      "status": "ok",
+      "width": 800,
+      "height": 450,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/68/68b67656a1a6b5a86400af5335ce9e611cb8e6030803f657378c59c83e59b1bf.thumb.webp",
+        "full": "img/68/68b67656a1a6b5a86400af5335ce9e611cb8e6030803f657378c59c83e59b1bf.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:54.041Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/SOMEONE%E2%80%99S%20MADE%20THE%20LAPTOP%20CLIVE%20SINCLAIR%20NEVER%20BUILT",
+    "created": "2024-03-03T16:45:24.000Z",
+    "updated": "2024-03-06T00:47:46.000Z",
+    "views": 21,
+    "thumbnail": "https://scrapbox.io/files/65e7bd2bb3504e002488d27b.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "693c280b508bbd1ed2c7f817",
+  "title": "Handheld CLI Device",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1pe7o6z/handheld_cli_device/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/0afcb67b1487fc4148283c2edbc4d008",
+      "originRaw": "https://gyazo.com/0afcb67b1487fc4148283c2edbc4d008/raw",
+      "id": "sha256:54a3a2a9e498d8d167aea7af33f92f8288e4637d73f3d0c5576f786ac4f1ff88",
+      "status": "ok",
+      "width": 1080,
+      "height": 1435,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/54/54a3a2a9e498d8d167aea7af33f92f8288e4637d73f3d0c5576f786ac4f1ff88.thumb.webp",
+        "full": "img/54/54a3a2a9e498d8d167aea7af33f92f8288e4637d73f3d0c5576f786ac4f1ff88.webp"
+      },
+      "fetchedAt": "2026-10-03T07:50:10.717Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Handheld%20CLI%20Device",
+    "created": "2025-12-12T14:34:57.000Z",
+    "updated": "2025-12-12T14:35:05.000Z",
+    "views": 15,
+    "thumbnail": "https://gyazo.com/0afcb67b1487fc4148283c2edbc4d008/raw"
+  }
+}

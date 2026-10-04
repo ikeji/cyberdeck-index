@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e1875ae55ce70023d4ce3f",
+  "title": "Cyberdeck 002 - Completed! : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/10fk91k/cyberdeck_002_completed/",
+    "site": "reddit",
+    "label": "Cyberdeck 002 - Completed! : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1875e4f2cf8002432c34b.png",
+      "originRaw": "https://scrapbox.io/files/65e1875e4f2cf8002432c34b.png",
+      "id": "sha256:18d29319cf07d566185abc53dd5d65a66da07a7f890bf62d7bd874c455aaaf2c",
+      "status": "ok",
+      "width": 1080,
+      "height": 754,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/18/18d29319cf07d566185abc53dd5d65a66da07a7f890bf62d7bd874c455aaaf2c.thumb.webp",
+        "full": "img/18/18d29319cf07d566185abc53dd5d65a66da07a7f890bf62d7bd874c455aaaf2c.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:39.132Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cyberdeck%20002%20-%20Completed!%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:44:27.000Z",
+    "updated": "2024-03-01T07:44:34.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/65e1875e4f2cf8002432c34b.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67126d6d9acf818a975e0032",
+  "title": "I got carried away and accidentally built an entire post office in a box",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1fxuddc/i_got_carried_away_and_accidentally_built_an/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67126e6de551871d07811f66.png",
+      "originRaw": "https://scrapbox.io/files/67126e6de551871d07811f66.png",
+      "id": "sha256:5320e1e8244d832e5aacbb83d522c0592ed194252c465bffe1baf9e66aae01fd",
+      "status": "ok",
+      "width": 1200,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/53/5320e1e8244d832e5aacbb83d522c0592ed194252c465bffe1baf9e66aae01fd.thumb.webp",
+        "full": "img/53/5320e1e8244d832e5aacbb83d522c0592ed194252c465bffe1baf9e66aae01fd.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:22.509Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20got%20carried%20away%20and%20accidentally%20built%20an%20entire%20post%20office%20in%20a%20box",
+    "created": "2024-10-18T14:19:31.000Z",
+    "updated": "2024-10-18T14:19:40.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/67126e6de551871d07811f66.png"
+  }
+}

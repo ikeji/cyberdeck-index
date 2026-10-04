@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "6765736307f4ebed470b342e",
+  "title": "3d Printed Cyberdeck Powered by Raspberry Pi 5",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1h2lvjk/3d_printed_cyberdeck_powered_by_raspberry_pi_5/#lightbox",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6765737c86200ab2342c6f42.png",
+      "originRaw": "https://scrapbox.io/files/6765737c86200ab2342c6f42.png",
+      "id": "sha256:f90ef44e68a6f9c09708985628a170afd6aa46d019ab5e22cb35bfa2ec48807d",
+      "status": "ok",
+      "width": 1600,
+      "height": 1319,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f9/f90ef44e68a6f9c09708985628a170afd6aa46d019ab5e22cb35bfa2ec48807d.thumb.webp",
+        "full": "img/f9/f90ef44e68a6f9c09708985628a170afd6aa46d019ab5e22cb35bfa2ec48807d.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:31.640Z"
+    },
+    {
+      "origin": "https://scrapbox.io/files/676573c70476b8214a34101b.png",
+      "originRaw": "https://scrapbox.io/files/676573c70476b8214a34101b.png",
+      "id": "sha256:3a413ae94551e044e8dfa6530524c46b56e2444935f43986c078a374d0f464f3",
+      "status": "ok",
+      "width": 1600,
+      "height": 1246,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3a/3a413ae94551e044e8dfa6530524c46b56e2444935f43986c078a374d0f464f3.thumb.webp",
+        "full": "img/3a/3a413ae94551e044e8dfa6530524c46b56e2444935f43986c078a374d0f464f3.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:33.016Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/3d%20Printed%20Cyberdeck%20Powered%20by%20Raspberry%20Pi%205",
+    "created": "2024-12-20T13:39:07.000Z",
+    "updated": "2024-12-20T13:40:49.000Z",
+    "views": 33,
+    "thumbnail": "https://scrapbox.io/files/6765737c86200ab2342c6f42.png"
+  }
+}

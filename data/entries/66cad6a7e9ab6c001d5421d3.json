@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad6a7e9ab6c001d5421d3",
+  "title": "Cyberdesk : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1e52jxk/cyberdesk/",
+    "site": "reddit",
+    "label": "Cyberdesk : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad6ad522047001d5f9f59.png",
+      "originRaw": "https://scrapbox.io/files/66cad6ad522047001d5f9f59.png",
+      "id": "sha256:3a148c66609abbab509636697bb4f553cda61257b75089333c520a4061ab4799",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3a/3a148c66609abbab509636697bb4f553cda61257b75089333c520a4061ab4799.thumb.webp",
+        "full": "img/3a/3a148c66609abbab509636697bb4f553cda61257b75089333c520a4061ab4799.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:13.454Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cyberdesk%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T07:00:56.000Z",
+    "updated": "2024-08-25T07:01:06.000Z",
+    "views": 10,
+    "thumbnail": "https://scrapbox.io/files/66cad6ad522047001d5f9f59.png"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "680b92b98931c0acc30da161",
+  "title": "WIP Beelink SER9 Cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1k41w27/wip_beelink_ser9_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/680b92e46d645d877fd0ca60.png",
+      "originRaw": "https://scrapbox.io/files/680b92e46d645d877fd0ca60.png",
+      "id": "sha256:df8f57f7fee8f094346acf5ec3d69b220c393394df907ac7fa0df1c9364100a1",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/df/df8f57f7fee8f094346acf5ec3d69b220c393394df907ac7fa0df1c9364100a1.thumb.webp",
+        "full": "img/df/df8f57f7fee8f094346acf5ec3d69b220c393394df907ac7fa0df1c9364100a1.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:57.252Z"
+    },
+    {
+      "origin": "https://scrapbox.io/files/680b92d7335350dc880009da.png",
+      "originRaw": "https://scrapbox.io/files/680b92d7335350dc880009da.png",
+      "id": "sha256:222788fc7ab144f4517b9e77703ddf91bc239335d7d337a93538086a34ced477",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/22/222788fc7ab144f4517b9e77703ddf91bc239335d7d337a93538086a34ced477.thumb.webp",
+        "full": "img/22/222788fc7ab144f4517b9e77703ddf91bc239335d7d337a93538086a34ced477.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:57.310Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/WIP%20Beelink%20SER9%20Cyberdeck",
+    "created": "2025-04-25T13:48:44.000Z",
+    "updated": "2025-04-25T13:49:56.000Z",
+    "views": 6,
+    "thumbnail": "https://scrapbox.io/files/680b92e46d645d877fd0ca60.png"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "68cd4d76b1081d80fff82a76",
+  "title": "Little Deck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1n7kvx4/little_deck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/a781fd6dc18ae1c83052029d9d53f7aa",
+      "originRaw": "https://gyazo.com/a781fd6dc18ae1c83052029d9d53f7aa/raw",
+      "id": "sha256:5b133c9de044d05d7702a7e6bbb9ccbc800fb46a84585d93eb4300dc97589a68",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5b/5b133c9de044d05d7702a7e6bbb9ccbc800fb46a84585d93eb4300dc97589a68.thumb.webp",
+        "full": "img/5b/5b133c9de044d05d7702a7e6bbb9ccbc800fb46a84585d93eb4300dc97589a68.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:49.152Z"
+    },
+    {
+      "origin": "https://gyazo.com/6d09899446c0381b1bfca9250b088515",
+      "originRaw": "https://gyazo.com/6d09899446c0381b1bfca9250b088515/raw",
+      "id": "sha256:95a084291e1f60f49f46e43e173fb6e40471a455192c276d902a11b22061b2b6",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/95/95a084291e1f60f49f46e43e173fb6e40471a455192c276d902a11b22061b2b6.thumb.webp",
+        "full": "img/95/95a084291e1f60f49f46e43e173fb6e40471a455192c276d902a11b22061b2b6.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:50.722Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Little%20Deck",
+    "created": "2025-09-19T12:32:57.000Z",
+    "updated": "2025-09-19T12:33:18.000Z",
+    "views": 12,
+    "thumbnail": "https://gyazo.com/a781fd6dc18ae1c83052029d9d53f7aa/raw"
+  }
+}

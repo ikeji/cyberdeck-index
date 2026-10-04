@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "680b9573c3edd445ce7fdd07",
+  "title": "Clawtype - a wearable keyboard I made for use with XReal glasses; wireless version planned next",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1jwrnkv/clawtype_a_wearable_keyboard_i_made_for_use_with/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/680b95978931c0acc30db197.png",
+      "originRaw": "https://scrapbox.io/files/680b95978931c0acc30db197.png",
+      "id": "sha256:c7b828e45c31ff3fa4d1b7a063f9d5633dcb5312d0b9262fa9242662c7eb4420",
+      "status": "ok",
+      "width": 480,
+      "height": 360,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c7/c7b828e45c31ff3fa4d1b7a063f9d5633dcb5312d0b9262fa9242662c7eb4420.thumb.webp",
+        "full": "img/c7/c7b828e45c31ff3fa4d1b7a063f9d5633dcb5312d0b9262fa9242662c7eb4420.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:59.833Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Clawtype%20-%20a%20wearable%20keyboard%20I%20made%20for%20use%20with%20XReal%20glasses%3B%20wireless%20version%20planned%20next",
+    "created": "2025-04-25T14:00:22.000Z",
+    "updated": "2025-04-25T14:01:06.000Z",
+    "views": 6,
+    "thumbnail": "https://scrapbox.io/files/680b95978931c0acc30db197.png"
+  }
+}

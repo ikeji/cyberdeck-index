@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18c67e25eb000256e8248",
+  "title": "weeCee - Tiny DOS Gaming PC - Share Project - PCBWay",
+  "source": {
+    "url": "https://www.pcbway.com/project/shareproject/weeCee___Tiny_DOS_Gaming_PC.html",
+    "site": "web",
+    "label": "weeCee - Tiny DOS Gaming PC - Share Project - PCBWay"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18c694b1ae800243a665f.png",
+      "originRaw": "https://scrapbox.io/files/65e18c694b1ae800243a665f.png",
+      "id": "sha256:0368a65dc0695897b755d889cbac02777595d760ea7cf92e867a3edc3b743b0b",
+      "status": "ok",
+      "width": 548,
+      "height": 400,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/03/0368a65dc0695897b755d889cbac02777595d760ea7cf92e867a3edc3b743b0b.thumb.webp",
+        "full": "img/03/0368a65dc0695897b755d889cbac02777595d760ea7cf92e867a3edc3b743b0b.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:47.077Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/weeCee%20-%20Tiny%20DOS%20Gaming%20PC%20-%20Share%20Project%20-%20PCBWay",
+    "created": "2024-03-01T08:06:00.000Z",
+    "updated": "2024-03-01T08:06:05.000Z",
+    "views": 11,
+    "thumbnail": "https://scrapbox.io/files/65e18c694b1ae800243a665f.png"
+  }
+}

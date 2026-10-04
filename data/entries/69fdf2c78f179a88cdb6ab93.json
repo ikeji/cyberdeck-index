@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "69fdf2c78f179a88cdb6ab93",
+  "title": "The lighting square dot... most important upgrade!",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1syx0na/the_lighting_square_dot_most_important_upgrade/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/fba36961571c365e60bcebe5e10c4c57",
+      "originRaw": "https://gyazo.com/fba36961571c365e60bcebe5e10c4c57/raw",
+      "id": "sha256:597031280dc02caeb868b60edacdab8fe1c8329c38f35d4d223d15a0566c3df8",
+      "status": "ok",
+      "width": 900,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/59/597031280dc02caeb868b60edacdab8fe1c8329c38f35d4d223d15a0566c3df8.thumb.webp",
+        "full": "img/59/597031280dc02caeb868b60edacdab8fe1c8329c38f35d4d223d15a0566c3df8.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:54.859Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/The%20lighting%20square%20dot...%20most%20important%20upgrade!",
+    "created": "2026-05-08T14:27:23.000Z",
+    "updated": "2026-05-08T14:27:33.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/fba36961571c365e60bcebe5e10c4c57/raw"
+  }
+}

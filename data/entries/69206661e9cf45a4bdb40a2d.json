@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "69206661e9cf45a4bdb40a2d",
+  "title": "Pi5 portable AI.",
+  "source": {
+    "url": "https://www.reddit.com/r/cassettefuturism/comments/1oy124f/pi5_portable_ai/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/ae2945ae5b079051f9630bca24c99fa9",
+      "originRaw": "https://gyazo.com/ae2945ae5b079051f9630bca24c99fa9/raw",
+      "id": "sha256:32328b6cc311f8c10e8c62a8bddfd57228588ef28614e11bd8ce05754981026f",
+      "status": "ok",
+      "width": 1080,
+      "height": 1081,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/32/32328b6cc311f8c10e8c62a8bddfd57228588ef28614e11bd8ce05754981026f.thumb.webp",
+        "full": "img/32/32328b6cc311f8c10e8c62a8bddfd57228588ef28614e11bd8ce05754981026f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:26.912Z"
+    },
+    {
+      "origin": "https://gyazo.com/88f0649b6d7bf6ef693086b0251a42f6",
+      "originRaw": "https://gyazo.com/88f0649b6d7bf6ef693086b0251a42f6/raw",
+      "id": "sha256:a2e5f3c19f80dfa5ec1a878227b6bdf5f681ae615d6a664d353edd7fd35f1dda",
+      "status": "ok",
+      "width": 932,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a2/a2e5f3c19f80dfa5ec1a878227b6bdf5f681ae615d6a664d353edd7fd35f1dda.thumb.webp",
+        "full": "img/a2/a2e5f3c19f80dfa5ec1a878227b6bdf5f681ae615d6a664d353edd7fd35f1dda.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:29.900Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Pi5%20portable%20AI.",
+    "created": "2025-11-21T13:17:28.000Z",
+    "updated": "2025-11-21T13:17:48.000Z",
+    "views": 9,
+    "thumbnail": "https://gyazo.com/ae2945ae5b079051f9630bca24c99fa9/raw"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "6a199509b22859a637718e57",
+  "title": "A Cyberdeck That Runs Linux…in An Altoids Tin",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ucf9er/a_curiously_minty_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [
+    {
+      "url": "https://hackaday.com/2026/05/12/a-cyberdeck-that-runs-linux-in-an-altoids-tin/",
+      "label": null,
+      "site": "hackaday"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://gyazo.com/504178035c7f2a6649f022dff7d87903",
+      "originRaw": "https://gyazo.com/504178035c7f2a6649f022dff7d87903/raw",
+      "id": "sha256:8a16e7e3f26a2e1ee3af39cf32f73d0c2182b13743394509c91e7ab55f0c4332",
+      "status": "ok",
+      "width": 800,
+      "height": 450,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/8a/8a16e7e3f26a2e1ee3af39cf32f73d0c2182b13743394509c91e7ab55f0c4332.thumb.webp",
+        "full": "img/8a/8a16e7e3f26a2e1ee3af39cf32f73d0c2182b13743394509c91e7ab55f0c4332.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:19.647Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/A%20Cyberdeck%20That%20Runs%20Linux%E2%80%A6in%20An%20Altoids%20Tin",
+    "created": "2026-05-29T13:30:56.000Z",
+    "updated": "2026-07-31T13:45:10.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/504178035c7f2a6649f022dff7d87903/raw"
+  }
+}

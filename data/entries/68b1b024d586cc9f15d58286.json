@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "68b1b024d586cc9f15d58286",
+  "title": "My otg Design Deck!",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1mvb1ip/my_otg_design_deck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/cd780def11230a6d79a2a8dbd8a451df",
+      "originRaw": "https://gyazo.com/cd780def11230a6d79a2a8dbd8a451df/raw",
+      "id": "sha256:66e1dd6e43a84b3d8cc4ac819056c72a2e5c3acfe46fa9becf1085dbf31b118e",
+      "status": "ok",
+      "width": 1080,
+      "height": 809,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/66/66e1dd6e43a84b3d8cc4ac819056c72a2e5c3acfe46fa9becf1085dbf31b118e.thumb.webp",
+        "full": "img/66/66e1dd6e43a84b3d8cc4ac819056c72a2e5c3acfe46fa9becf1085dbf31b118e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:33.379Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20otg%20Design%20Deck!",
+    "created": "2025-08-29T13:50:35.000Z",
+    "updated": "2025-08-29T13:50:41.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/cd780def11230a6d79a2a8dbd8a451df/raw"
+  }
+}

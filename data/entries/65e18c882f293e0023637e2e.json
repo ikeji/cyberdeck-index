@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18c882f293e0023637e2e",
+  "title": "Xユーザーのパスコンパスさん: 「Windows3がESP32で動く…！？ ソフトウェア的にエミュレートされているライブラリを公開されている方がいて、それに合わせたボードを設計されたそうです シゲゾーンさんの方で今後書籍と併せて販売予定とお聞きしました #DGであそぼ t.co/XVfRs3yJfr」 / X",
+  "source": {
+    "url": "https://twitter.com/pscmps/status/1756183731189260444?t=fUx6JedMhWO2ioIybBcXOQ&s=19",
+    "site": "twitter",
+    "label": "Xユーザーのパスコンパスさん: 「Windows3がESP32で動く…！？ ソフトウェア的にエミュレートされているライブラリを公開されている方がいて、それに合わせたボードを設計されたそうです シゲゾーンさんの方で今後書籍と併せて販売予定とお聞きしました #DGであそぼ https://t.co/XVfRs3yJfr」 / X"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18c8bd7452e0024b72176.png",
+      "originRaw": "https://scrapbox.io/files/65e18c8bd7452e0024b72176.png",
+      "id": "sha256:94cb50a2e63d1aeb9f534b3b39b6f3c1ff7a4fc35f1ff3046d68a7a606b2836c",
+      "status": "ok",
+      "width": 675,
+      "height": 900,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/94/94cb50a2e63d1aeb9f534b3b39b6f3c1ff7a4fc35f1ff3046d68a7a606b2836c.thumb.webp",
+        "full": "img/94/94cb50a2e63d1aeb9f534b3b39b6f3c1ff7a4fc35f1ff3046d68a7a606b2836c.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:48.226Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/X%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AE%E3%83%91%E3%82%B9%E3%82%B3%E3%83%B3%E3%83%91%E3%82%B9%E3%81%95%E3%82%93%3A%20%E3%80%8CWindows3%E3%81%8CESP32%E3%81%A7%E5%8B%95%E3%81%8F%E2%80%A6%EF%BC%81%EF%BC%9F%20%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E7%9A%84%E3%81%AB%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%83%88%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%82%92%E5%85%AC%E9%96%8B%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E6%96%B9%E3%81%8C%E3%81%84%E3%81%A6%E3%80%81%E3%81%9D%E3%82%8C%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E8%A8%AD%E8%A8%88%E3%81%95%E3%82%8C%E3%81%9F%E3%81%9D%E3%81%86%E3%81%A7%E3%81%99%20%E3%82%B7%E3%82%B2%E3%82%BE%E3%83%BC%E3%83%B3%E3%81%95%E3%82%93%E3%81%AE%E6%96%B9%E3%81%A7%E4%BB%8A%E5%BE%8C%E6%9B%B8%E7%B1%8D%E3%81%A8%E4%BD%B5%E3%81%9B%E3%81%A6%E8%B2%A9%E5%A3%B2%E4%BA%88%E5%AE%9A%E3%81%A8%E3%81%8A%E8%81%9E%E3%81%8D%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%20%23DG%E3%81%A7%E3%81%82%E3%81%9D%E3%81%BC%20t.co%2FXVfRs3yJfr%E3%80%8D%20%2F%20X",
+    "created": "2024-03-01T08:06:33.000Z",
+    "updated": "2024-03-01T08:06:40.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/65e18c8bd7452e0024b72176.png"
+  }
+}

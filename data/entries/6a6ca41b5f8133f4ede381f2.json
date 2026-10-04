@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6ca41b5f8133f4ede381f2",
+  "title": "Mac cyberdeck finally done",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1un17qg/mac_cyberdeck_finally_done/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/76cd9bf06ab954f87713ecb6608f84f7",
+      "originRaw": "https://gyazo.com/76cd9bf06ab954f87713ecb6608f84f7/raw",
+      "id": "sha256:f93e6e534f7cac59d9323d6ed6f91e06a01347a8491e0d90237fe8a2c6250105",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f9/f93e6e534f7cac59d9323d6ed6f91e06a01347a8491e0d90237fe8a2c6250105.thumb.webp",
+        "full": "img/f9/f93e6e534f7cac59d9323d6ed6f91e06a01347a8491e0d90237fe8a2c6250105.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:38.452Z"
+    },
+    {
+      "origin": "https://gyazo.com/63a0fbbd5e7dba9c7189caf120517100",
+      "originRaw": "https://gyazo.com/63a0fbbd5e7dba9c7189caf120517100/raw",
+      "id": "sha256:e8654f2f19cdcd85b97a804c5d7877432827a7212c6533f597a53f1fc329fde3",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e8/e8654f2f19cdcd85b97a804c5d7877432827a7212c6533f597a53f1fc329fde3.thumb.webp",
+        "full": "img/e8/e8654f2f19cdcd85b97a804c5d7877432827a7212c6533f597a53f1fc329fde3.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:40.722Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Mac%20cyberdeck%20finally%20done",
+    "created": "2026-07-31T13:33:22.000Z",
+    "updated": "2026-07-31T13:33:33.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/76cd9bf06ab954f87713ecb6608f84f7/raw"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66f6a8a42ffe81001cb52d8d",
+  "title": "An Update on my Portable Writer Project, CAD file release. Details in Comments",
+  "source": {
+    "url": "https://www.reddit.com/r/writerDeck/comments/1fmysv4/an_update_on_my_portable_writer_project_cad_file/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66f6a8ab29947a001c50ec8b.png",
+      "originRaw": "https://scrapbox.io/files/66f6a8ab29947a001c50ec8b.png",
+      "id": "sha256:11c2071664116c8fa97d30c49d840b4be2e8f1adb6597aed5292d9b3e07a5b8f",
+      "status": "ok",
+      "width": 1080,
+      "height": 1008,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/11/11c2071664116c8fa97d30c49d840b4be2e8f1adb6597aed5292d9b3e07a5b8f.thumb.webp",
+        "full": "img/11/11c2071664116c8fa97d30c49d840b4be2e8f1adb6597aed5292d9b3e07a5b8f.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:16.661Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/An%20Update%20on%20my%20Portable%20Writer%20Project%2C%20CAD%20file%20release.%20Details%20in%20Comments",
+    "created": "2024-09-27T12:44:23.000Z",
+    "updated": "2024-09-27T12:44:34.000Z",
+    "views": 6,
+    "thumbnail": "https://scrapbox.io/files/66f6a8ab29947a001c50ec8b.png"
+  }
+}

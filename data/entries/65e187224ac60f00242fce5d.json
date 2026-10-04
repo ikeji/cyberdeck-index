@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e187224ac60f00242fce5d",
+  "title": "Raspberry pi deck I put together : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/pxzrm9/raspberry_pi_deck_i_put_together/",
+    "site": "reddit",
+    "label": "Raspberry pi deck I put together : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e187244b1ae800243a0b20.png",
+      "originRaw": "https://scrapbox.io/files/65e187244b1ae800243a0b20.png",
+      "id": "sha256:b95e6e5a58ec2ff9d89d6d915eb001c882b6a536a57c9e63b7055326d4da1db8",
+      "status": "ok",
+      "width": 1080,
+      "height": 838,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b9/b95e6e5a58ec2ff9d89d6d915eb001c882b6a536a57c9e63b7055326d4da1db8.thumb.webp",
+        "full": "img/b9/b95e6e5a58ec2ff9d89d6d915eb001c882b6a536a57c9e63b7055326d4da1db8.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:37.380Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Raspberry%20pi%20deck%20I%20put%20together%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:43:31.000Z",
+    "updated": "2024-03-01T07:43:37.000Z",
+    "views": 11,
+    "thumbnail": "https://scrapbox.io/files/65e187244b1ae800243a0b20.png"
+  }
+}

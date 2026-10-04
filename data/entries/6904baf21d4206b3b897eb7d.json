@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "6904baf21d4206b3b897eb7d",
+  "title": "Handheld device with Raspberry Pi Zero 2 W",
+  "source": {
+    "url": "https://www.reddit.com/r/raspberry_pi/comments/1ohr3p9/handheld_device_with_raspberry_pi_zero_2_w/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/d5b68dd6ce2df73c81a65afb8c758a63",
+      "originRaw": "https://gyazo.com/d5b68dd6ce2df73c81a65afb8c758a63/raw",
+      "id": "sha256:3d060f9a4cefc1cf9cdd63cc3e9e8487bfd942350a1a50f84310235004b7064b",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3d/3d060f9a4cefc1cf9cdd63cc3e9e8487bfd942350a1a50f84310235004b7064b.thumb.webp",
+        "full": "img/3d/3d060f9a4cefc1cf9cdd63cc3e9e8487bfd942350a1a50f84310235004b7064b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:14.112Z"
+    },
+    {
+      "origin": "https://gyazo.com/94740b570f1d3e53a0325ef94e6e66aa",
+      "originRaw": "https://gyazo.com/94740b570f1d3e53a0325ef94e6e66aa/raw",
+      "id": "sha256:996de9c64b576dacce09e680ff9042d73aee6548d5c9bc6882cd710fcdb0e861",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/99/996de9c64b576dacce09e680ff9042d73aee6548d5c9bc6882cd710fcdb0e861.thumb.webp",
+        "full": "img/99/996de9c64b576dacce09e680ff9042d73aee6548d5c9bc6882cd710fcdb0e861.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:15.954Z"
+    },
+    {
+      "origin": "https://gyazo.com/f06bb3d79a62abd157b64608bf7609c0",
+      "originRaw": "https://gyazo.com/f06bb3d79a62abd157b64608bf7609c0/raw",
+      "id": "sha256:2fb7275dc591fd901254f3d10a26463fad9a00d9138ad3bee47c0a849b108c81",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/2f/2fb7275dc591fd901254f3d10a26463fad9a00d9138ad3bee47c0a849b108c81.thumb.webp",
+        "full": "img/2f/2fb7275dc591fd901254f3d10a26463fad9a00d9138ad3bee47c0a849b108c81.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:17.810Z"
+    },
+    {
+      "origin": "https://gyazo.com/db6f09c55ea39de3974be41db6c1d326",
+      "originRaw": "https://gyazo.com/db6f09c55ea39de3974be41db6c1d326/raw",
+      "id": "sha256:8feccf27a1be04db4fb521e735091edd2e0604f1196818ea521ccec29ea0e167",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/8f/8feccf27a1be04db4fb521e735091edd2e0604f1196818ea521ccec29ea0e167.thumb.webp",
+        "full": "img/8f/8feccf27a1be04db4fb521e735091edd2e0604f1196818ea521ccec29ea0e167.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:19.225Z"
+    },
+    {
+      "origin": "https://gyazo.com/604f874ea6d471ce0aafb7ebd0653da6",
+      "originRaw": "https://gyazo.com/604f874ea6d471ce0aafb7ebd0653da6/raw",
+      "id": "sha256:23cbf24466744d2ff0b1548904bf0a2f27f3450e9b5b2eb77573c1cf2d5058de",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/23/23cbf24466744d2ff0b1548904bf0a2f27f3450e9b5b2eb77573c1cf2d5058de.thumb.webp",
+        "full": "img/23/23cbf24466744d2ff0b1548904bf0a2f27f3450e9b5b2eb77573c1cf2d5058de.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:20.581Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Handheld%20device%20with%20Raspberry%20Pi%20Zero%202%20W",
+    "created": "2025-10-31T13:34:49.000Z",
+    "updated": "2025-10-31T13:46:01.000Z",
+    "views": 18,
+    "thumbnail": "https://gyazo.com/d5b68dd6ce2df73c81a65afb8c758a63/raw"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67b88f97fe3243971b2221c2",
+  "title": "Antennas for everything",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1inux84/antennas_for_everything/",
+    "site": "reddit",
+    "label": "Antennas for everything : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67b88f9927feb23a74fe117c.png",
+      "originRaw": "https://scrapbox.io/files/67b88f9927feb23a74fe117c.png",
+      "id": "sha256:41a3b40e1a7c22ac674567c096314943871f4c7eb3aa9e904b6ba036738761f5",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/41/41a3b40e1a7c22ac674567c096314943871f4c7eb3aa9e904b6ba036738761f5.thumb.webp",
+        "full": "img/41/41a3b40e1a7c22ac674567c096314943871f4c7eb3aa9e904b6ba036738761f5.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:43.879Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Antennas%20for%20everything",
+    "created": "2025-02-21T14:37:13.000Z",
+    "updated": "2025-02-21T14:37:22.000Z",
+    "views": 3,
+    "thumbnail": "https://scrapbox.io/files/67b88f9927feb23a74fe117c.png"
+  }
+}

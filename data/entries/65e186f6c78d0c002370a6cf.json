@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e186f6c78d0c002370a6cf",
+  "title": "A 7 Screen Laptop : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/jzvvli/a_7_screen_laptop/",
+    "site": "reddit",
+    "label": "A 7 Screen Laptop : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e186f9697d2f0024454b0e.png",
+      "originRaw": "https://scrapbox.io/files/65e186f9697d2f0024454b0e.png",
+      "id": "sha256:403007151c7b68d71b6351178ddf09b8c2d934ac6499ac689142d14924564768",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/40/403007151c7b68d71b6351178ddf09b8c2d934ac6499ac689142d14924564768.thumb.webp",
+        "full": "img/40/403007151c7b68d71b6351178ddf09b8c2d934ac6499ac689142d14924564768.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:36.385Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/A%207%20Screen%20Laptop%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:42:47.000Z",
+    "updated": "2024-03-01T07:42:53.000Z",
+    "views": 22,
+    "thumbnail": "https://scrapbox.io/files/65e186f9697d2f0024454b0e.png"
+  }
+}

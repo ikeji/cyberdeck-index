@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "65e17b1b9f585400237e6247",
+  "title": "Penkesu Computer - A Homebrew Retro-style Handheld PC | penkesu",
+  "source": {
+    "url": "https://penkesu.computer/",
+    "site": "web",
+    "label": "Penkesu Computer - A Homebrew Retro-style Handheld PC | penkesu"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e17b1e4ac60f00242ecb01.png",
+      "originRaw": "https://scrapbox.io/files/65e17b1e4ac60f00242ecb01.png",
+      "id": "sha256:f72ee6c3c1db70a9e96f9077f2064ed336480a36d7317d4b317a34be146ec5ec",
+      "status": "ok",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f7/f72ee6c3c1db70a9e96f9077f2064ed336480a36d7317d4b317a34be146ec5ec.thumb.webp",
+        "full": "img/f7/f72ee6c3c1db70a9e96f9077f2064ed336480a36d7317d4b317a34be146ec5ec.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:15.712Z"
+    }
+  ],
+  "tags": [
+    "日本の作例",
+    "IKeJIのおすすめ"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Penkesu%20Computer%20-%20A%20Homebrew%20Retro-style%20Handheld%20PC%20%7C%20penkesu",
+    "created": "2024-03-01T06:52:12.000Z",
+    "updated": "2026-05-08T14:35:25.000Z",
+    "views": 33,
+    "thumbnail": "https://scrapbox.io/files/65e17b1e4ac60f00242ecb01.png"
+  }
+}

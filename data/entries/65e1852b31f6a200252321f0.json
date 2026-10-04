@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e1852b31f6a200252321f0",
+  "title": "Fun little weekend project : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1b0mpuu/fun_little_weekend_project/",
+    "site": "reddit",
+    "label": "Fun little weekend project : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1852edec25d0025c33a54.png",
+      "originRaw": "https://scrapbox.io/files/65e1852edec25d0025c33a54.png",
+      "id": "sha256:b57748ae3d497bb4d7c325fbdb39251eb5e32852814cac7647f2ab3e9437c21e",
+      "status": "ok",
+      "width": 1080,
+      "height": 1277,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b5/b57748ae3d497bb4d7c325fbdb39251eb5e32852814cac7647f2ab3e9437c21e.thumb.webp",
+        "full": "img/b5/b57748ae3d497bb4d7c325fbdb39251eb5e32852814cac7647f2ab3e9437c21e.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:28.376Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Fun%20little%20weekend%20project%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:35:08.000Z",
+    "updated": "2024-03-01T07:35:14.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/65e1852edec25d0025c33a54.png"
+  }
+}

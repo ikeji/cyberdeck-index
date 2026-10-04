@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad26c5e1719001ccf136d",
+  "title": "Still WIP but couldn't wait to share : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1bt6bv4/still_wip_but_couldnt_wait_to_share/",
+    "site": "reddit",
+    "label": "Still WIP but couldn't wait to share : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad270c426b0001ccb3f75.png",
+      "originRaw": "https://scrapbox.io/files/66cad270c426b0001ccb3f75.png",
+      "id": "sha256:5f8964538526653d53c959caadaacb5a6b24d681cdd091782915e6021e1c2cb3",
+      "status": "ok",
+      "width": 1080,
+      "height": 891,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5f/5f8964538526653d53c959caadaacb5a6b24d681cdd091782915e6021e1c2cb3.thumb.webp",
+        "full": "img/5f/5f8964538526653d53c959caadaacb5a6b24d681cdd091782915e6021e1c2cb3.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:02.608Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Still%20WIP%20but%20couldn't%20wait%20to%20share%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:42:52.000Z",
+    "updated": "2024-08-25T06:43:01.000Z",
+    "views": 3,
+    "thumbnail": "https://scrapbox.io/files/66cad270c426b0001ccb3f75.png"
+  }
+}

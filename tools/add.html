@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Add entry | CYBERDECK Index</title>
+<link rel="stylesheet" href="/style.css">
+<style>
+  form { display: grid; gap: 12px; max-width: 760px; }
+  label { display: grid; gap: 4px; font-size: .85rem; color: var(--muted); }
+  input[type=text], input[type=url], textarea { padding: 8px 10px; border: 1px solid var(--line); border-radius: 6px; background: var(--card); color: var(--fg); font: inherit; width: 100%; }
+  .imgs { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 10px; }
+  .img { border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: var(--card); font-size: .7rem; }
+  .img img { width: 100%; aspect-ratio: 4/3; object-fit: cover; display: block; background: var(--line); }
+  .img label { display: flex; gap: 6px; align-items: center; padding: 6px 8px; color: var(--fg); overflow-wrap: anywhere; }
+  button { font: inherit; padding: 8px 16px; border-radius: 8px; border: 1px solid var(--line); background: var(--card); color: var(--fg); cursor: pointer; }
+  button.primary { background: var(--accent); color: var(--accent-fg); border-color: var(--accent); font-weight: 700; }
+  .row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  #msg { padding: 10px 14px; border-radius: 8px; border: 1px solid var(--line); background: var(--card); }
+  #msg.ok { border-color: var(--accent); } #msg.err { border-color: #d33; }
+</style>
+</head>
+<body>
+<header class="site-header"><a class="brand" href="/">CYBERDECK Index / Add</a></header>
+<main>
+<h1>Add entry</h1>
+<p id="msg" hidden></p>
+<form id="f">
+  <label>Source URL <input type="url" id="url" required></label>
+  <label>Title <input type="text" id="title" required></label>
+  <label>Tags (space or comma separated) <input type="text" id="tags"></label>
+  <label>Comment <textarea id="comment" rows="2"></textarea></label>
+  <div>
+    <div class="row"><strong>Images</strong><small id="imgcount"></small></div>
+    <div class="imgs" id="imgs"></div>
+  </div>
+  <div class="row">
+    <input type="url" id="newurl" placeholder="Add image URL" style="flex:1 1 240px;padding:8px 10px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--fg)">
+    <button type="button" id="addurl">Add</button>
+    <label style="display:inline">File: <input type="file" id="files" accept="image/*" multiple></label>
+  </div>
+  <div class="row">
+    <button type="submit" class="primary" id="submit">Save</button>
+    <button type="button" id="meta">Fetch metadata (server)</button>
+  </div>
+</form>
+</main>
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var images = []; // {url} | {name, dataUrl}; each with checked
+  var msg = $('msg');
+
+  function say(text, cls) { msg.hidden = false; msg.className = cls || ''; msg.textContent = text; }
+
+  function decode(h) {
+    if (!h || h === 'loading') return null;
+    try {
+      var b = h.replace(/-/g, '+').replace(/_/g, '/');
+      while (b.length % 4) b += '=';
+      return JSON.parse(decodeURIComponent(escape(atob(b))));
+    } catch (e) { return null; }
+  }
+
+  function render() {
+    var box = $('imgs');
+    box.innerHTML = '';
+    images.forEach(function (im, i) {
+      var d = document.createElement('div'); d.className = 'img';
+      var img = document.createElement('img');
+      img.referrerPolicy = 'no-referrer'; img.loading = 'lazy'; img.src = im.url || im.dataUrl;
+      var l = document.createElement('label');
+      var c = document.createElement('input'); c.type = 'checkbox'; c.checked = im.checked;
+      c.onchange = function () { im.checked = c.checked; count(); };
+      var t = document.createElement('span'); t.textContent = im.name || im.url.replace(/^https?:\/\//, '').slice(0, 60);
+      l.appendChild(c); l.appendChild(t); d.appendChild(img); d.appendChild(l); box.appendChild(d);
+    });
+    count();
+  }
+  function count() { $('imgcount').textContent = images.filter(function (i) { return i.checked; }).length + ' / ' + images.length + ' images selected'; }
+
+  function addImageUrl(u) {
+    if (!/^https?:\/\//.test(u) || images.some(function (i) { return i.url === u; })) return;
+    images.push({ url: u, checked: true });
+  }
+
+  function lookup() {
+    var u = $('url').value;
+    if (!/^https?:\/\//.test(u)) return;
+    fetch('/api/lookup?url=' + encodeURIComponent(u)).then(function (r) { return r.json(); }).then(function (r) {
+      if (r.exists) say('Already added: "' + r.title + '" (' + r.images + ' images). Saving will add images and tags.');
+    });
+  }
+
+  function loadPayload() {
+    var p = decode(location.hash.slice(1));
+    if (!p) return;
+    images = [];
+    $('url').value = p.url || ''; $('title').value = p.title || '';
+    $('tags').value = ''; $('comment').value = '';
+    msg.hidden = true;
+    (p.images || []).forEach(addImageUrl);
+    history.replaceState(null, '', location.pathname);
+    render(); lookup();
+  }
+  loadPayload();
+  render();
+  // ブックマークレットは同名タブを再利用するため、ハッシュ変更でも読み込み直す
+  window.addEventListener('hashchange', loadPayload);
+
+  $('addurl').onclick = function () { addImageUrl($('newurl').value.trim()); $('newurl').value = ''; render(); };
+  $('files').onchange = function () {
+    [].slice.call(this.files).forEach(function (f) {
+      var r = new FileReader();
+      r.onload = function () { images.push({ name: f.name, dataUrl: r.result, checked: true }); render(); };
+      r.readAsDataURL(f);
+    });
+    this.value = '';
+  };
+  $('meta').onclick = function () {
+    fetch('/api/meta?url=' + encodeURIComponent($('url').value)).then(function (r) { return r.json(); }).then(function (m) {
+      if (m.title && !$('title').value) $('title').value = m.title;
+      (m.images || []).forEach(addImageUrl); render();
+      say(m.note || 'Metadata fetched');
+    }).catch(function (e) { say('Fetch failed: ' + e, 'err'); });
+  };
+
+  $('f').onsubmit = function (e) {
+    e.preventDefault();
+    $('submit').disabled = true; say('Saving… (downloading and converting images)');
+    var body = {
+      url: $('url').value, title: $('title').value, tags: $('tags').value, comment: $('comment').value,
+      images: images.filter(function (i) { return i.checked; }).map(function (i) { return i.url ? { url: i.url } : { name: i.name, dataUrl: i.dataUrl }; })
+    };
+    fetch('/api/add', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) })
+      .then(function (r) { return r.json().then(function (j) { if (!r.ok) throw new Error(j.error || r.status); return j; }); })
+      .then(function (j) {
+        var st = j.added.map(function (a) { return a.status; });
+        var bad = st.filter(function (s) { return s !== 'ok'; }).length;
+        say((j.created ? 'Added' : 'Updated') + ': ' + j.title + ' (' + (st.length - bad) + ' images' + (bad ? ', ' + bad + ' failed; retry with npm run images' : '') + '). Run npm run build to publish.', bad ? 'err' : 'ok');
+        images = []; render();
+      })
+      .catch(function (err) { say('Error: ' + err.message, 'err'); })
+      .then(function () { $('submit').disabled = false; });
+  };
+})();
+</script>
+</body>
+</html>

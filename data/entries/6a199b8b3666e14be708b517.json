@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "6a199b8b3666e14be708b517",
+  "title": "The Chordex Journal",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1tqr0bq/the_chordex_journal/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/faa5642e002f7f49398a355973e37af8",
+      "originRaw": "https://gyazo.com/faa5642e002f7f49398a355973e37af8/raw",
+      "id": "sha256:7033857ac4ae5f007d2391abe82e8779d83627d7ec0544e04df5c2f0173a34de",
+      "status": "ok",
+      "width": 640,
+      "height": 295,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/70/7033857ac4ae5f007d2391abe82e8779d83627d7ec0544e04df5c2f0173a34de.thumb.webp",
+        "full": "img/70/7033857ac4ae5f007d2391abe82e8779d83627d7ec0544e04df5c2f0173a34de.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:26.324Z"
+    },
+    {
+      "origin": "https://gyazo.com/09a908e54eb7d56be0688a673f26000d",
+      "originRaw": "https://gyazo.com/09a908e54eb7d56be0688a673f26000d/raw",
+      "id": "sha256:bf81efd18b1b1e38c862829d02cf806bf8e405b5ceaa22445c6de2eb7b8ecd0f",
+      "status": "ok",
+      "width": 1080,
+      "height": 498,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/bf/bf81efd18b1b1e38c862829d02cf806bf8e405b5ceaa22445c6de2eb7b8ecd0f.thumb.webp",
+        "full": "img/bf/bf81efd18b1b1e38c862829d02cf806bf8e405b5ceaa22445c6de2eb7b8ecd0f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:27.599Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/The%20Chordex%20Journal",
+    "created": "2026-05-29T13:58:38.000Z",
+    "updated": "2026-05-29T13:58:58.000Z",
+    "views": 6,
+    "thumbnail": "https://gyazo.com/faa5642e002f7f49398a355973e37af8/raw"
+  }
+}

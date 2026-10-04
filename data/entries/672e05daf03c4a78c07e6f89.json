@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "672e05daf03c4a78c07e6f89",
+  "title": "Gaff tape, velcro and a dream",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ggunxn/gaff_tape_velcro_and_a_dream/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/672e05dce28ce634eca7f74b.png",
+      "originRaw": "https://scrapbox.io/files/672e05dce28ce634eca7f74b.png",
+      "id": "sha256:04ec31f62b8d9a1173a926fce3d700ca4c983800a9298b372ae0bf00dcf9e8fb",
+      "status": "ok",
+      "width": 1080,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/04/04ec31f62b8d9a1173a926fce3d700ca4c983800a9298b372ae0bf00dcf9e8fb.thumb.webp",
+        "full": "img/04/04ec31f62b8d9a1173a926fce3d700ca4c983800a9298b372ae0bf00dcf9e8fb.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:27.016Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Gaff%20tape%2C%20velcro%20and%20a%20dream",
+    "created": "2024-11-08T12:36:44.000Z",
+    "updated": "2024-11-08T12:36:57.000Z",
+    "views": 2,
+    "thumbnail": "https://scrapbox.io/files/672e05dce28ce634eca7f74b.png"
+  }
+}

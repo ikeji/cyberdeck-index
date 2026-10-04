@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "68cd4df6f9fc3c03ff3c563a",
+  "title": "First cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1n7jq7z/first_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/362ab2c86191c6d3dc51546f55dcdd0e",
+      "originRaw": "https://gyazo.com/362ab2c86191c6d3dc51546f55dcdd0e/raw",
+      "id": "sha256:c8d313b14759021036dd9cd3182460583e510540a1104939bd02166be29e718c",
+      "status": "ok",
+      "width": 999,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c8/c8d313b14759021036dd9cd3182460583e510540a1104939bd02166be29e718c.thumb.webp",
+        "full": "img/c8/c8d313b14759021036dd9cd3182460583e510540a1104939bd02166be29e718c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:50.291Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/First%20cyberdeck",
+    "created": "2025-09-19T12:35:07.000Z",
+    "updated": "2025-09-19T12:35:14.000Z",
+    "views": 7,
+    "thumbnail": "https://gyazo.com/362ab2c86191c6d3dc51546f55dcdd0e/raw"
+  }
+}

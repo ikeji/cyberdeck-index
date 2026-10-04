@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "68b1b26c65fcf85dce05bf40",
+  "title": "It’s probably not a cyberdeck, but still...",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1mpv6ci/its_probably_not_a_cyberdeck_but_still/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/c1b47e9e785bcac32c6bfa6646ce2367",
+      "originRaw": "https://gyazo.com/c1b47e9e785bcac32c6bfa6646ce2367/raw",
+      "id": "sha256:8b8b0af1c9a0fa7ade24511849df8dd9f9df9b3db905d38e98cc48cee831f7ba",
+      "status": "ok",
+      "width": 1080,
+      "height": 812,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/8b/8b8b0af1c9a0fa7ade24511849df8dd9f9df9b3db905d38e98cc48cee831f7ba.thumb.webp",
+        "full": "img/8b/8b8b0af1c9a0fa7ade24511849df8dd9f9df9b3db905d38e98cc48cee831f7ba.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:36.354Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/It%E2%80%99s%20probably%20not%20a%20cyberdeck%2C%20but%20still...",
+    "created": "2025-08-29T14:00:23.000Z",
+    "updated": "2025-08-29T14:00:28.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/c1b47e9e785bcac32c6bfa6646ce2367/raw"
+  }
+}

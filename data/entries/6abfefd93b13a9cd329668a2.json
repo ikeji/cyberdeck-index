@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "6abfefd93b13a9cd329668a2",
+  "title": "behold my contraption!!!!",
+  "source": {
+    "url": "https://www.reddit.com/r/writerDeck/comments/1wl6x8p/behold_my_contraption/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/f1d1f309c7ed58731ce121e1fd691274",
+      "originRaw": "https://gyazo.com/f1d1f309c7ed58731ce121e1fd691274/raw",
+      "id": "sha256:65461e5609b5e83578b7a2681911bbb7e6c702d3770778a136aaa77ee07d0491",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/65/65461e5609b5e83578b7a2681911bbb7e6c702d3770778a136aaa77ee07d0491.thumb.webp",
+        "full": "img/65/65461e5609b5e83578b7a2681911bbb7e6c702d3770778a136aaa77ee07d0491.webp"
+      },
+      "fetchedAt": "2026-10-02T18:19:14.608Z"
+    },
+    {
+      "origin": "https://gyazo.com/c7c5e76b43ac962cabaed246a609e263",
+      "originRaw": "https://gyazo.com/c7c5e76b43ac962cabaed246a609e263/raw",
+      "id": "sha256:ec4e6ebc5d623b7bef0782256799e3c3d07da0224e313bb6d2478e99aa3ee305",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ec/ec4e6ebc5d623b7bef0782256799e3c3d07da0224e313bb6d2478e99aa3ee305.thumb.webp",
+        "full": "img/ec/ec4e6ebc5d623b7bef0782256799e3c3d07da0224e313bb6d2478e99aa3ee305.webp"
+      },
+      "fetchedAt": "2026-10-02T18:19:14.795Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/behold%20my%20contraption!!!!",
+    "created": "2026-10-02T17:54:44.000Z",
+    "updated": "2026-10-02T17:55:01.000Z",
+    "views": 0,
+    "thumbnail": "https://gyazo.com/f1d1f309c7ed58731ce121e1fd691274/raw"
+  }
+}

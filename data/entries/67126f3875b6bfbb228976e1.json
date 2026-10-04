@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "67126f3875b6bfbb228976e1",
+  "title": "It’s heeeeerre... Micro Journal rev. 2 revamp!",
+  "source": {
+    "url": "https://www.reddit.com/r/writerDeck/comments/1fyy0v5/its_heeeeerre_micro_journal_rev_2_revamp/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67126f44911700e305c3affc.png",
+      "originRaw": "https://scrapbox.io/files/67126f44911700e305c3affc.png",
+      "id": "sha256:edd07aff418d010027536dcdc00f113a87ceb7b74aebf68bb3167baffc7dc9f2",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ed/edd07aff418d010027536dcdc00f113a87ceb7b74aebf68bb3167baffc7dc9f2.thumb.webp",
+        "full": "img/ed/edd07aff418d010027536dcdc00f113a87ceb7b74aebf68bb3167baffc7dc9f2.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:23.821Z"
+    },
+    {
+      "origin": "https://scrapbox.io/files/67126f4b07f4b3b869871509.png",
+      "originRaw": "https://scrapbox.io/files/67126f4b07f4b3b869871509.png",
+      "id": "sha256:eee32b416e9995fde9c96b4f49bf8f424f951db1d8257c60d62b63de1a0bf139",
+      "status": "ok",
+      "width": 1600,
+      "height": 1050,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ee/eee32b416e9995fde9c96b4f49bf8f424f951db1d8257c60d62b63de1a0bf139.thumb.webp",
+        "full": "img/ee/eee32b416e9995fde9c96b4f49bf8f424f951db1d8257c60d62b63de1a0bf139.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:24.938Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/It%E2%80%99s%20heeeeerre...%20Micro%20Journal%20rev.%202%20revamp!",
+    "created": "2024-10-18T14:22:55.000Z",
+    "updated": "2024-10-18T14:25:32.000Z",
+    "views": 24,
+    "thumbnail": "https://scrapbox.io/files/67126f44911700e305c3affc.png"
+  }
+}

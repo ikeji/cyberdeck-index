@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6ca2b5d26fd65f5edfe3b1",
+  "title": "home away from home",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1usuytx/home_away_from_home/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/36d7f4848c979d2c255384deac4f9b5a",
+      "originRaw": "https://gyazo.com/36d7f4848c979d2c255384deac4f9b5a/raw",
+      "id": "sha256:4df057674da9d6a2b617567ca604441f08a0a0ad41edfecd0292c3932ea8e9dc",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4d/4df057674da9d6a2b617567ca604441f08a0a0ad41edfecd0292c3932ea8e9dc.thumb.webp",
+        "full": "img/4d/4df057674da9d6a2b617567ca604441f08a0a0ad41edfecd0292c3932ea8e9dc.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:30.259Z"
+    },
+    {
+      "origin": "https://gyazo.com/27a581db5aa6fc4e1767c4778aff4faa",
+      "originRaw": "https://gyazo.com/27a581db5aa6fc4e1767c4778aff4faa/raw",
+      "id": "sha256:adcc21c7cbd002239a0d0532fe996efb8bc2c87190673858ca90cc89ecd7636e",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ad/adcc21c7cbd002239a0d0532fe996efb8bc2c87190673858ca90cc89ecd7636e.thumb.webp",
+        "full": "img/ad/adcc21c7cbd002239a0d0532fe996efb8bc2c87190673858ca90cc89ecd7636e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:32.281Z"
+    },
+    {
+      "origin": "https://gyazo.com/58d11b184d70baf54d0f28f4ff393753",
+      "originRaw": "https://gyazo.com/58d11b184d70baf54d0f28f4ff393753/raw",
+      "id": "sha256:5dbc263c2afb27a01c71ff39ccbc0814f2fcde42351337bc369ffec2014ee607",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/5d/5dbc263c2afb27a01c71ff39ccbc0814f2fcde42351337bc369ffec2014ee607.thumb.webp",
+        "full": "img/5d/5dbc263c2afb27a01c71ff39ccbc0814f2fcde42351337bc369ffec2014ee607.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:34.623Z"
+    },
+    {
+      "origin": "https://gyazo.com/2ce3bf396db22980e8285a34e969ba9a",
+      "originRaw": "https://gyazo.com/2ce3bf396db22980e8285a34e969ba9a/raw",
+      "id": "sha256:2602579057f567cb171ecba46c1da0cc129bc59baf04e66d07cbd1d0ffc32f73",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/26/2602579057f567cb171ecba46c1da0cc129bc59baf04e66d07cbd1d0ffc32f73.thumb.webp",
+        "full": "img/26/2602579057f567cb171ecba46c1da0cc129bc59baf04e66d07cbd1d0ffc32f73.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:36.532Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/home%20away%20from%20home",
+    "created": "2026-07-31T13:28:03.000Z",
+    "updated": "2026-07-31T13:28:27.000Z",
+    "views": 8,
+    "thumbnail": "https://gyazo.com/36d7f4848c979d2c255384deac4f9b5a/raw"
+  }
+}

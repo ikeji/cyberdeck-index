@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e1864f50224000267ee4be",
+  "title": "ESP32 CyberDeck : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/jsai9i/esp32_cyberdeck/",
+    "site": "reddit",
+    "label": "ESP32 CyberDeck : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18651e67abd002570932f.png",
+      "originRaw": "https://scrapbox.io/files/65e18651e67abd002570932f.png",
+      "id": "sha256:513e7c963bf9c61abfcc9d62bc8ed70346490851fb0500904c885ac046ee9548",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/51/513e7c963bf9c61abfcc9d62bc8ed70346490851fb0500904c885ac046ee9548.thumb.webp",
+        "full": "img/51/513e7c963bf9c61abfcc9d62bc8ed70346490851fb0500904c885ac046ee9548.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:32.883Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/ESP32%20CyberDeck%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:40:00.000Z",
+    "updated": "2024-03-01T07:40:06.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/65e18651e67abd002570932f.png"
+  }
+}

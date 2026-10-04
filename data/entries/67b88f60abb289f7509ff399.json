@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67b88f60abb289f7509ff399",
+  "title": "First Iteration",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1imj5rs/first_iteration/",
+    "site": "reddit",
+    "label": "First Iteration : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67b88f62a29eda3132bad024.png",
+      "originRaw": "https://scrapbox.io/files/67b88f62a29eda3132bad024.png",
+      "id": "sha256:0dbe3de9fcce45ce6be5666bf44c9284761e51b2aa5a235a88062dab3164ed46",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0d/0dbe3de9fcce45ce6be5666bf44c9284761e51b2aa5a235a88062dab3164ed46.thumb.webp",
+        "full": "img/0d/0dbe3de9fcce45ce6be5666bf44c9284761e51b2aa5a235a88062dab3164ed46.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:42.301Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/First%20Iteration",
+    "created": "2025-02-21T14:36:18.000Z",
+    "updated": "2025-02-21T14:36:27.000Z",
+    "views": 6,
+    "thumbnail": "https://scrapbox.io/files/67b88f62a29eda3132bad024.png"
+  }
+}

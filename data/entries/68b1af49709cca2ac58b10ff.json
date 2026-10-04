@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "68b1af49709cca2ac58b10ff",
+  "title": "Prototype 1",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1mzsatg/prototype_1/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/b51ef8c7716791bee85efcb17e08cb5a",
+      "originRaw": "https://gyazo.com/b51ef8c7716791bee85efcb17e08cb5a/raw",
+      "id": "sha256:8edac77be2eef159977c212c07b3e9910e0e76fa7d04dd0920608b294af7376d",
+      "status": "ok",
+      "width": 1080,
+      "height": 654,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/8e/8edac77be2eef159977c212c07b3e9910e0e76fa7d04dd0920608b294af7376d.thumb.webp",
+        "full": "img/8e/8edac77be2eef159977c212c07b3e9910e0e76fa7d04dd0920608b294af7376d.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:27.696Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Prototype%201",
+    "created": "2025-08-29T13:46:53.000Z",
+    "updated": "2025-08-29T13:47:06.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/b51ef8c7716791bee85efcb17e08cb5a/raw"
+  }
+}

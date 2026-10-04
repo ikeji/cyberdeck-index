@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "68b1b37a27ef5457d783f796",
+  "title": "Does my cigar box count as a cyberdeck?",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1n124t2/does_my_cigar_box_count_as_a_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/ac8ff124860dd0c8b01321bc1a88cdc5",
+      "originRaw": "https://gyazo.com/ac8ff124860dd0c8b01321bc1a88cdc5/raw",
+      "id": "sha256:e0f4717abf27fcb601c93ec71e869371c10ec1b3b3546726a3fec267e4ead2fa",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e0/e0f4717abf27fcb601c93ec71e869371c10ec1b3b3546726a3fec267e4ead2fa.thumb.webp",
+        "full": "img/e0/e0f4717abf27fcb601c93ec71e869371c10ec1b3b3546726a3fec267e4ead2fa.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:41.070Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Does%20my%20cigar%20box%20count%20as%20a%20cyberdeck%3F",
+    "created": "2025-08-29T14:04:48.000Z",
+    "updated": "2025-08-29T14:04:57.000Z",
+    "views": 19,
+    "thumbnail": "https://gyazo.com/ac8ff124860dd0c8b01321bc1a88cdc5/raw"
+  }
+}

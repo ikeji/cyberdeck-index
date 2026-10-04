@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e1806130f51100248c531f",
+  "title": "Decktility - An open source/hardware handheld PC : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/13gntqf/decktility_an_open_sourcehardware_handheld_pc/",
+    "site": "reddit",
+    "label": "Decktility - An open source/hardware handheld PC : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e180649e0dbc0024254898.png",
+      "originRaw": "https://scrapbox.io/files/65e180649e0dbc0024254898.png",
+      "id": "sha256:429733b832b7a02c0d9824b7b692eb8ce21044abf62161b061d882316ce07aca",
+      "status": "ok",
+      "width": 800,
+      "height": 736,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/42/429733b832b7a02c0d9824b7b692eb8ce21044abf62161b061d882316ce07aca.thumb.webp",
+        "full": "img/42/429733b832b7a02c0d9824b7b692eb8ce21044abf62161b061d882316ce07aca.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:21.952Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Decktility%20-%20An%20open%20source%2Fhardware%20handheld%20PC%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:14:42.000Z",
+    "updated": "2024-03-01T07:14:48.000Z",
+    "views": 10,
+    "thumbnail": "https://scrapbox.io/files/65e180649e0dbc0024254898.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad2ec2d2243001db8dce1",
+  "title": "Tell me what I should build with this keyboard? : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1d8kkq1/tell_me_what_i_should_build_with_this_keyboard/",
+    "site": "reddit",
+    "label": "Tell me what I should build with this keyboard? : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad2ee151e83001ce3d87b.png",
+      "originRaw": "https://scrapbox.io/files/66cad2ee151e83001ce3d87b.png",
+      "id": "sha256:024701cf8e46bf7db6dbaf5df50855999fcdc96970ff5f4258f45d5b77c74f4e",
+      "status": "ok",
+      "width": 1035,
+      "height": 687,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/02/024701cf8e46bf7db6dbaf5df50855999fcdc96970ff5f4258f45d5b77c74f4e.thumb.webp",
+        "full": "img/02/024701cf8e46bf7db6dbaf5df50855999fcdc96970ff5f4258f45d5b77c74f4e.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:04.098Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Tell%20me%20what%20I%20should%20build%20with%20this%20keyboard%3F%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:45:01.000Z",
+    "updated": "2024-08-25T06:45:07.000Z",
+    "views": 1,
+    "thumbnail": "https://scrapbox.io/files/66cad2ee151e83001ce3d87b.png"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "679cdbf629269a33b9952a2e",
+  "title": "Designed and printed a chassis to combine my phone and keyboard into a slick pocketable computer. Using Termux-X11. : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1hrmc41/designed_and_printed_a_chassis_to_combine_my/",
+    "site": "reddit",
+    "label": "Designed and printed a chassis to combine my phone and keyboard into a slick pocketable computer. Using Termux-X11. : r/cyberDeck"
+  },
+  "links": [
+    {
+      "url": "https://www.thingiverse.com/thing:6897933",
+      "label": null,
+      "site": "web"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/679cdbf93d712136e3735083.png",
+      "originRaw": "https://scrapbox.io/files/679cdbf93d712136e3735083.png",
+      "id": "sha256:95b8cbfd9d6eec13d88d0237426515b8120b3370843771ef75175471340410ad",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/95/95b8cbfd9d6eec13d88d0237426515b8120b3370843771ef75175471340410ad.thumb.webp",
+        "full": "img/95/95b8cbfd9d6eec13d88d0237426515b8120b3370843771ef75175471340410ad.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:38.043Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": "Pixel phoneかな？",
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Designed%20and%20printed%20a%20chassis%20to%20combine%20my%20phone%20and%20keyboard%20into%20a%20slick%20pocketable%20computer.%20Using%20Termux-X11.%20%3A%20r%2FcyberDeck",
+    "created": "2025-01-31T14:19:35.000Z",
+    "updated": "2025-01-31T14:21:09.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/679cdbf93d712136e3735083.png"
+  }
+}

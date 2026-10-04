@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e186e41e860f002489b2f1",
+  "title": "Compact Pi Based Cyberdeck with Mechanical Keyboard : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/m4ifxk/compact_pi_based_cyberdeck_with_mechanical/",
+    "site": "reddit",
+    "label": "Compact Pi Based Cyberdeck with Mechanical Keyboard : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e186e9eae5190025388493.png",
+      "originRaw": "https://scrapbox.io/files/65e186e9eae5190025388493.png",
+      "id": "sha256:e56af4cfe2c66d4fc55c44866bb5d0e850e0fba109bf7a9f9609fc8ef9724b62",
+      "status": "ok",
+      "width": 1080,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e5/e56af4cfe2c66d4fc55c44866bb5d0e850e0fba109bf7a9f9609fc8ef9724b62.thumb.webp",
+        "full": "img/e5/e56af4cfe2c66d4fc55c44866bb5d0e850e0fba109bf7a9f9609fc8ef9724b62.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:35.739Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Compact%20Pi%20Based%20Cyberdeck%20with%20Mechanical%20Keyboard%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:42:29.000Z",
+    "updated": "2024-03-01T07:42:36.000Z",
+    "views": 11,
+    "thumbnail": "https://scrapbox.io/files/65e186e9eae5190025388493.png"
+  }
+}

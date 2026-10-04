@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "69c6949cb2a906f7ec76d226",
+  "title": "I Built a palmdeck from a Samsung A52s + Rii i06 — meet the GLITCH",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ryhot4/i_built_a_palmdeck_from_a_samsung_a52s_rii_i06/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/d8bfd4e7e8830128f2b5f50d3fe28e5b",
+      "originRaw": "https://gyazo.com/d8bfd4e7e8830128f2b5f50d3fe28e5b/raw",
+      "id": "sha256:53926025fa7dde96e1850d532aac1e697f3e7f39127545aa2ed3fecffb9605aa",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/53/53926025fa7dde96e1850d532aac1e697f3e7f39127545aa2ed3fecffb9605aa.thumb.webp",
+        "full": "img/53/53926025fa7dde96e1850d532aac1e697f3e7f39127545aa2ed3fecffb9605aa.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:24.013Z"
+    },
+    {
+      "origin": "https://gyazo.com/a67c8cd5b23b9d6e1fb9e1d9cb56ee8f",
+      "originRaw": "https://gyazo.com/a67c8cd5b23b9d6e1fb9e1d9cb56ee8f/raw",
+      "id": "sha256:9cd127ee000a88d204e948b5cad8e6a717fec6847b8d748051ff3599c921e54a",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9c/9cd127ee000a88d204e948b5cad8e6a717fec6847b8d748051ff3599c921e54a.thumb.webp",
+        "full": "img/9c/9cd127ee000a88d204e948b5cad8e6a717fec6847b8d748051ff3599c921e54a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:25.641Z"
+    },
+    {
+      "origin": "https://gyazo.com/e3fb82c1b62e1fdd6993e426dd6c13da",
+      "originRaw": "https://gyazo.com/e3fb82c1b62e1fdd6993e426dd6c13da/raw",
+      "id": "sha256:0ad0395b93e1447337c7c505dc4e6d837668686ce35f90c13bcd1c6fe0ce7972",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0a/0ad0395b93e1447337c7c505dc4e6d837668686ce35f90c13bcd1c6fe0ce7972.thumb.webp",
+        "full": "img/0a/0ad0395b93e1447337c7c505dc4e6d837668686ce35f90c13bcd1c6fe0ce7972.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:27.667Z"
+    },
+    {
+      "origin": "https://gyazo.com/1bb0a89778e719ca4a4101232c31bfd4",
+      "originRaw": "https://gyazo.com/1bb0a89778e719ca4a4101232c31bfd4/raw",
+      "id": "sha256:59e69fd44346a0c02be7d4aeba0e6efbb7504087a887d964e60cc42ca4bb0ab0",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/59/59e69fd44346a0c02be7d4aeba0e6efbb7504087a887d964e60cc42ca4bb0ab0.thumb.webp",
+        "full": "img/59/59e69fd44346a0c02be7d4aeba0e6efbb7504087a887d964e60cc42ca4bb0ab0.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:29.131Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20Built%20a%20palmdeck%20from%20a%20Samsung%20A52s%20%2B%20Rii%20i06%20%E2%80%94%20meet%20the%20GLITCH",
+    "created": "2026-03-27T14:30:57.000Z",
+    "updated": "2026-03-27T14:31:42.000Z",
+    "views": 9,
+    "thumbnail": "https://gyazo.com/d8bfd4e7e8830128f2b5f50d3fe28e5b/raw"
+  }
+}

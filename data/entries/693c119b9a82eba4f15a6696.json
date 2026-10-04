@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "693c119b9a82eba4f15a6696",
+  "title": "I made a fully open source handheld hacking device! (It runs Linux)",
+  "source": {
+    "url": "https://www.reddit.com/r/hacking/comments/1p9pxmb/i_made_a_fully_open_source_handheld_hacking/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/7b17ab0ea5a71722e0900c49ecfef567",
+      "originRaw": "https://gyazo.com/7b17ab0ea5a71722e0900c49ecfef567/raw",
+      "id": "sha256:4bdacdd72fbe044f544195ce90e96d7772585ebd6189a191f46de04bf36474d9",
+      "status": "ok",
+      "width": 1600,
+      "height": 1201,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4b/4bdacdd72fbe044f544195ce90e96d7772585ebd6189a191f46de04bf36474d9.thumb.webp",
+        "full": "img/4b/4bdacdd72fbe044f544195ce90e96d7772585ebd6189a191f46de04bf36474d9.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:43.407Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20made%20a%20fully%20open%20source%20handheld%20hacking%20device!%20(It%20runs%20Linux)",
+    "created": "2025-12-12T12:59:15.000Z",
+    "updated": "2025-12-12T12:59:27.000Z",
+    "views": 16,
+    "thumbnail": "https://gyazo.com/7b17ab0ea5a71722e0900c49ecfef567/raw"
+  }
+}

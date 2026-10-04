@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "6749b73a0c1a0604c7d42c7a",
+  "title": "Cyberdeck Handheld with Blackberry 9900 keyboard",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1gue9i3/cyberdeck_handheld_with_blackberry_9900_keyboard/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6749b775fd47425e2db96355.png",
+      "originRaw": "https://scrapbox.io/files/6749b775fd47425e2db96355.png",
+      "id": "sha256:2a1b31cd945574bc2050adbe21baf0f9292861690b0776d534603d214e40b929",
+      "status": "ok",
+      "width": 700,
+      "height": 1095,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/2a/2a1b31cd945574bc2050adbe21baf0f9292861690b0776d534603d214e40b929.thumb.webp",
+        "full": "img/2a/2a1b31cd945574bc2050adbe21baf0f9292861690b0776d534603d214e40b929.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:28.786Z"
+    },
+    {
+      "origin": "https://scrapbox.io/files/6749b77de08db42b606063ff.png",
+      "originRaw": "https://scrapbox.io/files/6749b77de08db42b606063ff.png",
+      "id": "sha256:3eab5480b4c4ebb1e145adf5ddbb9c756920adfb03d5e34bb2954d61924d3aad",
+      "status": "ok",
+      "width": 602,
+      "height": 814,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3e/3eab5480b4c4ebb1e145adf5ddbb9c756920adfb03d5e34bb2954d61924d3aad.thumb.webp",
+        "full": "img/3e/3eab5480b4c4ebb1e145adf5ddbb9c756920adfb03d5e34bb2954d61924d3aad.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:29.743Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cyberdeck%20Handheld%20with%20Blackberry%209900%20keyboard",
+    "created": "2024-11-29T12:45:46.000Z",
+    "updated": "2024-11-29T12:46:01.000Z",
+    "views": 10,
+    "thumbnail": "https://scrapbox.io/files/6749b775fd47425e2db96355.png"
+  }
+}

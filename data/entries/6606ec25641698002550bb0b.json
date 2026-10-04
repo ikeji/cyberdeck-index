@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6606ec25641698002550bb0b",
+  "title": "my new handheld cyberdeck ive been working on for the last 3 months : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1bbjl89/my_new_handheld_cyberdeck_ive_been_working_on_for/",
+    "site": "reddit",
+    "label": "my new handheld cyberdeck ive been working on for the last 3 months : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6606ec286731f00024eb5f06.png",
+      "originRaw": "https://scrapbox.io/files/6606ec286731f00024eb5f06.png",
+      "id": "sha256:a7ce4c51c85c767e59a2918141746743a5b9e26b52412cfd001509412bf6448f",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a7/a7ce4c51c85c767e59a2918141746743a5b9e26b52412cfd001509412bf6448f.thumb.webp",
+        "full": "img/a7/a7ce4c51c85c767e59a2918141746743a5b9e26b52412cfd001509412bf6448f.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:59.655Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/my%20new%20handheld%20cyberdeck%20ive%20been%20working%20on%20for%20the%20last%203%20months%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-29T16:28:22.000Z",
+    "updated": "2024-03-29T16:28:29.000Z",
+    "views": 49,
+    "thumbnail": "https://scrapbox.io/files/6606ec286731f00024eb5f06.png"
+  }
+}

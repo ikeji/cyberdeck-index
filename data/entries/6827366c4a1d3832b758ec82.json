@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6827366c4a1d3832b758ec82",
+  "title": "I designed and built my own Cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1kmrjt7/i_designed_and_built_my_own_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/68273672ed30f304a880f802.png",
+      "originRaw": "https://scrapbox.io/files/68273672ed30f304a880f802.png",
+      "id": "sha256:9a8d1b529fe484ff7cadf134dca3da09ba970b30d546ed280a7f87887cc54fb6",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9a/9a8d1b529fe484ff7cadf134dca3da09ba970b30d546ed280a7f87887cc54fb6.thumb.webp",
+        "full": "img/9a/9a8d1b529fe484ff7cadf134dca3da09ba970b30d546ed280a7f87887cc54fb6.webp"
+      },
+      "fetchedAt": "2026-10-02T18:07:00.530Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20designed%20and%20built%20my%20own%20Cyberdeck",
+    "created": "2025-05-16T12:58:26.000Z",
+    "updated": "2025-05-16T12:58:49.000Z",
+    "views": 10,
+    "thumbnail": "https://scrapbox.io/files/68273672ed30f304a880f802.png"
+  }
+}

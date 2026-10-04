@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "685ea5dd69c171c52a81a18c",
+  "title": "Larpdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1lfiied/larpdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/312881fbdb0287735911cdfeb9d481b8",
+      "originRaw": "https://gyazo.com/312881fbdb0287735911cdfeb9d481b8/raw",
+      "id": "sha256:2ce770516930f202e1c8352de9c3a5e5e14d4872e77a2e568fc42331248964ce",
+      "status": "ok",
+      "width": 1080,
+      "height": 747,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/2c/2ce770516930f202e1c8352de9c3a5e5e14d4872e77a2e568fc42331248964ce.thumb.webp",
+        "full": "img/2c/2ce770516930f202e1c8352de9c3a5e5e14d4872e77a2e568fc42331248964ce.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:31.219Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Larpdeck",
+    "created": "2025-06-27T14:08:34.000Z",
+    "updated": "2025-06-27T14:08:51.000Z",
+    "views": 6,
+    "thumbnail": "https://gyazo.com/312881fbdb0287735911cdfeb9d481b8/raw"
+  }
+}

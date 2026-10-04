@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67efe1d75d6b6d4a6b3e11d5",
+  "title": "Nanuk 904 Cyberdeck Build – Update",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1jncqsq/nanuk_904_cyberdeck_build_update/",
+    "site": "reddit",
+    "label": "Nanuk 904 Cyberdeck Build – Update : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67efe1de405d5a045ca83451.png",
+      "originRaw": "https://scrapbox.io/files/67efe1de405d5a045ca83451.png",
+      "id": "sha256:8501862a37e6d8877448e5de2032f14ec1151a5718bcfd3ddafb8aa325dbc7bb",
+      "status": "ok",
+      "width": 1080,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/85/8501862a37e6d8877448e5de2032f14ec1151a5718bcfd3ddafb8aa325dbc7bb.thumb.webp",
+        "full": "img/85/8501862a37e6d8877448e5de2032f14ec1151a5718bcfd3ddafb8aa325dbc7bb.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:54.079Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Nanuk%20904%20Cyberdeck%20Build%20%E2%80%93%20Update",
+    "created": "2025-04-04T13:42:50.000Z",
+    "updated": "2025-04-04T13:43:00.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/67efe1de405d5a045ca83451.png"
+  }
+}

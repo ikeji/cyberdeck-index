@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "68b1af74b3da754e4c695001",
+  "title": "Made a Palmtop Cyberdeck using a Pixel 3A",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1my7oq7/made_a_palmtop_cyberdeck_using_a_pixel_3a/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/c365378984913a436fa44d90db2695d2",
+      "originRaw": "https://gyazo.com/c365378984913a436fa44d90db2695d2/raw",
+      "id": "sha256:d9aabe7b642794d77258b946df4616dde92f659466569549a4ac8f11d72cf004",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d9/d9aabe7b642794d77258b946df4616dde92f659466569549a4ac8f11d72cf004.thumb.webp",
+        "full": "img/d9/d9aabe7b642794d77258b946df4616dde92f659466569549a4ac8f11d72cf004.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:29.327Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Made%20a%20Palmtop%20Cyberdeck%20using%20a%20Pixel%203A",
+    "created": "2025-08-29T13:47:35.000Z",
+    "updated": "2025-08-29T13:47:55.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/c365378984913a436fa44d90db2695d2/raw"
+  }
+}

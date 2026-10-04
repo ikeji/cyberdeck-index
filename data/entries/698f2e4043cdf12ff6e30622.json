@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "698f2e4043cdf12ff6e30622",
+  "title": "The CG-αlpha is here",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1qqe20d/the_cgαlpha_is_here/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [
+    {
+      "url": "https://makerworld.com/ja/models/2324616-cg-alpha-cyberdeck#profileId-2539156",
+      "label": null,
+      "site": "web"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://gyazo.com/3b67da9cf69c615c185deb09b5442df0",
+      "originRaw": "https://gyazo.com/3b67da9cf69c615c185deb09b5442df0/raw",
+      "id": "sha256:716012cd5b251186dd46a82a1cfd34f68452370ab5a897f3cf0df361277fdb0f",
+      "status": "ok",
+      "width": 600,
+      "height": 693,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/71/716012cd5b251186dd46a82a1cfd34f68452370ab5a897f3cf0df361277fdb0f.thumb.webp",
+        "full": "img/71/716012cd5b251186dd46a82a1cfd34f68452370ab5a897f3cf0df361277fdb0f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:08.711Z"
+    },
+    {
+      "origin": "https://gyazo.com/ff6b98a421b35ed3442ae3044d455192",
+      "originRaw": "https://gyazo.com/ff6b98a421b35ed3442ae3044d455192/raw",
+      "id": "sha256:114e84922e60c97d70ae9dd5bc1651aaace6dd840b14b9623e3cc32005e7e6d9",
+      "status": "ok",
+      "width": 600,
+      "height": 854,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/11/114e84922e60c97d70ae9dd5bc1651aaace6dd840b14b9623e3cc32005e7e6d9.thumb.webp",
+        "full": "img/11/114e84922e60c97d70ae9dd5bc1651aaace6dd840b14b9623e3cc32005e7e6d9.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:10.394Z"
+    },
+    {
+      "origin": "https://gyazo.com/4e7d85af4a1c126d278d1870c83b31ac",
+      "originRaw": "https://gyazo.com/4e7d85af4a1c126d278d1870c83b31ac/raw",
+      "id": "sha256:e475fff6ed44cc85c2fec588c0520fe3a937db3352d01eda49033110000d4525",
+      "status": "ok",
+      "width": 600,
+      "height": 338,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e4/e475fff6ed44cc85c2fec588c0520fe3a937db3352d01eda49033110000d4525.thumb.webp",
+        "full": "img/e4/e475fff6ed44cc85c2fec588c0520fe3a937db3352d01eda49033110000d4525.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:11.934Z"
+    },
+    {
+      "origin": "https://gyazo.com/d0a50e41928161d25f8a3f77b78d9c6e",
+      "originRaw": "https://gyazo.com/d0a50e41928161d25f8a3f77b78d9c6e/raw",
+      "id": "sha256:6d59211112f7524057619d3948fbb606f08e7c91960c905d7ea4410df363ff0c",
+      "status": "ok",
+      "width": 600,
+      "height": 503,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6d/6d59211112f7524057619d3948fbb606f08e7c91960c905d7ea4410df363ff0c.thumb.webp",
+        "full": "img/6d/6d59211112f7524057619d3948fbb606f08e7c91960c905d7ea4410df363ff0c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:13.365Z"
+    },
+    {
+      "origin": "https://gyazo.com/26450cb15752cd4da81998cdd798b188",
+      "originRaw": "https://gyazo.com/26450cb15752cd4da81998cdd798b188/raw",
+      "id": "sha256:1ff586b6e3cff99a83956dbe034dd2fd632cc95268c6a816d07d55f73f4c8c9f",
+      "status": "ok",
+      "width": 600,
+      "height": 710,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1f/1ff586b6e3cff99a83956dbe034dd2fd632cc95268c6a816d07d55f73f4c8c9f.thumb.webp",
+        "full": "img/1f/1ff586b6e3cff99a83956dbe034dd2fd632cc95268c6a816d07d55f73f4c8c9f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:15.085Z"
+    },
+    {
+      "origin": "https://gyazo.com/f5ff3b192d70420f281ccc90f82cb1c9",
+      "originRaw": "https://gyazo.com/f5ff3b192d70420f281ccc90f82cb1c9/raw",
+      "id": "sha256:a8e2ab9b760291550f416e91c6a9aa5fc5e993500f0366087da2c1c54ef0b7a9",
+      "status": "ok",
+      "width": 600,
+      "height": 619,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a8/a8e2ab9b760291550f416e91c6a9aa5fc5e993500f0366087da2c1c54ef0b7a9.thumb.webp",
+        "full": "img/a8/a8e2ab9b760291550f416e91c6a9aa5fc5e993500f0366087da2c1c54ef0b7a9.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:16.559Z"
+    },
+    {
+      "origin": "https://gyazo.com/f73adb3051fb1037e8b38d6dcadceda9",
+      "originRaw": "https://gyazo.com/f73adb3051fb1037e8b38d6dcadceda9/raw",
+      "id": "sha256:f1173dfc82f5c104caef59605b79f113a08395d991d2b3dd61a01bbb8ee9e1d2",
+      "status": "ok",
+      "width": 600,
+      "height": 774,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f1/f1173dfc82f5c104caef59605b79f113a08395d991d2b3dd61a01bbb8ee9e1d2.thumb.webp",
+        "full": "img/f1/f1173dfc82f5c104caef59605b79f113a08395d991d2b3dd61a01bbb8ee9e1d2.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:18.093Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/The%20CG-%CE%B1lpha%20is%20here",
+    "created": "2026-02-13T13:59:31.000Z",
+    "updated": "2026-02-13T14:00:15.000Z",
+    "views": 1,
+    "thumbnail": "https://gyazo.com/3b67da9cf69c615c185deb09b5442df0/raw"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "69c692fc371bf04d74c3aff3",
+  "title": "The real thing I wanted from the beginning.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1s07684/the_real_thing_i_wanted_from_the_beginning/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/5d5e844e7bc2731e679899c523b3f46a",
+      "originRaw": "https://gyazo.com/5d5e844e7bc2731e679899c523b3f46a/raw",
+      "id": "sha256:539539bd61f20819f27596fd6547d9cd53e4de89dc892c67b2b73507960674d1",
+      "status": "ok",
+      "width": 1080,
+      "height": 863,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/53/539539bd61f20819f27596fd6547d9cd53e4de89dc892c67b2b73507960674d1.thumb.webp",
+        "full": "img/53/539539bd61f20819f27596fd6547d9cd53e4de89dc892c67b2b73507960674d1.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:19.791Z"
+    },
+    {
+      "origin": "https://gyazo.com/e51fd2ab78aa211351f57b662fe3e66d",
+      "originRaw": "https://gyazo.com/e51fd2ab78aa211351f57b662fe3e66d/raw",
+      "id": "sha256:d2c127fb8ca8668e6eb26e8bea3e6b0525e48d09ed06cb784b195835195b94f1",
+      "status": "ok",
+      "width": 1080,
+      "height": 864,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d2/d2c127fb8ca8668e6eb26e8bea3e6b0525e48d09ed06cb784b195835195b94f1.thumb.webp",
+        "full": "img/d2/d2c127fb8ca8668e6eb26e8bea3e6b0525e48d09ed06cb784b195835195b94f1.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:21.474Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/The%20real%20thing%20I%20wanted%20from%20the%20beginning.",
+    "created": "2026-03-27T14:27:25.000Z",
+    "updated": "2026-03-27T14:27:37.000Z",
+    "views": 3,
+    "thumbnail": "https://gyazo.com/5d5e844e7bc2731e679899c523b3f46a/raw"
+  }
+}

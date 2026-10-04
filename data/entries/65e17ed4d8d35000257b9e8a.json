@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e17ed4d8d35000257b9e8a",
+  "title": "My 3D Printed Rebel Pathfinder Field Terminal Luggable (Raspberry Pi) : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/kp136f/my_3d_printed_rebel_pathfinder_field_terminal/",
+    "site": "reddit",
+    "label": "My 3D Printed Rebel Pathfinder Field Terminal Luggable (Raspberry Pi) : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e17ed864b7ff00244591dc.png",
+      "originRaw": "https://scrapbox.io/files/65e17ed864b7ff00244591dc.png",
+      "id": "sha256:a656335e49e015b339245aaa2319d0baf543cac80e95e58020a3dd65d3e662c2",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a6/a656335e49e015b339245aaa2319d0baf543cac80e95e58020a3dd65d3e662c2.thumb.webp",
+        "full": "img/a6/a656335e49e015b339245aaa2319d0baf543cac80e95e58020a3dd65d3e662c2.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:15.888Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%203D%20Printed%20Rebel%20Pathfinder%20Field%20Terminal%20Luggable%20(Raspberry%20Pi)%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:08:05.000Z",
+    "updated": "2024-03-01T07:08:11.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/65e17ed864b7ff00244591dc.png"
+  }
+}

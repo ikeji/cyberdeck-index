@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6ca3d0fd7ee1259337a355",
+  "title": "Does YOUR arm have thermal vision?? Mine does.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1unnq8l/does_your_arm_have_thermal_vision_mine_does/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/a2e24ed3fcca114e5f5c8b8498124971",
+      "originRaw": "https://gyazo.com/a2e24ed3fcca114e5f5c8b8498124971/raw",
+      "id": "sha256:9d56e4d19fda5814816740f9c93da71423773ce6f73827707b589338afd61ff2",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9d/9d56e4d19fda5814816740f9c93da71423773ce6f73827707b589338afd61ff2.thumb.webp",
+        "full": "img/9d/9d56e4d19fda5814816740f9c93da71423773ce6f73827707b589338afd61ff2.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:38.385Z"
+    },
+    {
+      "origin": "https://gyazo.com/8dbd88369c6ec67407e92be7b19840b0",
+      "originRaw": "https://gyazo.com/8dbd88369c6ec67407e92be7b19840b0/raw",
+      "id": "sha256:cd6ddcc0321992a1fbb871e1860a23da69f09c36d76e6a3677ed22c0db5749f8",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/cd/cd6ddcc0321992a1fbb871e1860a23da69f09c36d76e6a3677ed22c0db5749f8.thumb.webp",
+        "full": "img/cd/cd6ddcc0321992a1fbb871e1860a23da69f09c36d76e6a3677ed22c0db5749f8.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:40.179Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Does%20YOUR%20arm%20have%20thermal%20vision%3F%3F%20Mine%20does.",
+    "created": "2026-07-31T13:32:07.000Z",
+    "updated": "2026-07-31T13:32:26.000Z",
+    "views": 0,
+    "thumbnail": "https://gyazo.com/a2e24ed3fcca114e5f5c8b8498124971/raw"
+  }
+}

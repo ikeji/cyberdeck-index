@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "65e18cbfd7452e0024b72417",
+  "title": "Xユーザーのtilde.industriesさん: 「The input system is based on the Cooke and Wheatstone telegraph, a device with 5 needles and an array of letters. When 2 needles point toward the same letter, it is registered~ t.co/IgBQwkDTAt」 / X",
+  "source": {
+    "url": "https://twitter.com/tildeindustries/status/1761075654181748894",
+    "site": "twitter",
+    "label": "Xユーザーのtilde.industriesさん: 「The input system is based on the Cooke and Wheatstone telegraph, a device with 5 needles and an array of letters. When 2 needles point toward the same letter, it is registered~ https://t.co/IgBQwkDTAt」 / X"
+  },
+  "links": [
+    {
+      "url": "https://twitter.com/tildeindustries/status/1758510044490957048?s=12",
+      "label": null,
+      "site": "twitter"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cooke_and_Wheatstone_telegraph",
+      "label": null,
+      "site": "web"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18cc260d50900231912bc.png",
+      "originRaw": "https://scrapbox.io/files/65e18cc260d50900231912bc.png",
+      "id": "sha256:5998d5b20c50aa40fd2bcc778ee243d6cba0c0d3bea7dd6d0bbf24badf9eb651",
+      "status": "ok",
+      "width": 680,
+      "height": 536,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/59/5998d5b20c50aa40fd2bcc778ee243d6cba0c0d3bea7dd6d0bbf24badf9eb651.thumb.webp",
+        "full": "img/59/5998d5b20c50aa40fd2bcc778ee243d6cba0c0d3bea7dd6d0bbf24badf9eb651.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:49.562Z"
+    },
+    {
+      "origin": "https://scrapbox.io/files/65e18ce701b0550023e9df04.png",
+      "originRaw": "https://scrapbox.io/files/65e18ce701b0550023e9df04.png",
+      "id": "sha256:c308a5c90cd2df968bcc9ed58c1957892b5d0f21154fcbb79f1e7b198de29712",
+      "status": "ok",
+      "width": 675,
+      "height": 900,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c3/c308a5c90cd2df968bcc9ed58c1957892b5d0f21154fcbb79f1e7b198de29712.thumb.webp",
+        "full": "img/c3/c308a5c90cd2df968bcc9ed58c1957892b5d0f21154fcbb79f1e7b198de29712.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:49.760Z"
+    }
+  ],
+  "tags": [
+    "IKeJIのおすすめ"
+  ],
+  "related": [],
+  "comment": "入力方式はこれらしい。",
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/X%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AEtilde.industries%E3%81%95%E3%82%93%3A%20%E3%80%8CThe%20input%20system%20is%20based%20on%20the%20Cooke%20and%20Wheatstone%20telegraph%2C%20a%20device%20with%205%20needles%20and%20an%20array%20of%20letters.%20When%202%20needles%20point%20toward%20the%20same%20letter%2C%20it%20is%20registered~%20t.co%2FIgBQwkDTAt%E3%80%8D%20%2F%20X",
+    "created": "2024-03-01T08:07:28.000Z",
+    "updated": "2026-05-08T14:38:18.000Z",
+    "views": 22,
+    "thumbnail": "https://scrapbox.io/files/65e18cc260d50900231912bc.png"
+  }
+}

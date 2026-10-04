@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "69c692ad360f0d59acc0676d",
+  "title": "puter concept wip",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1s26npl/puter_concept_wip/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/3d837f695fcfaaddb49ddfff24bf85e0",
+      "originRaw": "https://gyazo.com/3d837f695fcfaaddb49ddfff24bf85e0/raw",
+      "id": "sha256:7cc356d56e9b33ebd2a2db5cd6f4682a5e03c67ed2276546fe9eaa7ac1ad7203",
+      "status": "ok",
+      "width": 1080,
+      "height": 747,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7c/7cc356d56e9b33ebd2a2db5cd6f4682a5e03c67ed2276546fe9eaa7ac1ad7203.thumb.webp",
+        "full": "img/7c/7cc356d56e9b33ebd2a2db5cd6f4682a5e03c67ed2276546fe9eaa7ac1ad7203.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:15.617Z"
+    },
+    {
+      "origin": "https://gyazo.com/6ada8daa6ede11556c1dc0fa7623e652",
+      "originRaw": "https://gyazo.com/6ada8daa6ede11556c1dc0fa7623e652/raw",
+      "id": "sha256:e2027e5c921d92573f0cd18416ee2e10866a8c8a7bda7bb29d6e981dba4c50d6",
+      "status": "ok",
+      "width": 1080,
+      "height": 747,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e2/e2027e5c921d92573f0cd18416ee2e10866a8c8a7bda7bb29d6e981dba4c50d6.thumb.webp",
+        "full": "img/e2/e2027e5c921d92573f0cd18416ee2e10866a8c8a7bda7bb29d6e981dba4c50d6.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:16.906Z"
+    },
+    {
+      "origin": "https://gyazo.com/1b202905c2f0aec9556342e3bdec768a",
+      "originRaw": "https://gyazo.com/1b202905c2f0aec9556342e3bdec768a/raw",
+      "id": "sha256:d6e7f5c0c71dc2eb867be7823ab293d093e900ea7e7c471a2361772ff2ac793d",
+      "status": "ok",
+      "width": 1080,
+      "height": 747,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d6/d6e7f5c0c71dc2eb867be7823ab293d093e900ea7e7c471a2361772ff2ac793d.thumb.webp",
+        "full": "img/d6/d6e7f5c0c71dc2eb867be7823ab293d093e900ea7e7c471a2361772ff2ac793d.webp"
+      },
+      "fetchedAt": "2026-10-03T07:53:18.190Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/puter%20concept%20wip",
+    "created": "2026-03-27T14:22:40.000Z",
+    "updated": "2026-03-27T14:23:04.000Z",
+    "views": 7,
+    "thumbnail": "https://gyazo.com/3d837f695fcfaaddb49ddfff24bf85e0/raw"
+  }
+}

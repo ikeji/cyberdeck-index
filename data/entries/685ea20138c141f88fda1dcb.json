@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "685ea20138c141f88fda1dcb",
+  "title": "Cyber Deck from trash find ;)",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1l6kn5a/cyber_deck_from_trash_find/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/c3aab553a59e5636cc1702e9d632f6fe",
+      "originRaw": "https://gyazo.com/c3aab553a59e5636cc1702e9d632f6fe/raw",
+      "id": "sha256:fcea04ba9cd0d941c9bfa4e07bd106319d0406145b8abd16b610df2197e23258",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/fc/fcea04ba9cd0d941c9bfa4e07bd106319d0406145b8abd16b610df2197e23258.thumb.webp",
+        "full": "img/fc/fcea04ba9cd0d941c9bfa4e07bd106319d0406145b8abd16b610df2197e23258.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:29.261Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cyber%20Deck%20from%20trash%20find%20%3B)",
+    "created": "2025-06-27T13:52:03.000Z",
+    "updated": "2025-06-27T13:52:23.000Z",
+    "views": 7,
+    "thumbnail": "https://gyazo.com/c3aab553a59e5636cc1702e9d632f6fe/raw"
+  }
+}

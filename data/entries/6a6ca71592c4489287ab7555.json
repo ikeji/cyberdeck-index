@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6ca71592c4489287ab7555",
+  "title": "Update to the DnD player station/Cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1tm8xs5/update_to_the_dnd_player_stationcyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/697af93aa501bf279f324d3f30338207",
+      "originRaw": "https://gyazo.com/697af93aa501bf279f324d3f30338207/raw",
+      "id": "sha256:22463ecb2f0dd8a32f655362fc44dc116c363cd207b86dc5563258feba790c1e",
+      "status": "ok",
+      "width": 903,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/22/22463ecb2f0dd8a32f655362fc44dc116c363cd207b86dc5563258feba790c1e.thumb.webp",
+        "full": "img/22/22463ecb2f0dd8a32f655362fc44dc116c363cd207b86dc5563258feba790c1e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:04.401Z"
+    },
+    {
+      "origin": "https://gyazo.com/b766ecc9a5ed3547f0835d611d429130",
+      "originRaw": "https://gyazo.com/b766ecc9a5ed3547f0835d611d429130/raw",
+      "id": "sha256:116e5bd7bb2b7dbfc949037d7b4c82cf8e9893b8f0c50ec1b46f34942939c5e4",
+      "status": "ok",
+      "width": 1080,
+      "height": 609,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/11/116e5bd7bb2b7dbfc949037d7b4c82cf8e9893b8f0c50ec1b46f34942939c5e4.thumb.webp",
+        "full": "img/11/116e5bd7bb2b7dbfc949037d7b4c82cf8e9893b8f0c50ec1b46f34942939c5e4.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:05.994Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Update%20to%20the%20DnD%20player%20station%2FCyberdeck",
+    "created": "2026-07-31T13:46:03.000Z",
+    "updated": "2026-07-31T13:46:13.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/697af93aa501bf279f324d3f30338207/raw"
+  }
+}

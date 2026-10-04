@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6606ebfaddfc0a0024ba0757",
+  "title": "hgDeck | Hackaday.io",
+  "source": {
+    "url": "https://hackaday.io/project/187518-hgdeck",
+    "site": "hackaday",
+    "label": "hgDeck | Hackaday.io"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6606ebfc702f9200256be789.png",
+      "originRaw": "https://scrapbox.io/files/6606ebfc702f9200256be789.png",
+      "id": "sha256:27825b35cd2bcd9c176cca14fc22325fcd24fe88d2839440f0518bff7ebdf4d8",
+      "status": "ok",
+      "width": 1600,
+      "height": 900,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/27/27825b35cd2bcd9c176cca14fc22325fcd24fe88d2839440f0518bff7ebdf4d8.thumb.webp",
+        "full": "img/27/27825b35cd2bcd9c176cca14fc22325fcd24fe88d2839440f0518bff7ebdf4d8.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:59.734Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/hgDeck%20%7C%20Hackaday.io",
+    "created": "2024-03-29T16:27:38.000Z",
+    "updated": "2024-03-29T16:27:46.000Z",
+    "views": 23,
+    "thumbnail": "https://scrapbox.io/files/6606ebfc702f9200256be789.png"
+  }
+}

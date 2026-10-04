@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "687a42ac94c65364d9a8bc11",
+  "title": "JankDeck v0.2 isn't so janky any more :(",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1lqi27r/jankdeck_v02_isnt_so_janky_any_more/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/7a4e65ce36d382c9d50a9b20f3a36807",
+      "originRaw": "https://gyazo.com/7a4e65ce36d382c9d50a9b20f3a36807/raw",
+      "id": "sha256:95c2743edbfd290bc664aa63e0fdef9f5ff849bf7fa6044b98dab72b51d3482f",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/95/95c2743edbfd290bc664aa63e0fdef9f5ff849bf7fa6044b98dab72b51d3482f.thumb.webp",
+        "full": "img/95/95c2743edbfd290bc664aa63e0fdef9f5ff849bf7fa6044b98dab72b51d3482f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:04.822Z"
+    },
+    {
+      "origin": "https://gyazo.com/4582035f108a3854f0a8467d0de0662b",
+      "originRaw": "https://gyazo.com/4582035f108a3854f0a8467d0de0662b/raw",
+      "id": "sha256:e61edce8323228fb2306a89d9ac946960ce55fd0b1f7379694179876e6688f5a",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e6/e61edce8323228fb2306a89d9ac946960ce55fd0b1f7379694179876e6688f5a.thumb.webp",
+        "full": "img/e6/e61edce8323228fb2306a89d9ac946960ce55fd0b1f7379694179876e6688f5a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:10.242Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/JankDeck%20v0.2%20isn't%20so%20janky%20any%20more%20%3A(",
+    "created": "2025-07-18T12:48:51.000Z",
+    "updated": "2025-07-18T12:49:01.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/7a4e65ce36d382c9d50a9b20f3a36807/raw"
+  }
+}

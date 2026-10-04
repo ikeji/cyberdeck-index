@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6ca63499e6daa45b34fd97",
+  "title": "First cyberdeck build! Pi5",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ueofzb/first_cyberdeck_build_pi5/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/822764342925dc13e0041d93390a839f",
+      "originRaw": "https://gyazo.com/822764342925dc13e0041d93390a839f/raw",
+      "id": "sha256:28037fcf783d874a1e6cc0060a51e68073fb3751f17fcac7e0cf7f75ed91e8d2",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/28/28037fcf783d874a1e6cc0060a51e68073fb3751f17fcac7e0cf7f75ed91e8d2.thumb.webp",
+        "full": "img/28/28037fcf783d874a1e6cc0060a51e68073fb3751f17fcac7e0cf7f75ed91e8d2.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:00.896Z"
+    },
+    {
+      "origin": "https://gyazo.com/d78407d285576edccb488ddce0006ef8",
+      "originRaw": "https://gyazo.com/d78407d285576edccb488ddce0006ef8/raw",
+      "id": "sha256:45f35cd2f71e2a5930c9323cf499e17e2b79da0dc6415f56672f2553ff0b8d59",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/45/45f35cd2f71e2a5930c9323cf499e17e2b79da0dc6415f56672f2553ff0b8d59.thumb.webp",
+        "full": "img/45/45f35cd2f71e2a5930c9323cf499e17e2b79da0dc6415f56672f2553ff0b8d59.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:02.465Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/First%20cyberdeck%20build!%20Pi5",
+    "created": "2026-07-31T13:42:17.000Z",
+    "updated": "2026-07-31T13:42:30.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/822764342925dc13e0041d93390a839f/raw"
+  }
+}

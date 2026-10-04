@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6606e9663c070300246b45fb",
+  "title": "First Deck - Portable Pi4 / Mp3 Player (+ 3d files in comments) : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/",
+    "site": "reddit",
+    "label": "First Deck - Portable Pi4 / Mp3 Player (+ 3d files in comments) : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6606e969b4489f0024a2acce.png",
+      "originRaw": "https://scrapbox.io/files/6606e969b4489f0024a2acce.png",
+      "id": "sha256:d2149cb4accbc977af43cf72b3b810059ccc358ef2548f981f6de1ec83787dfb",
+      "status": "ok",
+      "width": 1080,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d2/d2149cb4accbc977af43cf72b3b810059ccc358ef2548f981f6de1ec83787dfb.thumb.webp",
+        "full": "img/d2/d2149cb4accbc977af43cf72b3b810059ccc358ef2548f981f6de1ec83787dfb.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:55.285Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/First%20Deck%20-%20Portable%20Pi4%20%2F%20Mp3%20Player%20(%2B%203d%20files%20in%20comments)%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-29T16:16:39.000Z",
+    "updated": "2024-03-29T16:16:45.000Z",
+    "views": 35,
+    "thumbnail": "https://scrapbox.io/files/6606e969b4489f0024a2acce.png"
+  }
+}

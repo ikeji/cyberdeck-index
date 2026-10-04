@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6ca1a7660d04c3bd987e07",
+  "title": "Esp32 s3 handheld BASIC machine",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1v2r471/esp32_s3_handheld_basic_machine/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/0b94273f4c9643ce0a0ec2dbd007d69e",
+      "originRaw": "https://gyazo.com/0b94273f4c9643ce0a0ec2dbd007d69e/raw",
+      "id": "sha256:fa1ee1c103e8352934fe533071b172790a93d4ac4a6343c2190b75cf1bd43ba1",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/fa/fa1ee1c103e8352934fe533071b172790a93d4ac4a6343c2190b75cf1bd43ba1.thumb.webp",
+        "full": "img/fa/fa1ee1c103e8352934fe533071b172790a93d4ac4a6343c2190b75cf1bd43ba1.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:20.998Z"
+    },
+    {
+      "origin": "https://gyazo.com/b99eef83dbc72413829764c2f061e4c4",
+      "originRaw": "https://gyazo.com/b99eef83dbc72413829764c2f061e4c4/raw",
+      "id": "sha256:ac9e5f64853232bf99d3f426f12d199c288910d6891c0ce23649f07cc959704a",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ac/ac9e5f64853232bf99d3f426f12d199c288910d6891c0ce23649f07cc959704a.thumb.webp",
+        "full": "img/ac/ac9e5f64853232bf99d3f426f12d199c288910d6891c0ce23649f07cc959704a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:22.808Z"
+    },
+    {
+      "origin": "https://gyazo.com/e0625bdaa5934cd866423dd98788c8ee",
+      "originRaw": "https://gyazo.com/e0625bdaa5934cd866423dd98788c8ee/raw",
+      "id": "sha256:a937c3668e6861522868bfc044e19505051f21d050a738b286dcb1c058755b1a",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a9/a937c3668e6861522868bfc044e19505051f21d050a738b286dcb1c058755b1a.thumb.webp",
+        "full": "img/a9/a937c3668e6861522868bfc044e19505051f21d050a738b286dcb1c058755b1a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:24.194Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Esp32%20s3%20handheld%20BASIC%20machine",
+    "created": "2026-07-31T13:22:53.000Z",
+    "updated": "2026-07-31T13:23:11.000Z",
+    "views": 2,
+    "thumbnail": "https://gyazo.com/0b94273f4c9643ce0a0ec2dbd007d69e/raw"
+  }
+}

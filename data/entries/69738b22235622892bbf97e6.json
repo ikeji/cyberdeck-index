@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "69738b22235622892bbf97e6",
+  "title": "A little different: this is my dictionary cyberdeck.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1q7drt7/a_little_different_this_is_my_dictionary_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [
+    {
+      "url": "https://lmao.center/ilotoki/",
+      "label": null,
+      "site": "web"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://gyazo.com/dc8b2df14c6f3dd864fa308101b18809",
+      "originRaw": "https://gyazo.com/dc8b2df14c6f3dd864fa308101b18809/raw",
+      "id": "sha256:6f1dddac35a82ab7eb30c82859bf51e3192a39f74747739f4c5a0571d626a48d",
+      "status": "ok",
+      "width": 1080,
+      "height": 822,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6f/6f1dddac35a82ab7eb30c82859bf51e3192a39f74747739f4c5a0571d626a48d.thumb.webp",
+        "full": "img/6f/6f1dddac35a82ab7eb30c82859bf51e3192a39f74747739f4c5a0571d626a48d.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:01.543Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/A%20little%20different%3A%20this%20is%20my%20dictionary%20cyberdeck.",
+    "created": "2026-01-23T14:52:22.000Z",
+    "updated": "2026-01-23T14:52:54.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/dc8b2df14c6f3dd864fa308101b18809/raw"
+  }
+}

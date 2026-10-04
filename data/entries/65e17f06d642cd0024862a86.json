@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e17f06d642cd0024862a86",
+  "title": "WIP First draft print, inspired by a render I saw here : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/nsutin/wip_first_draft_print_inspired_by_a_render_i_saw/",
+    "site": "reddit",
+    "label": "[WIP] First draft print, inspired by a render I saw here : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e17f094b1ae80024397343.png",
+      "originRaw": "https://scrapbox.io/files/65e17f094b1ae80024397343.png",
+      "id": "sha256:7c87a35a0d618276b65d8e82de464e6aa18debffd6d257cc40c915987a99a741",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7c/7c87a35a0d618276b65d8e82de464e6aa18debffd6d257cc40c915987a99a741.thumb.webp",
+        "full": "img/7c/7c87a35a0d618276b65d8e82de464e6aa18debffd6d257cc40c915987a99a741.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:17.291Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": "このケースかっこいいな。",
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/WIP%20First%20draft%20print%2C%20inspired%20by%20a%20render%20I%20saw%20here%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:08:55.000Z",
+    "updated": "2024-03-01T07:09:10.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/65e17f094b1ae80024397343.png"
+  }
+}

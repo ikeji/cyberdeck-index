@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6ca3905d2b184089a62573",
+  "title": "I have performed a preliminary assembly and verified that it works.",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1unzq6s/i_have_performed_a_preliminary_assembly_and/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/91e4576b6bef1c2af3b80d07e6bcf152",
+      "originRaw": "https://gyazo.com/91e4576b6bef1c2af3b80d07e6bcf152/raw",
+      "id": "sha256:e896627018a6c16278a74a33f60c6d995a23bb1178f9cd4072306581bdb2cf57",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e8/e896627018a6c16278a74a33f60c6d995a23bb1178f9cd4072306581bdb2cf57.thumb.webp",
+        "full": "img/e8/e896627018a6c16278a74a33f60c6d995a23bb1178f9cd4072306581bdb2cf57.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:34.536Z"
+    },
+    {
+      "origin": "https://gyazo.com/05256c59413f7bda92a2471d0696090c",
+      "originRaw": "https://gyazo.com/05256c59413f7bda92a2471d0696090c/raw",
+      "id": "sha256:4215ae6598f814d6e053a64c09f469ff33da262d1d046a9bddddc57c5bdbbd62",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/42/4215ae6598f814d6e053a64c09f469ff33da262d1d046a9bddddc57c5bdbbd62.thumb.webp",
+        "full": "img/42/4215ae6598f814d6e053a64c09f469ff33da262d1d046a9bddddc57c5bdbbd62.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:36.301Z"
+    }
+  ],
+  "tags": [
+    "IKeJIのおすすめ"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20have%20performed%20a%20preliminary%20assembly%20and%20verified%20that%20it%20works.",
+    "created": "2026-07-31T13:31:01.000Z",
+    "updated": "2026-07-31T13:31:23.000Z",
+    "views": 4,
+    "thumbnail": "https://gyazo.com/91e4576b6bef1c2af3b80d07e6bcf152/raw"
+  }
+}

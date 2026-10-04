@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "698f2b98089371e062233256",
+  "title": "My newest cyberdeck work in progress",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1r0348p/my_newest_cyberdeck_work_in_progress/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/f021d9e244c15913a4ba80db5d29319b",
+      "originRaw": "https://gyazo.com/f021d9e244c15913a4ba80db5d29319b/raw",
+      "id": "sha256:a20b3d4771d6f2b103374aeab05a7c8c225afa1a9979f3809a26f4fcfd5e3a00",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a2/a20b3d4771d6f2b103374aeab05a7c8c225afa1a9979f3809a26f4fcfd5e3a00.thumb.webp",
+        "full": "img/a2/a20b3d4771d6f2b103374aeab05a7c8c225afa1a9979f3809a26f4fcfd5e3a00.webp"
+      },
+      "fetchedAt": "2026-10-03T07:51:27.781Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20newest%20cyberdeck%20work%20in%20progress",
+    "created": "2026-02-13T13:48:12.000Z",
+    "updated": "2026-02-13T13:48:18.000Z",
+    "views": 0,
+    "thumbnail": "https://gyazo.com/f021d9e244c15913a4ba80db5d29319b/raw"
+  }
+}

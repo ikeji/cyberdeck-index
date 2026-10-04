@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "6a19a69437213cb8f19c858d",
+  "title": "The Companion: A portable Raspberry Pi 5-based \"laptop\" inspired by the TRS 80 Model 100",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1tb96wd/the_companion_a_portable_raspberry_pi_5based/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/61167bf852dff85e189c493e57999113",
+      "originRaw": "https://gyazo.com/61167bf852dff85e189c493e57999113/raw",
+      "id": "sha256:f3879f0cba2925666bc1e279f8711a8311b773863349a769ec8a5ae84f7f2053",
+      "status": "ok",
+      "width": 640,
+      "height": 640,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f3/f3879f0cba2925666bc1e279f8711a8311b773863349a769ec8a5ae84f7f2053.thumb.webp",
+        "full": "img/f3/f3879f0cba2925666bc1e279f8711a8311b773863349a769ec8a5ae84f7f2053.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:36.960Z"
+    },
+    {
+      "origin": "https://gyazo.com/ec731c32a494112c41185370a7d23e38",
+      "originRaw": "https://gyazo.com/ec731c32a494112c41185370a7d23e38/raw",
+      "id": "sha256:dbb3f5a75cb41675b37a67ebb112a4c2df43e492d2136d85c09fb3fc365b4628",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/db/dbb3f5a75cb41675b37a67ebb112a4c2df43e492d2136d85c09fb3fc365b4628.thumb.webp",
+        "full": "img/db/dbb3f5a75cb41675b37a67ebb112a4c2df43e492d2136d85c09fb3fc365b4628.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:39.087Z"
+    },
+    {
+      "origin": "https://gyazo.com/eeef7e640d1d57afea660b7ac37ec664",
+      "originRaw": "https://gyazo.com/eeef7e640d1d57afea660b7ac37ec664/raw",
+      "id": "sha256:5465e169fbb343747aa29edea2e19c339d111b6f892148f69ae240cdee178a53",
+      "status": "ok",
+      "width": 846,
+      "height": 885,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/54/5465e169fbb343747aa29edea2e19c339d111b6f892148f69ae240cdee178a53.thumb.webp",
+        "full": "img/54/5465e169fbb343747aa29edea2e19c339d111b6f892148f69ae240cdee178a53.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:40.260Z"
+    },
+    {
+      "origin": "https://gyazo.com/5aef50e3fe0238a7cb883bfa2360e452",
+      "originRaw": "https://gyazo.com/5aef50e3fe0238a7cb883bfa2360e452/raw",
+      "id": "sha256:739a6ea898c50ebe189a4e642ffac3a18cb95f589c6f1bc848d41ffb73761baf",
+      "status": "ok",
+      "width": 1080,
+      "height": 569,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/73/739a6ea898c50ebe189a4e642ffac3a18cb95f589c6f1bc848d41ffb73761baf.thumb.webp",
+        "full": "img/73/739a6ea898c50ebe189a4e642ffac3a18cb95f589c6f1bc848d41ffb73761baf.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:41.915Z"
+    },
+    {
+      "origin": "https://gyazo.com/ffedbe2f928049ee1ffd107a0324f530",
+      "originRaw": "https://gyazo.com/ffedbe2f928049ee1ffd107a0324f530/raw",
+      "id": "sha256:1a92494bf84decbe50a2e13d464987145a8a8c2c28eb77f1605934e4c7ea693f",
+      "status": "ok",
+      "width": 1080,
+      "height": 737,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1a/1a92494bf84decbe50a2e13d464987145a8a8c2c28eb77f1605934e4c7ea693f.thumb.webp",
+        "full": "img/1a/1a92494bf84decbe50a2e13d464987145a8a8c2c28eb77f1605934e4c7ea693f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:43.216Z"
+    },
+    {
+      "origin": "https://gyazo.com/db159ae5415c227a039378b51803f70d",
+      "originRaw": "https://gyazo.com/db159ae5415c227a039378b51803f70d/raw",
+      "id": "sha256:6664354d901a09e6f479fc00504838e4dfb1419706a7e55d2e715cbca83c7720",
+      "status": "ok",
+      "width": 1080,
+      "height": 867,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/66/6664354d901a09e6f479fc00504838e4dfb1419706a7e55d2e715cbca83c7720.thumb.webp",
+        "full": "img/66/6664354d901a09e6f479fc00504838e4dfb1419706a7e55d2e715cbca83c7720.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:44.854Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/The%20Companion%3A%20A%20portable%20Raspberry%20Pi%205-based%20%22laptop%22%20inspired%20by%20the%20TRS%2080%20Model%20100",
+    "created": "2026-05-29T14:45:45.000Z",
+    "updated": "2026-05-29T14:46:28.000Z",
+    "views": 6,
+    "thumbnail": "https://gyazo.com/61167bf852dff85e189c493e57999113/raw"
+  }
+}

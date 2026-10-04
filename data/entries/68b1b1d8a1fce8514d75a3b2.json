@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "68b1b1d8a1fce8514d75a3b2",
+  "title": "Cyberdeck??",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1mtjg83/cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/3c65a8b9254b46f97d9d45c6d4d07d54",
+      "originRaw": "https://gyazo.com/3c65a8b9254b46f97d9d45c6d4d07d54/raw",
+      "id": "sha256:f33c88d146626e71bab8fe59bfe9045123de25cd94244cc82dfab276148c2888",
+      "status": "ok",
+      "width": 1080,
+      "height": 845,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f3/f33c88d146626e71bab8fe59bfe9045123de25cd94244cc82dfab276148c2888.thumb.webp",
+        "full": "img/f3/f33c88d146626e71bab8fe59bfe9045123de25cd94244cc82dfab276148c2888.webp"
+      },
+      "fetchedAt": "2026-10-03T07:48:34.558Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Cyberdeck%3F%3F",
+    "created": "2025-08-29T13:58:02.000Z",
+    "updated": "2025-08-29T13:58:11.000Z",
+    "views": 11,
+    "thumbnail": "https://gyazo.com/3c65a8b9254b46f97d9d45c6d4d07d54/raw"
+  }
+}

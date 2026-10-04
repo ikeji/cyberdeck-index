@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad576a3090d001c9e7677",
+  "title": "Homebrew laptop : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1eok3j8/homebrew_laptop/",
+    "site": "reddit",
+    "label": "Homebrew laptop : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad5790585ad001d6e45d6.png",
+      "originRaw": "https://scrapbox.io/files/66cad5790585ad001d6e45d6.png",
+      "id": "sha256:be22b8ac7f218dc8edd0aae0c12074cbb4d175866aa994af8deec652a5a0b740",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/be/be22b8ac7f218dc8edd0aae0c12074cbb4d175866aa994af8deec652a5a0b740.thumb.webp",
+        "full": "img/be/be22b8ac7f218dc8edd0aae0c12074cbb4d175866aa994af8deec652a5a0b740.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:10.085Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Homebrew%20laptop%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T06:55:51.000Z",
+    "updated": "2024-08-25T06:55:56.000Z",
+    "views": 7,
+    "thumbnail": "https://scrapbox.io/files/66cad5790585ad001d6e45d6.png"
+  }
+}

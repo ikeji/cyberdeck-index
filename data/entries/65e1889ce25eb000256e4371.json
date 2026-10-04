@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "65e1889ce25eb000256e4371",
+  "title": "a8ksh4/paper-pi-handheld: An E-ink Handheld Linux Computer",
+  "source": {
+    "url": "https://github.com/a8ksh4/paper-pi-handheld",
+    "site": "github",
+    "label": "a8ksh4/paper-pi-handheld: An E-ink Handheld Linux Computer"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1889e3b74740023e6bd71.png",
+      "originRaw": "https://scrapbox.io/files/65e1889e3b74740023e6bd71.png",
+      "id": "sha256:7ac40e56774a0e6cf480bcdbf4a03ba584b0d007497987668efeeac20aa4da98",
+      "status": "ok",
+      "width": 1147,
+      "height": 860,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7a/7ac40e56774a0e6cf480bcdbf4a03ba584b0d007497987668efeeac20aa4da98.thumb.webp",
+        "full": "img/7a/7ac40e56774a0e6cf480bcdbf4a03ba584b0d007497987668efeeac20aa4da98.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:43.764Z"
+    }
+  ],
+  "tags": [
+    "IKeJIのおすすめ"
+  ],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/a8ksh4%2Fpaper-pi-handheld%3A%20An%20E-ink%20Handheld%20Linux%20Computer",
+    "created": "2024-03-01T07:49:49.000Z",
+    "updated": "2026-05-08T14:38:12.000Z",
+    "views": 10,
+    "thumbnail": "https://scrapbox.io/files/65e1889e3b74740023e6bd71.png"
+  }
+}

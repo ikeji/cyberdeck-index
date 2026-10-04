@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6606eafed1a2a2002525be9b",
+  "title": "Teleoperated Control Unit (almost there...) : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1bi8k47/teleoperated_control_unit_almost_there/",
+    "site": "reddit",
+    "label": "Teleoperated Control Unit (almost there...) : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6606eb006731f00024eb5302.png",
+      "originRaw": "https://scrapbox.io/files/6606eb006731f00024eb5302.png",
+      "id": "sha256:e8b7bc01fcf28a14f7188aabc15d806eefc312493933dd96527934a068d76115",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e8/e8b7bc01fcf28a14f7188aabc15d806eefc312493933dd96527934a068d76115.thumb.webp",
+        "full": "img/e8/e8b7bc01fcf28a14f7188aabc15d806eefc312493933dd96527934a068d76115.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:57.043Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Teleoperated%20Control%20Unit%20(almost%20there...)%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-29T16:23:27.000Z",
+    "updated": "2024-03-29T16:23:33.000Z",
+    "views": 14,
+    "thumbnail": "https://scrapbox.io/files/6606eb006731f00024eb5302.png"
+  }
+}

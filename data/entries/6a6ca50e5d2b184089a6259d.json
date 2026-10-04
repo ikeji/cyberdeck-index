@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6ca50e5d2b184089a6259d",
+  "title": "Meet Johnny!",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1uknulk/meet_johnny/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/d94353fe1843e0d03f536d4ca01ba93f",
+      "originRaw": "https://gyazo.com/d94353fe1843e0d03f536d4ca01ba93f/raw",
+      "id": "sha256:5970dc15616fbe8e44de3fd9debc41624258b80caa603dea9342b6698facd5ac",
+      "status": "ok",
+      "width": 1080,
+      "height": 1439,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/59/5970dc15616fbe8e44de3fd9debc41624258b80caa603dea9342b6698facd5ac.thumb.webp",
+        "full": "img/59/5970dc15616fbe8e44de3fd9debc41624258b80caa603dea9342b6698facd5ac.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:48.875Z"
+    },
+    {
+      "origin": "https://gyazo.com/3da9c5243fa13f74bd20db3f7ccf8b33",
+      "originRaw": "https://gyazo.com/3da9c5243fa13f74bd20db3f7ccf8b33/raw",
+      "id": "sha256:e29f744c214c89c0cf336731194bea027dc95b39b392130234239fca24abe5f7",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e2/e29f744c214c89c0cf336731194bea027dc95b39b392130234239fca24abe5f7.thumb.webp",
+        "full": "img/e2/e29f744c214c89c0cf336731194bea027dc95b39b392130234239fca24abe5f7.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:50.844Z"
+    },
+    {
+      "origin": "https://gyazo.com/ced01a68a02862501b9a98cf8489684f",
+      "originRaw": "https://gyazo.com/ced01a68a02862501b9a98cf8489684f/raw",
+      "id": "sha256:f1c29109b9c9bc10ad3a963224dbf2f9e63723e10de3c1b3fdebba3e631a14e3",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f1/f1c29109b9c9bc10ad3a963224dbf2f9e63723e10de3c1b3fdebba3e631a14e3.thumb.webp",
+        "full": "img/f1/f1c29109b9c9bc10ad3a963224dbf2f9e63723e10de3c1b3fdebba3e631a14e3.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:52.435Z"
+    },
+    {
+      "origin": "https://gyazo.com/44842167dfd2f021221b88092d5c8ef2",
+      "originRaw": "https://gyazo.com/44842167dfd2f021221b88092d5c8ef2/raw",
+      "id": "sha256:980f8663ee0af88fd3cffe83b7518a9aa7525bd7dc3850138009e9d05a55db23",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/98/980f8663ee0af88fd3cffe83b7518a9aa7525bd7dc3850138009e9d05a55db23.thumb.webp",
+        "full": "img/98/980f8663ee0af88fd3cffe83b7518a9aa7525bd7dc3850138009e9d05a55db23.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:54.198Z"
+    },
+    {
+      "origin": "https://gyazo.com/56e64b806813fdd199918c17d862b1c2",
+      "originRaw": "https://gyazo.com/56e64b806813fdd199918c17d862b1c2/raw",
+      "id": "sha256:53be126ec8fd299ab93d4c778ad96ba3bc7175f0e24d8fa9031b0a78d97987b6",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/53/53be126ec8fd299ab93d4c778ad96ba3bc7175f0e24d8fa9031b0a78d97987b6.thumb.webp",
+        "full": "img/53/53be126ec8fd299ab93d4c778ad96ba3bc7175f0e24d8fa9031b0a78d97987b6.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:56.621Z"
+    },
+    {
+      "origin": "https://gyazo.com/44d87a4255097dd9523ad0f7a830be00",
+      "originRaw": "https://gyazo.com/44d87a4255097dd9523ad0f7a830be00/raw",
+      "id": "sha256:9bf731dc529a1ee3c5b36e7715b32e16c2b32e906fbc84b2282796b2b6c71115",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9b/9bf731dc529a1ee3c5b36e7715b32e16c2b32e906fbc84b2282796b2b6c71115.thumb.webp",
+        "full": "img/9b/9bf731dc529a1ee3c5b36e7715b32e16c2b32e906fbc84b2282796b2b6c71115.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:57.927Z"
+    },
+    {
+      "origin": "https://gyazo.com/4503550f3545bb32d302c4f5e3760f66",
+      "originRaw": "https://gyazo.com/4503550f3545bb32d302c4f5e3760f66/raw",
+      "id": "sha256:4ef5ed650ca9a0edc11193a6f2337ada5d8ec0a68402c96322c9280f5c286708",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4e/4ef5ed650ca9a0edc11193a6f2337ada5d8ec0a68402c96322c9280f5c286708.thumb.webp",
+        "full": "img/4e/4ef5ed650ca9a0edc11193a6f2337ada5d8ec0a68402c96322c9280f5c286708.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:00.035Z"
+    },
+    {
+      "origin": "https://gyazo.com/36b35e859e59ed27819d885b3a764bf7",
+      "originRaw": "https://gyazo.com/36b35e859e59ed27819d885b3a764bf7/raw",
+      "id": "sha256:54528952ed9646cc60386290bcb3e6bb12434139a0a173f2ce616d3346ec2e84",
+      "status": "ok",
+      "width": 1080,
+      "height": 1439,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/54/54528952ed9646cc60386290bcb3e6bb12434139a0a173f2ce616d3346ec2e84.thumb.webp",
+        "full": "img/54/54528952ed9646cc60386290bcb3e6bb12434139a0a173f2ce616d3346ec2e84.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:02.428Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Meet%20Johnny!",
+    "created": "2026-07-31T13:37:21.000Z",
+    "updated": "2026-07-31T13:38:00.000Z",
+    "views": 3,
+    "thumbnail": "https://gyazo.com/d94353fe1843e0d03f536d4ca01ba93f/raw"
+  }
+}

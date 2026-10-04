@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67d4212d60f007ddfe556494",
+  "title": "Fellas, is this a cyberdeck?",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ifbgp3/fellas_is_this_a_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67d4212f0e4fadcf42f242f1.png",
+      "originRaw": "https://scrapbox.io/files/67d4212f0e4fadcf42f242f1.png",
+      "id": "sha256:9615cac74d2bb8dd878aa82941afa344c1833c1d7ca0af1da6fa53dde8f486cc",
+      "status": "ok",
+      "width": 1080,
+      "height": 1081,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/96/9615cac74d2bb8dd878aa82941afa344c1833c1d7ca0af1da6fa53dde8f486cc.thumb.webp",
+        "full": "img/96/9615cac74d2bb8dd878aa82941afa344c1833c1d7ca0af1da6fa53dde8f486cc.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:47.375Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Fellas%2C%20is%20this%20a%20cyberdeck%3F",
+    "created": "2025-03-14T12:29:35.000Z",
+    "updated": "2025-03-14T12:29:44.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/67d4212f0e4fadcf42f242f1.png"
+  }
+}

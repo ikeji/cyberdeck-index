@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67b88fadb3f05d2129624a10",
+  "title": "Built a Miniature MDR Computer",
+  "source": {
+    "url": "https://www.reddit.com/r/SeveranceAppleTVPlus/comments/1io6n1l/built_a_miniature_mdr_computer/",
+    "site": "reddit",
+    "label": "Built a Miniature MDR Computer : r/SeveranceAppleTVPlus"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67b88fd09ee810a0511f59f3.png",
+      "originRaw": "https://scrapbox.io/files/67b88fd09ee810a0511f59f3.png",
+      "id": "sha256:0bbc78877fccc401f48872a97b197716795e444d6fe0a539cf31d7f186389d76",
+      "status": "ok",
+      "width": 1080,
+      "height": 1073,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0b/0bbc78877fccc401f48872a97b197716795e444d6fe0a539cf31d7f186389d76.thumb.webp",
+        "full": "img/0b/0bbc78877fccc401f48872a97b197716795e444d6fe0a539cf31d7f186389d76.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:43.390Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Built%20a%20Miniature%20MDR%20Computer",
+    "created": "2025-02-21T14:37:34.000Z",
+    "updated": "2025-02-21T14:38:13.000Z",
+    "views": 0,
+    "thumbnail": "https://scrapbox.io/files/67b88fd09ee810a0511f59f3.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e1804d7892bd00232d9d5e",
+  "title": "I am a video editor. I got tired of dragging my full tower and monitor around, so I am prototyping this all-in-one luggable centered around the smallest 4k monitor I could find. More details in the comments. : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/10mgqd0/i_am_a_video_editor_i_got_tired_of_dragging_my/",
+    "site": "reddit",
+    "label": "I am a video editor. I got tired of dragging my full tower and monitor around, so I am prototyping this all-in-one luggable centered around the smallest 4k monitor I could find. More details in the comments. : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1804f64b7ff002445aa83.png",
+      "originRaw": "https://scrapbox.io/files/65e1804f64b7ff002445aa83.png",
+      "id": "sha256:ae0905ed2ff7967cfb3a390dc75b772be6b59090d0779f6a548352c5d253cb4a",
+      "status": "ok",
+      "width": 1080,
+      "height": 809,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ae/ae0905ed2ff7967cfb3a390dc75b772be6b59090d0779f6a548352c5d253cb4a.thumb.webp",
+        "full": "img/ae/ae0905ed2ff7967cfb3a390dc75b772be6b59090d0779f6a548352c5d253cb4a.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:21.732Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20am%20a%20video%20editor.%20I%20got%20tired%20of%20dragging%20my%20full%20tower%20and%20monitor%20around%2C%20so%20I%20am%20prototyping%20this%20all-in-one%20luggable%20centered%20around%20the%20smallest%204k%20monitor%20I%20could%20find.%20More%20details%20in%20the%20comments.%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:14:21.000Z",
+    "updated": "2024-03-01T07:14:27.000Z",
+    "views": 5,
+    "thumbnail": "https://scrapbox.io/files/65e1804f64b7ff002445aa83.png"
+  }
+}

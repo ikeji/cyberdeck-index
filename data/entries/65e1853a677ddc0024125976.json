@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e1853a677ddc0024125976",
+  "title": "My 3D printed 'M4 Panda' PC case : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/lofvw5/my_3d_printed_m4_panda_pc_case/",
+    "site": "reddit",
+    "label": "My 3D printed 'M4 Panda' PC case : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e1853c01b0550023e977f2.png",
+      "originRaw": "https://scrapbox.io/files/65e1853c01b0550023e977f2.png",
+      "id": "sha256:20e57daf7be2b475e115b0c0f2ca8331b94f5bee8b7960a605592657ada92608",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/20/20e57daf7be2b475e115b0c0f2ca8331b94f5bee8b7960a605592657ada92608.thumb.webp",
+        "full": "img/20/20e57daf7be2b475e115b0c0f2ca8331b94f5bee8b7960a605592657ada92608.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:28.807Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%203D%20printed%20'M4%20Panda'%20PC%20case%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:35:23.000Z",
+    "updated": "2024-03-01T07:35:29.000Z",
+    "views": 10,
+    "thumbnail": "https://scrapbox.io/files/65e1853c01b0550023e977f2.png"
+  }
+}

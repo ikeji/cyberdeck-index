@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "692068d05bbb5431dca8f7c4",
+  "title": "Mom, can I have MPC Live 3? Again? We have MPC Live 3 at home!",
+  "source": {
+    "url": "https://www.reddit.com/r/mpcusers/comments/1ol78g1/mom_can_i_have_mpc_live_3_again_we_have_mpc_live/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/f3814d0073cc1707b72fbb48daa66f9f",
+      "originRaw": "https://gyazo.com/f3814d0073cc1707b72fbb48daa66f9f/raw",
+      "id": "sha256:909d056d3d9afb0fa11575e01fe458d886297a8b1eadb7fec47e8d0afd8c4e77",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/90/909d056d3d9afb0fa11575e01fe458d886297a8b1eadb7fec47e8d0afd8c4e77.thumb.webp",
+        "full": "img/90/909d056d3d9afb0fa11575e01fe458d886297a8b1eadb7fec47e8d0afd8c4e77.webp"
+      },
+      "fetchedAt": "2026-10-03T07:49:40.077Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Mom%2C%20can%20I%20have%20MPC%20Live%203%3F%20Again%3F%20We%20have%20MPC%20Live%203%20at%20home!",
+    "created": "2025-11-21T13:27:57.000Z",
+    "updated": "2025-11-21T13:28:01.000Z",
+    "views": 8,
+    "thumbnail": "https://gyazo.com/f3814d0073cc1707b72fbb48daa66f9f/raw"
+  }
+}

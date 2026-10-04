@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e184545827a80024f1afdb",
+  "title": "My V2! Not entirely different. But works and looks pretty epic! (Yes I’m running Kali lmao) : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/ygupqz/my_v2_not_entirely_different_but_works_and_looks/",
+    "site": "reddit",
+    "label": "My V2! Not entirely different. But works and looks pretty epic! (Yes I’m running Kali lmao) : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e18459697d2f0024451fe4.png",
+      "originRaw": "https://scrapbox.io/files/65e18459697d2f0024451fe4.png",
+      "id": "sha256:b6ede50e122da361df8e168ffb1f00622fd46188dbb47bc478601a679fc7d26f",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b6/b6ede50e122da361df8e168ffb1f00622fd46188dbb47bc478601a679fc7d26f.thumb.webp",
+        "full": "img/b6/b6ede50e122da361df8e168ffb1f00622fd46188dbb47bc478601a679fc7d26f.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:25.552Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/My%20V2!%20Not%20entirely%20different.%20But%20works%20and%20looks%20pretty%20epic!%20(Yes%20I%E2%80%99m%20running%20Kali%20lmao)%20%3A%20r%2FcyberDeck",
+    "created": "2024-03-01T07:31:33.000Z",
+    "updated": "2024-03-01T07:31:41.000Z",
+    "views": 10,
+    "thumbnail": "https://scrapbox.io/files/65e18459697d2f0024451fe4.png"
+  }
+}

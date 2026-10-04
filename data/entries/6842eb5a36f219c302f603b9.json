@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6842eb5a36f219c302f603b9",
+  "title": "Third cyberdeck. Help me name it!",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1l0du6u/third_cyberdeck_help_me_name_it/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/d9d9705b4f2b07983533d2dd43c6de8d",
+      "originRaw": "https://gyazo.com/d9d9705b4f2b07983533d2dd43c6de8d/raw",
+      "id": "sha256:a7a18549d6b44121f09d8c787297895753d9504aef41bacaa45b40875084cab3",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a7/a7a18549d6b44121f09d8c787297895753d9504aef41bacaa45b40875084cab3.thumb.webp",
+        "full": "img/a7/a7a18549d6b44121f09d8c787297895753d9504aef41bacaa45b40875084cab3.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:21.454Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Third%20cyberdeck.%20Help%20me%20name%20it!",
+    "created": "2025-06-06T13:21:33.000Z",
+    "updated": "2025-06-06T13:22:07.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/d9d9705b4f2b07983533d2dd43c6de8d/raw"
+  }
+}

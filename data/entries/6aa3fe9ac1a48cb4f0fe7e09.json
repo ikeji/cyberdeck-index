@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6aa3fe9ac1a48cb4f0fe7e09",
+  "title": "Mudei um pouco o Launcher",
+  "source": {
+    "url": "https://www.reddit.com/r/SolarOS/comments/1wd07x6/mudei_um_pouco_o_launcher/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/e4e40fced2a317d784bb52eb2b65bde3",
+      "originRaw": "https://gyazo.com/e4e40fced2a317d784bb52eb2b65bde3/raw",
+      "id": "sha256:1d484ed0bfef33035fafffa16fea43f1c580fc979710c674032c5a2bc5653082",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1d/1d484ed0bfef33035fafffa16fea43f1c580fc979710c674032c5a2bc5653082.thumb.webp",
+        "full": "img/1d/1d484ed0bfef33035fafffa16fea43f1c580fc979710c674032c5a2bc5653082.webp"
+      },
+      "fetchedAt": "2026-10-03T07:57:07.768Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Mudei%20um%20pouco%20o%20Launcher",
+    "created": "2026-09-11T13:14:12.000Z",
+    "updated": "2026-09-11T13:14:41.000Z",
+    "views": 0,
+    "thumbnail": "https://gyazo.com/e4e40fced2a317d784bb52eb2b65bde3/raw"
+  }
+}

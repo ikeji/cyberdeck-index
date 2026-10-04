@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "69fded33b375d824057d615d",
+  "title": "type of cyberdeck I would’ve taken with me on the Nostromo 😤",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1t51y9x/type_of_cyberdeck_i_wouldve_taken_with_me_on_the/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/4562b08f9febcbbca1218e2fedc77df0",
+      "originRaw": "https://gyazo.com/4562b08f9febcbbca1218e2fedc77df0/raw",
+      "id": "sha256:261a065206d4fac09ae9da805f81dff266a793ed0ac907910e6151b027b5a95b",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/26/261a065206d4fac09ae9da805f81dff266a793ed0ac907910e6151b027b5a95b.thumb.webp",
+        "full": "img/26/261a065206d4fac09ae9da805f81dff266a793ed0ac907910e6151b027b5a95b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:23.385Z"
+    },
+    {
+      "origin": "https://gyazo.com/4eafe9f97fa2e10f35e109cc279e3dde",
+      "originRaw": "https://gyazo.com/4eafe9f97fa2e10f35e109cc279e3dde/raw",
+      "id": "sha256:bc9fcf7c65ec8a54fa6662ff11dd737d5f55a910da84c4610504d6d06fd970fe",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/bc/bc9fcf7c65ec8a54fa6662ff11dd737d5f55a910da84c4610504d6d06fd970fe.thumb.webp",
+        "full": "img/bc/bc9fcf7c65ec8a54fa6662ff11dd737d5f55a910da84c4610504d6d06fd970fe.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:25.453Z"
+    },
+    {
+      "origin": "https://gyazo.com/ce3ba968156be3948dc0ff7387175bba",
+      "originRaw": "https://gyazo.com/ce3ba968156be3948dc0ff7387175bba/raw",
+      "id": "sha256:ee5cb90eab81f5fbc480ca0c0e4d25437d146e5c251c8c837ab9a96a3fcd5707",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ee/ee5cb90eab81f5fbc480ca0c0e4d25437d146e5c251c8c837ab9a96a3fcd5707.thumb.webp",
+        "full": "img/ee/ee5cb90eab81f5fbc480ca0c0e4d25437d146e5c251c8c837ab9a96a3fcd5707.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:26.717Z"
+    },
+    {
+      "origin": "https://gyazo.com/08af1983d8981b0e51bebf3162fdedfe",
+      "originRaw": "https://gyazo.com/08af1983d8981b0e51bebf3162fdedfe/raw",
+      "id": "sha256:8d0f760b037174c5a6a0021b24d923c4f894df83c80223110d67f27a677d20f7",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/8d/8d0f760b037174c5a6a0021b24d923c4f894df83c80223110d67f27a677d20f7.thumb.webp",
+        "full": "img/8d/8d0f760b037174c5a6a0021b24d923c4f894df83c80223110d67f27a677d20f7.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:28.843Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/type%20of%20cyberdeck%20I%20would%E2%80%99ve%20taken%20with%20me%20on%20the%20Nostromo%20%F0%9F%98%A4",
+    "created": "2026-05-08T14:03:33.000Z",
+    "updated": "2026-05-08T14:04:17.000Z",
+    "views": 1,
+    "thumbnail": "https://gyazo.com/4562b08f9febcbbca1218e2fedc77df0/raw"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "66cad6f6673dae001dabe22e",
+  "title": "Ontos x64 V3 : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1dfyasv/ontos_x64_v3/",
+    "site": "reddit",
+    "label": "Ontos x64 V3 : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66cad6f9955191001ced6a18.png",
+      "originRaw": "https://scrapbox.io/files/66cad6f9955191001ced6a18.png",
+      "id": "sha256:ffc9356b17516e4824169e9ca02a7c1297c325e437c590bd83673ac5b5939125",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ff/ffc9356b17516e4824169e9ca02a7c1297c325e437c590bd83673ac5b5939125.thumb.webp",
+        "full": "img/ff/ffc9356b17516e4824169e9ca02a7c1297c325e437c590bd83673ac5b5939125.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:15.077Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Ontos%20x64%20V3%20%3A%20r%2FcyberDeck",
+    "created": "2024-08-25T07:02:15.000Z",
+    "updated": "2024-08-25T07:02:21.000Z",
+    "views": 4,
+    "thumbnail": "https://scrapbox.io/files/66cad6f9955191001ced6a18.png"
+  }
+}

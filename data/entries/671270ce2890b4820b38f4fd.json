@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "671270ce2890b4820b38f4fd",
+  "title": "I created this monster",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1g000zl/i_created_this_monster/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/671270f6d32d973b4254c4e5.png",
+      "originRaw": "https://scrapbox.io/files/671270f6d32d973b4254c4e5.png",
+      "id": "sha256:9228fb2cd5cd41d9e764883742e415e00e1ffbbe7738aca4e3aec33fa0b6380a",
+      "status": "ok",
+      "width": 1080,
+      "height": 607,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/92/9228fb2cd5cd41d9e764883742e415e00e1ffbbe7738aca4e3aec33fa0b6380a.thumb.webp",
+        "full": "img/92/9228fb2cd5cd41d9e764883742e415e00e1ffbbe7738aca4e3aec33fa0b6380a.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:25.259Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20created%20this%20monster",
+    "created": "2024-10-18T14:30:14.000Z",
+    "updated": "2024-10-18T14:30:25.000Z",
+    "views": 6,
+    "thumbnail": "https://scrapbox.io/files/671270f6d32d973b4254c4e5.png"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "69aae37e5b473c58a6be5926",
+  "title": "Built this over the past few days with a mini 4in CRT as well as a mini USB keyboard to go with it",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1rftr3c/built_this_over_the_past_few_days_with_a_mini_4in/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/0530f9d20141b6f0e4d973178ca1d237",
+      "originRaw": "https://gyazo.com/0530f9d20141b6f0e4d973178ca1d237/raw",
+      "id": "sha256:d202089211e36d7e4ca0950a83d16071a0229b5ca44ce352392059357d4411ea",
+      "status": "ok",
+      "width": 976,
+      "height": 1296,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d2/d202089211e36d7e4ca0950a83d16071a0229b5ca44ce352392059357d4411ea.thumb.webp",
+        "full": "img/d2/d202089211e36d7e4ca0950a83d16071a0229b5ca44ce352392059357d4411ea.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:46.736Z"
+    },
+    {
+      "origin": "https://gyazo.com/acb4ec86a22fe23c1dfd9e704fb8c3ca",
+      "originRaw": "https://gyazo.com/acb4ec86a22fe23c1dfd9e704fb8c3ca/raw",
+      "id": "sha256:58c880b8a0a4826568156d89718acaa9884307a060b266ae49465529040f40b8",
+      "status": "ok",
+      "width": 915,
+      "height": 1215,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/58/58c880b8a0a4826568156d89718acaa9884307a060b266ae49465529040f40b8.thumb.webp",
+        "full": "img/58/58c880b8a0a4826568156d89718acaa9884307a060b266ae49465529040f40b8.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:48.909Z"
+    },
+    {
+      "origin": "https://gyazo.com/475119c5b9710c730551f79fe260c575",
+      "originRaw": "https://gyazo.com/475119c5b9710c730551f79fe260c575/raw",
+      "id": "sha256:75973caa706fbcf2170752cae97cc679acb1dd71a21dea6346535089a890b9fb",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/75/75973caa706fbcf2170752cae97cc679acb1dd71a21dea6346535089a890b9fb.thumb.webp",
+        "full": "img/75/75973caa706fbcf2170752cae97cc679acb1dd71a21dea6346535089a890b9fb.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:51.087Z"
+    },
+    {
+      "origin": "https://gyazo.com/16b57170d1bf82542fdeea9822affd48",
+      "originRaw": "https://gyazo.com/16b57170d1bf82542fdeea9822affd48/raw",
+      "id": "sha256:b12990a4df79e2ac1f5857d20792fa5379b83f4da73cd955f99a8b4d82ca2cfa",
+      "status": "ok",
+      "width": 976,
+      "height": 1296,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b1/b12990a4df79e2ac1f5857d20792fa5379b83f4da73cd955f99a8b4d82ca2cfa.thumb.webp",
+        "full": "img/b1/b12990a4df79e2ac1f5857d20792fa5379b83f4da73cd955f99a8b4d82ca2cfa.webp"
+      },
+      "fetchedAt": "2026-10-03T07:52:53.452Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Built%20this%20over%20the%20past%20few%20days%20with%20a%20mini%204in%20CRT%20as%20well%20as%20a%20mini%20USB%20keyboard%20to%20go%20with%20it",
+    "created": "2026-03-06T14:24:04.000Z",
+    "updated": "2026-03-06T14:24:56.000Z",
+    "views": 17,
+    "thumbnail": "https://gyazo.com/0530f9d20141b6f0e4d973178ca1d237/raw"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "6a6c9fbafd7ee1259337a244",
+  "title": "Vault-Deck: My first custom handheld build (No keyboard, but lots of telemetry!)",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1v6bx9t/vaultdeck_my_first_custom_handheld_build_no/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/bbee7e4996fd5f1cd7384f4fcd4e479a",
+      "originRaw": "https://gyazo.com/bbee7e4996fd5f1cd7384f4fcd4e479a/raw",
+      "id": "sha256:121820ffa9d96854c49cc95a2e3b4f577419030e60042d585bd3b2ca6410c053",
+      "status": "ok",
+      "width": 1080,
+      "height": 1189,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/12/121820ffa9d96854c49cc95a2e3b4f577419030e60042d585bd3b2ca6410c053.thumb.webp",
+        "full": "img/12/121820ffa9d96854c49cc95a2e3b4f577419030e60042d585bd3b2ca6410c053.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:08.693Z"
+    },
+    {
+      "origin": "https://gyazo.com/eb6d35687007047194e19e20170a9dde",
+      "originRaw": "https://gyazo.com/eb6d35687007047194e19e20170a9dde/raw",
+      "id": "sha256:2b853ea7a43198ee87f6c2b14839f61e7ff2bd2c3ffded2f7fe6ccdf39cdec39",
+      "status": "ok",
+      "width": 1080,
+      "height": 1125,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/2b/2b853ea7a43198ee87f6c2b14839f61e7ff2bd2c3ffded2f7fe6ccdf39cdec39.thumb.webp",
+        "full": "img/2b/2b853ea7a43198ee87f6c2b14839f61e7ff2bd2c3ffded2f7fe6ccdf39cdec39.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:10.933Z"
+    },
+    {
+      "origin": "https://gyazo.com/aeee95a7c3c32f4c872aeec5067d88b2",
+      "originRaw": "https://gyazo.com/aeee95a7c3c32f4c872aeec5067d88b2/raw",
+      "id": "sha256:921e235f637d10043ab71922401861d8d163cf2e07a2c59441c39407ff974b71",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/92/921e235f637d10043ab71922401861d8d163cf2e07a2c59441c39407ff974b71.thumb.webp",
+        "full": "img/92/921e235f637d10043ab71922401861d8d163cf2e07a2c59441c39407ff974b71.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:12.999Z"
+    },
+    {
+      "origin": "https://gyazo.com/24194648881019e7a11114f6e9c2bce6",
+      "originRaw": "https://gyazo.com/24194648881019e7a11114f6e9c2bce6/raw",
+      "id": "sha256:30641d13a49c9d6be1bcd01b18448a35b3039ebec3bcd8b1e42eb58fc1b2a62a",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/30/30641d13a49c9d6be1bcd01b18448a35b3039ebec3bcd8b1e42eb58fc1b2a62a.thumb.webp",
+        "full": "img/30/30641d13a49c9d6be1bcd01b18448a35b3039ebec3bcd8b1e42eb58fc1b2a62a.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:14.726Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Vault-Deck%3A%20My%20first%20custom%20handheld%20build%20(No%20keyboard%2C%20but%20lots%20of%20telemetry!)",
+    "created": "2026-07-31T13:14:41.000Z",
+    "updated": "2026-07-31T13:15:28.000Z",
+    "views": 3,
+    "thumbnail": "https://gyazo.com/bbee7e4996fd5f1cd7384f4fcd4e479a/raw"
+  }
+}

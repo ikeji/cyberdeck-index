@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "65e157f95246210024207a3f",
+  "title": "the MIL-plastic deck",
+  "source": {
+    "url": "https://www.doscher.com/the-mil-plastic-deck/",
+    "site": "web",
+    "label": "the MIL-plastic deck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e157fc77e3a200248ece2c.png",
+      "originRaw": "https://scrapbox.io/files/65e157fc77e3a200248ece2c.png",
+      "id": "sha256:b75ff6e5d5b60ef730af867ac85bdeecc2a233ec8b2b8719693ba6e1a9133ad5",
+      "status": "ok",
+      "width": 1200,
+      "height": 800,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b7/b75ff6e5d5b60ef730af867ac85bdeecc2a233ec8b2b8719693ba6e1a9133ad5.thumb.webp",
+        "full": "img/b7/b75ff6e5d5b60ef730af867ac85bdeecc2a233ec8b2b8719693ba6e1a9133ad5.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:11.799Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/the%20MIL-plastic%20deck",
+    "created": "2024-03-01T04:22:18.000Z",
+    "updated": "2024-03-01T04:22:24.000Z",
+    "views": 9,
+    "thumbnail": "https://scrapbox.io/files/65e157fc77e3a200248ece2c.png"
+  }
+}

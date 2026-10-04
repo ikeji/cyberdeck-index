@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "69fdf03b81e856d2b83ac187",
+  "title": "Recommendations for first time build !",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1t0mi95/recommendations_for_first_time_build/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/c67d6d0391eee08123fbe1543b01abf2",
+      "originRaw": "https://gyazo.com/c67d6d0391eee08123fbe1543b01abf2/raw",
+      "id": "sha256:4afdfdeb2ba923d2495241111c95ea421c6e16a736356a9a09befdae9a32ff2b",
+      "status": "ok",
+      "width": 1080,
+      "height": 720,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4a/4afdfdeb2ba923d2495241111c95ea421c6e16a736356a9a09befdae9a32ff2b.thumb.webp",
+        "full": "img/4a/4afdfdeb2ba923d2495241111c95ea421c6e16a736356a9a09befdae9a32ff2b.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:47.931Z"
+    },
+    {
+      "origin": "https://gyazo.com/480e93afe4eaa9c2bcda6e4b9ea30d0b",
+      "originRaw": "https://gyazo.com/480e93afe4eaa9c2bcda6e4b9ea30d0b/raw",
+      "id": "sha256:6462edf9e3954c1a6833c415cc2ce48feed523371eee7dd0afebb92faa1a6b7e",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/64/6462edf9e3954c1a6833c415cc2ce48feed523371eee7dd0afebb92faa1a6b7e.thumb.webp",
+        "full": "img/64/6462edf9e3954c1a6833c415cc2ce48feed523371eee7dd0afebb92faa1a6b7e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:54:49.943Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Recommendations%20for%20first%20time%20build%20!",
+    "created": "2026-05-08T14:16:31.000Z",
+    "updated": "2026-05-08T14:16:46.000Z",
+    "views": 6,
+    "thumbnail": "https://gyazo.com/c67d6d0391eee08123fbe1543b01abf2/raw"
+  }
+}

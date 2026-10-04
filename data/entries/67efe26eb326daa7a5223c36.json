@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67efe26eb326daa7a5223c36",
+  "title": "TermDeck-V 0.8",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1jqsuw7/termdeckv_08/",
+    "site": "reddit",
+    "label": "TermDeck-V 0.8 : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67efe274c7cf2f31ef1ff1df.png",
+      "originRaw": "https://scrapbox.io/files/67efe274c7cf2f31ef1ff1df.png",
+      "id": "sha256:a6fb8d3301a081cb4543ee8dc665f6b2264bf937cee52f886f8337245d66dc46",
+      "status": "ok",
+      "width": 1080,
+      "height": 1080,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a6/a6fb8d3301a081cb4543ee8dc665f6b2264bf937cee52f886f8337245d66dc46.thumb.webp",
+        "full": "img/a6/a6fb8d3301a081cb4543ee8dc665f6b2264bf937cee52f886f8337245d66dc46.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:55.764Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/TermDeck-V%200.8",
+    "created": "2025-04-04T13:45:20.000Z",
+    "updated": "2025-04-04T13:45:29.000Z",
+    "views": 13,
+    "thumbnail": "https://scrapbox.io/files/67efe274c7cf2f31ef1ff1df.png"
+  }
+}

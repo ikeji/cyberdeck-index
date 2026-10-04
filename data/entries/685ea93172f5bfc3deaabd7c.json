@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "685ea93172f5bfc3deaabd7c",
+  "title": "Beigedeck 5100",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1la1lsm/beigedeck_5100/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/3f51997cb670b3062d7e7cac906fa048",
+      "originRaw": "https://gyazo.com/3f51997cb670b3062d7e7cac906fa048/raw",
+      "id": "sha256:3f9e5853749b2f2017210dd1d46e9ef371eec1a783ccfe799834288e64c542e5",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3f/3f9e5853749b2f2017210dd1d46e9ef371eec1a783ccfe799834288e64c542e5.thumb.webp",
+        "full": "img/3f/3f9e5853749b2f2017210dd1d46e9ef371eec1a783ccfe799834288e64c542e5.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:34.887Z"
+    },
+    {
+      "origin": "https://gyazo.com/92ac25643033e705b68fd6576a9398a5",
+      "originRaw": "https://gyazo.com/92ac25643033e705b68fd6576a9398a5/raw",
+      "id": "sha256:df7b7244d477f163b0a38ede08d813566a6d1deaadca538126f9f3b7c7c4f837",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/df/df7b7244d477f163b0a38ede08d813566a6d1deaadca538126f9f3b7c7c4f837.thumb.webp",
+        "full": "img/df/df7b7244d477f163b0a38ede08d813566a6d1deaadca538126f9f3b7c7c4f837.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:36.804Z"
+    },
+    {
+      "origin": "https://gyazo.com/f23c2602321af408cc856403cf65d663",
+      "originRaw": "https://gyazo.com/f23c2602321af408cc856403cf65d663/raw",
+      "id": "sha256:99eb3b8deea55b49ec93db47383ac3d109d1b09eb347d8f015e7d7f7a606b033",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/99/99eb3b8deea55b49ec93db47383ac3d109d1b09eb347d8f015e7d7f7a606b033.thumb.webp",
+        "full": "img/99/99eb3b8deea55b49ec93db47383ac3d109d1b09eb347d8f015e7d7f7a606b033.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:38.739Z"
+    },
+    {
+      "origin": "https://gyazo.com/4abaf5474d644848bff801ccb625130a",
+      "originRaw": "https://gyazo.com/4abaf5474d644848bff801ccb625130a/raw",
+      "id": "sha256:89d5760a3387facd778f86cd23f6ae8e1db55fbf87cad90ec2a50311db6b2f6e",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/89/89d5760a3387facd778f86cd23f6ae8e1db55fbf87cad90ec2a50311db6b2f6e.thumb.webp",
+        "full": "img/89/89d5760a3387facd778f86cd23f6ae8e1db55fbf87cad90ec2a50311db6b2f6e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:40.717Z"
+    },
+    {
+      "origin": "https://gyazo.com/d0ad2764b86f906ec3173990fd276b57",
+      "originRaw": "https://gyazo.com/d0ad2764b86f906ec3173990fd276b57/raw",
+      "id": "sha256:09cbbc2c247ca022ffb086f080be400bcae325c7419e043b1927e93d731bdc69",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/09/09cbbc2c247ca022ffb086f080be400bcae325c7419e043b1927e93d731bdc69.thumb.webp",
+        "full": "img/09/09cbbc2c247ca022ffb086f080be400bcae325c7419e043b1927e93d731bdc69.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:41.881Z"
+    },
+    {
+      "origin": "https://gyazo.com/3d79b7ec06d1c3e92b626a723226811a",
+      "originRaw": "https://gyazo.com/3d79b7ec06d1c3e92b626a723226811a/raw",
+      "id": "sha256:42b03fc96770bfddbd35ce7ddb4191cbfb7410b3334e14dafdffe7a2427fa51d",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/42/42b03fc96770bfddbd35ce7ddb4191cbfb7410b3334e14dafdffe7a2427fa51d.thumb.webp",
+        "full": "img/42/42b03fc96770bfddbd35ce7ddb4191cbfb7410b3334e14dafdffe7a2427fa51d.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:43.657Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Beigedeck%205100",
+    "created": "2025-06-27T14:22:52.000Z",
+    "updated": "2025-06-27T14:24:27.000Z",
+    "views": 5,
+    "thumbnail": "https://gyazo.com/3f51997cb670b3062d7e7cac906fa048/raw"
+  }
+}

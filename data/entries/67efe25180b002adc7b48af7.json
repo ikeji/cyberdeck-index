@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "67efe25180b002adc7b48af7",
+  "title": "I finally built my first cyberdeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1jp9h9q/i_finally_built_my_first_cyberdeck/",
+    "site": "reddit",
+    "label": "I finally built my first cyberdeck : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67efe253c83cfe613a529113.png",
+      "originRaw": "https://scrapbox.io/files/67efe253c83cfe613a529113.png",
+      "id": "sha256:edc205cc440d77f164c35538446133dc99208fea9e5bc11c83889554fa4b2120",
+      "status": "ok",
+      "width": 1080,
+      "height": 721,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ed/edc205cc440d77f164c35538446133dc99208fea9e5bc11c83889554fa4b2120.thumb.webp",
+        "full": "img/ed/edc205cc440d77f164c35538446133dc99208fea9e5bc11c83889554fa4b2120.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:55.510Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/I%20finally%20built%20my%20first%20cyberdeck",
+    "created": "2025-04-04T13:44:51.000Z",
+    "updated": "2025-04-04T13:44:54.000Z",
+    "views": 8,
+    "thumbnail": "https://scrapbox.io/files/67efe253c83cfe613a529113.png"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "687a4177b9072573caf6f8c6",
+  "title": "WIP: Phracktop cyberdeck phone shell",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1lu917h/wip_phracktop_cyberdeck_phone_shell/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/e5f1e5286249fad1f511d0d7273a66b9",
+      "originRaw": "https://gyazo.com/e5f1e5286249fad1f511d0d7273a66b9/raw",
+      "id": "sha256:cd0ae5a300659da30b07077a3d72341f8142bf70bd4773259f220415e036b3f3",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/cd/cd0ae5a300659da30b07077a3d72341f8142bf70bd4773259f220415e036b3f3.thumb.webp",
+        "full": "img/cd/cd0ae5a300659da30b07077a3d72341f8142bf70bd4773259f220415e036b3f3.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:51.460Z"
+    },
+    {
+      "origin": "https://gyazo.com/221fa24787d2f5206a8ba9639681ef75",
+      "originRaw": "https://gyazo.com/221fa24787d2f5206a8ba9639681ef75/raw",
+      "id": "sha256:0def91251b83e7d3203cbdbc6edc125ae3f6cca8c40ed93eb218f2a02b02067e",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0d/0def91251b83e7d3203cbdbc6edc125ae3f6cca8c40ed93eb218f2a02b02067e.thumb.webp",
+        "full": "img/0d/0def91251b83e7d3203cbdbc6edc125ae3f6cca8c40ed93eb218f2a02b02067e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:53.608Z"
+    },
+    {
+      "origin": "https://gyazo.com/c2b86ee8623e8c713f28da3095e9424c",
+      "originRaw": "https://gyazo.com/c2b86ee8623e8c713f28da3095e9424c/raw",
+      "id": "sha256:eb3b45262c9622966dbce674243f3291fc114aa55b74bb5a8848aee5fe0139a5",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/eb/eb3b45262c9622966dbce674243f3291fc114aa55b74bb5a8848aee5fe0139a5.thumb.webp",
+        "full": "img/eb/eb3b45262c9622966dbce674243f3291fc114aa55b74bb5a8848aee5fe0139a5.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:55.841Z"
+    },
+    {
+      "origin": "https://gyazo.com/cf69e478168e2296f59ef426fd7111e6",
+      "originRaw": "https://gyazo.com/cf69e478168e2296f59ef426fd7111e6/raw",
+      "id": "sha256:faadb8ac1ba640db81e882fa01b7ed2f5137ea083fa0c545178dde2a151a57f8",
+      "status": "ok",
+      "width": 1080,
+      "height": 1440,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/fa/faadb8ac1ba640db81e882fa01b7ed2f5137ea083fa0c545178dde2a151a57f8.thumb.webp",
+        "full": "img/fa/faadb8ac1ba640db81e882fa01b7ed2f5137ea083fa0c545178dde2a151a57f8.webp"
+      },
+      "fetchedAt": "2026-10-03T07:47:57.893Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/WIP%3A%20Phracktop%20cyberdeck%20phone%20shell",
+    "created": "2025-07-18T12:43:38.000Z",
+    "updated": "2025-07-18T12:44:22.000Z",
+    "views": 13,
+    "thumbnail": "https://gyazo.com/e5f1e5286249fad1f511d0d7273a66b9/raw"
+  }
+}

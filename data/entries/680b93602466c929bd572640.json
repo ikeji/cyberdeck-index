@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "680b93602466c929bd572640",
+  "title": "Introducing: The Lenovo Legion Clam",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1k1vws5/introducing_the_lenovo_legion_clam/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [
+    {
+      "url": "https://www.youtube.com/watch?v=T6qB6RDLTq8&embeds_referring_euri=https%3A%2F%2Fwww.reddit.com%2F",
+      "label": null,
+      "site": "youtube"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/680b93e84c7c5e38b605d78d.png",
+      "originRaw": "https://scrapbox.io/files/680b93e84c7c5e38b605d78d.png",
+      "id": "sha256:3c7e7af8c414ce1f875e543dbf97d0369506fe95cee3f7876341c2c51e1e6d14",
+      "status": "ok",
+      "width": 640,
+      "height": 480,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/3c/3c7e7af8c414ce1f875e543dbf97d0369506fe95cee3f7876341c2c51e1e6d14.thumb.webp",
+        "full": "img/3c/3c7e7af8c414ce1f875e543dbf97d0369506fe95cee3f7876341c2c51e1e6d14.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:58.364Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Introducing%3A%20The%20Lenovo%20Legion%20Clam",
+    "created": "2025-04-25T13:51:34.000Z",
+    "updated": "2025-04-25T13:53:51.000Z",
+    "views": 3,
+    "thumbnail": "https://scrapbox.io/files/680b93e84c7c5e38b605d78d.png"
+  }
+}

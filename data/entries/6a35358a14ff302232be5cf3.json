@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "6a35358a14ff302232be5cf3",
+  "title": "Zepir FLIP - ultimate Linux laptop",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=8V3zauHifqU",
+    "site": "youtube",
+    "label": null
+  },
+  "links": [
+    {
+      "url": "https://www.tindie.com/products/bobricius/zepir-flip-raspberry-pi-zero-mini-computer-laptop/",
+      "label": null,
+      "site": "web"
+    }
+  ],
+  "images": [
+    {
+      "origin": "https://gyazo.com/f4bcc929858c59e8fb5d036a34e6b822",
+      "originRaw": "https://gyazo.com/f4bcc929858c59e8fb5d036a34e6b822/raw",
+      "id": "sha256:934879bed5465a830b45e60763cbfdb9abba1701ed413cbbf66739efc42b1a3d",
+      "status": "ok",
+      "width": 653,
+      "height": 435,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/93/934879bed5465a830b45e60763cbfdb9abba1701ed413cbbf66739efc42b1a3d.thumb.webp",
+        "full": "img/93/934879bed5465a830b45e60763cbfdb9abba1701ed413cbbf66739efc42b1a3d.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:51.914Z"
+    },
+    {
+      "origin": "https://gyazo.com/bd943bcf181aece8480375eff6b73752",
+      "originRaw": "https://gyazo.com/bd943bcf181aece8480375eff6b73752/raw",
+      "id": "sha256:f1710dbdc97a820ac20dafe72aee23add57fb9085d91373e478737d94bfece5e",
+      "status": "ok",
+      "width": 1370,
+      "height": 912,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f1/f1710dbdc97a820ac20dafe72aee23add57fb9085d91373e478737d94bfece5e.thumb.webp",
+        "full": "img/f1/f1710dbdc97a820ac20dafe72aee23add57fb9085d91373e478737d94bfece5e.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:53.741Z"
+    },
+    {
+      "origin": "https://gyazo.com/63fe3058f5dd37f13b28683b5f2a83ca",
+      "originRaw": "https://gyazo.com/63fe3058f5dd37f13b28683b5f2a83ca/raw",
+      "id": "sha256:2f3bd9ece38d667b7a68b6a23bc26882ad2817815e9c191035db7e8e0529844c",
+      "status": "ok",
+      "width": 1370,
+      "height": 912,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/2f/2f3bd9ece38d667b7a68b6a23bc26882ad2817815e9c191035db7e8e0529844c.thumb.webp",
+        "full": "img/2f/2f3bd9ece38d667b7a68b6a23bc26882ad2817815e9c191035db7e8e0529844c.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:55.377Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Zepir%20FLIP%20-%20ultimate%20Linux%20laptop",
+    "created": "2026-06-19T12:27:01.000Z",
+    "updated": "2026-06-19T12:28:03.000Z",
+    "views": 10,
+    "thumbnail": "https://i.ytimg.com/vi/8V3zauHifqU/mqdefault.jpg"
+  }
+}

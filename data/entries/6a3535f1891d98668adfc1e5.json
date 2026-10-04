@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "6a3535f1891d98668adfc1e5",
+  "title": "Terminus v2",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1u56saq/terminus_v2/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://gyazo.com/57052f0fa931df1c01baf0870b573e4d",
+      "originRaw": "https://gyazo.com/57052f0fa931df1c01baf0870b573e4d/raw",
+      "id": "sha256:87973e2b0cb4794efaff708e632971071676b38b1ea39a2476c3bd49ab97ab3f",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/87/87973e2b0cb4794efaff708e632971071676b38b1ea39a2476c3bd49ab97ab3f.thumb.webp",
+        "full": "img/87/87973e2b0cb4794efaff708e632971071676b38b1ea39a2476c3bd49ab97ab3f.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:56.866Z"
+    },
+    {
+      "origin": "https://gyazo.com/dd546828a86446c94bf70119b6b39fa5",
+      "originRaw": "https://gyazo.com/dd546828a86446c94bf70119b6b39fa5/raw",
+      "id": "sha256:74aa06964e02bc06b0f508c120333e96850c27d56452dbe7b44bfa343a0d9a62",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/74/74aa06964e02bc06b0f508c120333e96850c27d56452dbe7b44bfa343a0d9a62.thumb.webp",
+        "full": "img/74/74aa06964e02bc06b0f508c120333e96850c27d56452dbe7b44bfa343a0d9a62.webp"
+      },
+      "fetchedAt": "2026-10-03T07:55:58.304Z"
+    },
+    {
+      "origin": "https://gyazo.com/8d92ee56a8d1b2fa6c203106b559601e",
+      "originRaw": "https://gyazo.com/8d92ee56a8d1b2fa6c203106b559601e/raw",
+      "id": "sha256:0fea604e65596e79677e86b1b5df9fc38ecbd0d975c2ada2e52805910a2dee69",
+      "status": "ok",
+      "width": 1080,
+      "height": 813,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0f/0fea604e65596e79677e86b1b5df9fc38ecbd0d975c2ada2e52805910a2dee69.thumb.webp",
+        "full": "img/0f/0fea604e65596e79677e86b1b5df9fc38ecbd0d975c2ada2e52805910a2dee69.webp"
+      },
+      "fetchedAt": "2026-10-03T07:56:00.418Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Terminus%20v2",
+    "created": "2026-06-19T12:29:56.000Z",
+    "updated": "2026-06-19T12:30:12.000Z",
+    "views": 9,
+    "thumbnail": "https://gyazo.com/57052f0fa931df1c01baf0870b573e4d/raw"
+  }
+}

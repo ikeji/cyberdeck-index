@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6749b84e0c3a7a296aec1363",
+  "title": "The Apple Deck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1gmodhi/the_apple_deck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/6749b894bdee19e8b50d620c.png",
+      "originRaw": "https://scrapbox.io/files/6749b894bdee19e8b50d620c.png",
+      "id": "sha256:bc5e6ea46d7517e0801d84c01ce7870506422ee183dc5344392fdbefee16d018",
+      "status": "ok",
+      "width": 1080,
+      "height": 810,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/bc/bc5e6ea46d7517e0801d84c01ce7870506422ee183dc5344392fdbefee16d018.thumb.webp",
+        "full": "img/bc/bc5e6ea46d7517e0801d84c01ce7870506422ee183dc5344392fdbefee16d018.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:31.113Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/The%20Apple%20Deck",
+    "created": "2024-11-29T12:50:17.000Z",
+    "updated": "2024-11-29T12:50:31.000Z",
+    "views": 3,
+    "thumbnail": "https://scrapbox.io/files/6749b894bdee19e8b50d620c.png"
+  }
+}

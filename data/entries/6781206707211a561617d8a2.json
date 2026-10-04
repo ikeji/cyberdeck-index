@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "6781206707211a561617d8a2",
+  "title": "Owl writer: ergo writing deck : r/cyberDeck",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1hurn5w/owl_writer_ergo_writing_deck/#lightbox",
+    "site": "reddit",
+    "label": "Owl writer: ergo writing deck : r/cyberDeck"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/67812069f1c9f6a6ee6a8d63.png",
+      "originRaw": "https://scrapbox.io/files/67812069f1c9f6a6ee6a8d63.png",
+      "id": "sha256:2248662868dbc8d86e56bbf895e60de365b8481e173d2ba276bd6b121b6f3afc",
+      "status": "ok",
+      "width": 986,
+      "height": 1315,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/22/2248662868dbc8d86e56bbf895e60de365b8481e173d2ba276bd6b121b6f3afc.thumb.webp",
+        "full": "img/22/2248662868dbc8d86e56bbf895e60de365b8481e173d2ba276bd6b121b6f3afc.webp"
+      },
+      "fetchedAt": "2026-10-02T18:06:35.026Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": "ヒンジが気になる。",
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/Owl%20writer%3A%20ergo%20writing%20deck%20%3A%20r%2FcyberDeck",
+    "created": "2025-01-10T13:28:07.000Z",
+    "updated": "2025-01-10T13:28:23.000Z",
+    "views": 2,
+    "thumbnail": "https://scrapbox.io/files/67812069f1c9f6a6ee6a8d63.png"
+  }
+}

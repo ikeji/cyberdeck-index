@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "65e159a41e860f0024868852",
+  "title": "YARH.IO Micro 2 Raspberry Pi 3B+ Hacker's Linux Handheld",
+  "source": {
+    "url": "https://yarh.io/yarh-io-m2.html",
+    "site": "web",
+    "label": "YARH.IO Micro 2 Raspberry Pi 3B+ Hacker's Linux Handheld"
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/65e159a8eae519002534c9e5.png",
+      "originRaw": "https://scrapbox.io/files/65e159a8eae519002534c9e5.png",
+      "id": "sha256:69976c744d8b17d96bf6b1fd7036686da3b8140d1a25c2e61b39b1e1b59b0ab4",
+      "status": "ok",
+      "width": 1200,
+      "height": 1073,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/69/69976c744d8b17d96bf6b1fd7036686da3b8140d1a25c2e61b39b1e1b59b0ab4.thumb.webp",
+        "full": "img/69/69976c744d8b17d96bf6b1fd7036686da3b8140d1a25c2e61b39b1e1b59b0ab4.webp"
+      },
+      "fetchedAt": "2026-10-02T18:05:15.391Z"
+    }
+  ],
+  "tags": [
+    "yarh.io"
+  ],
+  "related": [
+    "Raspberry Pi"
+  ],
+  "comment": "4インチ液晶",
+  "scrapbox": {
+    "url": "https://scrapbox.io/CYBERDECK/YARH.IO%20Micro%202%20Raspberry%20Pi%203B%2B%20Hacker's%20Linux%20Handheld",
+    "created": "2024-03-01T04:29:26.000Z",
+    "updated": "2024-08-25T06:48:50.000Z",
+    "views": 56,
+    "thumbnail": "https://scrapbox.io/files/65e159a8eae519002534c9e5.png"
+  }
+}
