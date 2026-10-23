@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "4a981a3533c5749af3365f7e",
+  "title": "Combining a full keyboard with a semi-reflective screen, unsure which keyboard to use",
+  "source": {
+    "url": "https://www.reddit.com/r/meshtastic/comments/1x3b9kw/combining_a_full_keyboard_with_a_semireflective/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://preview.redd.it/ievrdpj6yuuh1.jpg?width=4096&format=pjpg&auto=webp&s=98608a26607908d51dbb94e8fdaa19ec2db2b4a4",
+      "originRaw": "https://preview.redd.it/ievrdpj6yuuh1.jpg?width=4096&format=pjpg&auto=webp&s=98608a26607908d51dbb94e8fdaa19ec2db2b4a4",
+      "status": "ok",
+      "id": "sha256:e80e135b66a8ac6198cb8675719ed8bbbf6e70abe7d3c2cf59894fb8a86d11dd",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e8/e80e135b66a8ac6198cb8675719ed8bbbf6e70abe7d3c2cf59894fb8a86d11dd.thumb.webp",
+        "full": "img/e8/e80e135b66a8ac6198cb8675719ed8bbbf6e70abe7d3c2cf59894fb8a86d11dd.webp"
+      },
+      "fetchedAt": "2026-10-23T13:39:20.886Z"
+    },
+    {
+      "origin": "https://preview.redd.it/vwy85su6yuuh1.jpg?width=4096&format=pjpg&auto=webp&s=1a6c2ef94c7b038e3e85717255d79030e68bac77",
+      "originRaw": "https://preview.redd.it/vwy85su6yuuh1.jpg?width=4096&format=pjpg&auto=webp&s=1a6c2ef94c7b038e3e85717255d79030e68bac77",
+      "status": "ok",
+      "id": "sha256:b2093e92e01fcb638047f26a3124e449d4aa4105391306d216400b157f98e33a",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b2/b2093e92e01fcb638047f26a3124e449d4aa4105391306d216400b157f98e33a.thumb.webp",
+        "full": "img/b2/b2093e92e01fcb638047f26a3124e449d4aa4105391306d216400b157f98e33a.webp"
+      },
+      "fetchedAt": "2026-10-23T13:39:22.535Z"
+    },
+    {
+      "origin": "https://preview.redd.it/i4vsovy6yuuh1.jpg?width=4096&format=pjpg&auto=webp&s=c91f0b227f23a49931b3781a25b00cfd32c90f08",
+      "originRaw": "https://preview.redd.it/i4vsovy6yuuh1.jpg?width=4096&format=pjpg&auto=webp&s=c91f0b227f23a49931b3781a25b00cfd32c90f08",
+      "status": "ok",
+      "id": "sha256:cc428edfb0f1e0a653b19152cd8fabac81219b077e3723899c12021f751c60e6",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/cc/cc428edfb0f1e0a653b19152cd8fabac81219b077e3723899c12021f751c60e6.thumb.webp",
+        "full": "img/cc/cc428edfb0f1e0a653b19152cd8fabac81219b077e3723899c12021f751c60e6.webp"
+      },
+      "fetchedAt": "2026-10-23T13:39:24.371Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "addedAt": "2026-10-23T13:39:24.371Z"
+}

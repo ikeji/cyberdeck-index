@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "7c053f3b53fcd5a4315267d8",
+  "title": "LT6502b complete! – Paula's random tech ramblings",
+  "source": {
+    "url": "https://www.maddox.pro/?p=448",
+    "site": "web",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://www.maddox.pro/wp-content/uploads/2026/08/IMG8369-1024x768.jpg",
+      "originRaw": "https://www.maddox.pro/wp-content/uploads/2026/08/IMG8369-1024x768.jpg",
+      "status": "ok",
+      "id": "sha256:406ef463ad7d0842f8cb1aa880971290f216a9d41a6631a64921896f28fe47dc",
+      "width": 1024,
+      "height": 768,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/40/406ef463ad7d0842f8cb1aa880971290f216a9d41a6631a64921896f28fe47dc.thumb.webp",
+        "full": "img/40/406ef463ad7d0842f8cb1aa880971290f216a9d41a6631a64921896f28fe47dc.webp"
+      },
+      "fetchedAt": "2026-10-23T13:46:16.493Z"
+    },
+    {
+      "origin": "https://www.maddox.pro/wp-content/uploads/2026/08/IMG8365-1024x768.jpg",
+      "originRaw": "https://www.maddox.pro/wp-content/uploads/2026/08/IMG8365-1024x768.jpg",
+      "status": "ok",
+      "id": "sha256:f546cb088512a6729b0e1fe32b1e2633e195b56efd6b6aa5ab4ed22790272941",
+      "width": 1024,
+      "height": 768,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f5/f546cb088512a6729b0e1fe32b1e2633e195b56efd6b6aa5ab4ed22790272941.thumb.webp",
+        "full": "img/f5/f546cb088512a6729b0e1fe32b1e2633e195b56efd6b6aa5ab4ed22790272941.webp"
+      },
+      "fetchedAt": "2026-10-23T13:46:16.781Z"
+    },
+    {
+      "origin": "https://www.maddox.pro/wp-content/uploads/2026/08/IMG8370s-1024x643.jpg",
+      "originRaw": "https://www.maddox.pro/wp-content/uploads/2026/08/IMG8370s-1024x643.jpg",
+      "status": "ok",
+      "id": "sha256:82835ba00c2b0601886e639e0413a23c32c684dbd2b30256880e7852965327c3",
+      "width": 1024,
+      "height": 643,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/82/82835ba00c2b0601886e639e0413a23c32c684dbd2b30256880e7852965327c3.thumb.webp",
+        "full": "img/82/82835ba00c2b0601886e639e0413a23c32c684dbd2b30256880e7852965327c3.webp"
+      },
+      "fetchedAt": "2026-10-23T13:46:17.086Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "addedAt": "2026-10-23T13:46:17.086Z"
+}

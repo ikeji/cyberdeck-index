@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "bee6c45429fe08b19e458928",
+  "title": "the slurptop",
+  "source": {
+    "url": "https://slurpburgers.com/slurpbuilds/the-slurptop/",
+    "site": "web",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://slurpburgers.com/site/assets/files/1017/opengraphcardtemplate.jpg",
+      "originRaw": "https://slurpburgers.com/site/assets/files/1017/opengraphcardtemplate.jpg",
+      "status": "ok",
+      "id": "sha256:508370f54146af78aa11b34ba007c0da1a5ad7bb62d798023b6c01a70aaf58aa",
+      "width": 1200,
+      "height": 630,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/50/508370f54146af78aa11b34ba007c0da1a5ad7bb62d798023b6c01a70aaf58aa.thumb.webp",
+        "full": "img/50/508370f54146af78aa11b34ba007c0da1a5ad7bb62d798023b6c01a70aaf58aa.webp"
+      },
+      "fetchedAt": "2026-10-23T13:41:58.574Z"
+    },
+    {
+      "origin": "https://slurpburgers.com/site/assets/files/1017/dscf4327.900x0.jpg",
+      "originRaw": "https://slurpburgers.com/site/assets/files/1017/dscf4327.900x0.jpg",
+      "status": "ok",
+      "id": "sha256:132d0f9413998084c3a8272790978fc72d1bd3e6ba7f673059a65660d6ea8cd8",
+      "width": 900,
+      "height": 647,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/13/132d0f9413998084c3a8272790978fc72d1bd3e6ba7f673059a65660d6ea8cd8.thumb.webp",
+        "full": "img/13/132d0f9413998084c3a8272790978fc72d1bd3e6ba7f673059a65660d6ea8cd8.webp"
+      },
+      "fetchedAt": "2026-10-23T13:41:59.003Z"
+    },
+    {
+      "origin": "https://slurpburgers.com/site/assets/files/1017/dscf4339.jpg",
+      "originRaw": "https://slurpburgers.com/site/assets/files/1017/dscf4339.jpg",
+      "id": "sha256:20366602e46d4d86667d808eb8d2d3ef4693456e825025677ed64f9a4ff39cbf",
+      "status": "ok",
+      "width": 1219,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/20/20366602e46d4d86667d808eb8d2d3ef4693456e825025677ed64f9a4ff39cbf.thumb.webp",
+        "full": "img/20/20366602e46d4d86667d808eb8d2d3ef4693456e825025677ed64f9a4ff39cbf.webp"
+      },
+      "fetchedAt": "2026-10-23T13:48:33.624Z"
+    },
+    {
+      "origin": "https://slurpburgers.com/site/assets/files/1017/sketch1.900x0.png",
+      "originRaw": "https://slurpburgers.com/site/assets/files/1017/sketch1.900x0.png",
+      "status": "ok",
+      "id": "sha256:71e9f5c2444cf9870a566103f9c4fc52f6d169640d53d05bee0a423ae97d5163",
+      "width": 900,
+      "height": 870,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/71/71e9f5c2444cf9870a566103f9c4fc52f6d169640d53d05bee0a423ae97d5163.thumb.webp",
+        "full": "img/71/71e9f5c2444cf9870a566103f9c4fc52f6d169640d53d05bee0a423ae97d5163.webp"
+      },
+      "fetchedAt": "2026-10-23T13:43:32.388Z"
+    },
+    {
+      "origin": "https://slurpburgers.com/site/assets/files/1017/sketch2.900x0.png",
+      "originRaw": "https://slurpburgers.com/site/assets/files/1017/sketch2.900x0.png",
+      "status": "ok",
+      "id": "sha256:774eee0379a20e3df39a93907fb31b979c12ed62f7afa13daa28d5681cde22ee",
+      "width": 900,
+      "height": 762,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/77/774eee0379a20e3df39a93907fb31b979c12ed62f7afa13daa28d5681cde22ee.thumb.webp",
+        "full": "img/77/774eee0379a20e3df39a93907fb31b979c12ed62f7afa13daa28d5681cde22ee.webp"
+      },
+      "fetchedAt": "2026-10-23T13:43:34.027Z"
+    },
+    {
+      "origin": "https://slurpburgers.com/site/assets/files/1017/sketch3.900x0.png",
+      "originRaw": "https://slurpburgers.com/site/assets/files/1017/sketch3.900x0.png",
+      "status": "ok",
+      "id": "sha256:1cd85e02f9d5fdcb5f692ca684aaa6fb1b0817e5f26c9f01f9c037721b3fe5d4",
+      "width": 900,
+      "height": 638,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1c/1cd85e02f9d5fdcb5f692ca684aaa6fb1b0817e5f26c9f01f9c037721b3fe5d4.thumb.webp",
+        "full": "img/1c/1cd85e02f9d5fdcb5f692ca684aaa6fb1b0817e5f26c9f01f9c037721b3fe5d4.webp"
+      },
+      "fetchedAt": "2026-10-23T13:43:39.518Z"
+    },
+    {
+      "origin": "https://slurpburgers.com/site/assets/files/1017/layout1.900x0.jpg",
+      "originRaw": "https://slurpburgers.com/site/assets/files/1017/layout1.900x0.jpg",
+      "status": "ok",
+      "id": "sha256:eafc387478fb4e4d7ac3494617a90139972f6f515ca2289a2d6fb21a8f8fcb5f",
+      "width": 900,
+      "height": 678,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ea/eafc387478fb4e4d7ac3494617a90139972f6f515ca2289a2d6fb21a8f8fcb5f.thumb.webp",
+        "full": "img/ea/eafc387478fb4e4d7ac3494617a90139972f6f515ca2289a2d6fb21a8f8fcb5f.webp"
+      },
+      "fetchedAt": "2026-10-23T13:43:42.176Z"
+    },
+    {
+      "origin": "https://slurpburgers.com/site/assets/files/1017/layout2.900x0.png",
+      "originRaw": "https://slurpburgers.com/site/assets/files/1017/layout2.900x0.png",
+      "status": "ok",
+      "id": "sha256:f6546ad540e7c8e03675dd668a82de098e6222939ec54af7f706ea150d0f9b56",
+      "width": 900,
+      "height": 697,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f6/f6546ad540e7c8e03675dd668a82de098e6222939ec54af7f706ea150d0f9b56.thumb.webp",
+        "full": "img/f6/f6546ad540e7c8e03675dd668a82de098e6222939ec54af7f706ea150d0f9b56.webp"
+      },
+      "fetchedAt": "2026-10-23T13:43:44.895Z"
+    },
+    {
+      "origin": "https://slurpburgers.com/site/assets/files/1017/pxl_20260727_040706470.900x0.jpg",
+      "originRaw": "https://slurpburgers.com/site/assets/files/1017/pxl_20260727_040706470.900x0.jpg",
+      "status": "ok",
+      "id": "sha256:5918406cc4bd40c59884ba6db2441c3e4ff1856661a002a71e8d7d3a0cfa3c7b",
+      "width": 900,
+      "height": 678,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/59/5918406cc4bd40c59884ba6db2441c3e4ff1856661a002a71e8d7d3a0cfa3c7b.thumb.webp",
+        "full": "img/59/5918406cc4bd40c59884ba6db2441c3e4ff1856661a002a71e8d7d3a0cfa3c7b.webp"
+      },
+      "fetchedAt": "2026-10-23T13:43:46.654Z"
+    },
+    {
+      "origin": "https://slurpburgers.com/site/assets/files/1017/pxl_20260724_054307001.900x0.jpg",
+      "originRaw": "https://slurpburgers.com/site/assets/files/1017/pxl_20260724_054307001.900x0.jpg",
+      "status": "ok",
+      "id": "sha256:8c87b8f47d3e891efe20de0f7cd911bc8e84b228eaaa9d1ca8d1e08e445bf5b1",
+      "width": 900,
+      "height": 678,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/8c/8c87b8f47d3e891efe20de0f7cd911bc8e84b228eaaa9d1ca8d1e08e445bf5b1.thumb.webp",
+        "full": "img/8c/8c87b8f47d3e891efe20de0f7cd911bc8e84b228eaaa9d1ca8d1e08e445bf5b1.webp"
+      },
+      "fetchedAt": "2026-10-23T13:43:48.485Z"
+    },
+    {
+      "origin": "https://slurpburgers.com/site/assets/files/1017/pxl_20260722_225600135.900x0.jpg",
+      "originRaw": "https://slurpburgers.com/site/assets/files/1017/pxl_20260722_225600135.900x0.jpg",
+      "status": "ok",
+      "id": "sha256:0e6d48f44d673c3a97153308f0bcfa387ae2e89ebeb8809dfd2216cb6b0cd855",
+      "width": 900,
+      "height": 678,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0e/0e6d48f44d673c3a97153308f0bcfa387ae2e89ebeb8809dfd2216cb6b0cd855.thumb.webp",
+        "full": "img/0e/0e6d48f44d673c3a97153308f0bcfa387ae2e89ebeb8809dfd2216cb6b0cd855.webp"
+      },
+      "fetchedAt": "2026-10-23T13:43:50.216Z"
+    },
+    {
+      "origin": "https://slurpburgers.com/site/assets/files/1017/pxl_20260726_061519183.900x0.jpg",
+      "originRaw": "https://slurpburgers.com/site/assets/files/1017/pxl_20260726_061519183.900x0.jpg",
+      "status": "ok",
+      "id": "sha256:484c0b1579029c16bd6ffde2a5110db1ca733c02df4dc2740e75326c1eae4288",
+      "width": 900,
+      "height": 678,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/48/484c0b1579029c16bd6ffde2a5110db1ca733c02df4dc2740e75326c1eae4288.thumb.webp",
+        "full": "img/48/484c0b1579029c16bd6ffde2a5110db1ca733c02df4dc2740e75326c1eae4288.webp"
+      },
+      "fetchedAt": "2026-10-23T13:43:52.175Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "addedAt": "2026-10-23T13:43:52.175Z"
+}

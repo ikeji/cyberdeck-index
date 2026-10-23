@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "ef820f8dc18534a47408ce78",
+  "title": "HACK-E V2: a battery-powered clamshell built around a XENEON EDGE",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1xa66nn/hacke_v2_a_batterypowered_clamshell_built_around/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://preview.redd.it/4ppkpbyl4hwh1.jpg?width=4096&format=pjpg&auto=webp&s=1f89bd3732c5dd0207131bd69e1f0eaf02c69adb",
+      "originRaw": "https://preview.redd.it/4ppkpbyl4hwh1.jpg?width=4096&format=pjpg&auto=webp&s=1f89bd3732c5dd0207131bd69e1f0eaf02c69adb",
+      "status": "ok",
+      "id": "sha256:7648ac9e6086328174ff49db89c26e380c8fc442ce5828382eea61055c6b0158",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/76/7648ac9e6086328174ff49db89c26e380c8fc442ce5828382eea61055c6b0158.thumb.webp",
+        "full": "img/76/7648ac9e6086328174ff49db89c26e380c8fc442ce5828382eea61055c6b0158.webp"
+      },
+      "fetchedAt": "2026-10-23T13:40:57.196Z"
+    },
+    {
+      "origin": "https://preview.redd.it/v37mpcmn4hwh1.jpg?width=4096&format=pjpg&auto=webp&s=c2dc83ec50452912ee68351d88ff6df76e531f2e",
+      "originRaw": "https://preview.redd.it/v37mpcmn4hwh1.jpg?width=4096&format=pjpg&auto=webp&s=c2dc83ec50452912ee68351d88ff6df76e531f2e",
+      "status": "ok",
+      "id": "sha256:7624cac1b516c35c59c86fcd3ba4a9462df330a7705d1d659983789ae6b3241c",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/76/7624cac1b516c35c59c86fcd3ba4a9462df330a7705d1d659983789ae6b3241c.thumb.webp",
+        "full": "img/76/7624cac1b516c35c59c86fcd3ba4a9462df330a7705d1d659983789ae6b3241c.webp"
+      },
+      "fetchedAt": "2026-10-23T13:40:58.248Z"
+    },
+    {
+      "origin": "https://preview.redd.it/8tqdfcmn4hwh1.jpg?width=4096&format=pjpg&auto=webp&s=416772bc779885166940ab951a81b3f489f8f2d9",
+      "originRaw": "https://preview.redd.it/8tqdfcmn4hwh1.jpg?width=4096&format=pjpg&auto=webp&s=416772bc779885166940ab951a81b3f489f8f2d9",
+      "status": "ok",
+      "id": "sha256:b48b00d9469571062981efb589c81901c4e620abc48c019d641848ecf7b28034",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/b4/b48b00d9469571062981efb589c81901c4e620abc48c019d641848ecf7b28034.thumb.webp",
+        "full": "img/b4/b48b00d9469571062981efb589c81901c4e620abc48c019d641848ecf7b28034.webp"
+      },
+      "fetchedAt": "2026-10-23T13:41:00.219Z"
+    },
+    {
+      "origin": "https://preview.redd.it/j42nybmn4hwh1.jpg?width=4096&format=pjpg&auto=webp&s=bfc977ec6646b2e6bf9876fe39f0556c3b4573a3",
+      "originRaw": "https://preview.redd.it/j42nybmn4hwh1.jpg?width=4096&format=pjpg&auto=webp&s=bfc977ec6646b2e6bf9876fe39f0556c3b4573a3",
+      "status": "ok",
+      "id": "sha256:a0093d033baa278f670b9611566628880dde60186e4ffb0626aba25986eb4e56",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a0/a0093d033baa278f670b9611566628880dde60186e4ffb0626aba25986eb4e56.thumb.webp",
+        "full": "img/a0/a0093d033baa278f670b9611566628880dde60186e4ffb0626aba25986eb4e56.webp"
+      },
+      "fetchedAt": "2026-10-23T13:41:02.059Z"
+    },
+    {
+      "origin": "https://preview.redd.it/v8w65cmn4hwh1.jpg?width=3072&format=pjpg&auto=webp&s=a91418a2956728289c9057139e2ee4f90438dece",
+      "originRaw": "https://preview.redd.it/v8w65cmn4hwh1.jpg?width=3072&format=pjpg&auto=webp&s=a91418a2956728289c9057139e2ee4f90438dece",
+      "status": "ok",
+      "id": "sha256:f0ca7872954cf6fe1b6780533027b98b9fabacf44989ab59a92ad54f4e6351c5",
+      "width": 1200,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f0/f0ca7872954cf6fe1b6780533027b98b9fabacf44989ab59a92ad54f4e6351c5.thumb.webp",
+        "full": "img/f0/f0ca7872954cf6fe1b6780533027b98b9fabacf44989ab59a92ad54f4e6351c5.webp"
+      },
+      "fetchedAt": "2026-10-23T13:41:04.916Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "addedAt": "2026-10-23T13:41:04.916Z"
+}

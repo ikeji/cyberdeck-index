@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "e2017318435b5df36ad7e442",
+  "title": "Orion PDA — Pocket computer minimal",
+  "source": {
+    "url": "https://orionpda.org/",
+    "site": "web",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://orionpda.org/pictures/orion_migliorata.jpg",
+      "originRaw": "https://orionpda.org/pictures/orion_migliorata.jpg",
+      "status": "ok",
+      "id": "sha256:d5be6cc088f8ba50ea3b07d680f6c90a2700b8873cf185fa8fcb03984730776a",
+      "width": 1600,
+      "height": 1067,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d5/d5be6cc088f8ba50ea3b07d680f6c90a2700b8873cf185fa8fcb03984730776a.thumb.webp",
+        "full": "img/d5/d5be6cc088f8ba50ea3b07d680f6c90a2700b8873cf185fa8fcb03984730776a.webp"
+      },
+      "fetchedAt": "2026-10-23T13:46:06.166Z"
+    },
+    {
+      "origin": "https://orionpda.org/pictures/V2.jpeg",
+      "originRaw": "https://orionpda.org/pictures/V2.jpeg",
+      "status": "ok",
+      "id": "sha256:e8e4da3c7937639acc1b7db608dc5e05cedf81cacf1d3f21bcd0f7ac5e83e05e",
+      "width": 1200,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/e8/e8e4da3c7937639acc1b7db608dc5e05cedf81cacf1d3f21bcd0f7ac5e83e05e.thumb.webp",
+        "full": "img/e8/e8e4da3c7937639acc1b7db608dc5e05cedf81cacf1d3f21bcd0f7ac5e83e05e.webp"
+      },
+      "fetchedAt": "2026-10-23T13:46:07.147Z"
+    },
+    {
+      "origin": "https://orionpda.org/pictures/IMG_3780.jpeg",
+      "originRaw": "https://orionpda.org/pictures/IMG_3780.jpeg",
+      "status": "ok",
+      "id": "sha256:cbde8bdc5baa05c9070ce748a4c91aacb4827fc96acee41bc575c70247ca4889",
+      "width": 1200,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/cb/cbde8bdc5baa05c9070ce748a4c91aacb4827fc96acee41bc575c70247ca4889.thumb.webp",
+        "full": "img/cb/cbde8bdc5baa05c9070ce748a4c91aacb4827fc96acee41bc575c70247ca4889.webp"
+      },
+      "fetchedAt": "2026-10-23T13:46:08.207Z"
+    },
+    {
+      "origin": "https://orionpda.org/pictures/bella2.JPG",
+      "originRaw": "https://orionpda.org/pictures/bella2.JPG",
+      "status": "ok",
+      "id": "sha256:93d3681a948e484a2b9e2edaf39ae8993dba5bdf60fb82877503141c6f590f15",
+      "width": 1600,
+      "height": 1067,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/93/93d3681a948e484a2b9e2edaf39ae8993dba5bdf60fb82877503141c6f590f15.thumb.webp",
+        "full": "img/93/93d3681a948e484a2b9e2edaf39ae8993dba5bdf60fb82877503141c6f590f15.webp"
+      },
+      "fetchedAt": "2026-10-23T13:46:09.241Z"
+    },
+    {
+      "origin": "https://orionpda.org/pictures/bella3.JPG",
+      "originRaw": "https://orionpda.org/pictures/bella3.JPG",
+      "status": "ok",
+      "id": "sha256:8c5320c42b5850007a7a36bde38dce1102585c8af6eaabf25489ecdf9fb3cbdd",
+      "width": 1600,
+      "height": 1067,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/8c/8c5320c42b5850007a7a36bde38dce1102585c8af6eaabf25489ecdf9fb3cbdd.thumb.webp",
+        "full": "img/8c/8c5320c42b5850007a7a36bde38dce1102585c8af6eaabf25489ecdf9fb3cbdd.webp"
+      },
+      "fetchedAt": "2026-10-23T13:46:10.391Z"
+    },
+    {
+      "origin": "https://orionpda.org/pictures/IMG_3805.jpeg",
+      "originRaw": "https://orionpda.org/pictures/IMG_3805.jpeg",
+      "status": "ok",
+      "id": "sha256:68e60d90601aac61c44a91d90d0dfb667dd7f0fbeaf85775c1b33d2376388b47",
+      "width": 1200,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/68/68e60d90601aac61c44a91d90d0dfb667dd7f0fbeaf85775c1b33d2376388b47.thumb.webp",
+        "full": "img/68/68e60d90601aac61c44a91d90d0dfb667dd7f0fbeaf85775c1b33d2376388b47.webp"
+      },
+      "fetchedAt": "2026-10-23T13:46:12.482Z"
+    },
+    {
+      "origin": "https://orionpda.org/pictures/IMG_4003.jpeg",
+      "originRaw": "https://orionpda.org/pictures/IMG_4003.jpeg",
+      "status": "ok",
+      "id": "sha256:d8f924ccd70a1959ca173760de71c3fa4dd0fb5d73180b7ddc2fdb8c5933bf5a",
+      "width": 1200,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d8/d8f924ccd70a1959ca173760de71c3fa4dd0fb5d73180b7ddc2fdb8c5933bf5a.thumb.webp",
+        "full": "img/d8/d8f924ccd70a1959ca173760de71c3fa4dd0fb5d73180b7ddc2fdb8c5933bf5a.webp"
+      },
+      "fetchedAt": "2026-10-23T13:46:14.807Z"
+    },
+    {
+      "origin": "https://orionpda.org/pictures/IMG_4004.jpeg",
+      "originRaw": "https://orionpda.org/pictures/IMG_4004.jpeg",
+      "status": "ok",
+      "id": "sha256:df8c27ae20b4d6a3eb343ede0232b2d09330a5a028e669833d97941771c565a2",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/df/df8c27ae20b4d6a3eb343ede0232b2d09330a5a028e669833d97941771c565a2.thumb.webp",
+        "full": "img/df/df8c27ae20b4d6a3eb343ede0232b2d09330a5a028e669833d97941771c565a2.webp"
+      },
+      "fetchedAt": "2026-10-23T13:46:16.215Z"
+    },
+    {
+      "origin": "https://orionpda.org/pictures/IMG_3913.JPG",
+      "originRaw": "https://orionpda.org/pictures/IMG_3913.JPG",
+      "status": "ok",
+      "id": "sha256:6e14f14663f9485d0317687716a57dc91e630cd9d0ca43e746eab683950e9a31",
+      "width": 1200,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6e/6e14f14663f9485d0317687716a57dc91e630cd9d0ca43e746eab683950e9a31.thumb.webp",
+        "full": "img/6e/6e14f14663f9485d0317687716a57dc91e630cd9d0ca43e746eab683950e9a31.webp"
+      },
+      "fetchedAt": "2026-10-23T13:46:17.388Z"
+    },
+    {
+      "origin": "https://orionpda.org/pictures/transparent5.jpg",
+      "originRaw": "https://orionpda.org/pictures/transparent5.jpg",
+      "status": "ok",
+      "id": "sha256:1aebd10233533a41a9e0c8bb304282c21468098b230c1006108aa29d54642754",
+      "width": 1600,
+      "height": 1067,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/1a/1aebd10233533a41a9e0c8bb304282c21468098b230c1006108aa29d54642754.thumb.webp",
+        "full": "img/1a/1aebd10233533a41a9e0c8bb304282c21468098b230c1006108aa29d54642754.webp"
+      },
+      "fetchedAt": "2026-10-23T13:46:17.713Z"
+    },
+    {
+      "origin": "https://orionpda.org/pictures/zaurus.jpg",
+      "originRaw": "https://orionpda.org/pictures/zaurus.jpg",
+      "status": "ok",
+      "id": "sha256:4dd0af3c0ba656f127ddad33dac224bcd4370313f5529bf8ba5b06fa300697ce",
+      "width": 900,
+      "height": 695,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4d/4dd0af3c0ba656f127ddad33dac224bcd4370313f5529bf8ba5b06fa300697ce.thumb.webp",
+        "full": "img/4d/4dd0af3c0ba656f127ddad33dac224bcd4370313f5529bf8ba5b06fa300697ce.webp"
+      },
+      "fetchedAt": "2026-10-23T13:46:17.849Z"
+    },
+    {
+      "origin": "https://orionpda.org/pictures/V1.jpeg",
+      "originRaw": "https://orionpda.org/pictures/V1.jpeg",
+      "status": "ok",
+      "id": "sha256:d290e82cfdf8ce01d7190df350fdf0a3685953fd666f9f2f3649ecd3318cb039",
+      "width": 1200,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d2/d290e82cfdf8ce01d7190df350fdf0a3685953fd666f9f2f3649ecd3318cb039.thumb.webp",
+        "full": "img/d2/d290e82cfdf8ce01d7190df350fdf0a3685953fd666f9f2f3649ecd3318cb039.webp"
+      },
+      "fetchedAt": "2026-10-23T13:46:19.076Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "addedAt": "2026-10-23T13:46:19.076Z"
+}

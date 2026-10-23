@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "efe9334d4e548c36a1ce33b9",
+  "title": "XユーザーのWompさん: 「design like it's 2002. https://t.co/zTPbSHXlkj」 / X",
+  "source": {
+    "url": "https://x.com/womp3d/status/2108950689858625559",
+    "site": "twitter",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://pbs.twimg.com/amplify_video_thumb/2107828572786155520/img/drSf0T-2F0Tlu-H6?format=jpg&name=900x900",
+      "originRaw": "https://pbs.twimg.com/amplify_video_thumb/2107828572786155520/img/drSf0T-2F0Tlu-H6?format=jpg&name=900x900",
+      "status": "ok",
+      "id": "sha256:6506209bf4af38bb800e0352792f1a604e907b024febab49c63d6e8d522ccf9d",
+      "width": 900,
+      "height": 675,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/65/6506209bf4af38bb800e0352792f1a604e907b024febab49c63d6e8d522ccf9d.thumb.webp",
+        "full": "img/65/6506209bf4af38bb800e0352792f1a604e907b024febab49c63d6e8d522ccf9d.webp"
+      },
+      "fetchedAt": "2026-10-23T13:46:44.726Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "addedAt": "2026-10-23T13:46:44.726Z"
+}

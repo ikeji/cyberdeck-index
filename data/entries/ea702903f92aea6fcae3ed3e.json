@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "ea702903f92aea6fcae3ed3e",
+  "title": "an actual usable cyberdeck?",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1wsmgmd/an_actual_usable_cyberdeck/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://preview.redd.it/qu0x62ouzash1.jpg?width=2160&format=pjpg&auto=webp&s=36f56750017f983318465400aad9bfc7c9a8b80d",
+      "originRaw": "https://preview.redd.it/qu0x62ouzash1.jpg?width=2160&format=pjpg&auto=webp&s=36f56750017f983318465400aad9bfc7c9a8b80d",
+      "status": "ok",
+      "id": "sha256:4e50243caae7dcd6a1dd75052d9b5303933634b3a3dff4cdc8bde5143bc6b4a2",
+      "width": 900,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/4e/4e50243caae7dcd6a1dd75052d9b5303933634b3a3dff4cdc8bde5143bc6b4a2.thumb.webp",
+        "full": "img/4e/4e50243caae7dcd6a1dd75052d9b5303933634b3a3dff4cdc8bde5143bc6b4a2.webp"
+      },
+      "fetchedAt": "2026-10-04T06:55:08.161Z"
+    },
+    {
+      "origin": "https://preview.redd.it/on7qrauuzash1.jpg?width=2160&format=pjpg&auto=webp&s=ffd33ec8de4a207ae634d2486bf0ccf9e8536ede",
+      "originRaw": "https://preview.redd.it/on7qrauuzash1.jpg?width=2160&format=pjpg&auto=webp&s=ffd33ec8de4a207ae634d2486bf0ccf9e8536ede",
+      "status": "ok",
+      "id": "sha256:0eee547d79d4a10e8d17fa018ed458f095d5b324c83e3d46e2989c535031a363",
+      "width": 900,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0e/0eee547d79d4a10e8d17fa018ed458f095d5b324c83e3d46e2989c535031a363.thumb.webp",
+        "full": "img/0e/0eee547d79d4a10e8d17fa018ed458f095d5b324c83e3d46e2989c535031a363.webp"
+      },
+      "fetchedAt": "2026-10-04T06:55:09.482Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "addedAt": "2026-10-04T06:55:09.482Z"
+}

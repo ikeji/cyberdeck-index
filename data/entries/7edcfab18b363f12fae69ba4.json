@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "7edcfab18b363f12fae69ba4",
+  "title": "Finally (almost) finished with this thingamajig",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1x16ech/finally_almost_finished_with_this_thingamajig/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://preview.redd.it/iy4ao2f4ybuh1.jpg?width=2986&format=pjpg&auto=webp&s=f3a87768516f27cfbfa5813a04c9dc8eb205f23b",
+      "originRaw": "https://preview.redd.it/iy4ao2f4ybuh1.jpg?width=2986&format=pjpg&auto=webp&s=f3a87768516f27cfbfa5813a04c9dc8eb205f23b",
+      "status": "ok",
+      "id": "sha256:eac12dd4df3abf4222fbae0108a49a422cefabb8b48f4a5ac928d289c896ed88",
+      "width": 1580,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ea/eac12dd4df3abf4222fbae0108a49a422cefabb8b48f4a5ac928d289c896ed88.thumb.webp",
+        "full": "img/ea/eac12dd4df3abf4222fbae0108a49a422cefabb8b48f4a5ac928d289c896ed88.webp"
+      },
+      "fetchedAt": "2026-10-23T13:39:50.957Z"
+    },
+    {
+      "origin": "https://preview.redd.it/w5ki1v86ybuh1.jpg?width=2624&format=pjpg&auto=webp&s=16af2e1ec4b8031e785b448f54c02d149d08ece8",
+      "originRaw": "https://preview.redd.it/w5ki1v86ybuh1.jpg?width=2624&format=pjpg&auto=webp&s=16af2e1ec4b8031e785b448f54c02d149d08ece8",
+      "status": "ok",
+      "id": "sha256:d861e1e66dc81d4f2b8d05aadd5fcf9f6cd694a210f96336f5e2d75d2f37244c",
+      "width": 1423,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/d8/d861e1e66dc81d4f2b8d05aadd5fcf9f6cd694a210f96336f5e2d75d2f37244c.thumb.webp",
+        "full": "img/d8/d861e1e66dc81d4f2b8d05aadd5fcf9f6cd694a210f96336f5e2d75d2f37244c.webp"
+      },
+      "fetchedAt": "2026-10-23T13:39:52.469Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "addedAt": "2026-10-23T13:39:52.469Z"
+}

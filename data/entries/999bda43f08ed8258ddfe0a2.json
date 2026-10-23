@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "999bda43f08ed8258ddfe0a2",
+  "title": "Jornada P6 – First fully assembled prototype!",
+  "source": {
+    "url": "https://www.reddit.com/r/writerDeck/comments/1x6pjcs/jornada_p6_first_fully_assembled_prototype/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://preview.redd.it/0ww8nexllnvh1.jpg?width=5712&format=pjpg&auto=webp&s=f5f5a3d900dafd8c2e8f74d382df4ddfd41e54f3",
+      "originRaw": "https://preview.redd.it/0ww8nexllnvh1.jpg?width=5712&format=pjpg&auto=webp&s=f5f5a3d900dafd8c2e8f74d382df4ddfd41e54f3",
+      "status": "ok",
+      "id": "sha256:9e771246266f3f0cd04d3091e36ca652cb9d0d4b59be43a4e69bf176ce6ccb89",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/9e/9e771246266f3f0cd04d3091e36ca652cb9d0d4b59be43a4e69bf176ce6ccb89.thumb.webp",
+        "full": "img/9e/9e771246266f3f0cd04d3091e36ca652cb9d0d4b59be43a4e69bf176ce6ccb89.webp"
+      },
+      "fetchedAt": "2026-10-23T13:38:51.546Z"
+    },
+    {
+      "origin": "https://preview.redd.it/potxnnvllnvh1.jpg?width=2418&format=pjpg&auto=webp&s=84eba66775f85a39f655d8b5dde223f9ac648cab",
+      "originRaw": "https://preview.redd.it/potxnnvllnvh1.jpg?width=2418&format=pjpg&auto=webp&s=84eba66775f85a39f655d8b5dde223f9ac648cab",
+      "status": "ok",
+      "id": "sha256:7a830649df3fc832e091966007c6f5908b26690ea1a9c087f0b8124440d4bafd",
+      "width": 1600,
+      "height": 1108,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/7a/7a830649df3fc832e091966007c6f5908b26690ea1a9c087f0b8124440d4bafd.thumb.webp",
+        "full": "img/7a/7a830649df3fc832e091966007c6f5908b26690ea1a9c087f0b8124440d4bafd.webp"
+      },
+      "fetchedAt": "2026-10-23T13:38:51.931Z"
+    },
+    {
+      "origin": "https://preview.redd.it/02x06ovllnvh1.jpg?width=1676&format=pjpg&auto=webp&s=0fdaf18c4a7965048a1b286294496b0211f5eb3e",
+      "originRaw": "https://preview.redd.it/02x06ovllnvh1.jpg?width=1676&format=pjpg&auto=webp&s=0fdaf18c4a7965048a1b286294496b0211f5eb3e",
+      "status": "ok",
+      "id": "sha256:6fea1ddf864d88e6f0dd456bdbf31ad8248db9d2253674736f8460071ab1b801",
+      "width": 1600,
+      "height": 1100,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/6f/6fea1ddf864d88e6f0dd456bdbf31ad8248db9d2253674736f8460071ab1b801.thumb.webp",
+        "full": "img/6f/6fea1ddf864d88e6f0dd456bdbf31ad8248db9d2253674736f8460071ab1b801.webp"
+      },
+      "fetchedAt": "2026-10-23T13:38:52.410Z"
+    },
+    {
+      "origin": "https://preview.redd.it/777b7ovllnvh1.jpg?width=1500&format=pjpg&auto=webp&s=2e8b0d871d290183f327178c11290e5d2423b888",
+      "originRaw": "https://preview.redd.it/777b7ovllnvh1.jpg?width=1500&format=pjpg&auto=webp&s=2e8b0d871d290183f327178c11290e5d2423b888",
+      "status": "ok",
+      "id": "sha256:70d0fa584ace2ad46f846705441bfb99410b2005454506cd14b87d0250819d80",
+      "width": 1500,
+      "height": 1370,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/70/70d0fa584ace2ad46f846705441bfb99410b2005454506cd14b87d0250819d80.thumb.webp",
+        "full": "img/70/70d0fa584ace2ad46f846705441bfb99410b2005454506cd14b87d0250819d80.webp"
+      },
+      "fetchedAt": "2026-10-23T13:38:52.974Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "addedAt": "2026-10-23T13:38:52.974Z"
+}
