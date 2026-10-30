@@ -13,6 +13,15 @@ export function layout({ base, title, desc, ogImage, path: pagePath = '', nav, b
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K14G32F0WZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K14G32F0WZ');
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${full}</title>
 <meta name="description" content="${description}">
