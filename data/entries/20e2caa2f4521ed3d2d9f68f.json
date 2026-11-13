@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "20e2caa2f4521ed3d2d9f68f",
+  "title": "It’s finally starting to become usable.",
+  "source": {
+    "url": "https://www.reddit.com/r/u_deardeer-gadget/comments/1xnizbp/its_finally_starting_to_become_usable/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://i.redd.it/j18shomh2kzh1.jpeg",
+      "originRaw": "https://i.redd.it/j18shomh2kzh1.jpeg",
+      "status": "ok",
+      "id": "sha256:a958ca1f34739fe051128129d60e561d32e42a4c2597c84b40c6a3a1d30aebc8",
+      "width": 1600,
+      "height": 1278,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a9/a958ca1f34739fe051128129d60e561d32e42a4c2597c84b40c6a3a1d30aebc8.thumb.webp",
+        "full": "img/a9/a958ca1f34739fe051128129d60e561d32e42a4c2597c84b40c6a3a1d30aebc8.webp"
+      },
+      "fetchedAt": "2026-11-13T13:28:12.051Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "addedAt": "2026-11-13T13:28:12.051Z"
+}

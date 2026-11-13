@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "bd17eb597be5c5e9ce5b67f0",
+  "title": "Prototyping a dial-first design",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1xnvqxm/prototyping_a_dialfirst_design/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://preview.redd.it/e2rd6ww81nzh1.png?width=5712&format=png&auto=webp&s=1d41101acbca47ea76f82b106efc82c450677225",
+      "originRaw": "https://preview.redd.it/e2rd6ww81nzh1.png?width=5712&format=png&auto=webp&s=1d41101acbca47ea76f82b106efc82c450677225",
+      "status": "ok",
+      "id": "sha256:a395f1a84847e3609eb2f1f75c468b4c0ab7dfd6c6f35a5280959254edde4a14",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a3/a395f1a84847e3609eb2f1f75c468b4c0ab7dfd6c6f35a5280959254edde4a14.thumb.webp",
+        "full": "img/a3/a395f1a84847e3609eb2f1f75c468b4c0ab7dfd6c6f35a5280959254edde4a14.webp"
+      },
+      "fetchedAt": "2026-11-13T13:26:18.864Z"
+    },
+    {
+      "origin": "https://preview.redd.it/6oshuehr1nzh1.png?width=4284&format=png&auto=webp&s=2783ea989aaf102f343bdec1ba5cea4452678498",
+      "originRaw": "https://preview.redd.it/6oshuehr1nzh1.png?width=4284&format=png&auto=webp&s=2783ea989aaf102f343bdec1ba5cea4452678498",
+      "status": "ok",
+      "id": "sha256:a8aadbc8d1457a9d88c11dfa0923a8971a21c272b4b580da1402ad093d212351",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/a8/a8aadbc8d1457a9d88c11dfa0923a8971a21c272b4b580da1402ad093d212351.thumb.webp",
+        "full": "img/a8/a8aadbc8d1457a9d88c11dfa0923a8971a21c272b4b580da1402ad093d212351.webp"
+      },
+      "fetchedAt": "2026-11-13T13:26:24.236Z"
+    },
+    {
+      "origin": "https://preview.redd.it/bgwqsehr1nzh1.png?width=3213&format=png&auto=webp&s=c26af4c190fbb4d03a880c126bc9ee6bcff9b8cf",
+      "originRaw": "https://preview.redd.it/bgwqsehr1nzh1.png?width=3213&format=png&auto=webp&s=c26af4c190fbb4d03a880c126bc9ee6bcff9b8cf",
+      "status": "ok",
+      "id": "sha256:0e7cad982c2f9d2f1a1d2a2b6a4840133927413b87d711f57d8db4976e21c6e6",
+      "width": 1200,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/0e/0e7cad982c2f9d2f1a1d2a2b6a4840133927413b87d711f57d8db4976e21c6e6.thumb.webp",
+        "full": "img/0e/0e7cad982c2f9d2f1a1d2a2b6a4840133927413b87d711f57d8db4976e21c6e6.webp"
+      },
+      "fetchedAt": "2026-11-13T13:26:30.028Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "addedAt": "2026-11-13T13:26:30.028Z"
+}

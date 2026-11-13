@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "10e29fb4fb5c27c201e19317",
+  "title": "Time to learn Kali",
+  "source": {
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1xixf8t/time_to_learn_kali/",
+    "site": "reddit",
+    "label": null
+  },
+  "links": [],
+  "images": [
+    {
+      "origin": "https://preview.redd.it/4ek0523r9hyh1.jpeg?width=4080&format=pjpg&auto=webp&s=6a8fd53533872d7c5196358d1d260e4912d2497c",
+      "originRaw": "https://preview.redd.it/4ek0523r9hyh1.jpeg?width=4080&format=pjpg&auto=webp&s=6a8fd53533872d7c5196358d1d260e4912d2497c",
+      "status": "ok",
+      "id": "sha256:ba4807e55c7015a2193c2c17475f517ef8a598223182799b034b10975ff291d7",
+      "width": 1600,
+      "height": 1205,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/ba/ba4807e55c7015a2193c2c17475f517ef8a598223182799b034b10975ff291d7.thumb.webp",
+        "full": "img/ba/ba4807e55c7015a2193c2c17475f517ef8a598223182799b034b10975ff291d7.webp"
+      },
+      "fetchedAt": "2026-11-13T13:28:44.143Z"
+    },
+    {
+      "origin": "https://preview.redd.it/a6a8175r9hyh1.jpeg?width=4080&format=pjpg&auto=webp&s=f0772b1b674ccbe144307cf566f2a695766b6343",
+      "originRaw": "https://preview.redd.it/a6a8175r9hyh1.jpeg?width=4080&format=pjpg&auto=webp&s=f0772b1b674ccbe144307cf566f2a695766b6343",
+      "status": "ok",
+      "id": "sha256:c268ee7ac07cabc5adedfc93994a03e8b322683f3e8adae0887cc3b2af333815",
+      "width": 1600,
+      "height": 1205,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/c2/c268ee7ac07cabc5adedfc93994a03e8b322683f3e8adae0887cc3b2af333815.thumb.webp",
+        "full": "img/c2/c268ee7ac07cabc5adedfc93994a03e8b322683f3e8adae0887cc3b2af333815.webp"
+      },
+      "fetchedAt": "2026-11-13T13:28:46.238Z"
+    },
+    {
+      "origin": "https://preview.redd.it/24pmwj6r9hyh1.jpeg?width=4080&format=pjpg&auto=webp&s=d4aa74af823db1bf85c08479af1e8838a2b7b827",
+      "originRaw": "https://preview.redd.it/24pmwj6r9hyh1.jpeg?width=4080&format=pjpg&auto=webp&s=d4aa74af823db1bf85c08479af1e8838a2b7b827",
+      "status": "ok",
+      "id": "sha256:2ec35a6350c60e9bcc561c55d2a83f017c5026565c5c18a2f4f36e08f3389524",
+      "width": 1600,
+      "height": 1205,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/2e/2ec35a6350c60e9bcc561c55d2a83f017c5026565c5c18a2f4f36e08f3389524.thumb.webp",
+        "full": "img/2e/2ec35a6350c60e9bcc561c55d2a83f017c5026565c5c18a2f4f36e08f3389524.webp"
+      },
+      "fetchedAt": "2026-11-13T13:28:48.113Z"
+    }
+  ],
+  "tags": [],
+  "related": [],
+  "comment": null,
+  "addedAt": "2026-11-13T13:28:48.113Z"
+}
