@@ -138,6 +138,7 @@ cyberdeck/
 │  ├─ images.mjs           # 未取得・失敗画像の一括再取得
 │  ├─ validate.mjs         # ajv で全 entry を検証
 │  ├─ rss-lib.mjs          # RSS 2.0 XML 生成
+│  ├─ build-info.mjs       # 更新時刻・コミットハッシュ取得
 │  └─ build.mjs            # HTML / RSS / sitemap / 検索 index 生成
 ├─ tools/
 │  ├─ bookmarklet.js       # ブラウザ上で投稿情報を収集するスクリプト

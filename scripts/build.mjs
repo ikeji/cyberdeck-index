@@ -5,6 +5,7 @@ import { marked } from 'marked';
 import { DATA, ROOT } from './common.mjs';
 import { layout, card, esc, siteLabel, SITE_NAME } from '../templates/layout.mjs';
 import { buildRss } from './rss-lib.mjs';
+import { getBuildInfo, renderBuildInfo } from './build-info.mjs';
 
 const DIST = path.join(ROOT, 'dist');
 let BASE = process.env.BASE_URL ?? '/';
@@ -74,10 +75,14 @@ const isoDate = (s) => {
 await fs.rm(DIST, { recursive: true, force: true });
 
 // ---- index ----
+const buildInfo = getBuildInfo();
 const sites = [...new Set(entries.map((e) => e.source.site))].sort((a, b) => entries.filter((e) => e.source.site === b).length - entries.filter((e) => e.source.site === a).length);
 await write('index.html', page({
   url: abs(''),
-  body: `<h1>${SITE_NAME}</h1>
+  body: `<div class="page-head">
+  <h1>${SITE_NAME}</h1>
+  ${renderBuildInfo(buildInfo)}
+</div>
 <div class="toolbar">
   <input type="search" id="q" placeholder="Filter by title" aria-label="Filter by title">
   <button class="chip" data-site="" aria-pressed="true">All</button>
