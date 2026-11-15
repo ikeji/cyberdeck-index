@@ -4,6 +4,7 @@ import path from 'node:path';
 import { marked } from 'marked';
 import { DATA, ROOT } from './common.mjs';
 import { layout, card, esc, siteLabel, SITE_NAME } from '../templates/layout.mjs';
+import { buildRss } from './rss-lib.mjs';
 
 const DIST = path.join(ROOT, 'dist');
 let BASE = process.env.BASE_URL ?? '/';
@@ -61,6 +62,7 @@ const nav = [
   notes.length ? `<a href="${BASE}notes/">Notes</a>` : '',
   `<a href="${BASE}search/">Search</a>`,
   `<a href="${BASE}about/">About</a>`,
+  `<a href="${BASE}rss.xml">RSS</a>`,
 ].join('');
 const page = (o) => layout({ base: BASE, nav, ...o });
 const abs = (rel) => (SITE_URL ? `${SITE_URL}${BASE}${rel}` : undefined);
@@ -148,7 +150,8 @@ const docs = [
 ];
 await write('search-index.json', JSON.stringify(docs));
 
-// ---- sitemap.xml / robots.txt ----
+// ---- rss.xml / sitemap.xml / robots.txt ----
+await write('rss.xml', buildRss(entries, { siteUrl: SITE_URL, base: BASE }));
 const latestMod = isoDate(sortKey(entries[0]));
 const sitemapUrls = [
   { loc: abs(''), lastmod: latestMod },

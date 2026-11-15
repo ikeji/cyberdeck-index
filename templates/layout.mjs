@@ -25,7 +25,8 @@ export function layout({ base, title, desc, ogImage, url, nav, body, scripts = [
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${full}</title>
 <meta name="description" content="${description}">
-${url ? `<link rel="canonical" href="${esc(url)}">\n` : ''}<meta property="og:type" content="website">
+${url ? `<link rel="canonical" href="${esc(url)}">\n` : ''}<link rel="alternate" type="application/rss+xml" title="${SITE_NAME}" href="${base}rss.xml">
+<meta property="og:type" content="website">
 <meta property="og:title" content="${full}">
 <meta property="og:description" content="${description}">
 ${url ? `<meta property="og:url" content="${esc(url)}">\n` : ''}${ogImage ? `<meta property="og:image" content="${esc(ogImage)}">\n` : ''}<link rel="stylesheet" href="${base}static/style.css">
@@ -39,7 +40,7 @@ ${url ? `<meta property="og:url" content="${esc(url)}">\n` : ''}${ogImage ? `<me
 ${body}
 </main>
 <footer class="site-footer">
-  <a href="${base}about/">About this site</a>
+  <a href="${base}about/">About this site</a> · <a href="${base}rss.xml">RSS</a>
 </footer>
 ${scripts.map((s) => `<script src="${base}static/${s}"></script>`).join('\n')}
 </body>
