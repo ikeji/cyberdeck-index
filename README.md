@@ -1,13 +1,13 @@
 # CYBERDECK Index
 
-Scrapbox プロジェクト [CYBERDECK](https://scrapbox.io/CYBERDECK/) のサイバーデックの作例のリンク集サイト（Cloudflare Pages で公開）。
+サイバーデックの作例・関連記事のリンク集サイト（Cloudflare Pages で公開）。
 設計は [DESIGN.md](DESIGN.md) を参照。
 
 ```
 npm ci
-npm run fetch      # Scrapbox API -> data/raw (差分取得, gitignore。移行用)
-npm run extract    # data/raw -> data/entries/*.json (移行用。手動追加分 = scrapbox なし は消さない)
-npm run images     # 画像を取得して data/images に WebP でキャッシュ (再実行で続きから)
+npm run add-server # ブックマークレット用の登録サーバを起動 (127.0.0.1:8787)
+npm run add -- ... # CLI からエントリを登録
+npm run images     # 未取得・失敗分の画像を再取得して data/images に WebP でキャッシュ
 npm run validate   # entries を schema/entry.schema.json で検証
 npm run build      # dist/ を生成 (BASE_URL の既定は /)
 npm test
@@ -15,37 +15,26 @@ npm test
 
 ## 新しいエントリを登録する（ブックマークレット）
 
-Scrapbox からの移行後は `data/entries/` が正本。新規登録は次のとおり。
+`data/entries/` と `data/images/` が正本（git 管理）。新規登録は次のとおり。
 
 ```
 npm run add-server     # http://localhost:8787/ で待ち受け (127.0.0.1 のみ)
 ```
 
-1. http://localhost:8787/ を開き、「+ CYBERDECK に登録」リンクをブックマークバーにドラッグ。
+1. http://localhost:8787/ を開き、「+ Add to CYBERDECK」リンクをブックマークバーにドラッグ。
 2. Reddit / YouTube / X / 一般サイトの投稿ページでそのブックマークを押す → 確認画面が開く。
-3. タイトル・タグ・画像を整えて「登録」→ 画像を取得・WebP 化して `data/entries/*.json` を作成（同じ URL なら更新）。
-4. `npm run build` で確認、`git add data && git commit && git push` で公開。
+3. タイトル・タグ・画像を整えて「Save」→ 画像を取得・WebP 化して `data/entries/*.json` を作成（同じ URL なら更新）。
+4. `npm run validate && npm run build` で確認、`git add data && git commit && git push` で公開。
 
 CLI でも登録できる: `npm run add -- <url> [--title T] [--tag x] [--comment C] [--image <URL|ファイル>]`
 (YouTube・一般サイトはタイトル/画像を自動取得。Reddit・X は自動取得不可なのでブックマークレットか `--title/--image` を使う)
 
-## 更新手順（手作業）
+## データ管理・運用
 
-データの取得・画像キャッシュは手元で実行する（CI は使わない）。
-
-```
-npm run fetch && npm run extract   # Scrapbox の更新を取り込む
-npm run images                     # 新規画像をキャッシュ (Gyazo の 503 が出たら時間を置いて再実行)
-npm run validate
-git add data && git commit && git push   # push すると Cloudflare Pages が自動でビルド・公開
-```
-
-- 公開は Cloudflare Pages（下記）。コミット済みの `data/` からビルドするだけで、Scrapbox や Gyazo にはアクセスしない。
-
-- `data/entries/` と `data/images/` が正本（git 管理）。
-- `content/about.md`, `content/notes/*.md` は手書き Markdown。メモ候補は `data/memo-candidates.txt` を参照。
+- データの登録・画像キャッシュは手元で実行する（CI では取得しない）。公開時のビルドはコミット済みの `data/` のみを使い、外部サイトへはアクセスしない。
+- 登録時に取得失敗した画像 (`status: error` / `pending`) は `npm run images` で再試行できる（`--retry-missing` で `missing` も再試行）。
+- `content/about.md`, `content/notes/*.md` は手書き Markdown の固定ページ。
 - 掲載を取り下げるエントリの id は `data/takedown.json` に追加する。
-- Gyazo は短時間に大量取得すると 503 を返すため、`images` は低速で動く。失敗分 (`status: error`) は次回実行で再試行される。
 
 ## 公開 (Cloudflare Pages)
 

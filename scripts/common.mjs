@@ -3,8 +3,7 @@ import path from 'node:path';
 
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 export const DATA = path.join(ROOT, 'data');
-export const PROJECT = 'CYBERDECK';
-export const UA = 'Mozilla/5.0 (compatible; cyberdeck-index/1.0; +https://scrapbox.io/CYBERDECK/)';
+export const UA = 'Mozilla/5.0 (compatible; cyberdeck-index/1.0; +https://cyberdeck-index.pages.dev/)';
 
 export const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 

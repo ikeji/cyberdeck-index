@@ -2,12 +2,32 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import crypto from 'node:crypto';
-import { DATA, UA, getWithRetry } from './common.mjs';
-import { siteOf, isImageUrl, imageRaw } from './extract-lib.mjs';
+import { DATA, getWithRetry } from './common.mjs';
 import { cacheImage, storeBuffer } from './images-lib.mjs';
 
 const ENTRIES = path.join(DATA, 'entries');
 const TRACKING = /^(utm_.+|fbclid|gclid|igshid|ref|ref_src|ref_url|share_id|\$deep_link|correlation_id|context)$/i;
+const SITES = [
+  [/(^|\.)reddit\.com$|(^|\.)redd\.it$/, 'reddit'],
+  [/(^|\.)youtube\.com$|(^|\.)youtu\.be$/, 'youtube'],
+  [/(^|\.)(twitter|x)\.com$|^t\.co$/, 'twitter'],
+  [/(^|\.)github\.com$/, 'github'],
+  [/(^|\.)hackaday\.(com|io)$/, 'hackaday'],
+  [/(^|\.)instagram\.com$/, 'instagram'],
+];
+
+export function siteOf(url) {
+  let host;
+  try { host = new URL(url).hostname; } catch { return 'web'; }
+  for (const [re, name] of SITES) if (re.test(host)) return name;
+  return 'web';
+}
+
+export function imageRaw(url) {
+  const u = new URL(url);
+  if (u.hostname === 'gyazo.com' && /^\/[0-9a-f]{32}$/.test(u.pathname)) return `https://gyazo.com${u.pathname}/raw`;
+  return url;
+}
 
 // 重複判定用に URL を正規化する
 export function normalizeUrl(input) {
@@ -151,5 +171,3 @@ export async function addEntry(input) {
   await fs.writeFile(file, JSON.stringify(entry, null, 2) + '\n');
   return { entry, created: !existing, added: added.map((i) => ({ origin: i.origin, status: i.status })), file };
 }
-
-export { isImageUrl };

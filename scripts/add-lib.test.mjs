@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { normalizeUrl, makeId, parseTags, parseMeta, youtubeId } from './add-lib.mjs';
+import { normalizeUrl, makeId, parseTags, parseMeta, youtubeId, siteOf, imageRaw } from './add-lib.mjs';
 
 test('normalizeUrl: reddit', () => {
   assert.equal(normalizeUrl('https://old.reddit.com/r/cyberDeck/comments/1/x?utm_source=share#c'), 'https://www.reddit.com/r/cyberDeck/comments/1/x/');
@@ -29,4 +29,12 @@ test('youtubeId', () => {
   assert.equal(youtubeId('https://youtu.be/8p2MKLphQlg'), '8p2MKLphQlg');
   assert.equal(youtubeId('https://www.youtube.com/watch?v=8p2MKLphQlg&t=1'), '8p2MKLphQlg');
   assert.equal(youtubeId('https://example.com/'), null);
+});
+
+test('siteOf and imageRaw', () => {
+  assert.equal(siteOf('https://old.reddit.com/x'), 'reddit');
+  assert.equal(siteOf('https://x.com/user/status/1'), 'twitter');
+  assert.equal(siteOf('https://cyberdeck.cafe/mix/sanyo'), 'web');
+  assert.equal(imageRaw('https://gyazo.com/' + 'b'.repeat(32)), 'https://gyazo.com/' + 'b'.repeat(32) + '/raw');
+  assert.equal(imageRaw('https://i.gyazo.com/x.png'), 'https://i.gyazo.com/x.png');
 });
