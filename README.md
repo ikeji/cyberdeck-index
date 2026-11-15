@@ -56,7 +56,7 @@ GitHub リポジトリを Cloudflare Pages に接続する (Workers & Pages → 
 | Production branch | `main` |
 | Build command | `npm ci && npm test && npm run validate && npm run build` |
 | Build output directory | `dist` |
-| 環境変数 `SITE_URL` (任意) | 公開URL 例 `https://cyberdeck.pages.dev` (OGP 画像を絶対URLにする) |
+| 環境変数 `SITE_URL` (任意) | 既定は `https://cyberdeck-index.pages.dev` (sitemap.xml / canonical / OGP 画像用。別ドメインで公開する場合のみ指定) |
 
 - Node のバージョンは `.node-version` (22) で指定済み。
 - 以降は `git push` するだけで自動デプロイされる。`dist/_headers` で画像 (`/img/*`) に長期キャッシュを付与している。

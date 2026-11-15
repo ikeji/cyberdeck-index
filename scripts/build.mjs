@@ -8,7 +8,8 @@ import { layout, card, esc, siteLabel, SITE_NAME } from '../templates/layout.mjs
 const DIST = path.join(ROOT, 'dist');
 let BASE = process.env.BASE_URL ?? '/';
 if (!BASE.endsWith('/')) BASE += '/';
-const SITE_URL = (process.env.SITE_URL ?? '').replace(/\/$/, ''); // OGP 用の絶対URL (任意)
+const DEFAULT_SITE_URL = 'https://cyberdeck-index.pages.dev';
+const SITE_URL = (process.env.SITE_URL || DEFAULT_SITE_URL).replace(/\/$/, '');
 
 const readJson = async (f) => JSON.parse(await fs.readFile(f, 'utf8'));
 const write = async (rel, content) => {
@@ -63,12 +64,17 @@ const nav = [
 ].join('');
 const page = (o) => layout({ base: BASE, nav, ...o });
 const abs = (rel) => (SITE_URL ? `${SITE_URL}${BASE}${rel}` : undefined);
+const isoDate = (s) => {
+  const d = (s ?? '').slice(0, 10);
+  return /^\d{4}-\d{2}-\d{2}$/.test(d) ? d : undefined;
+};
 
 await fs.rm(DIST, { recursive: true, force: true });
 
 // ---- index ----
 const sites = [...new Set(entries.map((e) => e.source.site))].sort((a, b) => entries.filter((e) => e.source.site === b).length - entries.filter((e) => e.source.site === a).length);
 await write('index.html', page({
+  url: abs(''),
   body: `<h1>${SITE_NAME}</h1>
 <div class="toolbar">
   <input type="search" id="q" placeholder="Filter by title" aria-label="Filter by title">
@@ -105,7 +111,7 @@ ${rel.length ? `<dt>Related</dt><dd>${rel.join(' / ')}</dd>` : ''}
 ${e.scrapbox ? `<dt>Scrapbox</dt><dd><a href="${esc(e.scrapbox.url)}" rel="noopener noreferrer">${esc(e.scrapbox.url)}</a>(updated ${esc(e.scrapbox.updated.slice(0, 10))})</dd>` : ''}
 </dl>`;
   await write(`e/${e.id}/index.html`, page({
-    title: e.title, desc: e.comment ?? `Link to the original ${siteLabel(e.source.site)} post`, ogImage: imgs[0] && abs(imgs[0].files.thumb), body,
+    title: e.title, desc: e.comment ?? `Link to the original ${siteLabel(e.source.site)} post`, ogImage: imgs[0] && abs(imgs[0].files.thumb), url: abs(`e/${e.id}/`), body,
   }));
 }
 
@@ -114,23 +120,25 @@ const tagMap = new Map();
 for (const e of entries) for (const t of e.tags) (tagMap.get(t) ?? tagMap.set(t, []).get(t)).push(e);
 await write('tags/index.html', page({
   title: 'Tags',
+  url: abs('tags/'),
   body: `<h1>Tags</h1><p class="tags">${[...tagMap].sort((a, b) => b[1].length - a[1].length).map(([t, es]) => `<a href="${tagUrl(t)}">#${esc(t)} (${es.length})</a>`).join('')}</p>${tagMap.size ? '' : '<p>No tags.</p>'}`,
 }));
 for (const [t, es] of tagMap) {
-  await write(`tags/${tagDir(t)}/index.html`, page({ title: `#${t}`, body: `<h1>#${esc(t)}</h1><div class="grid">${es.map((e) => card(e, BASE)).join('\n')}</div>` }));
+  await write(`tags/${tagDir(t)}/index.html`, page({ title: `#${t}`, url: `${SITE_URL}${tagUrl(t)}`, body: `<h1>#${esc(t)}</h1><div class="grid">${es.map((e) => card(e, BASE)).join('\n')}</div>` }));
 }
 
 // ---- notes / about ----
 if (notes.length) {
-  await write('notes/index.html', page({ title: 'Notes', body: `<h1>Notes</h1><ul class="results">${notes.map((n) => `<li><a href="${BASE}notes/${encodeURIComponent(n.slug)}/">${esc(n.title)}</a></li>`).join('')}</ul>` }));
-  for (const n of notes) await write(`notes/${n.slug}/index.html`, page({ title: n.title, body: `<article class="prose">${n.html}</article>` }));
+  await write('notes/index.html', page({ title: 'Notes', url: abs('notes/'), body: `<h1>Notes</h1><ul class="results">${notes.map((n) => `<li><a href="${BASE}notes/${encodeURIComponent(n.slug)}/">${esc(n.title)}</a></li>`).join('')}</ul>` }));
+  for (const n of notes) await write(`notes/${n.slug}/index.html`, page({ title: n.title, url: abs(`notes/${encodeURIComponent(n.slug)}/`), body: `<article class="prose">${n.html}</article>` }));
 }
-await write('about/index.html', page({ title: about.meta.title, body: `<article class="prose">${about.html}</article>` }));
+await write('about/index.html', page({ title: about.meta.title, url: abs('about/'), body: `<article class="prose">${about.html}</article>` }));
 await write('404.html', page({ title: 'Not found', body: `<h1>Page not found</h1><p><a href="${BASE}">Back to index</a></p>` }));
 
 // ---- search ----
 await write('search/index.html', page({
   title: 'Search',
+  url: abs('search/'),
   body: `<div id="app" data-base="${BASE}"><h1>Search</h1><div class="toolbar"><input type="search" id="q" placeholder="Keyword" aria-label="Keyword" autofocus></div><ul class="results" id="results"></ul></div>`,
   scripts: ['minisearch.js', 'search.js'],
 }));
@@ -139,6 +147,24 @@ const docs = [
   ...notes.map((n) => ({ id: `n:${n.slug}`, title: n.title, text: n.html.replace(/<[^>]+>/g, ' '), url: `notes/${encodeURIComponent(n.slug)}/`, site: 'Notes' })),
 ];
 await write('search-index.json', JSON.stringify(docs));
+
+// ---- sitemap.xml / robots.txt ----
+const latestMod = isoDate(sortKey(entries[0]));
+const sitemapUrls = [
+  { loc: abs(''), lastmod: latestMod },
+  { loc: abs('about/') },
+  { loc: abs('tags/'), lastmod: latestMod },
+  ...[...tagMap].map(([t, es]) => ({ loc: `${SITE_URL}${tagUrl(t)}`, lastmod: isoDate(sortKey(es[0])) })),
+  ...(notes.length ? [{ loc: abs('notes/') }, ...notes.map((n) => ({ loc: abs(`notes/${encodeURIComponent(n.slug)}/`) }))] : []),
+  ...entries.map((e) => ({ loc: abs(`e/${e.id}/`), lastmod: isoDate(sortKey(e)) })),
+];
+const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${sitemapUrls.map(({ loc, lastmod }) => `  <url><loc>${esc(loc)}</loc>${lastmod ? `<lastmod>${lastmod}</lastmod>` : ''}</url>`).join('\n')}
+</urlset>
+`;
+await write('sitemap.xml', sitemapXml);
+await write('robots.txt', `User-agent: *\nAllow: /\n\nSitemap: ${abs('sitemap.xml')}\n`);
 
 // ---- Cloudflare Pages: キャッシュヘッダ (画像は内容ハッシュ名なので immutable) ----
 await write('_headers', `/img/*

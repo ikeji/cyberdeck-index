@@ -6,7 +6,7 @@ export const SITE_DESC = 'A link collection of cyberdeck builds: links to the or
 const SITE_LABEL = { reddit: 'Reddit', youtube: 'YouTube', twitter: 'X/Twitter', github: 'GitHub', hackaday: 'Hackaday', instagram: 'Instagram', web: 'Web' };
 export const siteLabel = (s) => SITE_LABEL[s] ?? s;
 
-export function layout({ base, title, desc, ogImage, path: pagePath = '', nav, body, scripts = [] }) {
+export function layout({ base, title, desc, ogImage, url, nav, body, scripts = [] }) {
   const full = title ? `${esc(title)} | ${SITE_NAME}` : SITE_NAME;
   const description = esc(desc ?? SITE_DESC);
   return `<!doctype html>
@@ -25,10 +25,10 @@ export function layout({ base, title, desc, ogImage, path: pagePath = '', nav, b
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${full}</title>
 <meta name="description" content="${description}">
-<meta property="og:type" content="website">
+${url ? `<link rel="canonical" href="${esc(url)}">\n` : ''}<meta property="og:type" content="website">
 <meta property="og:title" content="${full}">
 <meta property="og:description" content="${description}">
-${ogImage ? `<meta property="og:image" content="${esc(ogImage)}">\n` : ''}<link rel="stylesheet" href="${base}static/style.css">
+${url ? `<meta property="og:url" content="${esc(url)}">\n` : ''}${ogImage ? `<meta property="og:image" content="${esc(ogImage)}">\n` : ''}<link rel="stylesheet" href="${base}static/style.css">
 </head>
 <body>
 <header class="site-header">
