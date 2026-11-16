@@ -3,7 +3,7 @@
   "id": "6abfefae14513add58b97128",
   "title": "My first CyberDeck 3Meet TERM512 — Turning the CardputerADV into a dual-screen cyberdeck for AREA512",
   "source": {
-    "url": "https://www.reddit.com/r/CardPuter/comments/1wn6zjf/meet_term512_turning_the_cardputeradv_into_a/[https://gyazo.com/77fdcd214b7202586e25596caf887404]",
+    "url": "https://www.reddit.com/r/CardPuter/comments/1wn6zjf/meet_term512_turning_the_cardputeradv_into_a/",
     "site": "reddit",
     "label": null
   },
@@ -64,6 +64,20 @@
         "full": "img/e5/e509a030b417bc753ee53f4de722b1b752d2d5c6443855cb35322d93150b6031.webp"
       },
       "fetchedAt": "2026-10-02T18:19:14.767Z"
+    },
+    {
+      "origin": "https://gyazo.com/77fdcd214b7202586e25596caf887404",
+      "originRaw": "https://gyazo.com/77fdcd214b7202586e25596caf887404/raw",
+      "id": "sha256:66cb859c13cc9eb9fac133a2a8d9d75e65cfee24d33eec1a7c077a0fd428207e",
+      "status": "ok",
+      "width": 1600,
+      "height": 1200,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/66/66cb859c13cc9eb9fac133a2a8d9d75e65cfee24d33eec1a7c077a0fd428207e.thumb.webp",
+        "full": "img/66/66cb859c13cc9eb9fac133a2a8d9d75e65cfee24d33eec1a7c077a0fd428207e.webp"
+      },
+      "fetchedAt": "2026-11-16T13:42:37.753Z"
     }
   ],
   "tags": [],

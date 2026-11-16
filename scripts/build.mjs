@@ -6,6 +6,7 @@ import { DATA, ROOT } from './common.mjs';
 import { layout, card, esc, siteLabel, SITE_NAME } from '../templates/layout.mjs';
 import { buildRss } from './rss-lib.mjs';
 import { getBuildInfo, renderBuildInfo } from './build-info.mjs';
+import { validateEntryUrls } from './validate-lib.mjs';
 
 const DIST = path.join(ROOT, 'dist');
 let BASE = process.env.BASE_URL ?? '/';
@@ -25,9 +26,16 @@ const tagUrl = (t) => `${BASE}tags/${encodeURIComponent(tagDir(t))}/`;
 // ---- load ----
 const takedown = new Set(await readJson(path.join(DATA, 'takedown.json')).catch(() => []));
 const entries = [];
+const urlErrors = [];
 for (const f of (await fs.readdir(path.join(DATA, 'entries'))).filter((f) => f.endsWith('.json'))) {
   const e = await readJson(path.join(DATA, 'entries', f));
-  if (!takedown.has(e.id)) entries.push(e);
+  if (takedown.has(e.id)) continue;
+  for (const err of validateEntryUrls(e)) urlErrors.push(`${f}: ${err}`);
+  entries.push(e);
+}
+if (urlErrors.length) {
+  for (const err of urlErrors) console.error(`INVALID URL ${err}`);
+  process.exit(1);
 }
 const sortKey = (e) => e.addedAt ?? e.scrapbox?.updated ?? '';
 entries.sort((a, b) => sortKey(b).localeCompare(sortKey(a)));

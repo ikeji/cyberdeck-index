@@ -4,6 +4,7 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 import { DATA, getWithRetry } from './common.mjs';
 import { cacheImage, storeBuffer } from './images-lib.mjs';
+import { validateHttpUrl } from './validate-lib.mjs';
 
 const ENTRIES = path.join(DATA, 'entries');
 const TRACKING = /^(utm_.+|fbclid|gclid|igshid|ref|ref_src|ref_url|share_id|\$deep_link|correlation_id|context)$/i;
@@ -31,7 +32,10 @@ export function imageRaw(url) {
 
 // 重複判定用に URL を正規化する
 export function normalizeUrl(input) {
-  const u = new URL(input.trim());
+  const trimmed = String(input ?? '').trim();
+  const err = validateHttpUrl(trimmed);
+  if (err) throw new Error(`Invalid URL (${trimmed}): ${err}`);
+  const u = new URL(trimmed);
   u.hash = '';
   u.hostname = u.hostname.toLowerCase();
   if (/(^|\.)reddit\.com$/.test(u.hostname)) {

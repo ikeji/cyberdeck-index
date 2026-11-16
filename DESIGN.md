@@ -136,7 +136,8 @@ cyberdeck/
 │  ├─ add-server.mjs       # ブックマークレット用ローカルサーバ
 │  ├─ images-lib.mjs       # 画像取得・WebP 変換・SHA-256 保存
 │  ├─ images.mjs           # 未取得・失敗画像の一括再取得
-│  ├─ validate.mjs         # ajv で全 entry を検証
+│  ├─ validate-lib.mjs     # エントリ内 URL の妥当性検証
+│  ├─ validate.mjs         # ajv と URL 検証で全 entry を検証
 │  ├─ rss-lib.mjs          # RSS 2.0 XML 生成
 │  ├─ build-info.mjs       # 更新時刻・コミットハッシュ取得
 │  └─ build.mjs            # HTML / RSS / sitemap / 検索 index 生成

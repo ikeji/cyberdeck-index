@@ -12,6 +12,11 @@ test('normalizeUrl: tracking params / youtube', () => {
   assert.equal(normalizeUrl('https://www.youtube.com/watch?v=abc&t=10&list=z'), 'https://www.youtube.com/watch?v=abc');
 });
 
+test('normalizeUrl: rejects malformed concatenated URLs', () => {
+  assert.throws(() => normalizeUrl('https://www.reddit.com/r/CardPuter/comments/1wn6zjf/meet_term512/[https://gyazo.com/77fdcd214b7202586e25596caf887404]'), /Invalid URL/);
+  assert.throws(() => normalizeUrl('https://example.com/a/https://example.org/b'), /Invalid URL/);
+});
+
 test('makeId is 24 hex', () => assert.match(makeId('https://example.com/'), /^[0-9a-f]{24}$/));
 
 test('parseTags', () => {

@@ -3,12 +3,27 @@
   "id": "66f6adfe29947a001c510968",
   "title": "Beelink SER6 6900HX Windows PC Cyberdeck Tablet",
   "source": {
-    "url": "https://www.reddit.com/r/cyberDeck/comments/1ep3n0r/beelink_ser6_6900hx_windows_pc_cyberdeck_tablet/[https://scrapbox.io/files/66f6adff6b688c001df1d9c7.png]",
+    "url": "https://www.reddit.com/r/cyberDeck/comments/1ep3n0r/beelink_ser6_6900hx_windows_pc_cyberdeck_tablet/",
     "site": "reddit",
     "label": null
   },
   "links": [],
-  "images": [],
+  "images": [
+    {
+      "origin": "https://scrapbox.io/files/66f6adff6b688c001df1d9c7.png",
+      "originRaw": "https://scrapbox.io/files/66f6adff6b688c001df1d9c7.png",
+      "id": "sha256:f22062a57891c43819f20d0406239c7149257942f156f59d57eb186b12acf501",
+      "status": "ok",
+      "width": 1200,
+      "height": 1600,
+      "mime": "image/webp",
+      "files": {
+        "thumb": "img/f2/f22062a57891c43819f20d0406239c7149257942f156f59d57eb186b12acf501.thumb.webp",
+        "full": "img/f2/f22062a57891c43819f20d0406239c7149257942f156f59d57eb186b12acf501.webp"
+      },
+      "fetchedAt": "2026-11-16T13:42:36.038Z"
+    }
+  ],
   "tags": [],
   "related": [],
   "comment": null,

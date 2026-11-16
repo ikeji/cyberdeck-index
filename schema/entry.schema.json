@@ -34,7 +34,7 @@
       "properties": {
         "url": {
           "type": "string",
-          "pattern": "^https?://"
+          "pattern": "^https?://[^\\s\\[\\]<>\"{}|\\\\^`]+$"
         },
         "site": {
           "type": "string",
@@ -60,7 +60,7 @@
         "properties": {
           "url": {
             "type": "string",
-            "pattern": "^https?://"
+            "pattern": "^https?://[^\\s\\[\\]<>\"{}|\\\\^`]+$"
           },
           "site": {
             "type": "string"
